@@ -1,0 +1,37 @@
+name: Stats
+
+on:
+  schedule:
+    - cron: "50 23 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect stats
+        run: python3 stats.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          TRAFFIC_TOKEN_DRAGOONDORISE: ${{ secrets.TRAFFIC_TOKEN_DRAGOONDORISE }}
+          TRAFFIC_TOKEN_EMUDECK: ${{ secrets.TRAFFIC_TOKEN_EMUDECK }}
+
+      # Commits made with GITHUB_TOKEN do not start new runs, so this does not loop with the push trigger
+      - name: Save data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data README.md
+          git diff --cached --quiet || { git commit -m "Stats $(date -u +%F)" && git push; }
