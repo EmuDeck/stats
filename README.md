@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-05 21:19 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-05 23:51 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Usuarios que actualizan el backend (clonados de git)
 
