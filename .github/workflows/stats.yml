@@ -30,9 +30,6 @@ jobs:
         run: python3 stats.py
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
-          TRAFFIC_TOKEN_DRAGOONDORISE: ${{ secrets.TRAFFIC_TOKEN_DRAGOONDORISE }}
-          TRAFFIC_TOKEN_EMUDECK: ${{ secrets.TRAFFIC_TOKEN_EMUDECK }}
 
       # Commits made with GITHUB_TOKEN do not start new runs, so this does not loop with the push trigger
       - name: Save data

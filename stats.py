@@ -10,17 +10,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
-CLONES_CSV = DATA / "clones.csv"
 RELEASES_CSV = DATA / "releases.csv"
 BEACONS_CSV = DATA / "beacons.csv"
 BEACONS_REPO = os.environ.get("GITHUB_REPOSITORY", "EmuDeck/stats")
 CHART_DAYS = 60
 
-# Backend repos: Linux and Mac clone the bash one, Windows the PowerShell one
-BACKENDS = {
-    "dragoonDorise/EmuDeck": "Linux + Mac",
-    "EmuDeck/emudeck-we": "Windows",
-}
 APP_REPOS = ["emudeck-electron", "emudeck-electron-beta", "emudeck-electron-early", "emudeck-electron-early-unstable"]
 # Release files: the latest*.yml are downloaded on every app start (update check), the rest on installs and updates
 KINDS = {
@@ -67,31 +61,6 @@ def write_csv(path, rows, fields):
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writeheader()
         writer.writerows(rows)
-
-
-def backend_token(repo):
-    """Token allowed to read a backend's traffic: one per owner, or TRAFFIC_TOKEN for both."""
-    owner = repo.split("/")[0].upper()
-    return os.environ.get(f"TRAFFIC_TOKEN_{owner}") or os.environ.get("TRAFFIC_TOKEN", "")
-
-
-def collect_clones(problems):
-    """Adds the last 14 days of clones and unique cloners of each backend to clones.csv (GitHub keeps no more)."""
-    rows = {(r["date"], r["repo"]): r for r in read_csv(CLONES_CSV)}
-    for repo in BACKENDS:
-        token = backend_token(repo)
-        if not token:
-            problems.append(f"{repo}: falta el token de tráfico")
-            continue
-        try:
-            traffic = api(f"/repos/{repo}/traffic/clones?per=day", token)
-        except urllib.error.HTTPError as error:
-            problems.append(f"{repo}: {error}")
-            continue
-        for day in traffic.get("clones", []):
-            date = day["timestamp"][:10]
-            rows[(date, repo)] = {"date": date, "repo": repo, "count": day["count"], "uniques": day["uniques"]}
-    write_csv(CLONES_CSV, rows.values(), ["date", "repo", "count", "uniques"])
 
 
 def collect_releases(problems):
@@ -147,41 +116,68 @@ def daily_beacons():
     return totals, daily
 
 
+def by_period(dates, values):
+    """Daily points, or weekly sums labelled by their first day when there are more than 90 days to draw."""
+    if len(dates) <= 90:
+        return [d[5:] for d in dates], values
+    labels, sums = [], []
+    for start in range(0, len(dates), 7):
+        labels.append(dates[start][2:])
+        sums.append(sum(values[start:start + 7]))
+    return labels, sums
+
+
 def beacons_section(today):
-    """README lines with the installs counted by the beacons: per system and per emulator."""
+    """README lines with every install counted by the beacons since the first day: per system, per month and per emulator."""
     totals, daily = daily_beacons()
     lines = ["## Instalaciones de EmuDeck (beacons)", "",
              "Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador `<emulador>-<plataforma>.txt`. "
-             "Los emuladores cuentan también las actualizaciones.", ""]
+             "Los emuladores cuentan también las actualizaciones. Histórico completo desde el primer día.", ""]
     if not totals:
         return lines + ["Todavía no hay datos.", ""]
     last_totals = totals[max(totals)]
     dates = sorted(d for d in daily if d < today)
-    week = dates[-7:]
-    sum_week = lambda name: sum(daily[d].get(name, 0) for d in week)
+    platforms = ("linux", "linux-arm", "windows")
+    in_days = lambda name, days: sum(daily[d].get(name, 0) for d in dates[-days:])
 
-    systems = sorted((n for n in last_totals if n.startswith("system-") and last_totals[n]), key=lambda n: -last_totals[n])
-    lines += ["| Sistema | Ayer | Últimos 7 días | Total |", "|---|---|---|---|"]
+    systems = [f"system-{p}" for p in platforms]
+    lines += ["| Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |", "|---|---|---|---|---|"]
     for name in systems:
         yesterday = daily[dates[-1]].get(name, 0) if dates else "–"
-        lines.append(f"| {name.removeprefix('system-')} | {yesterday} | {sum_week(name) if dates else '–'} | {last_totals[name]} |")
+        week, month = (in_days(name, 7), in_days(name, 30)) if dates else ("–", "–")
+        lines.append(f"| {name.removeprefix('system-')} | {yesterday} | {week} | {month} | {last_totals.get(name, 0)} |")
     lines.append("")
 
+    if len(dates) > 1:
+        for name in systems:
+            labels, values = by_period(dates, [daily[d].get(name, 0) for d in dates])
+            if any(values):
+                lines += [chart(f"Instalaciones - {name.removeprefix('system-')}", labels, values, "Instalaciones"), ""]
+        cumulative = [sum(totals[d].get(name, 0) for name in systems) for d in sorted(totals) if d < today]
+        labels = [d[5:] for d in sorted(totals) if d < today]
+        if len(cumulative) > 90:
+            labels, cumulative = labels[::7], cumulative[::7]
+        lines += [chart("Instalaciones acumuladas (todos los sistemas)", labels, cumulative, "Total"), ""]
+
+    months = sorted({d[:7] for d in dates})
+    if months:
+        lines += ["### Por mes", "", "| Mes | Linux | Linux ARM | Windows | Total |", "|---|---|---|---|---|"]
+        for month in reversed(months):
+            cells = [sum(daily[d].get(name, 0) for d in dates if d.startswith(month)) for name in systems]
+            lines.append(f"| {month} | {' | '.join(str(c) for c in cells)} | {sum(cells)} |")
+        lines.append("")
+
     apps = sorted({n.removesuffix("-linux-arm").removesuffix("-linux").removesuffix("-windows") for n in last_totals if not n.startswith("system-")})
-    platforms = ("linux", "linux-arm", "windows")
     app_total = lambda app: sum(last_totals.get(f"{app}-{p}", 0) for p in platforms)
-    lines += ["| Emulador | Linux (7 días) | Linux ARM (7 días) | Windows (7 días) | Total |", "|---|---|---|---|---|"]
+    app_days = lambda app, days: sum(in_days(f"{app}-{p}", days) for p in platforms)
+    lines += ["### Por emulador", "", "| Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |", "|---|---|---|---|---|---|---|"]
     for app in sorted(apps, key=lambda a: -app_total(a)):
         if not app_total(app):
             continue
-        week_cells = [str(sum_week(f"{app}-{p}")) if dates else "–" for p in platforms]
-        lines.append(f"| {app} | {' | '.join(week_cells)} | {app_total(app)} |")
+        per_platform = " | ".join(str(last_totals.get(f"{app}-{p}", 0)) for p in platforms)
+        week, month = (app_days(app, 7), app_days(app, 30)) if dates else ("–", "–")
+        lines.append(f"| {app} | {per_platform} | {week} | {month} | {app_total(app)} |")
     lines.append("")
-
-    chart_dates = dates[-CHART_DAYS:]
-    if len(chart_dates) > 1:
-        values = [sum(v for n, v in daily[d].items() if n.startswith("system-")) for d in chart_dates]
-        lines += [chart("Instalaciones diarias de EmuDeck", chart_dates, values, "Instalaciones"), ""]
     return lines
 
 
@@ -198,9 +194,9 @@ def daily_releases():
     return daily
 
 
-def chart(title, dates, values, y_label):
+def chart(title, labels, values, y_label):
     """Mermaid line chart GitHub draws inside the README."""
-    labels = ", ".join(f'"{d[5:]}"' for d in dates)
+    labels = ", ".join(f'"{label}"' for label in labels)
     return "\n".join([
         "```mermaid",
         "xychart-beta",
@@ -219,24 +215,6 @@ def write_readme(problems):
              f"Actualizado: {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M')} UTC. "
              "Las gráficas no incluyen el día de hoy porque aún está incompleto.", ""]
 
-    clones = [r for r in read_csv(CLONES_CSV) if r["date"] < today]
-    lines += ["## Usuarios que actualizan el backend (clonados de git)", "",
-              "| Backend | Únicos ayer | Clonados ayer | Únicos medios (7 días) |", "|---|---|---|---|"]
-    for repo, label in BACKENDS.items():
-        days = sorted((r for r in clones if r["repo"] == repo), key=lambda r: r["date"])
-        if not days:
-            lines.append(f"| {label} | – | – | – |")
-            continue
-        last = days[-1]
-        week = days[-7:]
-        average = round(sum(int(r["uniques"]) for r in week) / len(week))
-        lines.append(f"| {label} | {last['uniques']} | {last['count']} | {average} |")
-    lines.append("")
-    for repo, label in BACKENDS.items():
-        days = sorted((r for r in clones if r["repo"] == repo), key=lambda r: r["date"])[-CHART_DAYS:]
-        if len(days) > 1:
-            lines += [chart(f"Únicos diarios - {label}", [r["date"] for r in days], [int(r["uniques"]) for r in days], "Usuarios"), ""]
-
     daily = {d: v for d, v in daily_releases().items() if d < today}
     dates = sorted(daily)[-CHART_DAYS:]
     lines += ["## Arranques de la app (comprobaciones de actualización)", "",
@@ -251,7 +229,7 @@ def write_readme(problems):
         for kind, label in LABELS.items():
             values = [daily[d][kind] for d in dates]
             if len(dates) > 1 and any(values):
-                lines += [chart(label, dates, values, "Arranques"), ""]
+                lines += [chart(label, [d[5:] for d in dates], values, "Arranques"), ""]
     else:
         lines += ["Hacen falta al menos dos días de datos para calcular arranques diarios.", ""]
 
@@ -265,7 +243,6 @@ def write_readme(problems):
 def main():
     """Collects today's data, saves it in data/ and rebuilds the README."""
     problems = []
-    collect_clones(problems)
     collect_releases(problems)
     collect_beacons(problems)
     write_readme(problems)
