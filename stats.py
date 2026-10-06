@@ -160,20 +160,21 @@ def beacons_section(today):
     week = dates[-7:]
     sum_week = lambda name: sum(daily[d].get(name, 0) for d in week)
 
-    systems = sorted((n for n in last_totals if n.startswith("system-")), key=lambda n: -last_totals[n])
+    systems = sorted((n for n in last_totals if n.startswith("system-") and last_totals[n]), key=lambda n: -last_totals[n])
     lines += ["| Sistema | Ayer | Últimos 7 días | Total |", "|---|---|---|---|"]
     for name in systems:
         yesterday = daily[dates[-1]].get(name, 0) if dates else "–"
         lines.append(f"| {name.removeprefix('system-')} | {yesterday} | {sum_week(name) if dates else '–'} | {last_totals[name]} |")
     lines.append("")
 
-    apps = sorted({n.rsplit("-", 1)[0] for n in last_totals if not n.startswith("system-")})
-    app_total = lambda app: sum(last_totals.get(f"{app}-{p}", 0) for p in ("linux", "windows", "mac"))
-    lines += ["| Emulador | Linux (7 días) | Windows (7 días) | Mac (7 días) | Total |", "|---|---|---|---|---|"]
+    apps = sorted({n.removesuffix("-linux-arm").removesuffix("-linux").removesuffix("-windows") for n in last_totals if not n.startswith("system-")})
+    platforms = ("linux", "linux-arm", "windows")
+    app_total = lambda app: sum(last_totals.get(f"{app}-{p}", 0) for p in platforms)
+    lines += ["| Emulador | Linux (7 días) | Linux ARM (7 días) | Windows (7 días) | Total |", "|---|---|---|---|---|"]
     for app in sorted(apps, key=lambda a: -app_total(a)):
         if not app_total(app):
             continue
-        week_cells = [str(sum_week(f"{app}-{p}")) if dates else "–" for p in ("linux", "windows", "mac")]
+        week_cells = [str(sum_week(f"{app}-{p}")) if dates else "–" for p in platforms]
         lines.append(f"| {app} | {' | '.join(week_cells)} | {app_total(app)} |")
     lines.append("")
 
