@@ -56,12 +56,12 @@ date,channel,kind,total
 2026-10-06,emudeck-electron-early,installers-linux,66779
 2026-10-06,emudeck-electron-early,installers-linux-arm,991
 2026-10-06,emudeck-electron-early,installers-mac,272
-2026-10-06,emudeck-electron-early,installers-windows,181718
+2026-10-06,emudeck-electron-early,installers-windows,181719
 2026-10-06,emudeck-electron-early,launches-linux,217231
 2026-10-06,emudeck-electron-early,launches-linux-arm,1252
 2026-10-06,emudeck-electron-early,launches-mac,17
-2026-10-06,emudeck-electron-early,launches-windows,576798
-2026-10-06,emudeck-electron-early,updates-windows,166290
+2026-10-06,emudeck-electron-early,launches-windows,576800
+2026-10-06,emudeck-electron-early,updates-windows,166292
 2026-10-06,emudeck-electron-early-unstable,installers-linux,4742
 2026-10-06,emudeck-electron-early-unstable,installers-linux-arm,65
 2026-10-06,emudeck-electron-early-unstable,installers-mac,0

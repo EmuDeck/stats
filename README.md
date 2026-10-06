@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-06 12:02 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-06 12:06 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -32,13 +32,22 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | azahar | 4 | 0 | 0 | – | – | 4 |
+| cemu | 4 | 0 | 0 | – | – | 4 |
 | duckstation | 4 | 0 | 0 | – | – | 4 |
 | pcsx2 | 4 | 0 | 0 | – | – | 4 |
 | dolphin | 3 | 0 | 0 | – | – | 3 |
 | esde | 3 | 0 | 0 | – | – | 3 |
+| melonds | 3 | 0 | 0 | – | – | 3 |
 | ppsspp | 3 | 0 | 0 | – | – | 3 |
 | ra | 3 | 0 | 0 | – | – | 3 |
 | rpcs3 | 3 | 0 | 0 | – | – | 3 |
+| model2 | 2 | 0 | 0 | – | – | 2 |
 | primehack | 2 | 0 | 0 | – | – | 2 |
 | ryujinx | 2 | 0 | 0 | – | – | 2 |
+| scummvm | 2 | 0 | 0 | – | – | 2 |
+| shadps4 | 2 | 0 | 0 | – | – | 2 |
+| supermodel | 2 | 0 | 0 | – | – | 2 |
+| vita3k | 2 | 0 | 0 | – | – | 2 |
+| xemu | 2 | 0 | 0 | – | – | 2 |
+| xenia | 2 | 0 | 0 | – | – | 2 |
 | srm | 1 | 0 | 0 | – | – | 1 |
