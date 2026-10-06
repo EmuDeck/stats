@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-06 12:17 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-06 12:49 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -14,7 +14,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | – | – | – | 4 |
+| linux | – | – | – | 5 |
 | linux-arm | – | – | – | 0 |
 | windows | – | – | – | 0 |
 
@@ -24,36 +24,36 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | – | – | 1 |
-| Con CloudSync | – | – | 1 |
-| % con CloudSync | | | 100% |
+| Instalaciones early | – | – | 2 |
+| Con CloudSync | – | – | 3 |
+| % con CloudSync | | | 150% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| azahar | 6 | 0 | 0 | – | – | 6 |
-| cemu | 6 | 0 | 0 | – | – | 6 |
-| duckstation | 6 | 0 | 0 | – | – | 6 |
-| pcsx2 | 6 | 0 | 0 | – | – | 6 |
-| dolphin | 4 | 1 | 0 | – | – | 5 |
-| srm | 5 | 0 | 0 | – | – | 5 |
-| melonds | 4 | 0 | 0 | – | – | 4 |
-| ppsspp | 4 | 0 | 0 | – | – | 4 |
-| ra | 4 | 0 | 0 | – | – | 4 |
-| rpcs3 | 4 | 0 | 0 | – | – | 4 |
-| ryujinx | 3 | 0 | 1 | – | – | 4 |
-| shadps4 | 4 | 0 | 0 | – | – | 4 |
-| vita3k | 4 | 0 | 0 | – | – | 4 |
-| xenia | 4 | 0 | 0 | – | – | 4 |
-| esde | 3 | 0 | 0 | – | – | 3 |
-| model2 | 3 | 0 | 0 | – | – | 3 |
-| primehack | 3 | 0 | 0 | – | – | 3 |
-| scummvm | 3 | 0 | 0 | – | – | 3 |
-| supermodel | 3 | 0 | 0 | – | – | 3 |
-| xemu | 3 | 0 | 0 | – | – | 3 |
-| bigpemu | 2 | 0 | 0 | – | – | 2 |
-| cloudsync | 1 | 0 | 0 | – | – | 1 |
+| azahar | 11 | 0 | 1 | – | – | 12 |
+| cemu | 11 | 0 | 0 | – | – | 11 |
+| duckstation | 11 | 0 | 0 | – | – | 11 |
+| pcsx2 | 10 | 0 | 0 | – | – | 10 |
+| srm | 9 | 0 | 1 | – | – | 10 |
+| esde | 8 | 0 | 1 | – | – | 9 |
+| rpcs3 | 9 | 0 | 0 | – | – | 9 |
+| vita3k | 9 | 0 | 0 | – | – | 9 |
+| shadps4 | 8 | 0 | 0 | – | – | 8 |
+| xenia | 8 | 0 | 0 | – | – | 8 |
+| ryujinx | 5 | 0 | 2 | – | – | 7 |
+| dolphin | 5 | 1 | 0 | – | – | 6 |
+| bigpemu | 5 | 0 | 0 | – | – | 5 |
+| melonds | 5 | 0 | 0 | – | – | 5 |
+| ppsspp | 5 | 0 | 0 | – | – | 5 |
+| ra | 5 | 0 | 0 | – | – | 5 |
+| model2 | 4 | 0 | 0 | – | – | 4 |
+| primehack | 4 | 0 | 0 | – | – | 4 |
+| scummvm | 4 | 0 | 0 | – | – | 4 |
+| supermodel | 4 | 0 | 0 | – | – | 4 |
+| xemu | 4 | 0 | 0 | – | – | 4 |
+| cloudsync | 3 | 0 | 0 | – | – | 3 |
+| mgba | 2 | 0 | 0 | – | – | 2 |
 | flycast | 1 | 0 | 0 | – | – | 1 |
-| mgba | 1 | 0 | 0 | – | – | 1 |
 | rmg | 1 | 0 | 0 | – | – | 1 |
