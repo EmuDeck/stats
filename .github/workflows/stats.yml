@@ -20,6 +20,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Creates the beacons release and any 1-byte file listed in beacons.json that is missing
+      - name: Update beacons
+        run: python3 beacons.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Collect stats
         run: python3 stats.py
         env:

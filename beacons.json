@@ -1,0 +1,5 @@
+{
+  "systems": ["steamos", "bazzite", "chimeraos", "linux", "linux-arm", "windows", "mac"],
+  "apps": ["ares", "armsx2", "azahar", "bigpemu", "cemu", "citron", "dolphin", "duckstation", "eden", "esde", "flycast", "mame", "melonds", "mgba", "model2", "pcsx2", "pegasus", "ppsspp", "primehack", "ra", "rmg", "rpcs3", "ryujinx", "scummvm", "shadps4", "srm", "supermodel", "vita3k", "xemu", "xenia", "yuzu"],
+  "platforms": ["linux", "windows", "mac"]
+}

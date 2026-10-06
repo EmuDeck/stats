@@ -12,6 +12,8 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 CLONES_CSV = DATA / "clones.csv"
 RELEASES_CSV = DATA / "releases.csv"
+BEACONS_CSV = DATA / "beacons.csv"
+BEACONS_REPO = os.environ.get("GITHUB_REPOSITORY", "EmuDeck/stats")
 CHART_DAYS = 60
 
 # Backend repos: Linux and Mac clone the bash one, Windows the PowerShell one
@@ -119,6 +121,69 @@ def collect_releases(problems):
     write_csv(RELEASES_CSV, rows, ["date", "channel", "kind", "total"])
 
 
+def collect_beacons(problems):
+    """Saves today's accumulated downloads of each beacon file (systems and installed emulators)."""
+    today = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    rows = [r for r in read_csv(BEACONS_CSV) if r["date"] != today]
+    try:
+        release = api(f"/repos/{BEACONS_REPO}/releases/tags/beacons", os.environ.get("GH_TOKEN", ""))
+    except urllib.error.HTTPError as error:
+        problems.append(f"beacons: {error}")
+        return
+    for asset in release.get("assets", []):
+        rows.append({"date": today, "name": asset["name"].removesuffix(".txt"), "total": asset["download_count"]})
+    write_csv(BEACONS_CSV, rows, ["date", "name", "total"])
+
+
+def daily_beacons():
+    """Beacon downloads per day and name, from the difference between consecutive accumulated totals."""
+    totals = {}
+    for row in read_csv(BEACONS_CSV):
+        totals.setdefault(row["date"], {})[row["name"]] = int(row["total"])
+    dates = sorted(totals)
+    daily = {}
+    for before, after in zip(dates, dates[1:]):
+        daily[after] = {name: total - totals[before].get(name, 0) for name, total in totals[after].items()}
+    return totals, daily
+
+
+def beacons_section(today):
+    """README lines with the installs counted by the beacons: per system and per emulator."""
+    totals, daily = daily_beacons()
+    lines = ["## Instalaciones de EmuDeck (beacons)", "",
+             "Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador `<emulador>-<plataforma>.txt`. "
+             "Los emuladores cuentan también las actualizaciones.", ""]
+    if not totals:
+        return lines + ["Todavía no hay datos.", ""]
+    last_totals = totals[max(totals)]
+    dates = sorted(d for d in daily if d < today)
+    week = dates[-7:]
+    sum_week = lambda name: sum(daily[d].get(name, 0) for d in week)
+
+    systems = sorted((n for n in last_totals if n.startswith("system-")), key=lambda n: -last_totals[n])
+    lines += ["| Sistema | Ayer | Últimos 7 días | Total |", "|---|---|---|---|"]
+    for name in systems:
+        yesterday = daily[dates[-1]].get(name, 0) if dates else "–"
+        lines.append(f"| {name.removeprefix('system-')} | {yesterday} | {sum_week(name) if dates else '–'} | {last_totals[name]} |")
+    lines.append("")
+
+    apps = sorted({n.rsplit("-", 1)[0] for n in last_totals if not n.startswith("system-")})
+    app_total = lambda app: sum(last_totals.get(f"{app}-{p}", 0) for p in ("linux", "windows", "mac"))
+    lines += ["| Emulador | Linux (7 días) | Windows (7 días) | Mac (7 días) | Total |", "|---|---|---|---|---|"]
+    for app in sorted(apps, key=lambda a: -app_total(a)):
+        if not app_total(app):
+            continue
+        week_cells = [str(sum_week(f"{app}-{p}")) if dates else "–" for p in ("linux", "windows", "mac")]
+        lines.append(f"| {app} | {' | '.join(week_cells)} | {app_total(app)} |")
+    lines.append("")
+
+    chart_dates = dates[-CHART_DAYS:]
+    if len(chart_dates) > 1:
+        values = [sum(v for n, v in daily[d].items() if n.startswith("system-")) for d in chart_dates]
+        lines += [chart("Instalaciones diarias de EmuDeck", chart_dates, values, "Instalaciones"), ""]
+    return lines
+
+
 def daily_releases():
     """Downloads per day and kind, from the difference between consecutive accumulated totals of all channels."""
     totals = {}
@@ -189,6 +254,8 @@ def write_readme(problems):
     else:
         lines += ["Hacen falta al menos dos días de datos para calcular arranques diarios.", ""]
 
+    lines += beacons_section(today)
+
     if problems:
         lines += ["## Avisos de la última ejecución", ""] + [f"- {p}" for p in problems] + [""]
     (ROOT / "README.md").write_text("\n".join(lines), encoding="utf-8")
@@ -199,6 +266,7 @@ def main():
     problems = []
     collect_clones(problems)
     collect_releases(problems)
+    collect_beacons(problems)
     write_readme(problems)
     for text in problems:
         print(f"! {text}")
