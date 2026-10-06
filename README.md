@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-06 11:49 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-06 11:54 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -17,6 +17,15 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 | linux | – | – | – | 0 |
 | linux-arm | – | – | – | 0 |
 | windows | – | – | – | 0 |
+
+### Canal early (early + early-unstable)
+
+Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas instalan CloudSync.
+
+| | Últimos 7 días | Últimos 30 días | Total |
+|---|---|---|---|
+| Instalaciones early | – | – | 0 |
+| Con CloudSync | – | – | 0 |
 
 ### Por emulador
 

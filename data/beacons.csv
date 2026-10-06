@@ -23,6 +23,9 @@ date,name,total
 2026-10-06,citron-linux-arm,0
 2026-10-06,citron-mac,0
 2026-10-06,citron-windows,0
+2026-10-06,cloudsync-linux,0
+2026-10-06,cloudsync-linux-arm,0
+2026-10-06,cloudsync-windows,0
 2026-10-06,dolphin-linux,0
 2026-10-06,dolphin-linux-arm,0
 2026-10-06,dolphin-mac,0
@@ -31,6 +34,12 @@ date,name,total
 2026-10-06,duckstation-linux-arm,0
 2026-10-06,duckstation-mac,0
 2026-10-06,duckstation-windows,0
+2026-10-06,early-cloudsync-linux,0
+2026-10-06,early-cloudsync-linux-arm,0
+2026-10-06,early-cloudsync-windows,0
+2026-10-06,early-linux,0
+2026-10-06,early-linux-arm,0
+2026-10-06,early-windows,0
 2026-10-06,eden-linux,0
 2026-10-06,eden-linux-arm,0
 2026-10-06,eden-mac,0
