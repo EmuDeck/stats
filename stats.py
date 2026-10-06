@@ -167,7 +167,28 @@ def beacons_section(today):
             lines.append(f"| {month} | {' | '.join(str(c) for c in cells)} | {sum(cells)} |")
         lines.append("")
 
-    apps = sorted({n.removesuffix("-linux-arm").removesuffix("-linux").removesuffix("-windows") for n in last_totals if not n.startswith("system-")})
+    channel = [f"{app}-{p}" for app in ("early", "early-cloudsync") for p in platforms]
+    early = lambda d, app: sum(daily[d].get(f"{app}-{p}", 0) for p in platforms)
+    early_total = lambda app: sum(last_totals.get(f"{app}-{p}", 0) for p in platforms)
+    early_days = lambda app, days: sum(early(d, app) for d in dates[-days:])
+    lines += ["### Canal early (early + early-unstable)", "",
+              "Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas instalan CloudSync.", "",
+              "| | Últimos 7 días | Últimos 30 días | Total |", "|---|---|---|---|"]
+    for app, label in (("early", "Instalaciones early"), ("early-cloudsync", "Con CloudSync")):
+        week, month = (early_days(app, 7), early_days(app, 30)) if dates else ("–", "–")
+        lines.append(f"| {label} | {week} | {month} | {early_total(app)} |")
+    if early_total("early"):
+        lines.append(f"| % con CloudSync | | | {round(100 * early_total('early-cloudsync') / early_total('early'))}% |")
+    lines.append("")
+    if len(dates) > 1:
+        labels, installs = by_period(dates, [early(d, "early") for d in dates])
+        _, cloudsync = by_period(dates, [early(d, "early-cloudsync") for d in dates])
+        if any(installs) or any(cloudsync):
+            lines += ["Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.", "",
+                      chart("Canal early: instalaciones y CloudSync", labels, [installs, cloudsync], "Instalaciones"), ""]
+
+    apps = sorted({n.removesuffix("-linux-arm").removesuffix("-linux").removesuffix("-windows") for n in last_totals
+                   if not n.startswith("system-") and n not in channel})
     app_total = lambda app: sum(last_totals.get(f"{app}-{p}", 0) for p in platforms)
     app_days = lambda app, days: sum(in_days(f"{app}-{p}", days) for p in platforms)
     lines += ["### Por emulador", "", "| Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |", "|---|---|---|---|---|---|---|"]
@@ -195,15 +216,16 @@ def daily_releases():
 
 
 def chart(title, labels, values, y_label):
-    """Mermaid line chart GitHub draws inside the README."""
+    """Mermaid line chart GitHub draws inside the README; values can be a list of series to draw several lines."""
     labels = ", ".join(f'"{label}"' for label in labels)
+    series = values if values and isinstance(values[0], list) else [values]
     return "\n".join([
         "```mermaid",
         "xychart-beta",
         f'    title "{title}"',
         f"    x-axis [{labels}]",
         f'    y-axis "{y_label}"',
-        f"    line [{', '.join(str(v) for v in values)}]",
+        *[f"    line [{', '.join(str(v) for v in line)}]" for line in series],
         "```",
     ])
 
