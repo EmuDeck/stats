@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-06 21:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-06 22:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -32,18 +32,18 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 58 | 2 | 19 | – | – | 79 |
+| esde | 62 | 2 | 21 | – | – | 85 |
+| azahar | 57 | 3 | 9 | – | – | 69 |
+| pcsx2 | 57 | 0 | 11 | – | – | 68 |
 | cloudsync | 32 | 0 | 34 | – | – | 66 |
-| azahar | 53 | 3 | 9 | – | – | 65 |
-| pcsx2 | 53 | 0 | 11 | – | – | 64 |
-| duckstation | 55 | 3 | 4 | – | – | 62 |
-| rpcs3 | 49 | 3 | 6 | – | – | 58 |
-| ryujinx | 46 | 4 | 6 | – | – | 56 |
-| cemu | 48 | 3 | 3 | – | – | 54 |
-| shadps4 | 45 | 3 | 6 | – | – | 54 |
-| vita3k | 47 | 3 | 2 | – | – | 52 |
-| xenia | 41 | 3 | 7 | – | – | 51 |
-| srm | 34 | 1 | 2 | – | – | 37 |
+| duckstation | 59 | 3 | 4 | – | – | 66 |
+| rpcs3 | 52 | 3 | 6 | – | – | 61 |
+| ryujinx | 50 | 4 | 6 | – | – | 60 |
+| cemu | 51 | 3 | 3 | – | – | 57 |
+| shadps4 | 48 | 3 | 6 | – | – | 57 |
+| vita3k | 51 | 3 | 2 | – | – | 56 |
+| xenia | 44 | 3 | 7 | – | – | 54 |
+| srm | 39 | 1 | 2 | – | – | 42 |
 | ppsspp | 19 | 3 | 8 | – | – | 30 |
 | dolphin | 19 | 4 | 5 | – | – | 28 |
 | ra | 19 | 3 | 5 | – | – | 27 |
@@ -51,13 +51,13 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | xemu | 17 | 3 | 4 | – | – | 24 |
 | primehack | 16 | 3 | 4 | – | – | 23 |
 | scummvm | 17 | 3 | 2 | – | – | 22 |
+| mgba | 19 | 0 | 0 | – | – | 19 |
 | model2 | 16 | 3 | 0 | – | – | 19 |
 | supermodel | 16 | 3 | 0 | – | – | 19 |
-| mgba | 16 | 0 | 0 | – | – | 16 |
-| bigpemu | 14 | 0 | 0 | – | – | 14 |
+| bigpemu | 16 | 0 | 0 | – | – | 16 |
+| armsx2 | 5 | 3 | 0 | – | – | 8 |
 | eden | 8 | 0 | 0 | – | – | 8 |
-| armsx2 | 2 | 3 | 0 | – | – | 5 |
 | flycast | 4 | 0 | 1 | – | – | 5 |
 | mame | 3 | 0 | 1 | – | – | 4 |
 | rmg | 4 | 0 | 0 | – | – | 4 |
-| pegasus | 1 | 0 | 0 | – | – | 1 |
+| pegasus | 2 | 0 | 0 | – | – | 2 |
