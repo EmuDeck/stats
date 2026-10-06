@@ -2,7 +2,7 @@ name: Stats
 
 on:
   schedule:
-    - cron: "50 23 * * *"
+    - cron: "*/30 * * * *"
   push:
     branches: [main]
   workflow_dispatch:
