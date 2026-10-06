@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-06 17:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-06 17:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -38,19 +38,19 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | pcsx2 | 29 | 0 | 4 | – | – | 33 |
 | rpcs3 | 26 | 1 | 4 | – | – | 31 |
 | esde | 23 | 1 | 6 | – | – | 30 |
+| ryujinx | 23 | 1 | 5 | – | – | 29 |
 | cemu | 25 | 1 | 2 | – | – | 28 |
-| ryujinx | 23 | 1 | 4 | – | – | 28 |
 | vita3k | 26 | 1 | 1 | – | – | 28 |
 | shadps4 | 24 | 1 | 1 | – | – | 26 |
 | xenia | 21 | 1 | 2 | – | – | 24 |
 | srm | 19 | 0 | 1 | – | – | 20 |
 | dolphin | 13 | 2 | 4 | – | – | 19 |
-| ra | 13 | 1 | 3 | – | – | 17 |
-| melonds | 13 | 1 | 2 | – | – | 16 |
-| ppsspp | 13 | 1 | 2 | – | – | 16 |
+| ra | 13 | 1 | 4 | – | – | 18 |
+| melonds | 13 | 1 | 3 | – | – | 17 |
+| ppsspp | 13 | 1 | 3 | – | – | 17 |
 | xemu | 11 | 1 | 3 | – | – | 15 |
+| primehack | 10 | 1 | 2 | – | – | 13 |
 | scummvm | 11 | 1 | 1 | – | – | 13 |
-| primehack | 10 | 1 | 1 | – | – | 12 |
 | model2 | 10 | 1 | 0 | – | – | 11 |
 | supermodel | 10 | 1 | 0 | – | – | 11 |
 | bigpemu | 9 | 0 | 0 | – | – | 9 |

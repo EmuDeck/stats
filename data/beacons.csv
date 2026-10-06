@@ -59,7 +59,7 @@ date,name,total
 2026-10-06,melonds-linux,13
 2026-10-06,melonds-linux-arm,1
 2026-10-06,melonds-mac,0
-2026-10-06,melonds-windows,2
+2026-10-06,melonds-windows,3
 2026-10-06,mgba-linux,8
 2026-10-06,mgba-linux-arm,0
 2026-10-06,mgba-mac,0
@@ -79,15 +79,15 @@ date,name,total
 2026-10-06,ppsspp-linux,13
 2026-10-06,ppsspp-linux-arm,1
 2026-10-06,ppsspp-mac,0
-2026-10-06,ppsspp-windows,2
+2026-10-06,ppsspp-windows,3
 2026-10-06,primehack-linux,10
 2026-10-06,primehack-linux-arm,1
 2026-10-06,primehack-mac,0
-2026-10-06,primehack-windows,1
+2026-10-06,primehack-windows,2
 2026-10-06,ra-linux,13
 2026-10-06,ra-linux-arm,1
 2026-10-06,ra-mac,0
-2026-10-06,ra-windows,3
+2026-10-06,ra-windows,4
 2026-10-06,rmg-linux,3
 2026-10-06,rmg-linux-arm,0
 2026-10-06,rmg-mac,0
@@ -99,7 +99,7 @@ date,name,total
 2026-10-06,ryujinx-linux,23
 2026-10-06,ryujinx-linux-arm,1
 2026-10-06,ryujinx-mac,0
-2026-10-06,ryujinx-windows,4
+2026-10-06,ryujinx-windows,5
 2026-10-06,scummvm-linux,11
 2026-10-06,scummvm-linux-arm,1
 2026-10-06,scummvm-mac,0
