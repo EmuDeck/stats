@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-06 11:26 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-06 11:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Usuarios que actualizan el backend (clonados de git)
 
@@ -37,13 +37,6 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Total |
 |---|---|---|---|
-| bazzite | – | – | 0 |
-| chimeraos | – | – | 0 |
-| linux | – | – | 0 |
-| linux-arm | – | – | 0 |
-| mac | – | – | 0 |
-| steamos | – | – | 0 |
-| windows | – | – | 0 |
 
-| Emulador | Linux (7 días) | Windows (7 días) | Mac (7 días) | Total |
+| Emulador | Linux (7 días) | Linux ARM (7 días) | Windows (7 días) | Total |
 |---|---|---|---|---|
