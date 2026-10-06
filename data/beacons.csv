@@ -33,7 +33,7 @@ date,name,total
 2026-10-06,duckstation-linux,59
 2026-10-06,duckstation-linux-arm,3
 2026-10-06,duckstation-mac,0
-2026-10-06,duckstation-windows,4
+2026-10-06,duckstation-windows,5
 2026-10-06,early-cloudsync-linux,30
 2026-10-06,early-cloudsync-linux-arm,0
 2026-10-06,early-cloudsync-windows,34
@@ -47,7 +47,7 @@ date,name,total
 2026-10-06,esde-linux,62
 2026-10-06,esde-linux-arm,2
 2026-10-06,esde-mac,0
-2026-10-06,esde-windows,21
+2026-10-06,esde-windows,23
 2026-10-06,flycast-linux,4
 2026-10-06,flycast-linux-arm,0
 2026-10-06,flycast-mac,0
@@ -107,11 +107,11 @@ date,name,total
 2026-10-06,shadps4-linux,48
 2026-10-06,shadps4-linux-arm,3
 2026-10-06,shadps4-mac,0
-2026-10-06,shadps4-windows,6
+2026-10-06,shadps4-windows,7
 2026-10-06,srm-linux,39
 2026-10-06,srm-linux-arm,1
 2026-10-06,srm-mac,0
-2026-10-06,srm-windows,2
+2026-10-06,srm-windows,3
 2026-10-06,supermodel-linux,16
 2026-10-06,supermodel-linux-arm,3
 2026-10-06,supermodel-mac,0
