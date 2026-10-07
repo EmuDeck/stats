@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 02:28 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 02:55 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -21,7 +21,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | – | – | – | 27 |
+| linux | – | – | – | 29 |
 | linux-arm | – | – | – | 4 |
 | windows | – | – | – | 7 |
 
@@ -31,37 +31,37 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | – | – | 29 |
-| Con CloudSync | – | – | 78 |
-| % con CloudSync | | | 269% |
+| Instalaciones early | – | – | 30 |
+| Con CloudSync | – | – | 80 |
+| % con CloudSync | | | 267% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 74 | 5 | 28 | – | – | 107 |
-| azahar | 71 | 7 | 10 | – | – | 88 |
-| duckstation | 76 | 7 | 5 | – | – | 88 |
-| pcsx2 | 73 | 2 | 12 | – | – | 87 |
-| cloudsync | 43 | 2 | 36 | – | – | 81 |
-| ryujinx | 63 | 8 | 8 | – | – | 79 |
-| rpcs3 | 65 | 7 | 6 | – | – | 78 |
-| cemu | 65 | 7 | 3 | – | – | 75 |
-| shadps4 | 61 | 7 | 7 | – | – | 75 |
-| vita3k | 64 | 7 | 2 | – | – | 73 |
-| xenia | 55 | 7 | 7 | – | – | 69 |
-| srm | 51 | 4 | 3 | – | – | 58 |
-| ppsspp | 25 | 4 | 8 | – | – | 37 |
-| dolphin | 25 | 5 | 6 | – | – | 36 |
-| ra | 26 | 4 | 5 | – | – | 35 |
-| melonds | 24 | 4 | 4 | – | – | 32 |
-| xemu | 21 | 4 | 4 | – | – | 29 |
+| esde | 78 | 5 | 28 | – | – | 111 |
+| azahar | 75 | 7 | 10 | – | – | 92 |
+| duckstation | 79 | 7 | 5 | – | – | 91 |
+| pcsx2 | 77 | 2 | 12 | – | – | 91 |
+| cloudsync | 45 | 2 | 36 | – | – | 83 |
+| ryujinx | 66 | 8 | 8 | – | – | 82 |
+| rpcs3 | 68 | 7 | 6 | – | – | 81 |
+| cemu | 69 | 7 | 3 | – | – | 79 |
+| shadps4 | 65 | 7 | 7 | – | – | 79 |
+| vita3k | 68 | 7 | 2 | – | – | 77 |
+| xenia | 59 | 7 | 7 | – | – | 73 |
+| srm | 54 | 4 | 3 | – | – | 61 |
+| dolphin | 27 | 5 | 6 | – | – | 38 |
+| ppsspp | 26 | 4 | 8 | – | – | 38 |
+| ra | 27 | 4 | 5 | – | – | 36 |
+| melonds | 26 | 4 | 4 | – | – | 34 |
+| xemu | 23 | 4 | 4 | – | – | 31 |
+| primehack | 22 | 3 | 4 | – | – | 29 |
+| scummvm | 23 | 3 | 2 | – | – | 28 |
 | mgba | 22 | 4 | 1 | – | – | 27 |
-| primehack | 20 | 3 | 4 | – | – | 27 |
-| scummvm | 21 | 3 | 2 | – | – | 26 |
-| model2 | 20 | 4 | 0 | – | – | 24 |
-| supermodel | 20 | 4 | 0 | – | – | 24 |
-| bigpemu | 18 | 2 | 0 | – | – | 20 |
+| model2 | 22 | 4 | 0 | – | – | 26 |
+| supermodel | 22 | 4 | 0 | – | – | 26 |
+| bigpemu | 19 | 2 | 0 | – | – | 21 |
 | armsx2 | 5 | 8 | 0 | – | – | 13 |
 | eden | 8 | 0 | 0 | – | – | 8 |
 | flycast | 5 | 1 | 1 | – | – | 7 |
