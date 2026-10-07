@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 23:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 23:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -39,22 +39,22 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 131 | 7 | 35 | – | – | 173 |
+| esde | 133 | 7 | 35 | – | – | 175 |
 | pcsx2 | 145 | 4 | 19 | – | – | 168 |
 | azahar | 136 | 10 | 16 | – | – | 162 |
-| duckstation | 140 | 10 | 8 | – | – | 158 |
-| ryujinx | 122 | 12 | 15 | – | – | 149 |
+| duckstation | 141 | 10 | 8 | – | – | 159 |
+| ryujinx | 123 | 12 | 15 | – | – | 150 |
 | rpcs3 | 127 | 9 | 8 | – | – | 144 |
-| shadps4 | 123 | 10 | 10 | – | – | 143 |
-| cemu | 126 | 9 | 6 | – | – | 141 |
-| xenia | 114 | 10 | 12 | – | – | 136 |
-| vita3k | 116 | 9 | 4 | – | – | 129 |
+| shadps4 | 124 | 10 | 10 | – | – | 144 |
+| cemu | 127 | 9 | 6 | – | – | 142 |
+| xenia | 115 | 10 | 12 | – | – | 137 |
+| vita3k | 117 | 9 | 4 | – | – | 130 |
 | cloudsync | 78 | 3 | 45 | – | – | 126 |
-| srm | 106 | 8 | 8 | – | – | 122 |
+| srm | 107 | 8 | 8 | – | – | 123 |
+| dolphin | 49 | 5 | 9 | – | – | 63 |
 | ra | 52 | 4 | 7 | – | – | 63 |
-| dolphin | 48 | 5 | 9 | – | – | 62 |
-| ppsspp | 44 | 4 | 13 | – | – | 61 |
-| melonds | 46 | 4 | 7 | – | – | 57 |
+| ppsspp | 45 | 4 | 13 | – | – | 62 |
+| melonds | 47 | 4 | 7 | – | – | 58 |
 | mgba | 46 | 8 | 2 | – | – | 56 |
 | xemu | 39 | 4 | 8 | – | – | 51 |
 | primehack | 38 | 3 | 6 | – | – | 47 |
@@ -64,8 +64,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | bigpemu | 33 | 3 | 0 | – | – | 36 |
 | armsx2 | 11 | 11 | 0 | – | – | 22 |
 | flycast | 12 | 1 | 1 | – | – | 14 |
-| rmg | 8 | 1 | 0 | – | – | 9 |
+| rmg | 9 | 1 | 0 | – | – | 10 |
 | eden | 8 | 0 | 0 | – | – | 8 |
 | mame | 5 | 0 | 1 | – | – | 6 |
-| pegasus | 2 | 0 | 0 | – | – | 2 |
+| pegasus | 3 | 0 | 0 | – | – | 3 |
 | ares | 0 | 1 | 0 | – | – | 1 |
