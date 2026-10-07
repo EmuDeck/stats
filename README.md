@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 13:19 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 13:42 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -32,25 +32,25 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | – | – | 42 |
-| Con CloudSync | – | – | 96 |
-| % con CloudSync | | | 229% |
+| Con CloudSync | – | – | 98 |
+| % con CloudSync | | | 233% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 104 | 5 | 33 | – | – | 142 |
-| pcsx2 | 110 | 2 | 19 | – | – | 131 |
-| azahar | 103 | 8 | 14 | – | – | 125 |
-| duckstation | 106 | 8 | 7 | – | – | 121 |
+| esde | 105 | 6 | 33 | – | – | 144 |
+| pcsx2 | 111 | 3 | 19 | – | – | 133 |
+| azahar | 104 | 9 | 14 | – | – | 127 |
+| duckstation | 107 | 9 | 7 | – | – | 123 |
+| shadps4 | 95 | 9 | 9 | – | – | 113 |
 | rpcs3 | 96 | 8 | 8 | – | – | 112 |
-| shadps4 | 95 | 8 | 9 | – | – | 112 |
 | ryujinx | 88 | 11 | 12 | – | – | 111 |
-| cemu | 95 | 8 | 5 | – | – | 108 |
+| cemu | 96 | 8 | 5 | – | – | 109 |
 | xenia | 84 | 8 | 11 | – | – | 103 |
+| cloudsync | 60 | 3 | 39 | – | – | 102 |
 | vita3k | 89 | 8 | 4 | – | – | 101 |
-| cloudsync | 60 | 2 | 38 | – | – | 100 |
-| srm | 79 | 5 | 8 | – | – | 92 |
+| srm | 79 | 6 | 8 | – | – | 93 |
 | ra | 40 | 4 | 7 | – | – | 51 |
 | ppsspp | 33 | 4 | 12 | – | – | 49 |
 | dolphin | 35 | 5 | 8 | – | – | 48 |
@@ -62,7 +62,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | model2 | 26 | 4 | 0 | – | – | 30 |
 | supermodel | 26 | 4 | 0 | – | – | 30 |
 | bigpemu | 27 | 2 | 0 | – | – | 29 |
-| armsx2 | 7 | 9 | 0 | – | – | 16 |
+| armsx2 | 7 | 10 | 0 | – | – | 17 |
 | flycast | 7 | 1 | 1 | – | – | 9 |
 | eden | 8 | 0 | 0 | – | – | 8 |
 | rmg | 5 | 1 | 0 | – | – | 6 |
