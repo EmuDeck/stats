@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 07:49 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 08:21 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -21,7 +21,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | – | – | – | 37 |
+| linux | – | – | – | 38 |
 | linux-arm | – | – | – | 4 |
 | windows | – | – | – | 10 |
 
@@ -31,29 +31,29 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | – | – | 37 |
+| Instalaciones early | – | – | 38 |
 | Con CloudSync | – | – | 89 |
-| % con CloudSync | | | 241% |
+| % con CloudSync | | | 234% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 89 | 5 | 32 | – | – | 126 |
-| pcsx2 | 95 | 2 | 17 | – | – | 114 |
+| esde | 91 | 5 | 32 | – | – | 128 |
+| pcsx2 | 96 | 2 | 17 | – | – | 115 |
 | azahar | 91 | 8 | 13 | – | – | 112 |
-| duckstation | 95 | 8 | 6 | – | – | 109 |
-| ryujinx | 79 | 10 | 11 | – | – | 100 |
+| duckstation | 96 | 8 | 6 | – | – | 110 |
+| ryujinx | 80 | 10 | 11 | – | – | 101 |
+| rpcs3 | 84 | 8 | 7 | – | – | 99 |
 | cemu | 86 | 8 | 4 | – | – | 98 |
-| rpcs3 | 83 | 8 | 7 | – | – | 98 |
-| shadps4 | 81 | 8 | 8 | – | – | 97 |
+| shadps4 | 82 | 8 | 8 | – | – | 98 |
 | cloudsync | 54 | 2 | 37 | – | – | 93 |
 | vita3k | 81 | 8 | 3 | – | – | 92 |
 | xenia | 74 | 8 | 10 | – | – | 92 |
 | srm | 70 | 5 | 7 | – | – | 82 |
 | ppsspp | 32 | 4 | 11 | – | – | 47 |
+| ra | 36 | 4 | 6 | – | – | 46 |
 | dolphin | 33 | 5 | 7 | – | – | 45 |
-| ra | 35 | 4 | 6 | – | – | 45 |
 | melonds | 32 | 4 | 5 | – | – | 41 |
 | xemu | 28 | 4 | 6 | – | – | 38 |
 | mgba | 28 | 5 | 2 | – | – | 35 |
