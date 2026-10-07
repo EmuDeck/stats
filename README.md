@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 04:18 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 04:45 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -23,7 +23,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | – | – | – | 31 |
 | linux-arm | – | – | – | 4 |
-| windows | – | – | – | 8 |
+| windows | – | – | – | 9 |
 
 ### Canal early (early + early-unstable)
 
@@ -31,32 +31,32 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | – | – | 32 |
-| Con CloudSync | – | – | 83 |
-| % con CloudSync | | | 259% |
+| Instalaciones early | – | – | 33 |
+| Con CloudSync | – | – | 85 |
+| % con CloudSync | | | 258% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 83 | 5 | 31 | – | – | 119 |
-| pcsx2 | 83 | 2 | 15 | – | – | 100 |
-| azahar | 81 | 7 | 11 | – | – | 99 |
-| duckstation | 85 | 7 | 6 | – | – | 98 |
-| ryujinx | 71 | 8 | 10 | – | – | 89 |
-| cemu | 77 | 7 | 4 | – | – | 88 |
-| rpcs3 | 74 | 7 | 7 | – | – | 88 |
-| cloudsync | 49 | 2 | 36 | – | – | 87 |
-| shadps4 | 72 | 7 | 8 | – | – | 87 |
-| vita3k | 75 | 7 | 3 | – | – | 85 |
-| xenia | 66 | 7 | 8 | – | – | 81 |
+| esde | 83 | 5 | 32 | – | – | 120 |
+| pcsx2 | 85 | 2 | 15 | – | – | 102 |
+| duckstation | 88 | 7 | 6 | – | – | 101 |
+| azahar | 82 | 7 | 11 | – | – | 100 |
+| ryujinx | 72 | 9 | 10 | – | – | 91 |
+| cemu | 78 | 7 | 4 | – | – | 89 |
+| cloudsync | 50 | 2 | 37 | – | – | 89 |
+| rpcs3 | 75 | 7 | 7 | – | – | 89 |
+| shadps4 | 73 | 7 | 8 | – | – | 88 |
+| vita3k | 76 | 7 | 3 | – | – | 86 |
+| xenia | 67 | 7 | 8 | – | – | 82 |
 | srm | 61 | 4 | 3 | – | – | 68 |
 | dolphin | 29 | 5 | 7 | – | – | 41 |
 | ppsspp | 28 | 4 | 9 | – | – | 41 |
 | ra | 29 | 4 | 6 | – | – | 39 |
 | melonds | 28 | 4 | 5 | – | – | 37 |
 | xemu | 25 | 4 | 5 | – | – | 34 |
-| mgba | 25 | 4 | 2 | – | – | 31 |
+| mgba | 26 | 4 | 2 | – | – | 32 |
 | primehack | 24 | 3 | 4 | – | – | 31 |
 | scummvm | 25 | 3 | 3 | – | – | 31 |
 | model2 | 24 | 4 | 0 | – | – | 28 |
