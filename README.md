@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 07:28 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 07:49 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | dolphin | 33 | 5 | 7 | – | – | 45 |
 | ra | 35 | 4 | 6 | – | – | 45 |
 | melonds | 32 | 4 | 5 | – | – | 41 |
-| xemu | 28 | 4 | 5 | – | – | 37 |
+| xemu | 28 | 4 | 6 | – | – | 38 |
 | mgba | 28 | 5 | 2 | – | – | 35 |
 | primehack | 26 | 3 | 5 | – | – | 34 |
 | scummvm | 27 | 3 | 3 | – | – | 33 |
