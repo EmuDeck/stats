@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 06:57 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 07:28 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -21,7 +21,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | – | – | – | 36 |
+| linux | – | – | – | 37 |
 | linux-arm | – | – | – | 4 |
 | windows | – | – | – | 10 |
 
@@ -39,28 +39,28 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 87 | 5 | 32 | – | – | 124 |
-| pcsx2 | 91 | 2 | 17 | – | – | 110 |
-| azahar | 87 | 8 | 13 | – | – | 108 |
-| duckstation | 92 | 8 | 6 | – | – | 106 |
-| ryujinx | 76 | 10 | 11 | – | – | 97 |
-| cemu | 82 | 8 | 4 | – | – | 94 |
-| rpcs3 | 79 | 8 | 7 | – | – | 94 |
+| esde | 89 | 5 | 32 | – | – | 126 |
+| pcsx2 | 95 | 2 | 17 | – | – | 114 |
+| azahar | 91 | 8 | 13 | – | – | 112 |
+| duckstation | 95 | 8 | 6 | – | – | 109 |
+| ryujinx | 79 | 10 | 11 | – | – | 100 |
+| cemu | 86 | 8 | 4 | – | – | 98 |
+| rpcs3 | 83 | 8 | 7 | – | – | 98 |
+| shadps4 | 81 | 8 | 8 | – | – | 97 |
 | cloudsync | 54 | 2 | 37 | – | – | 93 |
-| shadps4 | 77 | 8 | 8 | – | – | 93 |
-| vita3k | 79 | 8 | 3 | – | – | 90 |
-| xenia | 70 | 8 | 10 | – | – | 88 |
-| srm | 66 | 5 | 5 | – | – | 76 |
-| ppsspp | 31 | 4 | 11 | – | – | 46 |
-| dolphin | 32 | 5 | 7 | – | – | 44 |
-| ra | 34 | 4 | 6 | – | – | 44 |
-| melonds | 31 | 4 | 5 | – | – | 40 |
-| xemu | 27 | 4 | 5 | – | – | 36 |
-| mgba | 27 | 5 | 2 | – | – | 34 |
-| primehack | 25 | 3 | 5 | – | – | 33 |
-| scummvm | 26 | 3 | 3 | – | – | 32 |
-| model2 | 24 | 4 | 0 | – | – | 28 |
-| supermodel | 24 | 4 | 0 | – | – | 28 |
+| vita3k | 81 | 8 | 3 | – | – | 92 |
+| xenia | 74 | 8 | 10 | – | – | 92 |
+| srm | 70 | 5 | 7 | – | – | 82 |
+| ppsspp | 32 | 4 | 11 | – | – | 47 |
+| dolphin | 33 | 5 | 7 | – | – | 45 |
+| ra | 35 | 4 | 6 | – | – | 45 |
+| melonds | 32 | 4 | 5 | – | – | 41 |
+| xemu | 28 | 4 | 5 | – | – | 37 |
+| mgba | 28 | 5 | 2 | – | – | 35 |
+| primehack | 26 | 3 | 5 | – | – | 34 |
+| scummvm | 27 | 3 | 3 | – | – | 33 |
+| model2 | 25 | 4 | 0 | – | – | 29 |
+| supermodel | 25 | 4 | 0 | – | – | 29 |
 | bigpemu | 22 | 2 | 0 | – | – | 24 |
 | armsx2 | 6 | 9 | 0 | – | – | 15 |
 | eden | 8 | 0 | 0 | – | – | 8 |
