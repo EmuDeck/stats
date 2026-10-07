@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 08:21 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 08:48 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -21,7 +21,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | – | – | – | 38 |
+| linux | – | – | – | 39 |
 | linux-arm | – | – | – | 4 |
 | windows | – | – | – | 10 |
 
@@ -31,20 +31,20 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | – | – | 38 |
+| Instalaciones early | – | – | 39 |
 | Con CloudSync | – | – | 89 |
-| % con CloudSync | | | 234% |
+| % con CloudSync | | | 228% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 91 | 5 | 32 | – | – | 128 |
-| pcsx2 | 96 | 2 | 17 | – | – | 115 |
-| azahar | 91 | 8 | 13 | – | – | 112 |
+| esde | 92 | 5 | 32 | – | – | 129 |
+| pcsx2 | 97 | 2 | 18 | – | – | 117 |
+| azahar | 92 | 8 | 13 | – | – | 113 |
 | duckstation | 96 | 8 | 6 | – | – | 110 |
-| ryujinx | 80 | 10 | 11 | – | – | 101 |
-| rpcs3 | 84 | 8 | 7 | – | – | 99 |
+| ryujinx | 80 | 11 | 11 | – | – | 102 |
+| rpcs3 | 85 | 8 | 7 | – | – | 100 |
 | cemu | 86 | 8 | 4 | – | – | 98 |
 | shadps4 | 82 | 8 | 8 | – | – | 98 |
 | cloudsync | 54 | 2 | 37 | – | – | 93 |
@@ -57,7 +57,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | melonds | 32 | 4 | 5 | – | – | 41 |
 | xemu | 28 | 4 | 6 | – | – | 38 |
 | mgba | 28 | 5 | 2 | – | – | 35 |
-| primehack | 26 | 3 | 5 | – | – | 34 |
+| primehack | 27 | 3 | 5 | – | – | 35 |
 | scummvm | 27 | 3 | 3 | – | – | 33 |
 | model2 | 25 | 4 | 0 | – | – | 29 |
 | supermodel | 25 | 4 | 0 | – | – | 29 |
