@@ -239,7 +239,7 @@ date,name,total
 2026-10-07,ryujinx-linux,96
 2026-10-07,ryujinx-linux-arm,11
 2026-10-07,ryujinx-mac,0
-2026-10-07,ryujinx-windows,12
+2026-10-07,ryujinx-windows,13
 2026-10-07,scummvm-linux,30
 2026-10-07,scummvm-linux-arm,3
 2026-10-07,scummvm-mac,0
@@ -248,8 +248,8 @@ date,name,total
 2026-10-07,shadps4-linux-arm,9
 2026-10-07,shadps4-mac,0
 2026-10-07,shadps4-windows,9
-2026-10-07,srm-linux,84
-2026-10-07,srm-linux-arm,6
+2026-10-07,srm-linux,85
+2026-10-07,srm-linux-arm,7
 2026-10-07,srm-mac,0
 2026-10-07,srm-windows,8
 2026-10-07,supermodel-linux,29
