@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 14:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 14:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -32,36 +32,36 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | – | – | 42 |
-| Con CloudSync | – | – | 99 |
-| % con CloudSync | | | 236% |
+| Con CloudSync | – | – | 102 |
+| % con CloudSync | | | 243% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 105 | 6 | 34 | – | – | 145 |
-| pcsx2 | 111 | 3 | 19 | – | – | 133 |
-| azahar | 104 | 9 | 14 | – | – | 127 |
-| duckstation | 107 | 9 | 7 | – | – | 123 |
-| shadps4 | 95 | 9 | 9 | – | – | 113 |
-| rpcs3 | 96 | 8 | 8 | – | – | 112 |
-| ryujinx | 88 | 11 | 12 | – | – | 111 |
-| cemu | 96 | 8 | 5 | – | – | 109 |
-| cloudsync | 61 | 3 | 39 | – | – | 103 |
-| xenia | 84 | 8 | 11 | – | – | 103 |
-| vita3k | 89 | 8 | 4 | – | – | 101 |
-| srm | 79 | 6 | 8 | – | – | 93 |
+| esde | 106 | 6 | 34 | – | – | 146 |
+| pcsx2 | 112 | 3 | 19 | – | – | 134 |
+| azahar | 105 | 9 | 14 | – | – | 128 |
+| duckstation | 108 | 9 | 7 | – | – | 124 |
+| shadps4 | 96 | 9 | 9 | – | – | 114 |
+| rpcs3 | 97 | 8 | 8 | – | – | 113 |
+| ryujinx | 89 | 11 | 12 | – | – | 112 |
+| cemu | 97 | 8 | 5 | – | – | 110 |
+| cloudsync | 64 | 3 | 39 | – | – | 106 |
+| xenia | 85 | 8 | 11 | – | – | 104 |
+| vita3k | 90 | 8 | 4 | – | – | 102 |
+| srm | 80 | 6 | 8 | – | – | 94 |
 | ra | 40 | 4 | 7 | – | – | 51 |
 | ppsspp | 33 | 4 | 12 | – | – | 49 |
 | dolphin | 35 | 5 | 8 | – | – | 48 |
 | melonds | 34 | 4 | 6 | – | – | 44 |
-| mgba | 34 | 5 | 2 | – | – | 41 |
+| mgba | 35 | 5 | 2 | – | – | 42 |
 | xemu | 29 | 4 | 7 | – | – | 40 |
 | primehack | 27 | 3 | 6 | – | – | 36 |
 | scummvm | 28 | 3 | 4 | – | – | 35 |
+| bigpemu | 28 | 2 | 0 | – | – | 30 |
 | model2 | 26 | 4 | 0 | – | – | 30 |
 | supermodel | 26 | 4 | 0 | – | – | 30 |
-| bigpemu | 27 | 2 | 0 | – | – | 29 |
 | armsx2 | 7 | 10 | 0 | – | – | 17 |
 | flycast | 7 | 1 | 1 | – | – | 9 |
 | eden | 8 | 0 | 0 | – | – | 8 |
