@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 20:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 21:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -32,30 +32,30 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | – | – | 48 |
-| Con CloudSync | – | – | 109 |
-| % con CloudSync | | | 227% |
+| Con CloudSync | – | – | 110 |
+| % con CloudSync | | | 229% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 125 | 7 | 35 | – | – | 167 |
-| pcsx2 | 136 | 4 | 19 | – | – | 159 |
-| azahar | 128 | 10 | 16 | – | – | 154 |
-| duckstation | 133 | 10 | 8 | – | – | 151 |
-| ryujinx | 114 | 12 | 15 | – | – | 141 |
-| shadps4 | 117 | 10 | 10 | – | – | 137 |
-| rpcs3 | 119 | 9 | 8 | – | – | 136 |
-| cemu | 118 | 9 | 6 | – | – | 133 |
-| xenia | 106 | 10 | 12 | – | – | 128 |
-| vita3k | 109 | 9 | 4 | – | – | 122 |
-| cloudsync | 66 | 3 | 44 | – | – | 113 |
-| srm | 97 | 8 | 8 | – | – | 113 |
+| esde | 126 | 7 | 35 | – | – | 168 |
+| pcsx2 | 137 | 4 | 19 | – | – | 160 |
+| azahar | 129 | 10 | 16 | – | – | 155 |
+| duckstation | 134 | 10 | 8 | – | – | 152 |
+| ryujinx | 115 | 12 | 15 | – | – | 142 |
+| shadps4 | 118 | 10 | 10 | – | – | 138 |
+| rpcs3 | 120 | 9 | 8 | – | – | 137 |
+| cemu | 119 | 9 | 6 | – | – | 134 |
+| xenia | 107 | 10 | 12 | – | – | 129 |
+| vita3k | 110 | 9 | 4 | – | – | 123 |
+| srm | 99 | 8 | 8 | – | – | 115 |
+| cloudsync | 67 | 3 | 44 | – | – | 114 |
 | ra | 49 | 4 | 7 | – | – | 60 |
 | dolphin | 45 | 5 | 9 | – | – | 59 |
 | ppsspp | 42 | 4 | 13 | – | – | 59 |
 | melonds | 43 | 4 | 7 | – | – | 54 |
-| mgba | 43 | 7 | 2 | – | – | 52 |
+| mgba | 44 | 7 | 2 | – | – | 53 |
 | xemu | 37 | 4 | 8 | – | – | 49 |
 | primehack | 35 | 3 | 6 | – | – | 44 |
 | scummvm | 36 | 3 | 4 | – | – | 43 |
