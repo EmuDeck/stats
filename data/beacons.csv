@@ -147,7 +147,7 @@ date,name,total
 2026-10-07,armsx2-linux-arm,9
 2026-10-07,armsx2-mac,0
 2026-10-07,armsx2-windows,0
-2026-10-07,azahar-linux,86
+2026-10-07,azahar-linux,87
 2026-10-07,azahar-linux-arm,8
 2026-10-07,azahar-mac,0
 2026-10-07,azahar-windows,13
@@ -155,7 +155,7 @@ date,name,total
 2026-10-07,bigpemu-linux-arm,2
 2026-10-07,bigpemu-mac,0
 2026-10-07,bigpemu-windows,0
-2026-10-07,cemu-linux,81
+2026-10-07,cemu-linux,82
 2026-10-07,cemu-linux-arm,8
 2026-10-07,cemu-mac,0
 2026-10-07,cemu-windows,4
@@ -170,7 +170,7 @@ date,name,total
 2026-10-07,dolphin-linux-arm,5
 2026-10-07,dolphin-mac,0
 2026-10-07,dolphin-windows,7
-2026-10-07,duckstation-linux,91
+2026-10-07,duckstation-linux,92
 2026-10-07,duckstation-linux-arm,8
 2026-10-07,duckstation-mac,0
 2026-10-07,duckstation-windows,6
@@ -184,7 +184,7 @@ date,name,total
 2026-10-07,eden-linux-arm,0
 2026-10-07,eden-mac,0
 2026-10-07,eden-windows,0
-2026-10-07,esde-linux,86
+2026-10-07,esde-linux,87
 2026-10-07,esde-linux-arm,5
 2026-10-07,esde-mac,0
 2026-10-07,esde-windows,32
@@ -208,7 +208,7 @@ date,name,total
 2026-10-07,model2-linux-arm,4
 2026-10-07,model2-mac,0
 2026-10-07,model2-windows,0
-2026-10-07,pcsx2-linux,90
+2026-10-07,pcsx2-linux,91
 2026-10-07,pcsx2-linux-arm,2
 2026-10-07,pcsx2-mac,0
 2026-10-07,pcsx2-windows,17
@@ -232,7 +232,7 @@ date,name,total
 2026-10-07,rmg-linux-arm,1
 2026-10-07,rmg-mac,0
 2026-10-07,rmg-windows,0
-2026-10-07,rpcs3-linux,78
+2026-10-07,rpcs3-linux,79
 2026-10-07,rpcs3-linux-arm,8
 2026-10-07,rpcs3-mac,0
 2026-10-07,rpcs3-windows,7
@@ -244,11 +244,11 @@ date,name,total
 2026-10-07,scummvm-linux-arm,3
 2026-10-07,scummvm-mac,0
 2026-10-07,scummvm-windows,3
-2026-10-07,shadps4-linux,76
+2026-10-07,shadps4-linux,77
 2026-10-07,shadps4-linux-arm,8
 2026-10-07,shadps4-mac,0
 2026-10-07,shadps4-windows,8
-2026-10-07,srm-linux,65
+2026-10-07,srm-linux,66
 2026-10-07,srm-linux-arm,5
 2026-10-07,srm-mac,0
 2026-10-07,srm-windows,5
@@ -263,7 +263,7 @@ date,name,total
 2026-10-07,system-mac,0
 2026-10-07,system-steamos,0
 2026-10-07,system-windows,10
-2026-10-07,vita3k-linux,78
+2026-10-07,vita3k-linux,79
 2026-10-07,vita3k-linux-arm,8
 2026-10-07,vita3k-mac,0
 2026-10-07,vita3k-windows,3
@@ -271,7 +271,7 @@ date,name,total
 2026-10-07,xemu-linux-arm,4
 2026-10-07,xemu-mac,0
 2026-10-07,xemu-windows,5
-2026-10-07,xenia-linux,69
+2026-10-07,xenia-linux,70
 2026-10-07,xenia-linux-arm,8
 2026-10-07,xenia-mac,0
 2026-10-07,xenia-windows,10
