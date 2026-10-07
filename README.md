@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-07 18:19 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-07 18:46 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -42,7 +42,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | esde | 115 | 6 | 35 | – | – | 156 |
 | pcsx2 | 122 | 3 | 19 | – | – | 144 |
 | azahar | 114 | 9 | 14 | – | – | 137 |
-| duckstation | 117 | 9 | 7 | – | – | 133 |
+| duckstation | 117 | 9 | 8 | – | – | 134 |
 | ryujinx | 98 | 11 | 14 | – | – | 123 |
 | shadps4 | 104 | 9 | 9 | – | – | 122 |
 | rpcs3 | 105 | 8 | 8 | – | – | 121 |
