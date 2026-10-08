@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-08 19:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-08 19:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -62,30 +62,30 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 29 | 29 | 85 |
-| Con CloudSync | 58 | 58 | 174 |
-| % con CloudSync | | | 205% |
+| Con CloudSync | 58 | 58 | 175 |
+| % con CloudSync | | | 206% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 225 | 8 | 32 | 95 | 95 | 265 |
-| esde | 199 | 10 | 46 | 84 | 84 | 255 |
-| duckstation | 218 | 19 | 12 | 87 | 87 | 249 |
-| azahar | 200 | 18 | 27 | 88 | 88 | 245 |
-| ryujinx | 187 | 20 | 25 | 84 | 84 | 232 |
-| rpcs3 | 190 | 17 | 13 | 78 | 78 | 220 |
-| cemu | 192 | 16 | 8 | 80 | 80 | 216 |
-| xenia | 172 | 17 | 20 | 79 | 79 | 209 |
-| shadps4 | 172 | 17 | 16 | 81 | 81 | 205 |
-| srm | 172 | 11 | 15 | 76 | 76 | 198 |
-| vita3k | 174 | 16 | 5 | 68 | 68 | 195 |
-| cloudsync | 114 | 4 | 62 | 60 | 60 | 180 |
+| pcsx2 | 227 | 8 | 32 | 95 | 95 | 267 |
+| esde | 205 | 10 | 46 | 84 | 84 | 261 |
+| duckstation | 220 | 19 | 12 | 87 | 87 | 251 |
+| azahar | 203 | 18 | 27 | 88 | 88 | 248 |
+| ryujinx | 190 | 20 | 25 | 84 | 84 | 235 |
+| rpcs3 | 192 | 17 | 13 | 78 | 78 | 222 |
+| cemu | 195 | 16 | 8 | 80 | 80 | 219 |
+| xenia | 173 | 17 | 20 | 79 | 79 | 210 |
+| shadps4 | 174 | 17 | 16 | 81 | 81 | 207 |
+| srm | 175 | 11 | 15 | 76 | 76 | 201 |
+| vita3k | 176 | 16 | 5 | 68 | 68 | 197 |
+| cloudsync | 115 | 4 | 62 | 60 | 60 | 181 |
 | ra | 88 | 12 | 11 | 35 | 35 | 111 |
 | dolphin | 83 | 12 | 13 | 34 | 34 | 108 |
 | ppsspp | 75 | 11 | 20 | 31 | 31 | 106 |
 | melonds | 72 | 10 | 10 | 31 | 31 | 92 |
-| mgba | 72 | 8 | 5 | 35 | 35 | 85 |
+| mgba | 73 | 8 | 5 | 35 | 35 | 86 |
 | xemu | 64 | 9 | 12 | 26 | 26 | 85 |
 | primehack | 64 | 9 | 9 | 23 | 23 | 82 |
 | model2 | 59 | 9 | 2 | 22 | 22 | 70 |
