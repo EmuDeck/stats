@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-08 08:22 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-08 08:50 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -69,33 +69,33 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 194 | 5 | 26 | 95 | 95 | 225 |
+| pcsx2 | 195 | 5 | 28 | 95 | 95 | 228 |
 | esde | 173 | 10 | 40 | 84 | 84 | 223 |
-| azahar | 180 | 13 | 22 | 88 | 88 | 215 |
-| duckstation | 188 | 14 | 11 | 87 | 87 | 213 |
+| azahar | 180 | 13 | 23 | 88 | 88 | 216 |
+| duckstation | 189 | 14 | 12 | 87 | 87 | 215 |
 | ryujinx | 156 | 15 | 20 | 84 | 84 | 191 |
+| cemu | 166 | 13 | 8 | 80 | 80 | 187 |
 | rpcs3 | 166 | 12 | 9 | 78 | 78 | 187 |
-| cemu | 165 | 13 | 7 | 80 | 80 | 185 |
 | shadps4 | 155 | 14 | 11 | 81 | 81 | 180 |
 | xenia | 151 | 14 | 15 | 79 | 79 | 180 |
 | vita3k | 156 | 13 | 5 | 68 | 68 | 174 |
+| srm | 143 | 9 | 11 | 76 | 76 | 163 |
 | cloudsync | 101 | 3 | 58 | 60 | 60 | 162 |
-| srm | 142 | 9 | 11 | 76 | 76 | 162 |
+| dolphin | 71 | 7 | 11 | 34 | 34 | 89 |
 | ppsspp | 65 | 6 | 17 | 31 | 31 | 88 |
-| dolphin | 71 | 7 | 9 | 34 | 34 | 87 |
 | ra | 73 | 5 | 9 | 35 | 35 | 87 |
-| melonds | 61 | 6 | 9 | 31 | 31 | 76 |
-| mgba | 64 | 8 | 4 | 35 | 35 | 76 |
+| melonds | 61 | 6 | 10 | 31 | 31 | 77 |
+| mgba | 64 | 8 | 5 | 35 | 35 | 77 |
 | xemu | 55 | 6 | 11 | 26 | 26 | 72 |
 | primehack | 54 | 4 | 8 | 23 | 23 | 66 |
 | scummvm | 51 | 4 | 6 | 22 | 22 | 61 |
-| model2 | 52 | 6 | 1 | 22 | 22 | 59 |
+| model2 | 52 | 6 | 2 | 22 | 22 | 60 |
 | supermodel | 51 | 6 | 1 | 21 | 21 | 58 |
-| bigpemu | 44 | 3 | 0 | 18 | 18 | 47 |
+| bigpemu | 45 | 3 | 1 | 18 | 18 | 49 |
 | armsx2 | 14 | 14 | 0 | 13 | 13 | 28 |
-| flycast | 18 | 1 | 1 | 9 | 9 | 20 |
+| flycast | 18 | 1 | 2 | 9 | 9 | 21 |
 | rmg | 15 | 1 | 0 | 6 | 6 | 16 |
-| mame | 11 | 0 | 1 | 2 | 2 | 12 |
+| mame | 11 | 0 | 2 | 2 | 2 | 13 |
 | eden | 8 | 0 | 0 | 0 | 0 | 8 |
 | pegasus | 3 | 0 | 0 | 1 | 1 | 3 |
 | ares | 0 | 1 | 0 | 1 | 1 | 1 |
