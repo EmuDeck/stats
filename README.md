@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-08 11:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-08 12:23 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -45,7 +45,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 34 | 34 | 34 | 78 |
+| linux | 34 | 34 | 34 | 79 |
 | linux-arm | 1 | 1 | 1 | 6 |
 | windows | 5 | 5 | 5 | 19 |
 
@@ -61,17 +61,17 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 29 | 29 | 78 |
-| Con CloudSync | 58 | 58 | 161 |
-| % con CloudSync | | | 206% |
+| Instalaciones early | 29 | 29 | 79 |
+| Con CloudSync | 58 | 58 | 164 |
+| % con CloudSync | | | 208% |
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 200 | 5 | 29 | 95 | 95 | 234 |
-| esde | 174 | 10 | 40 | 84 | 84 | 224 |
-| duckstation | 195 | 14 | 12 | 87 | 87 | 221 |
+| pcsx2 | 201 | 5 | 29 | 95 | 95 | 235 |
+| esde | 175 | 10 | 40 | 84 | 84 | 225 |
+| duckstation | 196 | 14 | 12 | 87 | 87 | 222 |
 | azahar | 182 | 13 | 24 | 88 | 88 | 219 |
 | rpcs3 | 171 | 12 | 11 | 78 | 78 | 194 |
 | ryujinx | 158 | 15 | 21 | 84 | 84 | 194 |
@@ -80,11 +80,11 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | shadps4 | 156 | 14 | 12 | 81 | 81 | 182 |
 | vita3k | 157 | 13 | 5 | 68 | 68 | 175 |
 | srm | 148 | 9 | 13 | 76 | 76 | 170 |
-| cloudsync | 105 | 3 | 58 | 60 | 60 | 166 |
+| cloudsync | 107 | 3 | 59 | 60 | 60 | 169 |
+| ra | 78 | 5 | 11 | 35 | 35 | 94 |
+| dolphin | 75 | 7 | 11 | 34 | 34 | 93 |
 | ppsspp | 68 | 6 | 19 | 31 | 31 | 93 |
-| ra | 77 | 5 | 11 | 35 | 35 | 93 |
-| dolphin | 74 | 7 | 11 | 34 | 34 | 92 |
-| melonds | 62 | 6 | 10 | 31 | 31 | 78 |
+| melonds | 63 | 7 | 10 | 31 | 31 | 80 |
 | mgba | 64 | 8 | 5 | 35 | 35 | 77 |
 | xemu | 57 | 6 | 11 | 26 | 26 | 74 |
 | primehack | 58 | 4 | 9 | 23 | 23 | 71 |
@@ -93,7 +93,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | supermodel | 52 | 6 | 1 | 21 | 21 | 59 |
 | bigpemu | 45 | 3 | 1 | 18 | 18 | 49 |
 | armsx2 | 14 | 14 | 0 | 13 | 13 | 28 |
-| flycast | 18 | 1 | 2 | 9 | 9 | 21 |
+| flycast | 19 | 1 | 2 | 9 | 9 | 22 |
 | rmg | 15 | 1 | 0 | 6 | 6 | 16 |
 | mame | 11 | 0 | 2 | 2 | 2 | 13 |
 | eden | 8 | 0 | 0 | 0 | 0 | 8 |
