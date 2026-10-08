@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-08 07:49 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-08 08:22 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -69,29 +69,29 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 191 | 5 | 26 | 95 | 95 | 222 |
-| esde | 169 | 10 | 40 | 84 | 84 | 219 |
-| azahar | 177 | 13 | 22 | 88 | 88 | 212 |
-| duckstation | 185 | 14 | 11 | 87 | 87 | 210 |
-| ryujinx | 155 | 15 | 20 | 84 | 84 | 190 |
-| rpcs3 | 163 | 12 | 9 | 78 | 78 | 184 |
-| cemu | 162 | 13 | 7 | 80 | 80 | 182 |
-| xenia | 149 | 14 | 15 | 79 | 79 | 178 |
-| shadps4 | 152 | 14 | 11 | 81 | 81 | 177 |
-| vita3k | 153 | 13 | 5 | 68 | 68 | 171 |
+| pcsx2 | 194 | 5 | 26 | 95 | 95 | 225 |
+| esde | 173 | 10 | 40 | 84 | 84 | 223 |
+| azahar | 180 | 13 | 22 | 88 | 88 | 215 |
+| duckstation | 188 | 14 | 11 | 87 | 87 | 213 |
+| ryujinx | 156 | 15 | 20 | 84 | 84 | 191 |
+| rpcs3 | 166 | 12 | 9 | 78 | 78 | 187 |
+| cemu | 165 | 13 | 7 | 80 | 80 | 185 |
+| shadps4 | 155 | 14 | 11 | 81 | 81 | 180 |
+| xenia | 151 | 14 | 15 | 79 | 79 | 180 |
+| vita3k | 156 | 13 | 5 | 68 | 68 | 174 |
 | cloudsync | 101 | 3 | 58 | 60 | 60 | 162 |
-| srm | 139 | 9 | 11 | 76 | 76 | 159 |
+| srm | 142 | 9 | 11 | 76 | 76 | 162 |
 | ppsspp | 65 | 6 | 17 | 31 | 31 | 88 |
 | dolphin | 71 | 7 | 9 | 34 | 34 | 87 |
 | ra | 73 | 5 | 9 | 35 | 35 | 87 |
 | melonds | 61 | 6 | 9 | 31 | 31 | 76 |
-| mgba | 61 | 8 | 4 | 35 | 35 | 73 |
+| mgba | 64 | 8 | 4 | 35 | 35 | 76 |
 | xemu | 55 | 6 | 11 | 26 | 26 | 72 |
 | primehack | 54 | 4 | 8 | 23 | 23 | 66 |
 | scummvm | 51 | 4 | 6 | 22 | 22 | 61 |
 | model2 | 52 | 6 | 1 | 22 | 22 | 59 |
 | supermodel | 51 | 6 | 1 | 21 | 21 | 58 |
-| bigpemu | 43 | 3 | 0 | 18 | 18 | 46 |
+| bigpemu | 44 | 3 | 0 | 18 | 18 | 47 |
 | armsx2 | 14 | 14 | 0 | 13 | 13 | 28 |
 | flycast | 18 | 1 | 1 | 9 | 9 | 20 |
 | rmg | 15 | 1 | 0 | 6 | 6 | 16 |
