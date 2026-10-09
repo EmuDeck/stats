@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-09 13:18 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-09 13:43 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 68 | 68 | 111 |
-| Con CloudSync | 127 | 127 | 215 |
-| % con CloudSync | | | 194% |
+| Con CloudSync | 127 | 127 | 219 |
+| % con CloudSync | | | 197% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -112,24 +112,24 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 281 | 11 | 41 | 219 | 219 | 333 |
-| esde | 245 | 19 | 56 | 189 | 189 | 320 |
-| azahar | 248 | 28 | 38 | 199 | 199 | 314 |
-| ryujinx | 239 | 26 | 40 | 193 | 193 | 305 |
-| duckstation | 265 | 23 | 16 | 197 | 197 | 304 |
-| rpcs3 | 245 | 22 | 16 | 177 | 177 | 283 |
-| cemu | 245 | 24 | 12 | 176 | 176 | 281 |
-| xenia | 219 | 20 | 27 | 170 | 170 | 266 |
-| shadps4 | 215 | 22 | 21 | 163 | 163 | 258 |
-| srm | 217 | 19 | 20 | 178 | 178 | 256 |
-| vita3k | 219 | 19 | 8 | 152 | 152 | 246 |
-| cloudsync | 146 | 7 | 71 | 131 | 131 | 224 |
+| pcsx2 | 282 | 11 | 41 | 219 | 219 | 334 |
+| esde | 246 | 19 | 56 | 189 | 189 | 321 |
+| azahar | 249 | 28 | 38 | 199 | 199 | 315 |
+| ryujinx | 240 | 26 | 40 | 193 | 193 | 306 |
+| duckstation | 266 | 23 | 16 | 197 | 197 | 305 |
+| rpcs3 | 246 | 22 | 16 | 177 | 177 | 284 |
+| cemu | 246 | 24 | 12 | 176 | 176 | 282 |
+| xenia | 220 | 20 | 27 | 170 | 170 | 267 |
+| shadps4 | 216 | 22 | 21 | 163 | 163 | 259 |
+| srm | 218 | 19 | 20 | 178 | 178 | 257 |
+| vita3k | 220 | 19 | 8 | 152 | 152 | 247 |
+| cloudsync | 148 | 8 | 72 | 131 | 131 | 228 |
 | ra | 111 | 19 | 15 | 95 | 95 | 145 |
 | dolphin | 106 | 18 | 17 | 90 | 90 | 141 |
 | ppsspp | 98 | 15 | 26 | 84 | 84 | 139 |
 | melonds | 92 | 13 | 13 | 73 | 73 | 118 |
+| mgba | 93 | 12 | 8 | 78 | 78 | 113 |
 | primehack | 87 | 14 | 12 | 67 | 67 | 113 |
-| mgba | 92 | 12 | 8 | 78 | 78 | 112 |
 | xemu | 84 | 13 | 15 | 69 | 69 | 112 |
 | model2 | 80 | 14 | 2 | 60 | 60 | 96 |
 | scummvm | 77 | 10 | 9 | 54 | 54 | 96 |
