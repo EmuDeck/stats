@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-09 05:43 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-09 06:26 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -45,7 +45,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 42 | 76 | 76 | 106 |
+| linux | 42 | 76 | 76 | 107 |
 | linux-arm | 11 | 12 | 12 | 17 |
 | windows | 11 | 16 | 16 | 27 |
 
@@ -112,20 +112,20 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 265 | 11 | 40 | 219 | 219 | 316 |
-| esde | 231 | 18 | 55 | 189 | 189 | 304 |
-| azahar | 234 | 26 | 37 | 199 | 199 | 297 |
-| duckstation | 250 | 22 | 16 | 197 | 197 | 288 |
-| ryujinx | 224 | 25 | 39 | 193 | 193 | 288 |
-| rpcs3 | 230 | 21 | 16 | 177 | 177 | 267 |
-| cemu | 229 | 23 | 12 | 176 | 176 | 264 |
-| xenia | 204 | 20 | 27 | 170 | 170 | 251 |
+| pcsx2 | 266 | 11 | 40 | 219 | 219 | 317 |
+| esde | 233 | 18 | 55 | 189 | 189 | 306 |
+| azahar | 235 | 26 | 37 | 199 | 199 | 298 |
+| duckstation | 251 | 22 | 16 | 197 | 197 | 289 |
+| ryujinx | 225 | 25 | 39 | 193 | 193 | 289 |
+| rpcs3 | 231 | 21 | 16 | 177 | 177 | 268 |
+| cemu | 232 | 23 | 12 | 176 | 176 | 267 |
+| xenia | 205 | 20 | 27 | 170 | 170 | 252 |
 | shadps4 | 204 | 22 | 21 | 163 | 163 | 247 |
-| srm | 205 | 18 | 17 | 178 | 178 | 240 |
-| vita3k | 206 | 19 | 8 | 152 | 152 | 233 |
+| srm | 207 | 18 | 17 | 178 | 178 | 242 |
+| vita3k | 207 | 19 | 8 | 152 | 152 | 234 |
 | cloudsync | 141 | 7 | 66 | 131 | 131 | 214 |
 | ra | 103 | 18 | 15 | 95 | 95 | 136 |
-| dolphin | 97 | 17 | 17 | 90 | 90 | 131 |
+| dolphin | 98 | 17 | 17 | 90 | 90 | 132 |
 | ppsspp | 90 | 14 | 25 | 84 | 84 | 129 |
 | melonds | 83 | 13 | 13 | 73 | 73 | 109 |
 | mgba | 90 | 11 | 7 | 78 | 78 | 108 |
