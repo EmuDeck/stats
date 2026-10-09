@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-09 23:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-09 23:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,17 +112,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 334 | 11 | 43 | 219 | 219 | 388 |
-| esde | 289 | 23 | 66 | 189 | 189 | 378 |
-| azahar | 297 | 34 | 42 | 199 | 199 | 373 |
-| duckstation | 318 | 30 | 16 | 197 | 197 | 364 |
-| ryujinx | 285 | 33 | 44 | 193 | 193 | 362 |
-| cemu | 294 | 30 | 13 | 176 | 176 | 337 |
-| rpcs3 | 287 | 29 | 17 | 177 | 177 | 333 |
-| xenia | 261 | 26 | 28 | 170 | 170 | 315 |
-| srm | 262 | 23 | 22 | 178 | 178 | 307 |
-| shadps4 | 251 | 28 | 22 | 163 | 163 | 301 |
-| vita3k | 260 | 25 | 8 | 152 | 152 | 293 |
+| pcsx2 | 335 | 11 | 43 | 219 | 219 | 389 |
+| esde | 290 | 23 | 66 | 189 | 189 | 379 |
+| azahar | 299 | 34 | 42 | 199 | 199 | 375 |
+| duckstation | 320 | 30 | 16 | 197 | 197 | 366 |
+| ryujinx | 288 | 33 | 44 | 193 | 193 | 365 |
+| cemu | 295 | 30 | 13 | 176 | 176 | 338 |
+| rpcs3 | 289 | 29 | 17 | 177 | 177 | 335 |
+| xenia | 263 | 26 | 28 | 170 | 170 | 317 |
+| srm | 264 | 23 | 22 | 178 | 178 | 309 |
+| shadps4 | 253 | 28 | 22 | 163 | 163 | 303 |
+| vita3k | 262 | 25 | 8 | 152 | 152 | 295 |
 | cloudsync | 168 | 10 | 80 | 131 | 131 | 258 |
 | ra | 136 | 24 | 15 | 95 | 95 | 175 |
 | dolphin | 128 | 23 | 19 | 90 | 90 | 170 |
@@ -134,8 +134,8 @@ xychart-beta
 | model2 | 99 | 18 | 2 | 60 | 60 | 119 |
 | scummvm | 95 | 14 | 9 | 54 | 54 | 118 |
 | supermodel | 95 | 18 | 4 | 57 | 57 | 117 |
-| bigpemu | 72 | 3 | 1 | 38 | 38 | 76 |
-| armsx2 | 24 | 32 | 0 | 29 | 29 | 56 |
+| bigpemu | 73 | 3 | 1 | 38 | 38 | 77 |
+| armsx2 | 25 | 32 | 0 | 29 | 29 | 57 |
 | rmg | 28 | 8 | 0 | 22 | 22 | 36 |
 | flycast | 28 | 2 | 3 | 22 | 22 | 33 |
 | mame | 22 | 1 | 5 | 17 | 17 | 28 |
