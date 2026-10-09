@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-09 03:25 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-09 03:48 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 68 | 68 | 100 |
-| Con CloudSync | 127 | 127 | 201 |
-| % con CloudSync | | | 201% |
+| Con CloudSync | 127 | 127 | 203 |
+| % con CloudSync | | | 203% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -112,23 +112,23 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 257 | 11 | 39 | 219 | 219 | 307 |
-| esde | 226 | 16 | 53 | 189 | 189 | 295 |
-| azahar | 227 | 25 | 35 | 199 | 199 | 287 |
-| duckstation | 245 | 21 | 15 | 197 | 197 | 281 |
+| pcsx2 | 258 | 11 | 39 | 219 | 219 | 308 |
+| esde | 227 | 17 | 53 | 189 | 189 | 297 |
+| azahar | 228 | 25 | 35 | 199 | 199 | 288 |
+| duckstation | 246 | 21 | 15 | 197 | 197 | 282 |
 | ryujinx | 218 | 23 | 38 | 193 | 193 | 279 |
 | rpcs3 | 221 | 20 | 15 | 177 | 177 | 256 |
-| cemu | 221 | 22 | 10 | 176 | 176 | 253 |
+| cemu | 222 | 22 | 10 | 176 | 176 | 254 |
 | xenia | 197 | 19 | 26 | 170 | 170 | 242 |
 | shadps4 | 199 | 21 | 20 | 163 | 163 | 240 |
 | srm | 198 | 18 | 17 | 178 | 178 | 233 |
 | vita3k | 199 | 18 | 7 | 152 | 152 | 224 |
-| cloudsync | 136 | 6 | 65 | 131 | 131 | 207 |
+| cloudsync | 138 | 6 | 65 | 131 | 131 | 209 |
 | ra | 100 | 17 | 13 | 95 | 95 | 130 |
 | dolphin | 94 | 16 | 16 | 90 | 90 | 126 |
 | ppsspp | 87 | 13 | 24 | 84 | 84 | 124 |
 | melonds | 80 | 12 | 12 | 73 | 73 | 104 |
-| mgba | 85 | 11 | 6 | 78 | 78 | 102 |
+| mgba | 86 | 11 | 6 | 78 | 78 | 103 |
 | xemu | 74 | 12 | 14 | 69 | 69 | 100 |
 | primehack | 75 | 12 | 11 | 67 | 67 | 98 |
 | model2 | 70 | 13 | 2 | 60 | 60 | 85 |
