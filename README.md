@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-09 22:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-09 22:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 68 | 68 | 129 |
-| Con CloudSync | 127 | 127 | 241 |
-| % con CloudSync | | | 187% |
+| Con CloudSync | 127 | 127 | 245 |
+| % con CloudSync | | | 190% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -113,17 +113,17 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 331 | 11 | 42 | 219 | 219 | 384 |
-| esde | 288 | 23 | 63 | 189 | 189 | 374 |
+| esde | 288 | 23 | 65 | 189 | 189 | 376 |
 | azahar | 294 | 34 | 41 | 199 | 199 | 369 |
 | duckstation | 315 | 30 | 16 | 197 | 197 | 361 |
-| ryujinx | 282 | 33 | 43 | 193 | 193 | 358 |
+| ryujinx | 282 | 33 | 44 | 193 | 193 | 359 |
 | cemu | 291 | 30 | 13 | 176 | 176 | 334 |
 | rpcs3 | 284 | 29 | 17 | 177 | 177 | 330 |
 | xenia | 258 | 26 | 27 | 170 | 170 | 311 |
 | srm | 259 | 23 | 22 | 178 | 178 | 304 |
 | shadps4 | 250 | 28 | 22 | 163 | 163 | 300 |
 | vita3k | 259 | 25 | 8 | 152 | 152 | 292 |
-| cloudsync | 168 | 10 | 75 | 131 | 131 | 253 |
+| cloudsync | 168 | 10 | 79 | 131 | 131 | 257 |
 | ra | 134 | 24 | 15 | 95 | 95 | 173 |
 | dolphin | 126 | 23 | 19 | 90 | 90 | 168 |
 | ppsspp | 119 | 20 | 26 | 84 | 84 | 165 |
@@ -138,7 +138,7 @@ xychart-beta
 | armsx2 | 23 | 32 | 0 | 29 | 29 | 55 |
 | rmg | 28 | 8 | 0 | 22 | 22 | 36 |
 | flycast | 28 | 2 | 3 | 22 | 22 | 33 |
-| mame | 21 | 1 | 5 | 17 | 17 | 27 |
+| mame | 22 | 1 | 5 | 17 | 17 | 28 |
 | eden | 10 | 0 | 0 | 0 | 0 | 10 |
 | pegasus | 4 | 0 | 1 | 1 | 1 | 5 |
 | ares | 1 | 1 | 0 | 1 | 1 | 2 |
