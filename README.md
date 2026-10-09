@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-08 23:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-09 00:44 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -8,35 +8,35 @@ Cada arranque descarga el `latest*.yml` de su sistema. Cuenta arranques, no pers
 
 | Sistema | Ayer | Últimos 7 días |
 |---|---|---|
-| Linux x86 | 11951 | 23833 |
-| Linux ARM | 160 | 382 |
-| Windows | 3127 | 6448 |
+| Linux x86 | 12567 | 36400 |
+| Linux ARM | 190 | 572 |
+| Windows | 3258 | 9706 |
 | Mac | 0 | 0 |
 
-Instalaciones nuevas estimadas en Windows (7 días, `.exe` menos `.blockmap`): **239**
+Instalaciones nuevas estimadas en Windows (7 días, `.exe` menos `.blockmap`): **455**
 
 ```mermaid
 xychart-beta
     title "Arranques Linux x86"
-    x-axis ["10-06", "10-07"]
+    x-axis ["10-06", "10-07", "10-08"]
     y-axis "Arranques"
-    line [11882, 11951]
+    line [11882, 11951, 12567]
 ```
 
 ```mermaid
 xychart-beta
     title "Arranques Linux ARM"
-    x-axis ["10-06", "10-07"]
+    x-axis ["10-06", "10-07", "10-08"]
     y-axis "Arranques"
-    line [222, 160]
+    line [222, 160, 190]
 ```
 
 ```mermaid
 xychart-beta
     title "Arranques Windows"
-    x-axis ["10-06", "10-07"]
+    x-axis ["10-06", "10-07", "10-08"]
     y-axis "Arranques"
-    line [3321, 3127]
+    line [3321, 3127, 3258]
 ```
 
 ## Instalaciones de EmuDeck (beacons)
@@ -45,15 +45,47 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 34 | 34 | 34 | 97 |
-| linux-arm | 1 | 1 | 1 | 15 |
-| windows | 5 | 5 | 5 | 23 |
+| linux | 42 | 76 | 76 | 97 |
+| linux-arm | 11 | 12 | 12 | 15 |
+| windows | 11 | 16 | 16 | 23 |
+
+```mermaid
+xychart-beta
+    title "Instalaciones - linux"
+    x-axis ["10-07", "10-08"]
+    y-axis "Instalaciones"
+    line [34, 42]
+```
+
+```mermaid
+xychart-beta
+    title "Instalaciones - linux-arm"
+    x-axis ["10-07", "10-08"]
+    y-axis "Instalaciones"
+    line [1, 11]
+```
+
+```mermaid
+xychart-beta
+    title "Instalaciones - windows"
+    x-axis ["10-07", "10-08"]
+    y-axis "Instalaciones"
+    line [5, 11]
+```
+
+```mermaid
+xychart-beta
+    title "Instalaciones acumuladas (todos los sistemas)"
+    x-axis ["10-06", "10-07", "10-08"]
+    y-axis "Total"
+    line [31, 71, 135]
+```
 
 ### Por mes
 
 | Mes | Linux | Linux ARM | Windows | Total |
 |---|---|---|---|---|
-| 2026-10 | 34 | 1 | 5 | 40 |
+| 2026-10 | 76 | 12 | 16 | 104 |
 
 ### Canal early (early + early-unstable)
 
@@ -61,41 +93,52 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 29 | 29 | 91 |
-| Con CloudSync | 58 | 58 | 191 |
-| % con CloudSync | | | 210% |
+| Instalaciones early | 68 | 68 | 91 |
+| Con CloudSync | 127 | 127 | 194 |
+| % con CloudSync | | | 213% |
+
+Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
+
+```mermaid
+xychart-beta
+    title "Canal early: instalaciones y CloudSync"
+    x-axis ["10-07", "10-08"]
+    y-axis "Instalaciones"
+    line [29, 39]
+    line [58, 69]
+```
 
 ### Por emulador
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 245 | 11 | 36 | 95 | 95 | 292 |
-| esde | 218 | 14 | 48 | 84 | 84 | 280 |
-| azahar | 219 | 24 | 30 | 88 | 88 | 273 |
-| duckstation | 235 | 20 | 14 | 87 | 87 | 269 |
-| ryujinx | 208 | 22 | 29 | 84 | 84 | 259 |
-| rpcs3 | 209 | 19 | 15 | 78 | 78 | 243 |
-| cemu | 209 | 20 | 9 | 80 | 80 | 238 |
-| xenia | 187 | 18 | 23 | 79 | 79 | 228 |
-| shadps4 | 187 | 20 | 19 | 81 | 81 | 226 |
-| srm | 191 | 17 | 17 | 76 | 76 | 225 |
-| vita3k | 191 | 17 | 6 | 68 | 68 | 214 |
-| cloudsync | 129 | 4 | 64 | 60 | 60 | 197 |
-| ra | 94 | 16 | 13 | 35 | 35 | 123 |
-| dolphin | 89 | 15 | 15 | 34 | 34 | 119 |
-| ppsspp | 82 | 12 | 21 | 31 | 31 | 115 |
-| melonds | 77 | 11 | 12 | 31 | 31 | 100 |
-| mgba | 82 | 11 | 6 | 35 | 35 | 99 |
-| xemu | 69 | 11 | 14 | 26 | 26 | 94 |
-| primehack | 70 | 11 | 10 | 23 | 23 | 91 |
-| model2 | 66 | 12 | 2 | 22 | 22 | 80 |
-| scummvm | 62 | 8 | 7 | 22 | 22 | 77 |
-| supermodel | 63 | 12 | 2 | 21 | 21 | 77 |
-| bigpemu | 52 | 3 | 1 | 18 | 18 | 56 |
-| armsx2 | 17 | 21 | 0 | 13 | 13 | 38 |
-| flycast | 24 | 1 | 2 | 9 | 9 | 27 |
-| rmg | 20 | 6 | 0 | 6 | 6 | 26 |
-| mame | 17 | 0 | 4 | 2 | 2 | 21 |
+| pcsx2 | 247 | 11 | 36 | 219 | 219 | 294 |
+| esde | 219 | 14 | 48 | 189 | 189 | 281 |
+| azahar | 221 | 24 | 30 | 199 | 199 | 275 |
+| duckstation | 237 | 20 | 15 | 197 | 197 | 272 |
+| ryujinx | 210 | 22 | 32 | 193 | 193 | 264 |
+| rpcs3 | 211 | 19 | 15 | 177 | 177 | 245 |
+| cemu | 211 | 20 | 10 | 176 | 176 | 241 |
+| shadps4 | 190 | 20 | 20 | 163 | 163 | 230 |
+| xenia | 188 | 18 | 24 | 170 | 170 | 230 |
+| srm | 194 | 17 | 17 | 178 | 178 | 228 |
+| vita3k | 193 | 17 | 7 | 152 | 152 | 217 |
+| cloudsync | 132 | 4 | 64 | 131 | 131 | 200 |
+| ra | 94 | 16 | 13 | 95 | 95 | 123 |
+| dolphin | 89 | 15 | 15 | 90 | 90 | 119 |
+| ppsspp | 82 | 12 | 22 | 84 | 84 | 116 |
+| melonds | 77 | 11 | 12 | 73 | 73 | 100 |
+| mgba | 83 | 11 | 6 | 78 | 78 | 100 |
+| xemu | 69 | 11 | 14 | 69 | 69 | 94 |
+| primehack | 70 | 11 | 11 | 67 | 67 | 92 |
+| model2 | 66 | 12 | 2 | 60 | 60 | 80 |
+| scummvm | 62 | 8 | 8 | 54 | 54 | 78 |
+| supermodel | 63 | 12 | 2 | 57 | 57 | 77 |
+| bigpemu | 54 | 3 | 1 | 38 | 38 | 58 |
+| armsx2 | 17 | 21 | 0 | 29 | 29 | 38 |
+| flycast | 24 | 1 | 2 | 22 | 22 | 27 |
+| rmg | 20 | 7 | 0 | 22 | 22 | 27 |
+| mame | 17 | 0 | 4 | 17 | 17 | 21 |
 | eden | 8 | 0 | 0 | 0 | 0 | 8 |
 | pegasus | 3 | 0 | 0 | 1 | 1 | 3 |
 | ares | 0 | 1 | 0 | 1 | 1 | 1 |
