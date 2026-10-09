@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-09 07:48 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-09 08:22 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -113,12 +113,12 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 271 | 11 | 40 | 219 | 219 | 322 |
-| esde | 237 | 18 | 55 | 189 | 189 | 310 |
-| azahar | 239 | 27 | 37 | 199 | 199 | 303 |
+| esde | 237 | 19 | 55 | 189 | 189 | 311 |
+| azahar | 239 | 28 | 37 | 199 | 199 | 304 |
 | duckstation | 256 | 23 | 16 | 197 | 197 | 295 |
 | ryujinx | 230 | 26 | 39 | 193 | 193 | 295 |
 | rpcs3 | 236 | 22 | 16 | 177 | 177 | 274 |
-| cemu | 236 | 23 | 12 | 176 | 176 | 271 |
+| cemu | 236 | 24 | 12 | 176 | 176 | 272 |
 | xenia | 210 | 20 | 27 | 170 | 170 | 257 |
 | shadps4 | 209 | 22 | 21 | 163 | 163 | 252 |
 | srm | 210 | 19 | 17 | 178 | 178 | 246 |
@@ -128,7 +128,7 @@ xychart-beta
 | dolphin | 102 | 18 | 17 | 90 | 90 | 137 |
 | ppsspp | 94 | 15 | 25 | 84 | 84 | 134 |
 | melonds | 87 | 13 | 13 | 73 | 73 | 113 |
-| mgba | 91 | 11 | 7 | 78 | 78 | 109 |
+| mgba | 91 | 12 | 7 | 78 | 78 | 110 |
 | primehack | 83 | 14 | 12 | 67 | 67 | 109 |
 | xemu | 80 | 13 | 15 | 69 | 69 | 108 |
 | model2 | 76 | 14 | 2 | 60 | 60 | 92 |
@@ -141,5 +141,5 @@ xychart-beta
 | mame | 18 | 0 | 5 | 17 | 17 | 23 |
 | eden | 10 | 0 | 0 | 0 | 0 | 10 |
 | pegasus | 3 | 0 | 1 | 1 | 1 | 4 |
-| ares | 0 | 1 | 0 | 1 | 1 | 1 |
+| ares | 1 | 1 | 0 | 1 | 1 | 2 |
 | yuzu | 1 | 0 | 0 | 0 | 0 | 1 |

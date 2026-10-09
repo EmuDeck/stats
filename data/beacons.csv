@@ -419,7 +419,7 @@ date,name,total
 2026-10-08,yuzu-linux-arm,0
 2026-10-08,yuzu-mac,0
 2026-10-08,yuzu-windows,0
-2026-10-09,ares-linux,0
+2026-10-09,ares-linux,1
 2026-10-09,ares-linux-arm,1
 2026-10-09,ares-mac,0
 2026-10-09,ares-windows,0
@@ -428,7 +428,7 @@ date,name,total
 2026-10-09,armsx2-mac,0
 2026-10-09,armsx2-windows,0
 2026-10-09,azahar-linux,239
-2026-10-09,azahar-linux-arm,27
+2026-10-09,azahar-linux-arm,28
 2026-10-09,azahar-mac,0
 2026-10-09,azahar-windows,37
 2026-10-09,bigpemu-linux,59
@@ -436,7 +436,7 @@ date,name,total
 2026-10-09,bigpemu-mac,0
 2026-10-09,bigpemu-windows,1
 2026-10-09,cemu-linux,236
-2026-10-09,cemu-linux-arm,23
+2026-10-09,cemu-linux-arm,24
 2026-10-09,cemu-mac,0
 2026-10-09,cemu-windows,12
 2026-10-09,citron-linux,0
@@ -465,7 +465,7 @@ date,name,total
 2026-10-09,eden-mac,0
 2026-10-09,eden-windows,0
 2026-10-09,esde-linux,237
-2026-10-09,esde-linux-arm,18
+2026-10-09,esde-linux-arm,19
 2026-10-09,esde-mac,0
 2026-10-09,esde-windows,55
 2026-10-09,flycast-linux,25
@@ -481,7 +481,7 @@ date,name,total
 2026-10-09,melonds-mac,0
 2026-10-09,melonds-windows,13
 2026-10-09,mgba-linux,91
-2026-10-09,mgba-linux-arm,11
+2026-10-09,mgba-linux-arm,12
 2026-10-09,mgba-mac,0
 2026-10-09,mgba-windows,7
 2026-10-09,model2-linux,76
