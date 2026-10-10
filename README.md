@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-10 12:20 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-10 12:47 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -120,7 +120,7 @@ xychart-beta
 | cemu | 325 | 40 | 14 | 276 | 276 | 379 |
 | rpcs3 | 316 | 38 | 18 | 269 | 269 | 372 |
 | xenia | 289 | 34 | 32 | 259 | 259 | 355 |
-| srm | 292 | 27 | 25 | 262 | 262 | 344 |
+| srm | 292 | 27 | 26 | 262 | 262 | 345 |
 | shadps4 | 276 | 37 | 25 | 240 | 240 | 338 |
 | vita3k | 290 | 34 | 9 | 233 | 233 | 333 |
 | cloudsync | 191 | 13 | 83 | 192 | 192 | 287 |
