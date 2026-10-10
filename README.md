@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-10 21:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-10 22:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,24 +112,24 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 433 | 11 | 56 | 316 | 316 | 500 |
-| esde | 367 | 37 | 86 | 288 | 288 | 490 |
-| azahar | 383 | 42 | 57 | 301 | 301 | 482 |
+| pcsx2 | 434 | 11 | 56 | 316 | 316 | 501 |
+| esde | 369 | 37 | 88 | 288 | 288 | 494 |
+| azahar | 384 | 42 | 57 | 301 | 301 | 483 |
 | duckstation | 417 | 40 | 19 | 294 | 294 | 476 |
-| ryujinx | 371 | 43 | 54 | 299 | 299 | 468 |
-| rpcs3 | 381 | 39 | 20 | 269 | 269 | 440 |
-| cemu | 381 | 41 | 15 | 276 | 276 | 437 |
-| xenia | 339 | 35 | 37 | 259 | 259 | 411 |
-| srm | 345 | 27 | 30 | 262 | 262 | 402 |
-| shadps4 | 329 | 38 | 29 | 240 | 240 | 396 |
-| vita3k | 339 | 35 | 11 | 233 | 233 | 385 |
+| ryujinx | 371 | 43 | 56 | 299 | 299 | 470 |
+| rpcs3 | 382 | 39 | 20 | 269 | 269 | 441 |
+| cemu | 382 | 41 | 15 | 276 | 276 | 438 |
+| xenia | 340 | 35 | 38 | 259 | 259 | 413 |
+| srm | 346 | 27 | 30 | 262 | 262 | 403 |
+| shadps4 | 330 | 38 | 29 | 240 | 240 | 397 |
+| vita3k | 340 | 35 | 11 | 233 | 233 | 386 |
 | cloudsync | 207 | 13 | 86 | 192 | 192 | 306 |
-| ra | 166 | 32 | 20 | 147 | 147 | 218 |
+| ra | 167 | 32 | 20 | 147 | 147 | 219 |
 | dolphin | 161 | 31 | 21 | 141 | 141 | 213 |
 | ppsspp | 146 | 29 | 37 | 135 | 135 | 212 |
 | mgba | 152 | 17 | 12 | 109 | 109 | 181 |
+| xemu | 133 | 22 | 18 | 109 | 109 | 173 |
 | melonds | 135 | 21 | 16 | 113 | 113 | 172 |
-| xemu | 133 | 22 | 17 | 109 | 109 | 172 |
 | primehack | 128 | 23 | 19 | 113 | 113 | 170 |
 | model2 | 121 | 27 | 2 | 99 | 99 | 150 |
 | scummvm | 115 | 22 | 12 | 95 | 95 | 149 |
