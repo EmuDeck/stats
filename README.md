@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-10 19:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-10 19:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 107 | 107 | 162 |
-| Con CloudSync | 182 | 182 | 284 |
-| % con CloudSync | | | 175% |
+| Con CloudSync | 182 | 182 | 285 |
+| % con CloudSync | | | 176% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -112,22 +112,22 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 410 | 11 | 56 | 316 | 316 | 477 |
-| esde | 353 | 36 | 84 | 288 | 288 | 473 |
-| azahar | 365 | 41 | 56 | 301 | 301 | 462 |
-| duckstation | 395 | 39 | 19 | 294 | 294 | 453 |
+| pcsx2 | 412 | 11 | 56 | 316 | 316 | 479 |
+| esde | 355 | 36 | 84 | 288 | 288 | 475 |
+| azahar | 367 | 41 | 56 | 301 | 301 | 464 |
+| duckstation | 397 | 39 | 19 | 294 | 294 | 455 |
 | ryujinx | 355 | 42 | 54 | 299 | 299 | 451 |
-| cemu | 364 | 40 | 14 | 276 | 276 | 418 |
-| rpcs3 | 359 | 38 | 20 | 269 | 269 | 417 |
-| xenia | 320 | 34 | 37 | 259 | 259 | 391 |
-| srm | 328 | 27 | 29 | 262 | 262 | 384 |
-| shadps4 | 308 | 37 | 29 | 240 | 240 | 374 |
+| cemu | 366 | 40 | 14 | 276 | 276 | 420 |
+| rpcs3 | 361 | 38 | 20 | 269 | 269 | 419 |
+| xenia | 323 | 34 | 37 | 259 | 259 | 394 |
+| srm | 330 | 27 | 29 | 262 | 262 | 386 |
+| shadps4 | 310 | 37 | 29 | 240 | 240 | 376 |
 | vita3k | 324 | 34 | 10 | 233 | 233 | 368 |
-| cloudsync | 199 | 13 | 85 | 192 | 192 | 297 |
+| cloudsync | 199 | 13 | 86 | 192 | 192 | 298 |
 | ra | 158 | 31 | 20 | 147 | 147 | 209 |
 | dolphin | 152 | 30 | 21 | 141 | 141 | 203 |
 | ppsspp | 138 | 28 | 37 | 135 | 135 | 203 |
-| mgba | 142 | 17 | 12 | 109 | 109 | 171 |
+| mgba | 144 | 17 | 12 | 109 | 109 | 173 |
 | melonds | 128 | 20 | 16 | 113 | 113 | 164 |
 | primehack | 121 | 22 | 19 | 113 | 113 | 162 |
 | xemu | 120 | 21 | 17 | 109 | 109 | 158 |
