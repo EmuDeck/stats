@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-10 06:24 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-10 06:54 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,25 +112,25 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 359 | 11 | 47 | 316 | 316 | 417 |
-| esde | 308 | 29 | 72 | 288 | 288 | 409 |
-| azahar | 318 | 40 | 46 | 301 | 301 | 404 |
-| duckstation | 345 | 35 | 18 | 294 | 294 | 398 |
-| ryujinx | 307 | 38 | 46 | 299 | 299 | 391 |
-| cemu | 316 | 36 | 14 | 276 | 276 | 366 |
-| rpcs3 | 306 | 34 | 18 | 269 | 269 | 358 |
-| xenia | 280 | 30 | 31 | 259 | 259 | 341 |
-| srm | 284 | 26 | 22 | 262 | 262 | 332 |
-| shadps4 | 268 | 33 | 24 | 240 | 240 | 325 |
-| vita3k | 282 | 30 | 9 | 233 | 233 | 321 |
+| pcsx2 | 361 | 11 | 47 | 316 | 316 | 419 |
+| esde | 309 | 31 | 73 | 288 | 288 | 413 |
+| azahar | 320 | 40 | 46 | 301 | 301 | 406 |
+| duckstation | 347 | 35 | 18 | 294 | 294 | 400 |
+| ryujinx | 309 | 38 | 46 | 299 | 299 | 393 |
+| cemu | 318 | 36 | 14 | 276 | 276 | 368 |
+| rpcs3 | 308 | 34 | 18 | 269 | 269 | 360 |
+| xenia | 282 | 30 | 31 | 259 | 259 | 343 |
+| srm | 285 | 26 | 23 | 262 | 262 | 334 |
+| shadps4 | 269 | 33 | 24 | 240 | 240 | 326 |
+| vita3k | 284 | 30 | 9 | 233 | 233 | 323 |
 | cloudsync | 187 | 10 | 82 | 192 | 192 | 279 |
-| ra | 148 | 27 | 18 | 147 | 147 | 193 |
+| ra | 148 | 27 | 19 | 147 | 147 | 194 |
 | dolphin | 139 | 26 | 20 | 141 | 141 | 185 |
 | ppsspp | 126 | 24 | 29 | 135 | 135 | 179 |
 | melonds | 118 | 19 | 15 | 113 | 113 | 152 |
 | primehack | 111 | 21 | 15 | 113 | 113 | 147 |
 | xemu | 109 | 20 | 16 | 109 | 109 | 145 |
-| mgba | 117 | 14 | 10 | 109 | 109 | 141 |
+| mgba | 118 | 14 | 10 | 109 | 109 | 142 |
 | model2 | 106 | 22 | 2 | 99 | 99 | 130 |
 | scummvm | 101 | 17 | 10 | 95 | 95 | 128 |
 | supermodel | 102 | 22 | 4 | 97 | 97 | 128 |
