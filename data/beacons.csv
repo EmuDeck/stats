@@ -590,7 +590,7 @@ date,name,total
 2026-10-10,dolphin-linux-arm,30
 2026-10-10,dolphin-mac,0
 2026-10-10,dolphin-windows,21
-2026-10-10,duckstation-linux,365
+2026-10-10,duckstation-linux,366
 2026-10-10,duckstation-linux-arm,39
 2026-10-10,duckstation-mac,0
 2026-10-10,duckstation-windows,18
@@ -628,7 +628,7 @@ date,name,total
 2026-10-10,model2-linux-arm,26
 2026-10-10,model2-mac,0
 2026-10-10,model2-windows,2
-2026-10-10,pcsx2-linux,380
+2026-10-10,pcsx2-linux,381
 2026-10-10,pcsx2-linux-arm,11
 2026-10-10,pcsx2-mac,0
 2026-10-10,pcsx2-windows,49
@@ -636,7 +636,7 @@ date,name,total
 2026-10-10,pegasus-linux-arm,0
 2026-10-10,pegasus-mac,0
 2026-10-10,pegasus-windows,1
-2026-10-10,ppsspp-linux,132
+2026-10-10,ppsspp-linux,133
 2026-10-10,ppsspp-linux-arm,28
 2026-10-10,ppsspp-mac,0
 2026-10-10,ppsspp-windows,31
@@ -652,7 +652,7 @@ date,name,total
 2026-10-10,rmg-linux-arm,10
 2026-10-10,rmg-mac,0
 2026-10-10,rmg-windows,0
-2026-10-10,rpcs3-linux,327
+2026-10-10,rpcs3-linux,328
 2026-10-10,rpcs3-linux-arm,38
 2026-10-10,rpcs3-mac,0
 2026-10-10,rpcs3-windows,18
@@ -668,7 +668,7 @@ date,name,total
 2026-10-10,shadps4-linux-arm,37
 2026-10-10,shadps4-mac,0
 2026-10-10,shadps4-windows,25
-2026-10-10,srm-linux,299
+2026-10-10,srm-linux,300
 2026-10-10,srm-linux-arm,27
 2026-10-10,srm-mac,0
 2026-10-10,srm-windows,26
@@ -683,15 +683,15 @@ date,name,total
 2026-10-10,system-mac,0
 2026-10-10,system-steamos,0
 2026-10-10,system-windows,35
-2026-10-10,vita3k-linux,297
+2026-10-10,vita3k-linux,298
 2026-10-10,vita3k-linux-arm,34
 2026-10-10,vita3k-mac,0
 2026-10-10,vita3k-windows,9
-2026-10-10,xemu-linux,114
+2026-10-10,xemu-linux,115
 2026-10-10,xemu-linux-arm,21
 2026-10-10,xemu-mac,0
 2026-10-10,xemu-windows,16
-2026-10-10,xenia-linux,294
+2026-10-10,xenia-linux,295
 2026-10-10,xenia-linux-arm,34
 2026-10-10,xenia-mac,0
 2026-10-10,xenia-windows,32
