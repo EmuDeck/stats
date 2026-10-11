@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-11 05:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-11 06:24 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,17 +112,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 482 | 11 | 63 | 441 | 441 | 556 |
-| azahar | 429 | 42 | 63 | 422 | 422 | 534 |
-| esde | 398 | 37 | 94 | 415 | 415 | 529 |
-| duckstation | 463 | 40 | 19 | 416 | 416 | 522 |
-| ryujinx | 412 | 43 | 59 | 412 | 412 | 514 |
-| rpcs3 | 424 | 39 | 21 | 385 | 385 | 484 |
-| cemu | 422 | 41 | 15 | 386 | 386 | 478 |
-| xenia | 377 | 35 | 44 | 362 | 362 | 456 |
-| srm | 380 | 27 | 34 | 365 | 365 | 441 |
-| shadps4 | 368 | 38 | 33 | 341 | 341 | 439 |
-| vita3k | 376 | 35 | 11 | 332 | 332 | 422 |
+| pcsx2 | 483 | 12 | 63 | 441 | 441 | 558 |
+| azahar | 430 | 43 | 63 | 422 | 422 | 536 |
+| esde | 399 | 38 | 94 | 415 | 415 | 531 |
+| duckstation | 464 | 41 | 19 | 416 | 416 | 524 |
+| ryujinx | 413 | 44 | 59 | 412 | 412 | 516 |
+| rpcs3 | 425 | 40 | 21 | 385 | 385 | 486 |
+| cemu | 423 | 42 | 15 | 386 | 386 | 480 |
+| xenia | 378 | 36 | 44 | 362 | 362 | 458 |
+| srm | 381 | 28 | 34 | 365 | 365 | 443 |
+| shadps4 | 369 | 39 | 33 | 341 | 341 | 441 |
+| vita3k | 377 | 36 | 11 | 332 | 332 | 424 |
 | cloudsync | 220 | 13 | 89 | 244 | 244 | 322 |
 | ra | 192 | 32 | 20 | 196 | 196 | 244 |
 | ppsspp | 171 | 29 | 43 | 187 | 187 | 243 |
@@ -135,10 +135,10 @@ xychart-beta
 | scummvm | 133 | 22 | 12 | 129 | 129 | 167 |
 | supermodel | 134 | 27 | 5 | 130 | 130 | 166 |
 | bigpemu | 121 | 3 | 2 | 101 | 101 | 126 |
-| armsx2 | 34 | 43 | 0 | 65 | 65 | 77 |
+| armsx2 | 34 | 44 | 0 | 65 | 65 | 78 |
 | flycast | 39 | 5 | 4 | 42 | 42 | 48 |
 | rmg | 35 | 10 | 0 | 41 | 41 | 45 |
-| mame | 29 | 1 | 6 | 32 | 32 | 36 |
+| mame | 30 | 1 | 6 | 32 | 32 | 37 |
 | eden | 10 | 2 | 0 | 4 | 4 | 12 |
 | pegasus | 5 | 0 | 1 | 3 | 3 | 6 |
 | ares | 1 | 1 | 0 | 2 | 2 | 2 |
