@@ -733,7 +733,7 @@ date,name,total
 2026-10-11,duckstation-linux,470
 2026-10-11,duckstation-linux-arm,41
 2026-10-11,duckstation-mac,0
-2026-10-11,duckstation-windows,20
+2026-10-11,duckstation-windows,21
 2026-10-11,early-cloudsync-linux,210
 2026-10-11,early-cloudsync-linux-arm,12
 2026-10-11,early-cloudsync-windows,88
@@ -744,7 +744,7 @@ date,name,total
 2026-10-11,eden-linux-arm,2
 2026-10-11,eden-mac,0
 2026-10-11,eden-windows,0
-2026-10-11,esde-linux,403
+2026-10-11,esde-linux,404
 2026-10-11,esde-linux-arm,38
 2026-10-11,esde-mac,0
 2026-10-11,esde-windows,95
