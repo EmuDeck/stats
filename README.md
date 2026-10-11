@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-11 07:21 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-11 07:44 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,21 +112,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 485 | 12 | 63 | 441 | 441 | 560 |
-| azahar | 432 | 43 | 63 | 422 | 422 | 538 |
-| esde | 400 | 38 | 95 | 415 | 415 | 533 |
-| duckstation | 466 | 41 | 19 | 416 | 416 | 526 |
-| ryujinx | 414 | 44 | 60 | 412 | 412 | 518 |
-| rpcs3 | 427 | 40 | 21 | 385 | 385 | 488 |
-| cemu | 426 | 42 | 15 | 386 | 386 | 483 |
-| xenia | 380 | 36 | 44 | 362 | 362 | 460 |
-| srm | 384 | 28 | 34 | 365 | 365 | 446 |
-| shadps4 | 371 | 39 | 33 | 341 | 341 | 443 |
-| vita3k | 379 | 36 | 11 | 332 | 332 | 426 |
+| pcsx2 | 487 | 12 | 63 | 441 | 441 | 562 |
+| azahar | 434 | 43 | 63 | 422 | 422 | 540 |
+| esde | 403 | 38 | 95 | 415 | 415 | 536 |
+| duckstation | 468 | 41 | 20 | 416 | 416 | 529 |
+| ryujinx | 417 | 44 | 60 | 412 | 412 | 521 |
+| rpcs3 | 429 | 40 | 21 | 385 | 385 | 490 |
+| cemu | 428 | 42 | 15 | 386 | 386 | 485 |
+| xenia | 382 | 36 | 44 | 362 | 362 | 462 |
+| srm | 386 | 28 | 34 | 365 | 365 | 448 |
+| shadps4 | 373 | 39 | 33 | 341 | 341 | 445 |
+| vita3k | 382 | 36 | 11 | 332 | 332 | 429 |
 | cloudsync | 220 | 13 | 89 | 244 | 244 | 322 |
 | ra | 193 | 32 | 20 | 196 | 196 | 245 |
 | ppsspp | 172 | 29 | 43 | 187 | 187 | 244 |
-| dolphin | 187 | 31 | 22 | 189 | 189 | 240 |
+| dolphin | 187 | 31 | 23 | 189 | 189 | 241 |
 | melonds | 161 | 21 | 17 | 150 | 150 | 199 |
 | xemu | 156 | 22 | 20 | 153 | 153 | 198 |
 | mgba | 165 | 17 | 13 | 164 | 164 | 195 |
@@ -138,7 +138,7 @@ xychart-beta
 | armsx2 | 34 | 44 | 0 | 65 | 65 | 78 |
 | flycast | 39 | 5 | 4 | 42 | 42 | 48 |
 | rmg | 35 | 10 | 0 | 41 | 41 | 45 |
-| mame | 30 | 1 | 6 | 32 | 32 | 37 |
+| mame | 30 | 1 | 7 | 32 | 32 | 38 |
 | eden | 10 | 2 | 0 | 4 | 4 | 12 |
 | pegasus | 5 | 0 | 1 | 3 | 3 | 6 |
 | ares | 1 | 1 | 0 | 2 | 2 | 2 |
