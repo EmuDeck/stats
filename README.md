@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-11 04:45 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-11 05:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -116,7 +116,7 @@ xychart-beta
 | azahar | 426 | 42 | 63 | 422 | 422 | 531 |
 | esde | 395 | 37 | 94 | 415 | 415 | 526 |
 | duckstation | 459 | 40 | 19 | 416 | 416 | 518 |
-| ryujinx | 408 | 43 | 58 | 412 | 412 | 509 |
+| ryujinx | 408 | 43 | 59 | 412 | 412 | 510 |
 | rpcs3 | 421 | 39 | 21 | 385 | 385 | 481 |
 | cemu | 419 | 41 | 15 | 386 | 386 | 475 |
 | xenia | 374 | 35 | 44 | 362 | 362 | 453 |
@@ -130,7 +130,7 @@ xychart-beta
 | melonds | 158 | 21 | 17 | 150 | 150 | 196 |
 | mgba | 165 | 17 | 13 | 164 | 164 | 195 |
 | xemu | 153 | 22 | 20 | 153 | 153 | 195 |
-| primehack | 141 | 23 | 20 | 150 | 150 | 184 |
+| primehack | 141 | 23 | 21 | 150 | 150 | 185 |
 | model2 | 137 | 27 | 2 | 133 | 133 | 166 |
 | scummvm | 131 | 22 | 12 | 129 | 129 | 165 |
 | supermodel | 132 | 27 | 5 | 130 | 130 | 164 |
