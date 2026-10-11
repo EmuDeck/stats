@@ -730,7 +730,7 @@ date,name,total
 2026-10-11,dolphin-linux-arm,31
 2026-10-11,dolphin-mac,0
 2026-10-11,dolphin-windows,23
-2026-10-11,duckstation-linux,483
+2026-10-11,duckstation-linux,486
 2026-10-11,duckstation-linux-arm,41
 2026-10-11,duckstation-mac,0
 2026-10-11,duckstation-windows,22
@@ -744,7 +744,7 @@ date,name,total
 2026-10-11,eden-linux-arm,2
 2026-10-11,eden-mac,0
 2026-10-11,eden-windows,0
-2026-10-11,esde-linux,415
+2026-10-11,esde-linux,416
 2026-10-11,esde-linux-arm,38
 2026-10-11,esde-mac,0
 2026-10-11,esde-windows,97
@@ -768,7 +768,7 @@ date,name,total
 2026-10-11,model2-linux-arm,29
 2026-10-11,model2-mac,0
 2026-10-11,model2-windows,2
-2026-10-11,pcsx2-linux,501
+2026-10-11,pcsx2-linux,502
 2026-10-11,pcsx2-linux-arm,12
 2026-10-11,pcsx2-mac,0
 2026-10-11,pcsx2-windows,65
@@ -792,11 +792,11 @@ date,name,total
 2026-10-11,rmg-linux-arm,10
 2026-10-11,rmg-mac,0
 2026-10-11,rmg-windows,0
-2026-10-11,rpcs3-linux,445
+2026-10-11,rpcs3-linux,446
 2026-10-11,rpcs3-linux-arm,40
 2026-10-11,rpcs3-mac,0
 2026-10-11,rpcs3-windows,21
-2026-10-11,ryujinx-linux,427
+2026-10-11,ryujinx-linux,428
 2026-10-11,ryujinx-linux-arm,44
 2026-10-11,ryujinx-mac,0
 2026-10-11,ryujinx-windows,60
@@ -808,7 +808,7 @@ date,name,total
 2026-10-11,shadps4-linux-arm,41
 2026-10-11,shadps4-mac,0
 2026-10-11,shadps4-windows,33
-2026-10-11,srm-linux,397
+2026-10-11,srm-linux,398
 2026-10-11,srm-linux-arm,30
 2026-10-11,srm-mac,0
 2026-10-11,srm-windows,34
@@ -823,7 +823,7 @@ date,name,total
 2026-10-11,system-mac,0
 2026-10-11,system-steamos,0
 2026-10-11,system-windows,48
-2026-10-11,vita3k-linux,393
+2026-10-11,vita3k-linux,394
 2026-10-11,vita3k-linux-arm,36
 2026-10-11,vita3k-mac,0
 2026-10-11,vita3k-windows,11
@@ -831,7 +831,7 @@ date,name,total
 2026-10-11,xemu-linux-arm,22
 2026-10-11,xemu-mac,0
 2026-10-11,xemu-windows,20
-2026-10-11,xenia-linux,391
+2026-10-11,xenia-linux,392
 2026-10-11,xenia-linux-arm,36
 2026-10-11,xenia-mac,0
 2026-10-11,xenia-windows,46
