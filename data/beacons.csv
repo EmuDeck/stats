@@ -884,7 +884,7 @@ date,name,total
 2026-10-12,eden-linux-arm,3
 2026-10-12,eden-mac,0
 2026-10-12,eden-windows,0
-2026-10-12,esde-linux,465
+2026-10-12,esde-linux,466
 2026-10-12,esde-linux-arm,42
 2026-10-12,esde-mac,0
 2026-10-12,esde-windows,110
@@ -970,7 +970,7 @@ date,name,total
 2026-10-12,xemu-linux,196
 2026-10-12,xemu-linux-arm,25
 2026-10-12,xemu-mac,0
-2026-10-12,xemu-windows,20
+2026-10-12,xemu-windows,21
 2026-10-12,xenia-linux,456
 2026-10-12,xenia-linux-arm,40
 2026-10-12,xenia-mac,0

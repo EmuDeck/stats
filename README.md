@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-12 04:55 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-12 05:22 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -115,7 +115,7 @@ xychart-beta
 | pcsx2 | 572 | 12 | 71 | 561 | 561 | 655 |
 | azahar | 510 | 47 | 69 | 531 | 531 | 626 |
 | duckstation | 557 | 45 | 23 | 530 | 530 | 625 |
-| esde | 465 | 42 | 110 | 505 | 505 | 617 |
+| esde | 466 | 42 | 110 | 505 | 505 | 618 |
 | ryujinx | 485 | 48 | 74 | 518 | 518 | 607 |
 | rpcs3 | 509 | 44 | 23 | 487 | 487 | 576 |
 | cemu | 508 | 46 | 16 | 487 | 487 | 570 |
@@ -127,7 +127,7 @@ xychart-beta
 | ppsspp | 215 | 32 | 50 | 258 | 258 | 297 |
 | ra | 239 | 35 | 20 | 259 | 259 | 294 |
 | dolphin | 231 | 34 | 24 | 254 | 254 | 289 |
-| xemu | 196 | 25 | 20 | 210 | 210 | 241 |
+| xemu | 196 | 25 | 21 | 210 | 210 | 242 |
 | melonds | 196 | 24 | 17 | 204 | 204 | 237 |
 | mgba | 189 | 19 | 17 | 197 | 197 | 225 |
 | primehack | 173 | 26 | 21 | 190 | 190 | 220 |
