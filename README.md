@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-12 17:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-12 17:42 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,28 +112,28 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 603 | 12 | 76 | 561 | 561 | 691 |
+| pcsx2 | 605 | 12 | 76 | 561 | 561 | 693 |
 | azahar | 538 | 49 | 72 | 531 | 531 | 659 |
-| duckstation | 587 | 47 | 23 | 530 | 530 | 657 |
-| esde | 496 | 44 | 114 | 505 | 505 | 654 |
-| ryujinx | 506 | 50 | 75 | 518 | 518 | 631 |
-| rpcs3 | 536 | 46 | 23 | 487 | 487 | 605 |
-| cemu | 538 | 48 | 17 | 487 | 487 | 603 |
-| xenia | 485 | 42 | 52 | 466 | 466 | 579 |
-| srm | 468 | 33 | 46 | 460 | 460 | 547 |
-| shadps4 | 454 | 47 | 42 | 439 | 439 | 543 |
-| vita3k | 482 | 42 | 11 | 425 | 425 | 535 |
+| duckstation | 589 | 47 | 23 | 530 | 530 | 659 |
+| esde | 498 | 44 | 114 | 505 | 505 | 656 |
+| ryujinx | 508 | 50 | 75 | 518 | 518 | 633 |
+| rpcs3 | 538 | 46 | 23 | 487 | 487 | 607 |
+| cemu | 540 | 48 | 17 | 487 | 487 | 605 |
+| xenia | 487 | 42 | 52 | 466 | 466 | 581 |
+| srm | 470 | 33 | 46 | 460 | 460 | 549 |
+| shadps4 | 456 | 47 | 42 | 439 | 439 | 545 |
+| vita3k | 483 | 42 | 11 | 425 | 425 | 536 |
 | cloudsync | 272 | 13 | 110 | 311 | 311 | 395 |
 | ppsspp | 226 | 34 | 53 | 258 | 258 | 313 |
-| ra | 252 | 37 | 20 | 259 | 259 | 309 |
+| ra | 252 | 37 | 21 | 259 | 259 | 310 |
 | dolphin | 245 | 36 | 24 | 254 | 254 | 305 |
 | xemu | 207 | 27 | 21 | 210 | 210 | 255 |
 | melonds | 207 | 26 | 17 | 204 | 204 | 250 |
 | mgba | 200 | 21 | 18 | 197 | 197 | 239 |
 | primehack | 184 | 28 | 21 | 190 | 190 | 233 |
+| model2 | 175 | 34 | 2 | 176 | 176 | 211 |
 | scummvm | 173 | 26 | 12 | 174 | 174 | 211 |
-| model2 | 174 | 34 | 2 | 176 | 176 | 210 |
-| supermodel | 171 | 34 | 5 | 176 | 176 | 210 |
+| supermodel | 172 | 34 | 5 | 176 | 176 | 211 |
 | bigpemu | 144 | 3 | 2 | 121 | 121 | 149 |
 | armsx2 | 44 | 50 | 0 | 76 | 76 | 94 |
 | flycast | 48 | 8 | 5 | 53 | 53 | 61 |
