@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-13 04:22 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-13 04:49 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 245 | 245 | 273 |
-| Con CloudSync | 336 | 336 | 408 |
-| % con CloudSync | | | 149% |
+| Con CloudSync | 336 | 336 | 409 |
+| % con CloudSync | | | 150% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -115,19 +115,19 @@ xychart-beta
 | pcsx2 | 661 | 12 | 81 | 657 | 657 | 754 |
 | azahar | 594 | 51 | 75 | 623 | 623 | 720 |
 | duckstation | 644 | 49 | 26 | 622 | 622 | 719 |
-| esde | 546 | 45 | 119 | 592 | 592 | 710 |
-| ryujinx | 560 | 51 | 78 | 600 | 600 | 689 |
+| esde | 546 | 46 | 120 | 592 | 592 | 712 |
+| ryujinx | 560 | 52 | 78 | 600 | 600 | 690 |
 | cemu | 601 | 50 | 18 | 582 | 582 | 669 |
-| rpcs3 | 590 | 47 | 25 | 572 | 572 | 662 |
-| xenia | 539 | 43 | 54 | 557 | 557 | 636 |
-| srm | 523 | 33 | 47 | 534 | 534 | 603 |
+| rpcs3 | 590 | 48 | 25 | 572 | 572 | 663 |
+| xenia | 539 | 44 | 54 | 557 | 557 | 637 |
+| srm | 523 | 36 | 47 | 534 | 534 | 606 |
 | shadps4 | 498 | 48 | 44 | 511 | 511 | 590 |
-| vita3k | 533 | 43 | 12 | 506 | 506 | 588 |
-| cloudsync | 300 | 13 | 115 | 354 | 354 | 428 |
+| vita3k | 533 | 44 | 12 | 506 | 506 | 589 |
+| cloudsync | 300 | 13 | 116 | 354 | 354 | 429 |
 | ra | 273 | 39 | 26 | 302 | 302 | 338 |
 | ppsspp | 245 | 36 | 56 | 300 | 300 | 337 |
 | dolphin | 267 | 38 | 29 | 294 | 294 | 334 |
-| xemu | 228 | 28 | 22 | 248 | 248 | 278 |
+| xemu | 228 | 29 | 22 | 248 | 248 | 279 |
 | melonds | 227 | 28 | 18 | 240 | 240 | 273 |
 | mgba | 228 | 22 | 20 | 233 | 233 | 270 |
 | primehack | 200 | 30 | 21 | 222 | 222 | 251 |
@@ -137,10 +137,10 @@ xychart-beta
 | bigpemu | 159 | 3 | 2 | 136 | 136 | 164 |
 | armsx2 | 50 | 52 | 0 | 88 | 88 | 102 |
 | flycast | 53 | 9 | 5 | 60 | 60 | 67 |
-| rmg | 44 | 15 | 0 | 52 | 52 | 59 |
+| rmg | 44 | 16 | 0 | 52 | 52 | 60 |
 | mame | 34 | 2 | 9 | 39 | 39 | 45 |
 | eden | 22 | 3 | 0 | 12 | 12 | 25 |
-| pegasus | 5 | 0 | 1 | 4 | 4 | 6 |
+| pegasus | 5 | 0 | 2 | 4 | 4 | 7 |
 | ares | 3 | 1 | 0 | 4 | 4 | 4 |
 | yuzu | 4 | 0 | 0 | 4 | 4 | 4 |
 | citron | 1 | 0 | 0 | 1 | 1 | 1 |
