@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-13 05:17 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-13 05:45 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,7 +94,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 245 | 245 | 273 |
-| Con CloudSync | 336 | 336 | 409 |
+| Con CloudSync | 336 | 336 | 410 |
 | % con CloudSync | | | 150% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -112,24 +112,24 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 662 | 12 | 81 | 657 | 657 | 755 |
+| pcsx2 | 663 | 12 | 81 | 657 | 657 | 756 |
 | azahar | 595 | 51 | 75 | 623 | 623 | 721 |
-| duckstation | 645 | 49 | 26 | 622 | 622 | 720 |
-| esde | 546 | 46 | 120 | 592 | 592 | 712 |
-| ryujinx | 561 | 52 | 78 | 600 | 600 | 691 |
-| cemu | 602 | 50 | 18 | 582 | 582 | 670 |
+| duckstation | 646 | 49 | 26 | 622 | 622 | 721 |
+| esde | 547 | 46 | 120 | 592 | 592 | 713 |
+| ryujinx | 562 | 52 | 78 | 600 | 600 | 692 |
+| cemu | 603 | 50 | 18 | 582 | 582 | 671 |
 | rpcs3 | 591 | 48 | 26 | 572 | 572 | 665 |
 | xenia | 541 | 44 | 54 | 557 | 557 | 639 |
-| srm | 524 | 36 | 47 | 534 | 534 | 607 |
+| srm | 525 | 36 | 47 | 534 | 534 | 608 |
 | shadps4 | 499 | 48 | 44 | 511 | 511 | 591 |
 | vita3k | 534 | 44 | 12 | 506 | 506 | 590 |
-| cloudsync | 300 | 13 | 116 | 354 | 354 | 429 |
+| cloudsync | 301 | 13 | 116 | 354 | 354 | 430 |
 | ra | 273 | 39 | 26 | 302 | 302 | 338 |
 | ppsspp | 245 | 36 | 56 | 300 | 300 | 337 |
 | dolphin | 267 | 38 | 29 | 294 | 294 | 334 |
 | xemu | 228 | 29 | 22 | 248 | 248 | 279 |
 | melonds | 227 | 28 | 18 | 240 | 240 | 273 |
-| mgba | 228 | 22 | 20 | 233 | 233 | 270 |
+| mgba | 229 | 22 | 20 | 233 | 233 | 271 |
 | primehack | 200 | 30 | 21 | 222 | 222 | 251 |
 | supermodel | 190 | 35 | 5 | 207 | 207 | 230 |
 | model2 | 191 | 35 | 3 | 205 | 205 | 229 |

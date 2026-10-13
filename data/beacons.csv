@@ -995,7 +995,7 @@ date,name,total
 2026-10-13,bigpemu-linux-arm,3
 2026-10-13,bigpemu-mac,0
 2026-10-13,bigpemu-windows,2
-2026-10-13,cemu-linux,602
+2026-10-13,cemu-linux,603
 2026-10-13,cemu-linux-arm,50
 2026-10-13,cemu-mac,0
 2026-10-13,cemu-windows,18
@@ -1003,18 +1003,18 @@ date,name,total
 2026-10-13,citron-linux-arm,0
 2026-10-13,citron-mac,0
 2026-10-13,citron-windows,0
-2026-10-13,cloudsync-linux,300
+2026-10-13,cloudsync-linux,301
 2026-10-13,cloudsync-linux-arm,13
 2026-10-13,cloudsync-windows,116
 2026-10-13,dolphin-linux,267
 2026-10-13,dolphin-linux-arm,38
 2026-10-13,dolphin-mac,0
 2026-10-13,dolphin-windows,29
-2026-10-13,duckstation-linux,645
+2026-10-13,duckstation-linux,646
 2026-10-13,duckstation-linux-arm,49
 2026-10-13,duckstation-mac,0
 2026-10-13,duckstation-windows,26
-2026-10-13,early-cloudsync-linux,287
+2026-10-13,early-cloudsync-linux,288
 2026-10-13,early-cloudsync-linux-arm,12
 2026-10-13,early-cloudsync-windows,110
 2026-10-13,early-linux,193
@@ -1024,7 +1024,7 @@ date,name,total
 2026-10-13,eden-linux-arm,3
 2026-10-13,eden-mac,0
 2026-10-13,eden-windows,0
-2026-10-13,esde-linux,546
+2026-10-13,esde-linux,547
 2026-10-13,esde-linux-arm,46
 2026-10-13,esde-mac,0
 2026-10-13,esde-windows,120
@@ -1040,7 +1040,7 @@ date,name,total
 2026-10-13,melonds-linux-arm,28
 2026-10-13,melonds-mac,0
 2026-10-13,melonds-windows,18
-2026-10-13,mgba-linux,228
+2026-10-13,mgba-linux,229
 2026-10-13,mgba-linux-arm,22
 2026-10-13,mgba-mac,0
 2026-10-13,mgba-windows,20
@@ -1048,7 +1048,7 @@ date,name,total
 2026-10-13,model2-linux-arm,35
 2026-10-13,model2-mac,0
 2026-10-13,model2-windows,3
-2026-10-13,pcsx2-linux,662
+2026-10-13,pcsx2-linux,663
 2026-10-13,pcsx2-linux-arm,12
 2026-10-13,pcsx2-mac,0
 2026-10-13,pcsx2-windows,81
@@ -1076,7 +1076,7 @@ date,name,total
 2026-10-13,rpcs3-linux-arm,48
 2026-10-13,rpcs3-mac,0
 2026-10-13,rpcs3-windows,26
-2026-10-13,ryujinx-linux,561
+2026-10-13,ryujinx-linux,562
 2026-10-13,ryujinx-linux-arm,52
 2026-10-13,ryujinx-mac,0
 2026-10-13,ryujinx-windows,78
@@ -1088,7 +1088,7 @@ date,name,total
 2026-10-13,shadps4-linux-arm,48
 2026-10-13,shadps4-mac,0
 2026-10-13,shadps4-windows,44
-2026-10-13,srm-linux,524
+2026-10-13,srm-linux,525
 2026-10-13,srm-linux-arm,36
 2026-10-13,srm-mac,0
 2026-10-13,srm-windows,47
