@@ -1006,7 +1006,7 @@ date,name,total
 2026-10-13,cloudsync-linux,303
 2026-10-13,cloudsync-linux-arm,13
 2026-10-13,cloudsync-windows,117
-2026-10-13,dolphin-linux,272
+2026-10-13,dolphin-linux,273
 2026-10-13,dolphin-linux-arm,39
 2026-10-13,dolphin-mac,0
 2026-10-13,dolphin-windows,29
@@ -1028,7 +1028,7 @@ date,name,total
 2026-10-13,esde-linux-arm,46
 2026-10-13,esde-mac,0
 2026-10-13,esde-windows,120
-2026-10-13,flycast-linux,56
+2026-10-13,flycast-linux,57
 2026-10-13,flycast-linux-arm,9
 2026-10-13,flycast-mac,0
 2026-10-13,flycast-windows,5
