@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-13 06:28 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-13 07:04 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,17 +112,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 664 | 12 | 81 | 657 | 657 | 757 |
-| duckstation | 647 | 49 | 26 | 622 | 622 | 722 |
-| azahar | 595 | 51 | 75 | 623 | 623 | 721 |
-| esde | 548 | 46 | 120 | 592 | 592 | 714 |
-| ryujinx | 562 | 52 | 78 | 600 | 600 | 692 |
-| cemu | 603 | 50 | 18 | 582 | 582 | 671 |
-| rpcs3 | 591 | 48 | 26 | 572 | 572 | 665 |
-| xenia | 541 | 44 | 54 | 557 | 557 | 639 |
-| srm | 525 | 36 | 47 | 534 | 534 | 608 |
-| shadps4 | 499 | 48 | 44 | 511 | 511 | 591 |
-| vita3k | 534 | 44 | 12 | 506 | 506 | 590 |
+| pcsx2 | 666 | 12 | 81 | 657 | 657 | 759 |
+| duckstation | 649 | 49 | 26 | 622 | 622 | 724 |
+| azahar | 597 | 51 | 75 | 623 | 623 | 723 |
+| esde | 550 | 46 | 120 | 592 | 592 | 716 |
+| ryujinx | 563 | 52 | 78 | 600 | 600 | 693 |
+| cemu | 605 | 50 | 18 | 582 | 582 | 673 |
+| rpcs3 | 593 | 48 | 26 | 572 | 572 | 667 |
+| xenia | 543 | 44 | 54 | 557 | 557 | 641 |
+| srm | 526 | 36 | 48 | 534 | 534 | 610 |
+| shadps4 | 501 | 48 | 44 | 511 | 511 | 593 |
+| vita3k | 535 | 44 | 12 | 506 | 506 | 591 |
 | cloudsync | 303 | 13 | 116 | 354 | 354 | 432 |
 | ppsspp | 246 | 36 | 56 | 300 | 300 | 338 |
 | ra | 273 | 39 | 26 | 302 | 302 | 338 |
@@ -134,7 +134,7 @@ xychart-beta
 | supermodel | 190 | 35 | 5 | 207 | 207 | 230 |
 | model2 | 191 | 35 | 3 | 205 | 205 | 229 |
 | scummvm | 189 | 26 | 12 | 202 | 202 | 227 |
-| bigpemu | 159 | 3 | 2 | 136 | 136 | 164 |
+| bigpemu | 160 | 3 | 2 | 136 | 136 | 165 |
 | armsx2 | 50 | 52 | 0 | 88 | 88 | 102 |
 | flycast | 54 | 9 | 5 | 60 | 60 | 68 |
 | rmg | 45 | 16 | 0 | 52 | 52 | 61 |
