@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-14 08:20 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-14 08:45 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 280 | 280 | 312 |
-| Con CloudSync | 385 | 385 | 482 |
-| % con CloudSync | | | 154% |
+| Con CloudSync | 385 | 385 | 484 |
+| % con CloudSync | | | 155% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -118,22 +118,22 @@ xychart-beta
 | esde | 642 | 53 | 134 | 686 | 686 | 829 |
 | ryujinx | 651 | 61 | 88 | 685 | 685 | 800 |
 | rpcs3 | 689 | 59 | 29 | 660 | 660 | 777 |
-| cemu | 692 | 60 | 19 | 666 | 666 | 771 |
-| xenia | 627 | 52 | 66 | 645 | 645 | 745 |
+| cemu | 693 | 60 | 19 | 666 | 666 | 772 |
+| xenia | 628 | 52 | 66 | 645 | 645 | 746 |
 | srm | 598 | 46 | 60 | 622 | 622 | 704 |
-| shadps4 | 581 | 53 | 51 | 579 | 579 | 685 |
-| vita3k | 620 | 52 | 13 | 579 | 579 | 685 |
-| cloudsync | 355 | 14 | 133 | 403 | 403 | 502 |
+| shadps4 | 582 | 53 | 51 | 579 | 579 | 686 |
+| vita3k | 621 | 52 | 13 | 579 | 579 | 686 |
+| cloudsync | 355 | 14 | 135 | 403 | 403 | 504 |
 | ppsspp | 280 | 40 | 68 | 340 | 340 | 388 |
 | dolphin | 309 | 43 | 35 | 336 | 336 | 387 |
 | ra | 309 | 43 | 27 | 336 | 336 | 379 |
 | mgba | 279 | 23 | 20 | 278 | 278 | 322 |
-| melonds | 260 | 32 | 22 | 274 | 274 | 314 |
-| xemu | 258 | 33 | 23 | 275 | 275 | 314 |
+| melonds | 261 | 32 | 22 | 274 | 274 | 315 |
+| xemu | 259 | 33 | 23 | 275 | 275 | 315 |
 | primehack | 226 | 34 | 24 | 246 | 246 | 284 |
-| model2 | 219 | 43 | 4 | 234 | 234 | 266 |
-| supermodel | 218 | 40 | 6 | 232 | 232 | 264 |
-| scummvm | 218 | 30 | 12 | 225 | 225 | 260 |
+| model2 | 220 | 43 | 4 | 234 | 234 | 267 |
+| supermodel | 219 | 40 | 6 | 232 | 232 | 265 |
+| scummvm | 219 | 30 | 12 | 225 | 225 | 261 |
 | bigpemu | 195 | 3 | 3 | 166 | 166 | 201 |
 | armsx2 | 66 | 61 | 0 | 107 | 107 | 127 |
 | flycast | 64 | 10 | 5 | 73 | 73 | 79 |
