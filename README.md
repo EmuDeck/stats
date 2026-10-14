@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-14 03:43 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-14 04:17 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,30 +112,30 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 752 | 15 | 94 | 753 | 753 | 861 |
-| azahar | 674 | 59 | 87 | 717 | 717 | 820 |
-| duckstation | 734 | 57 | 27 | 715 | 715 | 818 |
-| esde | 623 | 52 | 133 | 686 | 686 | 808 |
-| ryujinx | 628 | 60 | 88 | 685 | 685 | 776 |
-| rpcs3 | 670 | 57 | 29 | 660 | 660 | 756 |
-| cemu | 675 | 59 | 19 | 666 | 666 | 753 |
-| xenia | 613 | 51 | 65 | 645 | 645 | 729 |
-| srm | 586 | 46 | 59 | 622 | 622 | 691 |
-| shadps4 | 567 | 52 | 51 | 579 | 579 | 670 |
-| vita3k | 605 | 51 | 13 | 579 | 579 | 669 |
+| pcsx2 | 755 | 15 | 94 | 753 | 753 | 864 |
+| azahar | 676 | 59 | 87 | 717 | 717 | 822 |
+| duckstation | 737 | 57 | 27 | 715 | 715 | 821 |
+| esde | 625 | 52 | 133 | 686 | 686 | 810 |
+| ryujinx | 633 | 60 | 88 | 685 | 685 | 781 |
+| rpcs3 | 674 | 57 | 29 | 660 | 660 | 760 |
+| cemu | 677 | 59 | 19 | 666 | 666 | 755 |
+| xenia | 616 | 51 | 65 | 645 | 645 | 732 |
+| srm | 589 | 46 | 59 | 622 | 622 | 694 |
+| shadps4 | 570 | 52 | 51 | 579 | 579 | 673 |
+| vita3k | 607 | 51 | 13 | 579 | 579 | 671 |
 | cloudsync | 343 | 13 | 129 | 403 | 403 | 485 |
 | ppsspp | 275 | 40 | 67 | 340 | 340 | 382 |
 | dolphin | 301 | 43 | 31 | 336 | 336 | 375 |
 | ra | 304 | 43 | 27 | 336 | 336 | 374 |
-| mgba | 268 | 23 | 20 | 278 | 278 | 311 |
+| mgba | 270 | 23 | 20 | 278 | 278 | 313 |
 | melonds | 256 | 32 | 22 | 274 | 274 | 310 |
 | xemu | 254 | 33 | 23 | 275 | 275 | 310 |
 | primehack | 220 | 34 | 24 | 246 | 246 | 278 |
 | model2 | 216 | 43 | 4 | 234 | 234 | 263 |
 | supermodel | 215 | 40 | 6 | 232 | 232 | 261 |
 | scummvm | 214 | 30 | 12 | 225 | 225 | 256 |
-| bigpemu | 190 | 3 | 2 | 166 | 166 | 195 |
-| armsx2 | 63 | 60 | 0 | 107 | 107 | 123 |
+| bigpemu | 191 | 3 | 2 | 166 | 166 | 196 |
+| armsx2 | 64 | 60 | 0 | 107 | 107 | 124 |
 | flycast | 63 | 10 | 5 | 73 | 73 | 78 |
 | rmg | 52 | 17 | 0 | 65 | 65 | 69 |
 | mame | 41 | 2 | 9 | 48 | 48 | 52 |
