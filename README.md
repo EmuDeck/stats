@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-14 10:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-14 10:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 280 | 280 | 312 |
-| Con CloudSync | 385 | 385 | 485 |
-| % con CloudSync | | | 155% |
+| Con CloudSync | 385 | 385 | 486 |
+| % con CloudSync | | | 156% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -123,7 +123,7 @@ xychart-beta
 | srm | 599 | 46 | 60 | 622 | 622 | 705 |
 | shadps4 | 583 | 53 | 51 | 579 | 579 | 687 |
 | vita3k | 622 | 52 | 13 | 579 | 579 | 687 |
-| cloudsync | 355 | 14 | 136 | 403 | 403 | 505 |
+| cloudsync | 355 | 14 | 137 | 403 | 403 | 506 |
 | dolphin | 309 | 43 | 36 | 336 | 336 | 388 |
 | ppsspp | 280 | 40 | 68 | 340 | 340 | 388 |
 | ra | 309 | 43 | 28 | 336 | 336 | 380 |
@@ -137,7 +137,7 @@ xychart-beta
 | bigpemu | 196 | 3 | 3 | 166 | 166 | 202 |
 | armsx2 | 66 | 61 | 0 | 107 | 107 | 127 |
 | flycast | 64 | 10 | 5 | 73 | 73 | 79 |
-| rmg | 54 | 17 | 0 | 65 | 65 | 71 |
+| rmg | 55 | 17 | 0 | 65 | 65 | 72 |
 | mame | 41 | 2 | 9 | 48 | 48 | 52 |
 | eden | 26 | 6 | 0 | 21 | 21 | 32 |
 | pegasus | 5 | 0 | 4 | 6 | 6 | 9 |
