@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-14 10:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-14 11:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,7 +112,7 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 772 | 15 | 96 | 753 | 753 | 883 |
+| pcsx2 | 773 | 15 | 96 | 753 | 753 | 884 |
 | azahar | 692 | 60 | 88 | 717 | 717 | 840 |
 | duckstation | 753 | 58 | 28 | 715 | 715 | 839 |
 | esde | 643 | 53 | 135 | 686 | 686 | 831 |
@@ -120,7 +120,7 @@ xychart-beta
 | rpcs3 | 690 | 59 | 30 | 660 | 660 | 779 |
 | cemu | 694 | 60 | 20 | 666 | 666 | 774 |
 | xenia | 629 | 52 | 66 | 645 | 645 | 747 |
-| srm | 599 | 46 | 60 | 622 | 622 | 705 |
+| srm | 600 | 46 | 60 | 622 | 622 | 706 |
 | shadps4 | 583 | 53 | 51 | 579 | 579 | 687 |
 | vita3k | 622 | 52 | 13 | 579 | 579 | 687 |
 | cloudsync | 355 | 14 | 137 | 403 | 403 | 506 |
