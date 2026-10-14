@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-14 20:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-14 20:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,29 +112,29 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 816 | 15 | 97 | 753 | 753 | 928 |
-| azahar | 731 | 64 | 90 | 717 | 717 | 885 |
-| duckstation | 790 | 62 | 30 | 715 | 715 | 882 |
-| esde | 675 | 57 | 138 | 686 | 686 | 870 |
-| ryujinx | 684 | 64 | 89 | 685 | 685 | 837 |
-| rpcs3 | 731 | 62 | 32 | 660 | 660 | 825 |
-| cemu | 733 | 62 | 21 | 666 | 666 | 816 |
-| xenia | 666 | 54 | 67 | 645 | 645 | 787 |
-| srm | 631 | 47 | 60 | 622 | 622 | 738 |
-| shadps4 | 621 | 56 | 54 | 579 | 579 | 731 |
-| vita3k | 656 | 54 | 14 | 579 | 579 | 724 |
+| pcsx2 | 818 | 15 | 97 | 753 | 753 | 930 |
+| azahar | 733 | 64 | 91 | 717 | 717 | 888 |
+| duckstation | 792 | 62 | 30 | 715 | 715 | 884 |
+| esde | 678 | 57 | 138 | 686 | 686 | 873 |
+| ryujinx | 686 | 64 | 89 | 685 | 685 | 839 |
+| rpcs3 | 733 | 62 | 32 | 660 | 660 | 827 |
+| cemu | 736 | 62 | 21 | 666 | 666 | 819 |
+| xenia | 668 | 54 | 67 | 645 | 645 | 789 |
+| srm | 632 | 47 | 60 | 622 | 622 | 739 |
+| shadps4 | 623 | 56 | 54 | 579 | 579 | 733 |
+| vita3k | 658 | 54 | 14 | 579 | 579 | 726 |
 | cloudsync | 367 | 16 | 141 | 403 | 403 | 524 |
 | dolphin | 324 | 45 | 38 | 336 | 336 | 407 |
 | ppsspp | 294 | 42 | 68 | 340 | 340 | 404 |
 | ra | 327 | 45 | 30 | 336 | 336 | 402 |
 | melonds | 279 | 34 | 23 | 274 | 274 | 336 |
 | xemu | 274 | 35 | 24 | 275 | 275 | 333 |
-| mgba | 286 | 23 | 20 | 278 | 278 | 329 |
+| mgba | 287 | 23 | 20 | 278 | 278 | 330 |
 | primehack | 241 | 36 | 24 | 246 | 246 | 301 |
 | supermodel | 242 | 42 | 7 | 232 | 232 | 291 |
 | model2 | 238 | 45 | 4 | 234 | 234 | 287 |
 | scummvm | 234 | 31 | 12 | 225 | 225 | 277 |
-| bigpemu | 203 | 3 | 4 | 166 | 166 | 210 |
+| bigpemu | 203 | 3 | 5 | 166 | 166 | 211 |
 | armsx2 | 68 | 65 | 0 | 107 | 107 | 133 |
 | flycast | 67 | 10 | 5 | 73 | 73 | 82 |
 | rmg | 57 | 17 | 0 | 65 | 65 | 74 |
@@ -143,4 +143,4 @@ xychart-beta
 | pegasus | 6 | 0 | 4 | 6 | 6 | 10 |
 | yuzu | 6 | 0 | 0 | 4 | 4 | 6 |
 | ares | 3 | 1 | 0 | 4 | 4 | 4 |
-| citron | 1 | 0 | 0 | 1 | 1 | 1 |
+| citron | 2 | 0 | 0 | 1 | 1 | 2 |
