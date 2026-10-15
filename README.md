@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-15 05:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-15 05:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -113,28 +113,28 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 850 | 15 | 98 | 778 | 873 | 963 |
-| azahar | 761 | 66 | 92 | 739 | 827 | 919 |
-| duckstation | 821 | 64 | 32 | 738 | 825 | 917 |
-| esde | 703 | 59 | 143 | 709 | 793 | 905 |
+| azahar | 764 | 66 | 92 | 739 | 827 | 922 |
+| duckstation | 823 | 64 | 32 | 738 | 825 | 919 |
+| esde | 705 | 59 | 143 | 709 | 793 | 907 |
 | ryujinx | 718 | 66 | 94 | 704 | 788 | 878 |
+| cemu | 771 | 65 | 22 | 695 | 775 | 858 |
 | rpcs3 | 761 | 64 | 33 | 698 | 776 | 858 |
-| cemu | 768 | 65 | 22 | 695 | 775 | 855 |
 | xenia | 697 | 55 | 68 | 668 | 747 | 820 |
 | srm | 655 | 48 | 63 | 628 | 704 | 766 |
 | shadps4 | 649 | 56 | 57 | 603 | 684 | 762 |
 | vita3k | 687 | 56 | 14 | 614 | 682 | 757 |
 | cloudsync | 382 | 16 | 144 | 410 | 470 | 542 |
-| dolphin | 334 | 46 | 39 | 350 | 384 | 419 |
+| dolphin | 334 | 46 | 40 | 350 | 384 | 420 |
 | ra | 335 | 47 | 32 | 346 | 381 | 414 |
 | ppsspp | 301 | 43 | 68 | 348 | 379 | 412 |
 | melonds | 289 | 35 | 24 | 286 | 317 | 348 |
+| mgba | 300 | 23 | 21 | 278 | 313 | 344 |
 | xemu | 283 | 36 | 25 | 288 | 314 | 344 |
-| mgba | 298 | 23 | 21 | 278 | 313 | 342 |
 | primehack | 248 | 37 | 24 | 260 | 283 | 309 |
 | supermodel | 249 | 43 | 7 | 256 | 277 | 299 |
 | model2 | 245 | 46 | 4 | 251 | 273 | 295 |
 | scummvm | 241 | 32 | 12 | 238 | 260 | 285 |
-| bigpemu | 211 | 3 | 5 | 179 | 197 | 219 |
+| bigpemu | 213 | 3 | 5 | 179 | 197 | 221 |
 | armsx2 | 70 | 67 | 0 | 112 | 125 | 137 |
 | flycast | 68 | 10 | 5 | 69 | 78 | 83 |
 | rmg | 60 | 17 | 0 | 65 | 71 | 77 |

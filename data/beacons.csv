@@ -1267,15 +1267,15 @@ date,name,total
 2026-10-15,armsx2-linux-arm,67
 2026-10-15,armsx2-mac,0
 2026-10-15,armsx2-windows,0
-2026-10-15,azahar-linux,761
+2026-10-15,azahar-linux,764
 2026-10-15,azahar-linux-arm,66
 2026-10-15,azahar-mac,0
 2026-10-15,azahar-windows,92
-2026-10-15,bigpemu-linux,211
+2026-10-15,bigpemu-linux,213
 2026-10-15,bigpemu-linux-arm,3
 2026-10-15,bigpemu-mac,0
 2026-10-15,bigpemu-windows,5
-2026-10-15,cemu-linux,768
+2026-10-15,cemu-linux,771
 2026-10-15,cemu-linux-arm,65
 2026-10-15,cemu-mac,0
 2026-10-15,cemu-windows,22
@@ -1289,8 +1289,8 @@ date,name,total
 2026-10-15,dolphin-linux,334
 2026-10-15,dolphin-linux-arm,46
 2026-10-15,dolphin-mac,0
-2026-10-15,dolphin-windows,39
-2026-10-15,duckstation-linux,821
+2026-10-15,dolphin-windows,40
+2026-10-15,duckstation-linux,823
 2026-10-15,duckstation-linux-arm,64
 2026-10-15,duckstation-mac,0
 2026-10-15,duckstation-windows,32
@@ -1304,7 +1304,7 @@ date,name,total
 2026-10-15,eden-linux-arm,6
 2026-10-15,eden-mac,0
 2026-10-15,eden-windows,0
-2026-10-15,esde-linux,703
+2026-10-15,esde-linux,705
 2026-10-15,esde-linux-arm,59
 2026-10-15,esde-mac,0
 2026-10-15,esde-windows,143
@@ -1320,7 +1320,7 @@ date,name,total
 2026-10-15,melonds-linux-arm,35
 2026-10-15,melonds-mac,0
 2026-10-15,melonds-windows,24
-2026-10-15,mgba-linux,298
+2026-10-15,mgba-linux,300
 2026-10-15,mgba-linux-arm,23
 2026-10-15,mgba-mac,0
 2026-10-15,mgba-windows,21
