@@ -1267,7 +1267,7 @@ date,name,total
 2026-10-15,armsx2-linux-arm,69
 2026-10-15,armsx2-mac,0
 2026-10-15,armsx2-windows,0
-2026-10-15,azahar-linux,773
+2026-10-15,azahar-linux,774
 2026-10-15,azahar-linux-arm,66
 2026-10-15,azahar-mac,0
 2026-10-15,azahar-windows,94
@@ -1352,11 +1352,11 @@ date,name,total
 2026-10-15,rmg-linux-arm,17
 2026-10-15,rmg-mac,0
 2026-10-15,rmg-windows,0
-2026-10-15,rpcs3-linux,773
+2026-10-15,rpcs3-linux,775
 2026-10-15,rpcs3-linux-arm,66
 2026-10-15,rpcs3-mac,0
 2026-10-15,rpcs3-windows,33
-2026-10-15,ryujinx-linux,729
+2026-10-15,ryujinx-linux,731
 2026-10-15,ryujinx-linux-arm,68
 2026-10-15,ryujinx-mac,0
 2026-10-15,ryujinx-windows,95
@@ -1364,11 +1364,11 @@ date,name,total
 2026-10-15,scummvm-linux-arm,32
 2026-10-15,scummvm-mac,0
 2026-10-15,scummvm-windows,12
-2026-10-15,shadps4-linux,660
+2026-10-15,shadps4-linux,662
 2026-10-15,shadps4-linux-arm,56
 2026-10-15,shadps4-mac,0
 2026-10-15,shadps4-windows,59
-2026-10-15,srm-linux,667
+2026-10-15,srm-linux,671
 2026-10-15,srm-linux-arm,49
 2026-10-15,srm-mac,0
 2026-10-15,srm-windows,64
