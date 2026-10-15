@@ -1270,7 +1270,7 @@ date,name,total
 2026-10-15,azahar-linux,770
 2026-10-15,azahar-linux-arm,66
 2026-10-15,azahar-mac,0
-2026-10-15,azahar-windows,93
+2026-10-15,azahar-windows,94
 2026-10-15,bigpemu-linux,215
 2026-10-15,bigpemu-linux-arm,3
 2026-10-15,bigpemu-mac,0
@@ -1287,7 +1287,7 @@ date,name,total
 2026-10-15,cloudsync-linux-arm,16
 2026-10-15,cloudsync-windows,144
 2026-10-15,dolphin-linux,338
-2026-10-15,dolphin-linux-arm,46
+2026-10-15,dolphin-linux-arm,47
 2026-10-15,dolphin-mac,0
 2026-10-15,dolphin-windows,40
 2026-10-15,duckstation-linux,829

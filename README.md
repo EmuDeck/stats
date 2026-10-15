@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-15 09:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-15 09:42 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -113,7 +113,7 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 859 | 15 | 99 | 778 | 873 | 973 |
-| azahar | 770 | 66 | 93 | 739 | 827 | 929 |
+| azahar | 770 | 66 | 94 | 739 | 827 | 930 |
 | duckstation | 829 | 64 | 32 | 738 | 825 | 925 |
 | esde | 708 | 59 | 143 | 709 | 793 | 910 |
 | ryujinx | 725 | 66 | 95 | 704 | 788 | 886 |
@@ -124,7 +124,7 @@ xychart-beta
 | shadps4 | 657 | 56 | 58 | 603 | 684 | 771 |
 | vita3k | 695 | 56 | 14 | 614 | 682 | 765 |
 | cloudsync | 382 | 16 | 144 | 410 | 470 | 542 |
-| dolphin | 338 | 46 | 40 | 350 | 384 | 424 |
+| dolphin | 338 | 47 | 40 | 350 | 384 | 425 |
 | ra | 339 | 47 | 32 | 346 | 381 | 418 |
 | ppsspp | 305 | 43 | 69 | 348 | 379 | 417 |
 | melonds | 293 | 35 | 24 | 286 | 317 | 352 |
