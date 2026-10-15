@@ -1289,8 +1289,8 @@ date,name,total
 2026-10-15,dolphin-linux,334
 2026-10-15,dolphin-linux-arm,46
 2026-10-15,dolphin-mac,0
-2026-10-15,dolphin-windows,38
-2026-10-15,duckstation-linux,819
+2026-10-15,dolphin-windows,39
+2026-10-15,duckstation-linux,820
 2026-10-15,duckstation-linux-arm,64
 2026-10-15,duckstation-mac,0
 2026-10-15,duckstation-windows,32
@@ -1367,7 +1367,7 @@ date,name,total
 2026-10-15,shadps4-linux,648
 2026-10-15,shadps4-linux-arm,56
 2026-10-15,shadps4-mac,0
-2026-10-15,shadps4-windows,56
+2026-10-15,shadps4-windows,57
 2026-10-15,srm-linux,654
 2026-10-15,srm-linux-arm,48
 2026-10-15,srm-mac,0
@@ -1391,7 +1391,7 @@ date,name,total
 2026-10-15,xemu-linux-arm,36
 2026-10-15,xemu-mac,0
 2026-10-15,xemu-windows,25
-2026-10-15,xenia-linux,694
+2026-10-15,xenia-linux,695
 2026-10-15,xenia-linux-arm,55
 2026-10-15,xenia-mac,0
 2026-10-15,xenia-windows,68
