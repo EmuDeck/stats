@@ -1275,7 +1275,7 @@ date,name,total
 2026-10-15,bigpemu-linux-arm,3
 2026-10-15,bigpemu-mac,0
 2026-10-15,bigpemu-windows,5
-2026-10-15,cemu-linux,795
+2026-10-15,cemu-linux,798
 2026-10-15,cemu-linux-arm,67
 2026-10-15,cemu-mac,0
 2026-10-15,cemu-windows,22
@@ -1300,15 +1300,15 @@ date,name,total
 2026-10-15,early-linux,245
 2026-10-15,early-linux-arm,41
 2026-10-15,early-windows,55
-2026-10-15,eden-linux,32
+2026-10-15,eden-linux,33
 2026-10-15,eden-linux-arm,6
 2026-10-15,eden-mac,0
 2026-10-15,eden-windows,0
-2026-10-15,esde-linux,717
+2026-10-15,esde-linux,719
 2026-10-15,esde-linux-arm,59
 2026-10-15,esde-mac,0
 2026-10-15,esde-windows,149
-2026-10-15,flycast-linux,72
+2026-10-15,flycast-linux,73
 2026-10-15,flycast-linux-arm,10
 2026-10-15,flycast-mac,0
 2026-10-15,flycast-windows,5
@@ -1368,7 +1368,7 @@ date,name,total
 2026-10-15,shadps4-linux-arm,56
 2026-10-15,shadps4-mac,0
 2026-10-15,shadps4-windows,60
-2026-10-15,srm-linux,690
+2026-10-15,srm-linux,692
 2026-10-15,srm-linux-arm,49
 2026-10-15,srm-mac,0
 2026-10-15,srm-windows,66
@@ -1391,7 +1391,7 @@ date,name,total
 2026-10-15,xemu-linux-arm,36
 2026-10-15,xemu-mac,0
 2026-10-15,xemu-windows,25
-2026-10-15,xenia-linux,721
+2026-10-15,xenia-linux,722
 2026-10-15,xenia-linux-arm,55
 2026-10-15,xenia-mac,0
 2026-10-15,xenia-windows,70
