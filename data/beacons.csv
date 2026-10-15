@@ -1264,7 +1264,7 @@ date,name,total
 2026-10-15,ares-mac,0
 2026-10-15,ares-windows,0
 2026-10-15,armsx2-linux,71
-2026-10-15,armsx2-linux-arm,67
+2026-10-15,armsx2-linux-arm,69
 2026-10-15,armsx2-mac,0
 2026-10-15,armsx2-windows,0
 2026-10-15,azahar-linux,770
@@ -1276,7 +1276,7 @@ date,name,total
 2026-10-15,bigpemu-mac,0
 2026-10-15,bigpemu-windows,5
 2026-10-15,cemu-linux,777
-2026-10-15,cemu-linux-arm,65
+2026-10-15,cemu-linux-arm,67
 2026-10-15,cemu-mac,0
 2026-10-15,cemu-windows,22
 2026-10-15,citron-linux,3
@@ -1285,7 +1285,7 @@ date,name,total
 2026-10-15,citron-windows,0
 2026-10-15,cloudsync-linux,383
 2026-10-15,cloudsync-linux-arm,16
-2026-10-15,cloudsync-windows,144
+2026-10-15,cloudsync-windows,145
 2026-10-15,dolphin-linux,338
 2026-10-15,dolphin-linux-arm,47
 2026-10-15,dolphin-mac,0
@@ -1353,11 +1353,11 @@ date,name,total
 2026-10-15,rmg-mac,0
 2026-10-15,rmg-windows,0
 2026-10-15,rpcs3-linux,770
-2026-10-15,rpcs3-linux-arm,64
+2026-10-15,rpcs3-linux-arm,66
 2026-10-15,rpcs3-mac,0
 2026-10-15,rpcs3-windows,33
 2026-10-15,ryujinx-linux,726
-2026-10-15,ryujinx-linux-arm,66
+2026-10-15,ryujinx-linux-arm,68
 2026-10-15,ryujinx-mac,0
 2026-10-15,ryujinx-windows,95
 2026-10-15,scummvm-linux,245
@@ -1369,7 +1369,7 @@ date,name,total
 2026-10-15,shadps4-mac,0
 2026-10-15,shadps4-windows,59
 2026-10-15,srm-linux,665
-2026-10-15,srm-linux-arm,48
+2026-10-15,srm-linux-arm,49
 2026-10-15,srm-mac,0
 2026-10-15,srm-windows,64
 2026-10-15,supermodel-linux,253
