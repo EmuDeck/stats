@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-16 06:54 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-16 07:17 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -45,7 +45,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 23 | 263 | 339 | 368 |
+| linux | 23 | 263 | 339 | 369 |
 | linux-arm | 5 | 38 | 50 | 54 |
 | windows | 8 | 53 | 69 | 78 |
 
@@ -114,22 +114,22 @@ xychart-beta
 |---|---|---|---|---|---|---|
 | pcsx2 | 924 | 16 | 109 | 729 | 948 | 1049 |
 | azahar | 827 | 73 | 103 | 706 | 905 | 1003 |
-| duckstation | 890 | 71 | 37 | 702 | 899 | 998 |
-| esde | 756 | 63 | 156 | 671 | 860 | 975 |
-| ryujinx | 788 | 74 | 105 | 684 | 877 | 967 |
-| rpcs3 | 829 | 72 | 34 | 670 | 847 | 935 |
+| duckstation | 891 | 71 | 37 | 702 | 899 | 999 |
+| esde | 757 | 63 | 156 | 671 | 860 | 976 |
+| ryujinx | 789 | 74 | 105 | 684 | 877 | 968 |
+| rpcs3 | 831 | 72 | 34 | 670 | 847 | 937 |
 | cemu | 830 | 73 | 23 | 669 | 845 | 926 |
-| xenia | 753 | 60 | 79 | 641 | 811 | 892 |
-| srm | 720 | 53 | 79 | 608 | 786 | 852 |
+| xenia | 755 | 60 | 79 | 641 | 811 | 894 |
+| srm | 721 | 53 | 79 | 608 | 786 | 853 |
 | shadps4 | 708 | 60 | 67 | 588 | 751 | 835 |
-| vita3k | 746 | 62 | 17 | 593 | 745 | 825 |
+| vita3k | 747 | 62 | 17 | 593 | 745 | 826 |
 | cloudsync | 399 | 16 | 154 | 364 | 495 | 569 |
-| dolphin | 360 | 52 | 43 | 325 | 415 | 455 |
+| dolphin | 361 | 52 | 43 | 325 | 415 | 456 |
 | ppsspp | 326 | 48 | 74 | 322 | 406 | 448 |
 | ra | 357 | 53 | 37 | 312 | 407 | 447 |
 | mgba | 333 | 31 | 21 | 273 | 351 | 385 |
 | melonds | 312 | 40 | 26 | 268 | 341 | 378 |
-| xemu | 305 | 41 | 27 | 269 | 338 | 373 |
+| xemu | 306 | 41 | 27 | 269 | 338 | 374 |
 | primehack | 271 | 42 | 26 | 240 | 307 | 339 |
 | supermodel | 270 | 48 | 8 | 241 | 298 | 326 |
 | model2 | 264 | 51 | 4 | 231 | 291 | 319 |
@@ -137,7 +137,7 @@ xychart-beta
 | bigpemu | 229 | 3 | 6 | 180 | 218 | 238 |
 | armsx2 | 73 | 76 | 0 | 109 | 138 | 149 |
 | flycast | 74 | 12 | 5 | 62 | 84 | 91 |
-| rmg | 68 | 20 | 0 | 60 | 82 | 88 |
+| rmg | 69 | 20 | 0 | 60 | 82 | 89 |
 | mame | 45 | 2 | 9 | 34 | 51 | 56 |
 | eden | 33 | 7 | 0 | 31 | 31 | 40 |
 | pegasus | 9 | 0 | 7 | 13 | 14 | 16 |
