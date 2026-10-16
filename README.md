@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-16 11:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-16 11:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,7 +94,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 263 | 331 | 365 |
-| Con CloudSync | 349 | 476 | 550 |
+| Con CloudSync | 349 | 476 | 551 |
 | % con CloudSync | | | 151% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -112,19 +112,19 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 931 | 16 | 109 | 729 | 948 | 1056 |
-| azahar | 834 | 74 | 104 | 706 | 905 | 1012 |
-| duckstation | 898 | 71 | 37 | 702 | 899 | 1006 |
-| esde | 761 | 63 | 156 | 671 | 860 | 980 |
-| ryujinx | 797 | 75 | 105 | 684 | 877 | 977 |
-| rpcs3 | 839 | 73 | 34 | 670 | 847 | 946 |
-| cemu | 837 | 73 | 23 | 669 | 845 | 933 |
-| xenia | 762 | 60 | 79 | 641 | 811 | 901 |
-| srm | 728 | 53 | 79 | 608 | 786 | 860 |
-| shadps4 | 716 | 60 | 67 | 588 | 751 | 843 |
-| vita3k | 754 | 63 | 17 | 593 | 745 | 834 |
-| cloudsync | 400 | 16 | 155 | 364 | 495 | 571 |
-| dolphin | 364 | 53 | 43 | 325 | 415 | 460 |
+| pcsx2 | 933 | 16 | 109 | 729 | 948 | 1058 |
+| azahar | 836 | 75 | 104 | 706 | 905 | 1015 |
+| duckstation | 900 | 71 | 37 | 702 | 899 | 1008 |
+| esde | 764 | 63 | 156 | 671 | 860 | 983 |
+| ryujinx | 799 | 75 | 105 | 684 | 877 | 979 |
+| rpcs3 | 841 | 73 | 34 | 670 | 847 | 948 |
+| cemu | 838 | 73 | 23 | 669 | 845 | 934 |
+| xenia | 764 | 60 | 79 | 641 | 811 | 903 |
+| srm | 730 | 53 | 79 | 608 | 786 | 862 |
+| shadps4 | 718 | 60 | 67 | 588 | 751 | 845 |
+| vita3k | 756 | 63 | 17 | 593 | 745 | 836 |
+| cloudsync | 401 | 16 | 155 | 364 | 495 | 572 |
+| dolphin | 365 | 53 | 43 | 325 | 415 | 461 |
 | ppsspp | 329 | 49 | 74 | 322 | 406 | 452 |
 | ra | 360 | 53 | 37 | 312 | 407 | 450 |
 | mgba | 335 | 31 | 21 | 273 | 351 | 387 |
