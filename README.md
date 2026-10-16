@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-16 10:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-16 10:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,7 +94,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 263 | 331 | 364 |
-| Con CloudSync | 349 | 476 | 549 |
+| Con CloudSync | 349 | 476 | 550 |
 | % con CloudSync | | | 151% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -112,18 +112,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 929 | 16 | 109 | 729 | 948 | 1054 |
-| azahar | 832 | 73 | 103 | 706 | 905 | 1008 |
-| duckstation | 896 | 71 | 37 | 702 | 899 | 1004 |
+| pcsx2 | 930 | 16 | 109 | 729 | 948 | 1055 |
+| azahar | 833 | 73 | 104 | 706 | 905 | 1010 |
+| duckstation | 897 | 71 | 37 | 702 | 899 | 1005 |
 | esde | 760 | 63 | 156 | 671 | 860 | 979 |
-| ryujinx | 793 | 74 | 105 | 684 | 877 | 972 |
-| rpcs3 | 836 | 72 | 34 | 670 | 847 | 942 |
-| cemu | 835 | 73 | 23 | 669 | 845 | 931 |
-| xenia | 760 | 60 | 79 | 641 | 811 | 899 |
-| srm | 726 | 53 | 79 | 608 | 786 | 858 |
-| shadps4 | 713 | 60 | 67 | 588 | 751 | 840 |
-| vita3k | 752 | 62 | 17 | 593 | 745 | 831 |
-| cloudsync | 400 | 16 | 154 | 364 | 495 | 570 |
+| ryujinx | 795 | 74 | 105 | 684 | 877 | 974 |
+| rpcs3 | 837 | 72 | 34 | 670 | 847 | 943 |
+| cemu | 836 | 73 | 23 | 669 | 845 | 932 |
+| xenia | 761 | 60 | 79 | 641 | 811 | 900 |
+| srm | 727 | 53 | 79 | 608 | 786 | 859 |
+| shadps4 | 714 | 60 | 67 | 588 | 751 | 841 |
+| vita3k | 753 | 62 | 17 | 593 | 745 | 832 |
+| cloudsync | 400 | 16 | 155 | 364 | 495 | 571 |
 | dolphin | 363 | 53 | 43 | 325 | 415 | 459 |
 | ppsspp | 328 | 48 | 74 | 322 | 406 | 450 |
 | ra | 359 | 53 | 37 | 312 | 407 | 449 |
