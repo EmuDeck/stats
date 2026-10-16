@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-16 13:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-16 14:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -113,7 +113,7 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 940 | 16 | 109 | 729 | 948 | 1065 |
-| azahar | 841 | 76 | 104 | 706 | 905 | 1021 |
+| azahar | 842 | 76 | 104 | 706 | 905 | 1022 |
 | duckstation | 905 | 72 | 37 | 702 | 899 | 1014 |
 | esde | 770 | 64 | 156 | 671 | 860 | 990 |
 | ryujinx | 805 | 76 | 106 | 684 | 877 | 987 |
@@ -122,7 +122,7 @@ xychart-beta
 | xenia | 770 | 61 | 79 | 641 | 811 | 910 |
 | srm | 735 | 55 | 79 | 608 | 786 | 869 |
 | shadps4 | 725 | 61 | 67 | 588 | 751 | 853 |
-| vita3k | 761 | 64 | 17 | 593 | 745 | 842 |
+| vita3k | 762 | 64 | 17 | 593 | 745 | 843 |
 | cloudsync | 401 | 16 | 156 | 364 | 495 | 573 |
 | dolphin | 366 | 54 | 43 | 325 | 415 | 463 |
 | ppsspp | 330 | 51 | 74 | 322 | 406 | 455 |
