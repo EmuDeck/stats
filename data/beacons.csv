@@ -1423,10 +1423,10 @@ date,name,total
 2026-10-16,citron-linux-arm,0
 2026-10-16,citron-mac,0
 2026-10-16,citron-windows,0
-2026-10-16,cloudsync-linux,412
+2026-10-16,cloudsync-linux,413
 2026-10-16,cloudsync-linux-arm,16
 2026-10-16,cloudsync-windows,159
-2026-10-16,dolphin-linux,378
+2026-10-16,dolphin-linux,379
 2026-10-16,dolphin-linux-arm,54
 2026-10-16,dolphin-mac,0
 2026-10-16,dolphin-windows,43
@@ -1434,7 +1434,7 @@ date,name,total
 2026-10-16,duckstation-linux-arm,76
 2026-10-16,duckstation-mac,0
 2026-10-16,duckstation-windows,37
-2026-10-16,early-cloudsync-linux,399
+2026-10-16,early-cloudsync-linux,400
 2026-10-16,early-cloudsync-linux-arm,15
 2026-10-16,early-cloudsync-windows,152
 2026-10-16,early-linux,268
@@ -1444,7 +1444,7 @@ date,name,total
 2026-10-16,eden-linux-arm,7
 2026-10-16,eden-mac,0
 2026-10-16,eden-windows,0
-2026-10-16,esde-linux,792
+2026-10-16,esde-linux,793
 2026-10-16,esde-linux-arm,66
 2026-10-16,esde-mac,0
 2026-10-16,esde-windows,156
@@ -1476,7 +1476,7 @@ date,name,total
 2026-10-16,pegasus-linux-arm,0
 2026-10-16,pegasus-mac,0
 2026-10-16,pegasus-windows,7
-2026-10-16,ppsspp-linux,342
+2026-10-16,ppsspp-linux,343
 2026-10-16,ppsspp-linux-arm,51
 2026-10-16,ppsspp-mac,0
 2026-10-16,ppsspp-windows,74
@@ -1484,7 +1484,7 @@ date,name,total
 2026-10-16,primehack-linux-arm,43
 2026-10-16,primehack-mac,0
 2026-10-16,primehack-windows,26
-2026-10-16,ra-linux,375
+2026-10-16,ra-linux,376
 2026-10-16,ra-linux-arm,55
 2026-10-16,ra-mac,0
 2026-10-16,ra-windows,37
