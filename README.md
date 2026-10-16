@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-16 05:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-16 06:24 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,8 +94,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 263 | 331 | 363 |
-| Con CloudSync | 349 | 476 | 545 |
-| % con CloudSync | | | 150% |
+| Con CloudSync | 349 | 476 | 547 |
+| % con CloudSync | | | 151% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -112,22 +112,22 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 917 | 16 | 109 | 729 | 948 | 1042 |
+| pcsx2 | 919 | 16 | 109 | 729 | 948 | 1044 |
 | azahar | 824 | 73 | 103 | 706 | 905 | 1000 |
-| duckstation | 884 | 71 | 37 | 702 | 899 | 992 |
-| esde | 751 | 63 | 156 | 671 | 860 | 970 |
+| duckstation | 886 | 71 | 37 | 702 | 899 | 994 |
+| esde | 752 | 63 | 156 | 671 | 860 | 971 |
 | ryujinx | 786 | 74 | 104 | 684 | 877 | 964 |
 | rpcs3 | 826 | 72 | 34 | 670 | 847 | 932 |
 | cemu | 827 | 73 | 23 | 669 | 845 | 923 |
 | xenia | 750 | 60 | 79 | 641 | 811 | 889 |
-| srm | 716 | 52 | 79 | 608 | 786 | 847 |
+| srm | 718 | 53 | 79 | 608 | 786 | 850 |
 | shadps4 | 706 | 60 | 67 | 588 | 751 | 833 |
 | vita3k | 744 | 62 | 17 | 593 | 745 | 823 |
-| cloudsync | 397 | 16 | 153 | 364 | 495 | 566 |
+| cloudsync | 399 | 16 | 153 | 364 | 495 | 568 |
 | dolphin | 359 | 52 | 43 | 325 | 415 | 454 |
-| ppsspp | 324 | 48 | 74 | 322 | 406 | 446 |
+| ppsspp | 325 | 48 | 74 | 322 | 406 | 447 |
 | ra | 356 | 52 | 37 | 312 | 407 | 445 |
-| mgba | 331 | 27 | 21 | 273 | 351 | 379 |
+| mgba | 332 | 29 | 21 | 273 | 351 | 382 |
 | melonds | 311 | 40 | 26 | 268 | 341 | 377 |
 | xemu | 304 | 41 | 27 | 269 | 338 | 372 |
 | primehack | 270 | 42 | 26 | 240 | 307 | 338 |
