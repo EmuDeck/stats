@@ -1404,7 +1404,7 @@ date,name,total
 2026-10-16,ares-mac,0
 2026-10-16,ares-windows,0
 2026-10-16,armsx2-linux,73
-2026-10-16,armsx2-linux-arm,76
+2026-10-16,armsx2-linux-arm,77
 2026-10-16,armsx2-mac,0
 2026-10-16,armsx2-windows,0
 2026-10-16,azahar-linux,831
@@ -1427,7 +1427,7 @@ date,name,total
 2026-10-16,cloudsync-linux-arm,16
 2026-10-16,cloudsync-windows,154
 2026-10-16,dolphin-linux,363
-2026-10-16,dolphin-linux-arm,52
+2026-10-16,dolphin-linux-arm,53
 2026-10-16,dolphin-mac,0
 2026-10-16,dolphin-windows,43
 2026-10-16,duckstation-linux,895

@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-16 09:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-16 09:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -124,7 +124,7 @@ xychart-beta
 | shadps4 | 712 | 60 | 67 | 588 | 751 | 839 |
 | vita3k | 751 | 62 | 17 | 593 | 745 | 830 |
 | cloudsync | 400 | 16 | 154 | 364 | 495 | 570 |
-| dolphin | 363 | 52 | 43 | 325 | 415 | 458 |
+| dolphin | 363 | 53 | 43 | 325 | 415 | 459 |
 | ppsspp | 328 | 48 | 74 | 322 | 406 | 450 |
 | ra | 359 | 53 | 37 | 312 | 407 | 449 |
 | mgba | 334 | 31 | 21 | 273 | 351 | 386 |
@@ -135,7 +135,7 @@ xychart-beta
 | model2 | 266 | 51 | 4 | 231 | 291 | 321 |
 | scummvm | 263 | 37 | 13 | 225 | 279 | 313 |
 | bigpemu | 230 | 3 | 6 | 180 | 218 | 239 |
-| armsx2 | 73 | 76 | 0 | 109 | 138 | 149 |
+| armsx2 | 73 | 77 | 0 | 109 | 138 | 150 |
 | flycast | 75 | 12 | 5 | 62 | 84 | 92 |
 | rmg | 70 | 20 | 0 | 60 | 82 | 90 |
 | mame | 46 | 2 | 9 | 34 | 51 | 57 |
