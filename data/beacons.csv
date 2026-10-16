@@ -1425,7 +1425,7 @@ date,name,total
 2026-10-16,citron-windows,0
 2026-10-16,cloudsync-linux,404
 2026-10-16,cloudsync-linux-arm,16
-2026-10-16,cloudsync-windows,158
+2026-10-16,cloudsync-windows,159
 2026-10-16,dolphin-linux,372
 2026-10-16,dolphin-linux-arm,54
 2026-10-16,dolphin-mac,0
@@ -1436,7 +1436,7 @@ date,name,total
 2026-10-16,duckstation-windows,37
 2026-10-16,early-cloudsync-linux,391
 2026-10-16,early-cloudsync-linux-arm,15
-2026-10-16,early-cloudsync-windows,151
+2026-10-16,early-cloudsync-windows,152
 2026-10-16,early-linux,262
 2026-10-16,early-linux-arm,48
 2026-10-16,early-windows,61
@@ -1461,7 +1461,7 @@ date,name,total
 2026-10-16,melonds-mac,0
 2026-10-16,melonds-windows,27
 2026-10-16,mgba-linux,343
-2026-10-16,mgba-linux-arm,31
+2026-10-16,mgba-linux-arm,32
 2026-10-16,mgba-mac,0
 2026-10-16,mgba-windows,21
 2026-10-16,model2-linux,274
