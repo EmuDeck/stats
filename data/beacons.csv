@@ -1584,10 +1584,10 @@ date,name,total
 2026-10-17,eden-linux-arm,7
 2026-10-17,eden-mac,0
 2026-10-17,eden-windows,0
-2026-10-17,esde-linux,821
+2026-10-17,esde-linux,822
 2026-10-17,esde-linux-arm,66
 2026-10-17,esde-mac,0
-2026-10-17,esde-windows,164
+2026-10-17,esde-windows,165
 2026-10-17,flycast-linux,78
 2026-10-17,flycast-linux-arm,12
 2026-10-17,flycast-mac,0
@@ -1639,7 +1639,7 @@ date,name,total
 2026-10-17,ryujinx-linux,859
 2026-10-17,ryujinx-linux-arm,80
 2026-10-17,ryujinx-mac,0
-2026-10-17,ryujinx-windows,113
+2026-10-17,ryujinx-windows,114
 2026-10-17,scummvm-linux,275
 2026-10-17,scummvm-linux-arm,39
 2026-10-17,scummvm-mac,0
