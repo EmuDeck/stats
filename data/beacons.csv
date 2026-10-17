@@ -1563,7 +1563,7 @@ date,name,total
 2026-10-17,citron-linux-arm,0
 2026-10-17,citron-mac,0
 2026-10-17,citron-windows,0
-2026-10-17,cloudsync-linux,425
+2026-10-17,cloudsync-linux,426
 2026-10-17,cloudsync-linux-arm,16
 2026-10-17,cloudsync-windows,161
 2026-10-17,dolphin-linux,386
@@ -1574,7 +1574,7 @@ date,name,total
 2026-10-17,duckstation-linux-arm,78
 2026-10-17,duckstation-mac,0
 2026-10-17,duckstation-windows,38
-2026-10-17,early-cloudsync-linux,412
+2026-10-17,early-cloudsync-linux,413
 2026-10-17,early-cloudsync-linux-arm,15
 2026-10-17,early-cloudsync-windows,154
 2026-10-17,early-linux,272
