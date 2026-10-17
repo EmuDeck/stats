@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-17 03:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-17 03:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -45,7 +45,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 27 | 246 | 366 | 391 |
+| linux | 27 | 246 | 366 | 392 |
 | linux-arm | 8 | 38 | 58 | 61 |
 | windows | 3 | 50 | 72 | 82 |
 
@@ -112,22 +112,22 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 985 | 18 | 113 | 710 | 1026 | 1116 |
-| azahar | 888 | 78 | 108 | 682 | 983 | 1074 |
-| duckstation | 949 | 77 | 38 | 683 | 977 | 1064 |
-| esde | 809 | 66 | 161 | 639 | 927 | 1036 |
-| ryujinx | 846 | 78 | 111 | 656 | 955 | 1035 |
-| rpcs3 | 885 | 76 | 35 | 649 | 918 | 996 |
-| cemu | 885 | 76 | 25 | 631 | 907 | 986 |
-| xenia | 808 | 63 | 82 | 621 | 880 | 953 |
-| srm | 768 | 64 | 88 | 600 | 862 | 920 |
-| shadps4 | 761 | 64 | 72 | 580 | 820 | 897 |
-| vita3k | 803 | 67 | 18 | 579 | 812 | 888 |
+| pcsx2 | 989 | 18 | 113 | 710 | 1026 | 1120 |
+| azahar | 889 | 78 | 109 | 682 | 983 | 1076 |
+| duckstation | 952 | 77 | 38 | 683 | 977 | 1067 |
+| esde | 812 | 66 | 161 | 639 | 927 | 1039 |
+| ryujinx | 849 | 78 | 111 | 656 | 955 | 1038 |
+| rpcs3 | 888 | 76 | 35 | 649 | 918 | 999 |
+| cemu | 887 | 76 | 25 | 631 | 907 | 988 |
+| xenia | 810 | 63 | 82 | 621 | 880 | 955 |
+| srm | 771 | 64 | 89 | 600 | 862 | 924 |
+| shadps4 | 764 | 64 | 72 | 580 | 820 | 900 |
+| vita3k | 805 | 67 | 18 | 579 | 812 | 890 |
 | cloudsync | 423 | 16 | 160 | 331 | 523 | 599 |
-| dolphin | 385 | 54 | 44 | 307 | 448 | 483 |
+| dolphin | 386 | 54 | 44 | 307 | 448 | 484 |
 | ppsspp | 349 | 51 | 77 | 303 | 438 | 477 |
-| ra | 382 | 55 | 39 | 295 | 442 | 476 |
-| mgba | 349 | 32 | 23 | 271 | 380 | 404 |
+| ra | 382 | 55 | 40 | 295 | 442 | 477 |
+| mgba | 350 | 32 | 23 | 271 | 380 | 405 |
 | melonds | 332 | 41 | 29 | 258 | 371 | 402 |
 | xemu | 325 | 44 | 29 | 259 | 368 | 398 |
 | primehack | 284 | 43 | 27 | 214 | 327 | 354 |
