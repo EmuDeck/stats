@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-17 14:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-17 14:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,27 +112,27 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1026 | 18 | 114 | 710 | 1026 | 1158 |
-| azahar | 926 | 79 | 113 | 682 | 983 | 1118 |
-| duckstation | 989 | 78 | 39 | 683 | 977 | 1106 |
+| pcsx2 | 1026 | 18 | 115 | 710 | 1026 | 1159 |
+| azahar | 927 | 79 | 114 | 682 | 983 | 1120 |
+| duckstation | 990 | 78 | 39 | 683 | 977 | 1107 |
 | ryujinx | 884 | 80 | 116 | 656 | 955 | 1080 |
 | esde | 840 | 66 | 169 | 639 | 927 | 1075 |
-| rpcs3 | 926 | 77 | 36 | 649 | 918 | 1039 |
+| rpcs3 | 926 | 77 | 37 | 649 | 918 | 1040 |
 | cemu | 920 | 77 | 26 | 631 | 907 | 1023 |
-| xenia | 838 | 64 | 84 | 621 | 880 | 986 |
+| xenia | 839 | 64 | 84 | 621 | 880 | 987 |
 | srm | 806 | 65 | 91 | 600 | 862 | 962 |
-| shadps4 | 794 | 64 | 73 | 580 | 820 | 931 |
+| shadps4 | 795 | 64 | 73 | 580 | 820 | 932 |
 | vita3k | 840 | 68 | 19 | 579 | 812 | 927 |
 | cloudsync | 431 | 16 | 163 | 331 | 523 | 610 |
-| dolphin | 397 | 55 | 45 | 307 | 448 | 497 |
+| dolphin | 397 | 55 | 46 | 307 | 448 | 498 |
 | ra | 392 | 56 | 43 | 295 | 442 | 491 |
 | ppsspp | 359 | 52 | 79 | 303 | 438 | 490 |
 | mgba | 364 | 32 | 24 | 271 | 380 | 420 |
 | melonds | 342 | 42 | 30 | 258 | 371 | 414 |
-| xemu | 335 | 45 | 30 | 259 | 368 | 410 |
+| xemu | 335 | 45 | 31 | 259 | 368 | 411 |
 | primehack | 294 | 44 | 29 | 214 | 327 | 367 |
-| supermodel | 291 | 51 | 8 | 222 | 319 | 350 |
-| model2 | 287 | 54 | 5 | 216 | 315 | 346 |
+| supermodel | 292 | 51 | 8 | 222 | 319 | 351 |
+| model2 | 288 | 54 | 5 | 216 | 315 | 347 |
 | scummvm | 283 | 39 | 15 | 204 | 299 | 337 |
 | bigpemu | 245 | 3 | 6 | 167 | 226 | 254 |
 | armsx2 | 76 | 83 | 0 | 98 | 146 | 159 |
