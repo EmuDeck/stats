@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-17 14:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-17 15:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,7 +94,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 249 | 356 | 398 |
-| Con CloudSync | 322 | 504 | 589 |
+| Con CloudSync | 322 | 504 | 590 |
 | % con CloudSync | | | 148% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -112,34 +112,34 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1026 | 18 | 115 | 710 | 1026 | 1159 |
-| azahar | 927 | 79 | 114 | 682 | 983 | 1120 |
-| duckstation | 990 | 78 | 39 | 683 | 977 | 1107 |
-| ryujinx | 884 | 80 | 116 | 656 | 955 | 1080 |
-| esde | 840 | 66 | 169 | 639 | 927 | 1075 |
-| rpcs3 | 926 | 77 | 37 | 649 | 918 | 1040 |
-| cemu | 920 | 77 | 26 | 631 | 907 | 1023 |
-| xenia | 839 | 64 | 84 | 621 | 880 | 987 |
-| srm | 806 | 65 | 91 | 600 | 862 | 962 |
-| shadps4 | 795 | 64 | 73 | 580 | 820 | 932 |
-| vita3k | 840 | 68 | 19 | 579 | 812 | 927 |
-| cloudsync | 431 | 16 | 163 | 331 | 523 | 610 |
+| pcsx2 | 1027 | 18 | 115 | 710 | 1026 | 1160 |
+| azahar | 928 | 79 | 114 | 682 | 983 | 1121 |
+| duckstation | 991 | 78 | 40 | 683 | 977 | 1109 |
+| ryujinx | 886 | 80 | 117 | 656 | 955 | 1083 |
+| esde | 841 | 66 | 169 | 639 | 927 | 1076 |
+| rpcs3 | 927 | 77 | 37 | 649 | 918 | 1041 |
+| cemu | 921 | 77 | 27 | 631 | 907 | 1025 |
+| xenia | 840 | 64 | 85 | 621 | 880 | 989 |
+| srm | 807 | 65 | 91 | 600 | 862 | 963 |
+| shadps4 | 796 | 64 | 74 | 580 | 820 | 934 |
+| vita3k | 841 | 68 | 20 | 579 | 812 | 929 |
+| cloudsync | 431 | 16 | 164 | 331 | 523 | 611 |
 | dolphin | 397 | 55 | 46 | 307 | 448 | 498 |
+| ppsspp | 359 | 52 | 80 | 303 | 438 | 491 |
 | ra | 392 | 56 | 43 | 295 | 442 | 491 |
-| ppsspp | 359 | 52 | 79 | 303 | 438 | 490 |
-| mgba | 364 | 32 | 24 | 271 | 380 | 420 |
-| melonds | 342 | 42 | 30 | 258 | 371 | 414 |
+| mgba | 365 | 32 | 24 | 271 | 380 | 421 |
+| melonds | 342 | 42 | 31 | 258 | 371 | 415 |
 | xemu | 335 | 45 | 31 | 259 | 368 | 411 |
-| primehack | 294 | 44 | 29 | 214 | 327 | 367 |
+| primehack | 294 | 44 | 30 | 214 | 327 | 368 |
 | supermodel | 292 | 51 | 8 | 222 | 319 | 351 |
 | model2 | 288 | 54 | 5 | 216 | 315 | 347 |
-| scummvm | 283 | 39 | 15 | 204 | 299 | 337 |
-| bigpemu | 245 | 3 | 6 | 167 | 226 | 254 |
-| armsx2 | 76 | 83 | 0 | 98 | 146 | 159 |
+| scummvm | 283 | 39 | 16 | 204 | 299 | 338 |
+| bigpemu | 246 | 3 | 6 | 167 | 226 | 255 |
+| armsx2 | 77 | 83 | 0 | 98 | 146 | 160 |
 | flycast | 79 | 12 | 6 | 62 | 90 | 97 |
 | rmg | 74 | 20 | 0 | 56 | 88 | 94 |
 | mame | 47 | 2 | 9 | 29 | 53 | 58 |
-| eden | 45 | 7 | 0 | 32 | 34 | 52 |
+| eden | 46 | 7 | 0 | 32 | 34 | 53 |
 | pegasus | 9 | 0 | 8 | 11 | 14 | 17 |
 | yuzu | 6 | 0 | 0 | 5 | 6 | 6 |
 | ares | 3 | 1 | 0 | 2 | 4 | 4 |
