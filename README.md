@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-17 15:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-17 15:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -46,7 +46,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
 | linux | 27 | 246 | 366 | 403 |
-| linux-arm | 8 | 38 | 58 | 62 |
+| linux-arm | 8 | 38 | 58 | 63 |
 | windows | 3 | 50 | 72 | 87 |
 
 ```mermaid
@@ -93,7 +93,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 249 | 356 | 398 |
+| Instalaciones early | 249 | 356 | 399 |
 | Con CloudSync | 322 | 504 | 590 |
 | % con CloudSync | | | 148% |
 
@@ -116,26 +116,26 @@ xychart-beta
 | azahar | 928 | 79 | 114 | 682 | 983 | 1121 |
 | duckstation | 991 | 78 | 40 | 683 | 977 | 1109 |
 | ryujinx | 886 | 80 | 117 | 656 | 955 | 1083 |
-| esde | 841 | 66 | 169 | 639 | 927 | 1076 |
-| rpcs3 | 927 | 77 | 37 | 649 | 918 | 1041 |
-| cemu | 921 | 77 | 27 | 631 | 907 | 1025 |
-| xenia | 840 | 64 | 85 | 621 | 880 | 989 |
+| esde | 841 | 69 | 169 | 639 | 927 | 1079 |
+| rpcs3 | 927 | 80 | 37 | 649 | 918 | 1044 |
+| cemu | 921 | 79 | 27 | 631 | 907 | 1027 |
+| xenia | 840 | 66 | 85 | 621 | 880 | 991 |
 | srm | 807 | 65 | 91 | 600 | 862 | 963 |
 | shadps4 | 796 | 64 | 74 | 580 | 820 | 934 |
 | vita3k | 841 | 68 | 20 | 579 | 812 | 929 |
 | cloudsync | 431 | 16 | 164 | 331 | 523 | 611 |
-| dolphin | 397 | 55 | 46 | 307 | 448 | 498 |
+| dolphin | 397 | 56 | 46 | 307 | 448 | 499 |
 | ppsspp | 359 | 52 | 80 | 303 | 438 | 491 |
 | ra | 392 | 56 | 43 | 295 | 442 | 491 |
 | mgba | 365 | 32 | 24 | 271 | 380 | 421 |
 | melonds | 342 | 42 | 31 | 258 | 371 | 415 |
-| xemu | 335 | 45 | 31 | 259 | 368 | 411 |
+| xemu | 335 | 46 | 31 | 259 | 368 | 412 |
 | primehack | 294 | 44 | 30 | 214 | 327 | 368 |
 | supermodel | 292 | 51 | 8 | 222 | 319 | 351 |
 | model2 | 288 | 54 | 5 | 216 | 315 | 347 |
 | scummvm | 283 | 39 | 16 | 204 | 299 | 338 |
 | bigpemu | 246 | 3 | 6 | 167 | 226 | 255 |
-| armsx2 | 77 | 83 | 0 | 98 | 146 | 160 |
+| armsx2 | 77 | 86 | 0 | 98 | 146 | 163 |
 | flycast | 79 | 12 | 6 | 62 | 90 | 97 |
 | rmg | 74 | 20 | 0 | 56 | 88 | 94 |
 | mame | 47 | 2 | 9 | 29 | 53 | 58 |
