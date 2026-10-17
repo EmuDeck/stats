@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-17 03:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-17 04:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -46,7 +46,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
 | linux | 27 | 246 | 366 | 392 |
-| linux-arm | 8 | 38 | 58 | 61 |
+| linux-arm | 8 | 38 | 58 | 62 |
 | windows | 3 | 50 | 72 | 82 |
 
 ```mermaid
@@ -93,8 +93,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 249 | 356 | 385 |
-| Con CloudSync | 322 | 504 | 578 |
+| Instalaciones early | 249 | 356 | 386 |
+| Con CloudSync | 322 | 504 | 579 |
 | % con CloudSync | | | 150% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -112,30 +112,30 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 989 | 18 | 113 | 710 | 1026 | 1120 |
-| azahar | 889 | 78 | 109 | 682 | 983 | 1076 |
-| duckstation | 952 | 77 | 38 | 683 | 977 | 1067 |
+| pcsx2 | 990 | 18 | 113 | 710 | 1026 | 1121 |
+| azahar | 890 | 79 | 109 | 682 | 983 | 1078 |
+| duckstation | 953 | 78 | 38 | 683 | 977 | 1069 |
+| ryujinx | 850 | 79 | 111 | 656 | 955 | 1040 |
 | esde | 812 | 66 | 161 | 639 | 927 | 1039 |
-| ryujinx | 849 | 78 | 111 | 656 | 955 | 1038 |
-| rpcs3 | 888 | 76 | 35 | 649 | 918 | 999 |
-| cemu | 887 | 76 | 25 | 631 | 907 | 988 |
-| xenia | 810 | 63 | 82 | 621 | 880 | 955 |
-| srm | 771 | 64 | 89 | 600 | 862 | 924 |
-| shadps4 | 764 | 64 | 72 | 580 | 820 | 900 |
-| vita3k | 805 | 67 | 18 | 579 | 812 | 890 |
-| cloudsync | 423 | 16 | 160 | 331 | 523 | 599 |
-| dolphin | 386 | 54 | 44 | 307 | 448 | 484 |
-| ppsspp | 349 | 51 | 77 | 303 | 438 | 477 |
-| ra | 382 | 55 | 40 | 295 | 442 | 477 |
-| mgba | 350 | 32 | 23 | 271 | 380 | 405 |
-| melonds | 332 | 41 | 29 | 258 | 371 | 402 |
-| xemu | 325 | 44 | 29 | 259 | 368 | 398 |
-| primehack | 284 | 43 | 27 | 214 | 327 | 354 |
-| supermodel | 283 | 50 | 8 | 222 | 319 | 341 |
-| model2 | 279 | 53 | 5 | 216 | 315 | 337 |
-| scummvm | 274 | 38 | 14 | 204 | 299 | 326 |
-| bigpemu | 238 | 3 | 6 | 167 | 226 | 247 |
-| armsx2 | 75 | 82 | 0 | 98 | 146 | 157 |
+| rpcs3 | 889 | 77 | 35 | 649 | 918 | 1001 |
+| cemu | 888 | 77 | 25 | 631 | 907 | 990 |
+| xenia | 811 | 64 | 82 | 621 | 880 | 957 |
+| srm | 772 | 65 | 89 | 600 | 862 | 926 |
+| shadps4 | 765 | 64 | 72 | 580 | 820 | 901 |
+| vita3k | 806 | 68 | 18 | 579 | 812 | 892 |
+| cloudsync | 424 | 16 | 160 | 331 | 523 | 600 |
+| dolphin | 386 | 55 | 44 | 307 | 448 | 485 |
+| ppsspp | 349 | 52 | 77 | 303 | 438 | 478 |
+| ra | 382 | 56 | 40 | 295 | 442 | 478 |
+| mgba | 351 | 32 | 23 | 271 | 380 | 406 |
+| melonds | 332 | 42 | 29 | 258 | 371 | 403 |
+| xemu | 325 | 45 | 29 | 259 | 368 | 399 |
+| primehack | 284 | 44 | 27 | 214 | 327 | 355 |
+| supermodel | 283 | 51 | 8 | 222 | 319 | 342 |
+| model2 | 279 | 54 | 5 | 216 | 315 | 338 |
+| scummvm | 274 | 39 | 14 | 204 | 299 | 327 |
+| bigpemu | 239 | 3 | 6 | 167 | 226 | 248 |
+| armsx2 | 75 | 83 | 0 | 98 | 146 | 158 |
 | flycast | 78 | 12 | 5 | 62 | 90 | 95 |
 | rmg | 73 | 20 | 0 | 56 | 88 | 93 |
 | mame | 46 | 2 | 9 | 29 | 53 | 57 |
