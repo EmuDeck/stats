@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-17 09:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-17 09:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -94,7 +94,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 249 | 356 | 391 |
-| Con CloudSync | 322 | 504 | 585 |
+| Con CloudSync | 322 | 504 | 586 |
 | % con CloudSync | | | 150% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -115,7 +115,7 @@ xychart-beta
 | pcsx2 | 1008 | 18 | 114 | 710 | 1026 | 1140 |
 | azahar | 909 | 79 | 112 | 682 | 983 | 1100 |
 | duckstation | 971 | 78 | 39 | 683 | 977 | 1088 |
-| esde | 829 | 66 | 167 | 639 | 927 | 1062 |
+| esde | 829 | 66 | 168 | 639 | 927 | 1063 |
 | ryujinx | 865 | 80 | 115 | 656 | 955 | 1060 |
 | rpcs3 | 907 | 77 | 36 | 649 | 918 | 1020 |
 | cemu | 905 | 77 | 26 | 631 | 907 | 1008 |
@@ -123,11 +123,11 @@ xychart-beta
 | srm | 790 | 65 | 90 | 600 | 862 | 945 |
 | shadps4 | 781 | 64 | 73 | 580 | 820 | 918 |
 | vita3k | 824 | 68 | 19 | 579 | 812 | 911 |
-| cloudsync | 429 | 16 | 161 | 331 | 523 | 606 |
+| cloudsync | 430 | 16 | 161 | 331 | 523 | 607 |
 | dolphin | 388 | 55 | 45 | 307 | 448 | 488 |
 | ppsspp | 351 | 52 | 79 | 303 | 438 | 482 |
 | ra | 384 | 56 | 41 | 295 | 442 | 481 |
-| mgba | 359 | 32 | 23 | 271 | 380 | 414 |
+| mgba | 359 | 32 | 24 | 271 | 380 | 415 |
 | melonds | 334 | 42 | 30 | 258 | 371 | 406 |
 | xemu | 327 | 45 | 30 | 259 | 368 | 402 |
 | primehack | 286 | 44 | 29 | 214 | 327 | 359 |
@@ -136,7 +136,7 @@ xychart-beta
 | scummvm | 276 | 39 | 15 | 204 | 299 | 330 |
 | bigpemu | 243 | 3 | 6 | 167 | 226 | 252 |
 | armsx2 | 76 | 83 | 0 | 98 | 146 | 159 |
-| flycast | 78 | 12 | 5 | 62 | 90 | 95 |
+| flycast | 78 | 12 | 6 | 62 | 90 | 96 |
 | rmg | 73 | 20 | 0 | 56 | 88 | 93 |
 | mame | 46 | 2 | 9 | 29 | 53 | 57 |
 | eden | 37 | 7 | 0 | 32 | 34 | 44 |
