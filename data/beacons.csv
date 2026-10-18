@@ -1719,8 +1719,8 @@ date,name,total
 2026-10-18,early-cloudsync-windows,178
 2026-10-18,early-linux,300
 2026-10-18,early-linux-arm,53
-2026-10-18,early-windows,84
-2026-10-18,eden-linux,54
+2026-10-18,early-windows,85
+2026-10-18,eden-linux,56
 2026-10-18,eden-linux-arm,7
 2026-10-18,eden-mac,0
 2026-10-18,eden-windows,0
@@ -1791,7 +1791,7 @@ date,name,total
 2026-10-18,srm-linux,893
 2026-10-18,srm-linux-arm,67
 2026-10-18,srm-mac,0
-2026-10-18,srm-windows,116
+2026-10-18,srm-windows,118
 2026-10-18,supermodel-linux,313
 2026-10-18,supermodel-linux-arm,53
 2026-10-18,supermodel-mac,0
@@ -1802,7 +1802,7 @@ date,name,total
 2026-10-18,system-linux-arm,65
 2026-10-18,system-mac,0
 2026-10-18,system-steamos,0
-2026-10-18,system-windows,105
+2026-10-18,system-windows,106
 2026-10-18,vita3k-linux,921
 2026-10-18,vita3k-linux-arm,71
 2026-10-18,vita3k-mac,0
