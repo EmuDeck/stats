@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-18 07:38 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-18 08:17 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,22 +112,22 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1116 | 18 | 123 | 703 | 1144 | 1257 |
-| azahar | 995 | 81 | 125 | 666 | 1088 | 1201 |
-| duckstation | 1080 | 79 | 42 | 677 | 1093 | 1201 |
-| ryujinx | 957 | 82 | 126 | 652 | 1064 | 1165 |
+| pcsx2 | 1118 | 18 | 123 | 703 | 1144 | 1259 |
+| azahar | 997 | 81 | 125 | 666 | 1088 | 1203 |
+| duckstation | 1082 | 79 | 42 | 677 | 1093 | 1203 |
+| ryujinx | 960 | 82 | 126 | 652 | 1064 | 1168 |
 | esde | 905 | 70 | 182 | 618 | 1033 | 1157 |
-| rpcs3 | 1008 | 81 | 40 | 643 | 1028 | 1129 |
-| cemu | 996 | 80 | 29 | 626 | 1012 | 1105 |
-| xenia | 902 | 67 | 92 | 611 | 973 | 1061 |
-| srm | 880 | 66 | 101 | 595 | 960 | 1047 |
-| shadps4 | 862 | 66 | 86 | 579 | 920 | 1014 |
-| vita3k | 907 | 70 | 23 | 578 | 910 | 1000 |
+| rpcs3 | 1010 | 81 | 40 | 643 | 1028 | 1131 |
+| cemu | 997 | 80 | 29 | 626 | 1012 | 1106 |
+| xenia | 903 | 67 | 92 | 611 | 973 | 1062 |
+| srm | 882 | 66 | 101 | 595 | 960 | 1049 |
+| shadps4 | 863 | 66 | 86 | 579 | 920 | 1015 |
+| vita3k | 909 | 70 | 23 | 578 | 910 | 1002 |
 | cloudsync | 456 | 17 | 177 | 333 | 577 | 650 |
 | dolphin | 424 | 57 | 49 | 296 | 485 | 530 |
 | ppsspp | 388 | 53 | 86 | 292 | 479 | 527 |
 | ra | 418 | 58 | 48 | 283 | 479 | 524 |
-| mgba | 398 | 33 | 26 | 255 | 419 | 457 |
+| mgba | 399 | 34 | 26 | 255 | 419 | 459 |
 | melonds | 367 | 43 | 34 | 253 | 403 | 444 |
 | xemu | 359 | 47 | 34 | 246 | 399 | 440 |
 | primehack | 314 | 45 | 33 | 205 | 355 | 392 |
@@ -138,9 +138,9 @@ xychart-beta
 | armsx2 | 82 | 87 | 0 | 93 | 158 | 169 |
 | flycast | 81 | 13 | 6 | 52 | 94 | 100 |
 | rmg | 79 | 20 | 0 | 52 | 93 | 99 |
+| eden | 53 | 7 | 0 | 45 | 49 | 60 |
 | mame | 49 | 2 | 9 | 23 | 55 | 60 |
-| eden | 52 | 7 | 0 | 45 | 49 | 59 |
 | pegasus | 9 | 0 | 10 | 13 | 16 | 19 |
 | yuzu | 6 | 0 | 0 | 4 | 6 | 6 |
 | ares | 3 | 1 | 0 | 2 | 4 | 4 |
-| citron | 3 | 0 | 0 | 3 | 3 | 3 |
+| citron | 4 | 0 | 0 | 3 | 3 | 4 |
