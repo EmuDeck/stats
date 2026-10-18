@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-18 16:38 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-18 17:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -47,7 +47,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 33 | 244 | 399 | 439 |
 | linux-arm | 3 | 32 | 61 | 65 |
-| windows | 11 | 49 | 83 | 107 |
+| windows | 11 | 49 | 83 | 108 |
 
 ```mermaid
 xychart-beta
@@ -93,7 +93,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 236 | 388 | 440 |
+| Instalaciones early | 236 | 388 | 441 |
 | Con CloudSync | 327 | 558 | 657 |
 | % con CloudSync | | | 149% |
 
@@ -112,21 +112,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1142 | 18 | 134 | 703 | 1144 | 1294 |
+| pcsx2 | 1142 | 18 | 135 | 703 | 1144 | 1295 |
 | duckstation | 1107 | 80 | 45 | 677 | 1093 | 1232 |
 | azahar | 1017 | 82 | 130 | 666 | 1088 | 1229 |
 | ryujinx | 982 | 83 | 132 | 652 | 1064 | 1197 |
-| esde | 924 | 71 | 195 | 618 | 1033 | 1190 |
+| esde | 924 | 71 | 197 | 618 | 1033 | 1192 |
 | rpcs3 | 1030 | 81 | 45 | 643 | 1028 | 1156 |
 | cemu | 1017 | 81 | 33 | 626 | 1012 | 1131 |
 | xenia | 921 | 67 | 102 | 611 | 973 | 1090 |
 | srm | 903 | 67 | 119 | 595 | 960 | 1089 |
-| shadps4 | 881 | 67 | 95 | 579 | 920 | 1043 |
+| shadps4 | 881 | 67 | 96 | 579 | 920 | 1044 |
 | vita3k | 929 | 71 | 26 | 578 | 910 | 1026 |
 | cloudsync | 474 | 17 | 190 | 333 | 577 | 681 |
 | dolphin | 430 | 58 | 52 | 296 | 485 | 540 |
 | ppsspp | 394 | 54 | 92 | 292 | 479 | 540 |
-| ra | 424 | 59 | 51 | 283 | 479 | 534 |
+| ra | 424 | 59 | 52 | 283 | 479 | 535 |
 | mgba | 408 | 34 | 26 | 255 | 419 | 468 |
 | melonds | 373 | 44 | 35 | 253 | 403 | 452 |
 | xemu | 365 | 47 | 37 | 246 | 399 | 449 |
@@ -136,9 +136,9 @@ xychart-beta
 | scummvm | 308 | 40 | 20 | 198 | 327 | 368 |
 | bigpemu | 276 | 3 | 7 | 151 | 252 | 286 |
 | armsx2 | 83 | 88 | 0 | 93 | 158 | 171 |
-| flycast | 82 | 13 | 7 | 52 | 94 | 102 |
+| flycast | 83 | 13 | 7 | 52 | 94 | 103 |
 | rmg | 80 | 20 | 0 | 52 | 93 | 100 |
-| eden | 58 | 7 | 0 | 45 | 49 | 65 |
+| eden | 59 | 7 | 0 | 45 | 49 | 66 |
 | mame | 50 | 2 | 9 | 23 | 55 | 61 |
 | pegasus | 9 | 0 | 10 | 13 | 16 | 19 |
 | yuzu | 6 | 0 | 0 | 4 | 6 | 6 |
