@@ -1845,7 +1845,7 @@ date,name,total
 2026-10-19,citron-windows,0
 2026-10-19,cloudsync-linux,518
 2026-10-19,cloudsync-linux-arm,18
-2026-10-19,cloudsync-windows,217
+2026-10-19,cloudsync-windows,221
 2026-10-19,dolphin-linux,459
 2026-10-19,dolphin-linux-arm,63
 2026-10-19,dolphin-mac,0
@@ -1856,10 +1856,10 @@ date,name,total
 2026-10-19,duckstation-windows,52
 2026-10-19,early-cloudsync-linux,505
 2026-10-19,early-cloudsync-linux-arm,17
-2026-10-19,early-cloudsync-windows,207
+2026-10-19,early-cloudsync-windows,211
 2026-10-19,early-linux,319
 2026-10-19,early-linux-arm,57
-2026-10-19,early-windows,96
+2026-10-19,early-windows,97
 2026-10-19,eden-linux,65
 2026-10-19,eden-linux-arm,7
 2026-10-19,eden-mac,0
@@ -1867,7 +1867,7 @@ date,name,total
 2026-10-19,esde-linux,992
 2026-10-19,esde-linux-arm,77
 2026-10-19,esde-mac,0
-2026-10-19,esde-windows,221
+2026-10-19,esde-windows,223
 2026-10-19,flycast-linux,87
 2026-10-19,flycast-linux-arm,13
 2026-10-19,flycast-mac,0
@@ -1942,11 +1942,11 @@ date,name,total
 2026-10-19,system-linux-arm,70
 2026-10-19,system-mac,0
 2026-10-19,system-steamos,0
-2026-10-19,system-windows,121
+2026-10-19,system-windows,122
 2026-10-19,vita3k-linux,998
 2026-10-19,vita3k-linux-arm,77
 2026-10-19,vita3k-mac,0
-2026-10-19,vita3k-windows,29
+2026-10-19,vita3k-windows,30
 2026-10-19,xemu-linux,387
 2026-10-19,xemu-linux-arm,52
 2026-10-19,xemu-mac,0
@@ -1954,7 +1954,7 @@ date,name,total
 2026-10-19,xenia-linux,989
 2026-10-19,xenia-linux-arm,75
 2026-10-19,xenia-mac,0
-2026-10-19,xenia-windows,110
+2026-10-19,xenia-windows,111
 2026-10-19,yuzu-linux,6
 2026-10-19,yuzu-linux-arm,0
 2026-10-19,yuzu-mac,0
