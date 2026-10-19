@@ -1827,7 +1827,7 @@ date,name,total
 2026-10-19,armsx2-linux-arm,94
 2026-10-19,armsx2-mac,0
 2026-10-19,armsx2-windows,0
-2026-10-19,azahar-linux,1087
+2026-10-19,azahar-linux,1088
 2026-10-19,azahar-linux-arm,89
 2026-10-19,azahar-mac,0
 2026-10-19,azahar-windows,140
@@ -1843,18 +1843,18 @@ date,name,total
 2026-10-19,citron-linux-arm,0
 2026-10-19,citron-mac,0
 2026-10-19,citron-windows,0
-2026-10-19,cloudsync-linux,517
+2026-10-19,cloudsync-linux,518
 2026-10-19,cloudsync-linux-arm,18
 2026-10-19,cloudsync-windows,213
 2026-10-19,dolphin-linux,458
 2026-10-19,dolphin-linux-arm,62
 2026-10-19,dolphin-mac,0
 2026-10-19,dolphin-windows,57
-2026-10-19,duckstation-linux,1185
+2026-10-19,duckstation-linux,1186
 2026-10-19,duckstation-linux-arm,87
 2026-10-19,duckstation-mac,0
 2026-10-19,duckstation-windows,51
-2026-10-19,early-cloudsync-linux,504
+2026-10-19,early-cloudsync-linux,505
 2026-10-19,early-cloudsync-linux-arm,17
 2026-10-19,early-cloudsync-windows,203
 2026-10-19,early-linux,318
@@ -1864,7 +1864,7 @@ date,name,total
 2026-10-19,eden-linux-arm,7
 2026-10-19,eden-mac,0
 2026-10-19,eden-windows,0
-2026-10-19,esde-linux,988
+2026-10-19,esde-linux,992
 2026-10-19,esde-linux-arm,77
 2026-10-19,esde-mac,0
 2026-10-19,esde-windows,220
@@ -1888,7 +1888,7 @@ date,name,total
 2026-10-19,model2-linux-arm,60
 2026-10-19,model2-mac,0
 2026-10-19,model2-windows,7
-2026-10-19,pcsx2-linux,1225
+2026-10-19,pcsx2-linux,1226
 2026-10-19,pcsx2-linux-arm,19
 2026-10-19,pcsx2-mac,0
 2026-10-19,pcsx2-windows,148
@@ -1928,7 +1928,7 @@ date,name,total
 2026-10-19,shadps4-linux-arm,71
 2026-10-19,shadps4-mac,0
 2026-10-19,shadps4-windows,104
-2026-10-19,srm-linux,965
+2026-10-19,srm-linux,966
 2026-10-19,srm-linux-arm,71
 2026-10-19,srm-mac,0
 2026-10-19,srm-windows,134
@@ -1951,7 +1951,7 @@ date,name,total
 2026-10-19,xemu-linux-arm,51
 2026-10-19,xemu-mac,0
 2026-10-19,xemu-windows,39
-2026-10-19,xenia-linux,987
+2026-10-19,xenia-linux,988
 2026-10-19,xenia-linux-arm,74
 2026-10-19,xenia-mac,0
 2026-10-19,xenia-windows,109
