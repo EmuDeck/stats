@@ -1831,7 +1831,7 @@ date,name,total
 2026-10-19,azahar-linux-arm,90
 2026-10-19,azahar-mac,0
 2026-10-19,azahar-windows,141
-2026-10-19,bigpemu-linux,301
+2026-10-19,bigpemu-linux,302
 2026-10-19,bigpemu-linux-arm,4
 2026-10-19,bigpemu-mac,0
 2026-10-19,bigpemu-windows,8
@@ -1864,7 +1864,7 @@ date,name,total
 2026-10-19,eden-linux-arm,7
 2026-10-19,eden-mac,0
 2026-10-19,eden-windows,0
-2026-10-19,esde-linux,995
+2026-10-19,esde-linux,996
 2026-10-19,esde-linux-arm,77
 2026-10-19,esde-mac,0
 2026-10-19,esde-windows,223
@@ -1880,11 +1880,11 @@ date,name,total
 2026-10-19,melonds-linux-arm,49
 2026-10-19,melonds-mac,0
 2026-10-19,melonds-windows,41
-2026-10-19,mgba-linux,435
+2026-10-19,mgba-linux,436
 2026-10-19,mgba-linux-arm,35
 2026-10-19,mgba-mac,0
-2026-10-19,mgba-windows,32
-2026-10-19,model2-linux,328
+2026-10-19,mgba-windows,33
+2026-10-19,model2-linux,330
 2026-10-19,model2-linux-arm,61
 2026-10-19,model2-mac,0
 2026-10-19,model2-windows,7
@@ -1924,7 +1924,7 @@ date,name,total
 2026-10-19,scummvm-linux-arm,43
 2026-10-19,scummvm-mac,0
 2026-10-19,scummvm-windows,22
-2026-10-19,shadps4-linux,944
+2026-10-19,shadps4-linux,946
 2026-10-19,shadps4-linux-arm,72
 2026-10-19,shadps4-mac,0
 2026-10-19,shadps4-windows,105
@@ -1932,7 +1932,7 @@ date,name,total
 2026-10-19,srm-linux-arm,72
 2026-10-19,srm-mac,0
 2026-10-19,srm-windows,135
-2026-10-19,supermodel-linux,332
+2026-10-19,supermodel-linux,334
 2026-10-19,supermodel-linux-arm,58
 2026-10-19,supermodel-mac,0
 2026-10-19,supermodel-windows,9
@@ -1951,7 +1951,7 @@ date,name,total
 2026-10-19,xemu-linux-arm,52
 2026-10-19,xemu-mac,0
 2026-10-19,xemu-windows,40
-2026-10-19,xenia-linux,991
+2026-10-19,xenia-linux,993
 2026-10-19,xenia-linux-arm,75
 2026-10-19,xenia-mac,0
 2026-10-19,xenia-windows,112
