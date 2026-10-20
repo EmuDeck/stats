@@ -1970,12 +1970,12 @@ date,name,total
 2026-10-20,azahar-linux,1134
 2026-10-20,azahar-linux-arm,99
 2026-10-20,azahar-mac,0
-2026-10-20,azahar-windows,146
+2026-10-20,azahar-windows,147
 2026-10-20,bigpemu-linux,316
 2026-10-20,bigpemu-linux-arm,4
 2026-10-20,bigpemu-mac,0
 2026-10-20,bigpemu-windows,8
-2026-10-20,cemu-linux,1133
+2026-10-20,cemu-linux,1134
 2026-10-20,cemu-linux-arm,96
 2026-10-20,cemu-mac,0
 2026-10-20,cemu-windows,40
@@ -1990,7 +1990,7 @@ date,name,total
 2026-10-20,dolphin-linux-arm,67
 2026-10-20,dolphin-mac,0
 2026-10-20,dolphin-windows,59
-2026-10-20,duckstation-linux,1239
+2026-10-20,duckstation-linux,1241
 2026-10-20,duckstation-linux-arm,95
 2026-10-20,duckstation-mac,0
 2026-10-20,duckstation-windows,53
@@ -1999,7 +1999,7 @@ date,name,total
 2026-10-20,early-cloudsync-windows,220
 2026-10-20,early-linux,329
 2026-10-20,early-linux-arm,61
-2026-10-20,early-windows,101
+2026-10-20,early-windows,102
 2026-10-20,eden-linux,65
 2026-10-20,eden-linux-arm,7
 2026-10-20,eden-mac,0
@@ -2016,7 +2016,7 @@ date,name,total
 2026-10-20,mame-linux-arm,2
 2026-10-20,mame-mac,0
 2026-10-20,mame-windows,10
-2026-10-20,melonds-linux,406
+2026-10-20,melonds-linux,407
 2026-10-20,melonds-linux-arm,52
 2026-10-20,melonds-mac,0
 2026-10-20,melonds-windows,42
@@ -2031,7 +2031,7 @@ date,name,total
 2026-10-20,pcsx2-linux,1277
 2026-10-20,pcsx2-linux-arm,19
 2026-10-20,pcsx2-mac,0
-2026-10-20,pcsx2-windows,154
+2026-10-20,pcsx2-windows,155
 2026-10-20,pegasus-linux,9
 2026-10-20,pegasus-linux-arm,0
 2026-10-20,pegasus-mac,0
@@ -2039,7 +2039,7 @@ date,name,total
 2026-10-20,ppsspp-linux,431
 2026-10-20,ppsspp-linux-arm,64
 2026-10-20,ppsspp-mac,0
-2026-10-20,ppsspp-windows,107
+2026-10-20,ppsspp-windows,108
 2026-10-20,primehack-linux,351
 2026-10-20,primehack-linux-arm,51
 2026-10-20,primehack-mac,0
@@ -2067,11 +2067,11 @@ date,name,total
 2026-10-20,shadps4-linux,979
 2026-10-20,shadps4-linux-arm,77
 2026-10-20,shadps4-mac,0
-2026-10-20,shadps4-windows,110
+2026-10-20,shadps4-windows,111
 2026-10-20,srm-linux,1004
 2026-10-20,srm-linux-arm,78
 2026-10-20,srm-mac,0
-2026-10-20,srm-windows,143
+2026-10-20,srm-windows,144
 2026-10-20,supermodel-linux,344
 2026-10-20,supermodel-linux-arm,62
 2026-10-20,supermodel-mac,0
@@ -2082,8 +2082,8 @@ date,name,total
 2026-10-20,system-linux-arm,75
 2026-10-20,system-mac,0
 2026-10-20,system-steamos,0
-2026-10-20,system-windows,127
-2026-10-20,vita3k-linux,1038
+2026-10-20,system-windows,128
+2026-10-20,vita3k-linux,1039
 2026-10-20,vita3k-linux-arm,83
 2026-10-20,vita3k-mac,0
 2026-10-20,vita3k-windows,31
@@ -2091,10 +2091,10 @@ date,name,total
 2026-10-20,xemu-linux-arm,56
 2026-10-20,xemu-mac,0
 2026-10-20,xemu-windows,41
-2026-10-20,xenia-linux,1031
+2026-10-20,xenia-linux,1033
 2026-10-20,xenia-linux-arm,82
 2026-10-20,xenia-mac,0
-2026-10-20,xenia-windows,118
+2026-10-20,xenia-windows,119
 2026-10-20,yuzu-linux,6
 2026-10-20,yuzu-linux-arm,0
 2026-10-20,yuzu-mac,0
