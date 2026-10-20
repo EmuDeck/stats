@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-20 11:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-20 11:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -129,7 +129,7 @@ xychart-beta
 | dolphin | 474 | 67 | 59 | 266 | 560 | 600 |
 | mgba | 461 | 36 | 34 | 261 | 494 | 531 |
 | melonds | 408 | 52 | 42 | 225 | 465 | 502 |
-| xemu | 402 | 56 | 41 | 215 | 463 | 499 |
+| xemu | 403 | 56 | 41 | 215 | 463 | 500 |
 | primehack | 352 | 51 | 43 | 191 | 413 | 446 |
 | supermodel | 345 | 63 | 9 | 181 | 388 | 417 |
 | model2 | 341 | 66 | 7 | 180 | 385 | 414 |
