@@ -1983,7 +1983,7 @@ date,name,total
 2026-10-20,citron-linux-arm,0
 2026-10-20,citron-mac,0
 2026-10-20,citron-windows,0
-2026-10-20,cloudsync-linux,531
+2026-10-20,cloudsync-linux,533
 2026-10-20,cloudsync-linux-arm,20
 2026-10-20,cloudsync-windows,231
 2026-10-20,dolphin-linux,474
@@ -1997,14 +1997,14 @@ date,name,total
 2026-10-20,early-cloudsync-linux,515
 2026-10-20,early-cloudsync-linux-arm,19
 2026-10-20,early-cloudsync-windows,221
-2026-10-20,early-linux,330
+2026-10-20,early-linux,331
 2026-10-20,early-linux-arm,61
 2026-10-20,early-windows,104
 2026-10-20,eden-linux,65
 2026-10-20,eden-linux-arm,7
 2026-10-20,eden-mac,0
 2026-10-20,eden-windows,0
-2026-10-20,esde-linux,1039
+2026-10-20,esde-linux,1040
 2026-10-20,esde-linux-arm,85
 2026-10-20,esde-mac,0
 2026-10-20,esde-windows,230
@@ -2028,7 +2028,7 @@ date,name,total
 2026-10-20,model2-linux-arm,66
 2026-10-20,model2-mac,0
 2026-10-20,model2-windows,7
-2026-10-20,pcsx2-linux,1286
+2026-10-20,pcsx2-linux,1287
 2026-10-20,pcsx2-linux-arm,19
 2026-10-20,pcsx2-mac,0
 2026-10-20,pcsx2-windows,157
@@ -2044,7 +2044,7 @@ date,name,total
 2026-10-20,primehack-linux-arm,51
 2026-10-20,primehack-mac,0
 2026-10-20,primehack-windows,43
-2026-10-20,ra-linux,467
+2026-10-20,ra-linux,468
 2026-10-20,ra-linux-arm,67
 2026-10-20,ra-mac,0
 2026-10-20,ra-windows,65
@@ -2052,7 +2052,7 @@ date,name,total
 2026-10-20,rmg-linux-arm,22
 2026-10-20,rmg-mac,0
 2026-10-20,rmg-windows,0
-2026-10-20,rpcs3-linux,1161
+2026-10-20,rpcs3-linux,1162
 2026-10-20,rpcs3-linux-arm,96
 2026-10-20,rpcs3-mac,0
 2026-10-20,rpcs3-windows,53
@@ -2064,7 +2064,7 @@ date,name,total
 2026-10-20,scummvm-linux-arm,47
 2026-10-20,scummvm-mac,0
 2026-10-20,scummvm-windows,23
-2026-10-20,shadps4-linux,985
+2026-10-20,shadps4-linux,986
 2026-10-20,shadps4-linux-arm,78
 2026-10-20,shadps4-mac,0
 2026-10-20,shadps4-windows,113
@@ -2078,7 +2078,7 @@ date,name,total
 2026-10-20,supermodel-windows,9
 2026-10-20,system-bazzite,0
 2026-10-20,system-chimeraos,0
-2026-10-20,system-linux,481
+2026-10-20,system-linux,482
 2026-10-20,system-linux-arm,75
 2026-10-20,system-mac,0
 2026-10-20,system-steamos,0
