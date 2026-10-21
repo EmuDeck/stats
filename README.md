@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-21 11:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-21 12:21 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -47,7 +47,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 26 | 197 | 476 | 518 |
 | linux-arm | 6 | 32 | 75 | 81 |
-| windows | 8 | 67 | 126 | 140 |
+| windows | 8 | 67 | 126 | 141 |
 
 ```mermaid
 xychart-beta
@@ -93,7 +93,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 204 | 484 | 533 |
+| Instalaciones early | 204 | 484 | 534 |
 | Con CloudSync | 329 | 714 | 794 |
 | % con CloudSync | | | 149% |
 
@@ -112,21 +112,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1359 | 19 | 165 | 673 | 1426 | 1543 |
-| azahar | 1207 | 109 | 158 | 634 | 1351 | 1474 |
+| pcsx2 | 1359 | 19 | 166 | 673 | 1426 | 1544 |
+| azahar | 1207 | 109 | 159 | 634 | 1351 | 1475 |
 | duckstation | 1312 | 102 | 58 | 641 | 1356 | 1472 |
-| esde | 1100 | 88 | 245 | 616 | 1302 | 1433 |
+| esde | 1100 | 88 | 246 | 616 | 1302 | 1434 |
 | ryujinx | 1163 | 107 | 158 | 633 | 1318 | 1428 |
 | rpcs3 | 1225 | 103 | 60 | 617 | 1277 | 1388 |
 | cemu | 1201 | 103 | 46 | 583 | 1249 | 1350 |
 | srm | 1079 | 87 | 159 | 602 | 1224 | 1325 |
-| xenia | 1101 | 91 | 131 | 576 | 1221 | 1323 |
-| shadps4 | 1046 | 86 | 119 | 568 | 1147 | 1251 |
+| xenia | 1101 | 91 | 132 | 576 | 1221 | 1324 |
+| shadps4 | 1046 | 86 | 120 | 568 | 1147 | 1252 |
 | vita3k | 1107 | 90 | 36 | 553 | 1132 | 1233 |
 | cloudsync | 558 | 22 | 243 | 338 | 741 | 823 |
-| ppsspp | 459 | 68 | 118 | 252 | 592 | 645 |
+| ppsspp | 459 | 68 | 119 | 252 | 592 | 646 |
 | ra | 499 | 72 | 71 | 252 | 588 | 642 |
-| dolphin | 500 | 73 | 66 | 250 | 586 | 639 |
+| dolphin | 501 | 73 | 66 | 250 | 586 | 640 |
 | mgba | 486 | 39 | 36 | 243 | 521 | 561 |
 | melonds | 434 | 58 | 47 | 217 | 491 | 539 |
 | xemu | 428 | 60 | 45 | 213 | 488 | 533 |
