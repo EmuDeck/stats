@@ -2129,7 +2129,7 @@ date,name,total
 2026-10-21,dolphin-linux,498
 2026-10-21,dolphin-linux-arm,73
 2026-10-21,dolphin-mac,0
-2026-10-21,dolphin-windows,63
+2026-10-21,dolphin-windows,64
 2026-10-21,duckstation-linux,1303
 2026-10-21,duckstation-linux-arm,101
 2026-10-21,duckstation-mac,0
@@ -2139,7 +2139,7 @@ date,name,total
 2026-10-21,early-cloudsync-windows,232
 2026-10-21,early-linux,351
 2026-10-21,early-linux-arm,65
-2026-10-21,early-windows,110
+2026-10-21,early-windows,111
 2026-10-21,eden-linux,70
 2026-10-21,eden-linux-arm,7
 2026-10-21,eden-mac,0
@@ -2147,7 +2147,7 @@ date,name,total
 2026-10-21,esde-linux,1086
 2026-10-21,esde-linux-arm,87
 2026-10-21,esde-mac,0
-2026-10-21,esde-windows,242
+2026-10-21,esde-windows,244
 2026-10-21,flycast-linux,93
 2026-10-21,flycast-linux-arm,14
 2026-10-21,flycast-mac,0
@@ -2211,7 +2211,7 @@ date,name,total
 2026-10-21,srm-linux,1066
 2026-10-21,srm-linux-arm,87
 2026-10-21,srm-mac,0
-2026-10-21,srm-windows,154
+2026-10-21,srm-windows,156
 2026-10-21,supermodel-linux,369
 2026-10-21,supermodel-linux-arm,69
 2026-10-21,supermodel-mac,0
@@ -2222,7 +2222,7 @@ date,name,total
 2026-10-21,system-linux-arm,81
 2026-10-21,system-mac,0
 2026-10-21,system-steamos,0
-2026-10-21,system-windows,136
+2026-10-21,system-windows,137
 2026-10-21,vita3k-linux,1099
 2026-10-21,vita3k-linux-arm,90
 2026-10-21,vita3k-mac,0
