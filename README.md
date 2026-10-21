@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-21 19:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-21 19:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -47,7 +47,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 26 | 197 | 476 | 526 |
 | linux-arm | 6 | 32 | 75 | 84 |
-| windows | 8 | 67 | 126 | 142 |
+| windows | 8 | 67 | 126 | 143 |
 
 ```mermaid
 xychart-beta
@@ -112,26 +112,26 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1384 | 19 | 167 | 673 | 1426 | 1570 |
-| azahar | 1227 | 115 | 161 | 634 | 1351 | 1503 |
-| duckstation | 1332 | 108 | 59 | 641 | 1356 | 1499 |
-| esde | 1122 | 88 | 247 | 616 | 1302 | 1457 |
-| ryujinx | 1182 | 110 | 160 | 633 | 1318 | 1452 |
-| rpcs3 | 1248 | 106 | 61 | 617 | 1277 | 1415 |
+| pcsx2 | 1385 | 19 | 167 | 673 | 1426 | 1571 |
+| azahar | 1228 | 115 | 161 | 634 | 1351 | 1504 |
+| duckstation | 1333 | 108 | 59 | 641 | 1356 | 1500 |
+| esde | 1123 | 88 | 247 | 616 | 1302 | 1458 |
+| ryujinx | 1183 | 110 | 162 | 633 | 1318 | 1455 |
+| rpcs3 | 1249 | 106 | 61 | 617 | 1277 | 1416 |
 | cemu | 1223 | 109 | 47 | 583 | 1249 | 1379 |
-| srm | 1104 | 96 | 161 | 602 | 1224 | 1361 |
-| xenia | 1123 | 92 | 133 | 576 | 1221 | 1348 |
+| srm | 1105 | 96 | 162 | 602 | 1224 | 1363 |
+| xenia | 1124 | 92 | 133 | 576 | 1221 | 1349 |
 | shadps4 | 1059 | 89 | 121 | 568 | 1147 | 1269 |
 | vita3k | 1121 | 96 | 37 | 553 | 1132 | 1254 |
 | cloudsync | 560 | 23 | 244 | 338 | 741 | 827 |
 | ppsspp | 464 | 71 | 120 | 252 | 592 | 655 |
+| ra | 505 | 75 | 73 | 252 | 588 | 653 |
 | dolphin | 509 | 76 | 67 | 250 | 586 | 652 |
-| ra | 505 | 75 | 72 | 252 | 588 | 652 |
 | mgba | 494 | 42 | 36 | 243 | 521 | 572 |
 | melonds | 438 | 61 | 47 | 217 | 491 | 546 |
 | xemu | 434 | 63 | 46 | 213 | 488 | 543 |
 | primehack | 377 | 58 | 49 | 191 | 437 | 484 |
-| supermodel | 372 | 72 | 9 | 178 | 410 | 453 |
+| supermodel | 372 | 72 | 10 | 178 | 410 | 454 |
 | model2 | 368 | 75 | 7 | 173 | 407 | 450 |
 | scummvm | 362 | 52 | 29 | 173 | 398 | 443 |
 | bigpemu | 341 | 5 | 8 | 154 | 320 | 354 |
