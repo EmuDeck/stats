@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-21 21:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-21 21:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -112,17 +112,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1394 | 19 | 168 | 673 | 1426 | 1581 |
-| duckstation | 1344 | 108 | 60 | 641 | 1356 | 1512 |
-| azahar | 1234 | 115 | 162 | 634 | 1351 | 1511 |
-| esde | 1130 | 88 | 248 | 616 | 1302 | 1466 |
-| ryujinx | 1191 | 110 | 163 | 633 | 1318 | 1464 |
-| rpcs3 | 1258 | 106 | 62 | 617 | 1277 | 1426 |
-| cemu | 1229 | 109 | 48 | 583 | 1249 | 1386 |
-| srm | 1111 | 96 | 162 | 602 | 1224 | 1369 |
-| xenia | 1131 | 92 | 134 | 576 | 1221 | 1357 |
-| shadps4 | 1064 | 89 | 122 | 568 | 1147 | 1275 |
-| vita3k | 1127 | 96 | 38 | 553 | 1132 | 1261 |
+| pcsx2 | 1395 | 19 | 168 | 673 | 1426 | 1582 |
+| duckstation | 1345 | 108 | 60 | 641 | 1356 | 1513 |
+| azahar | 1235 | 115 | 162 | 634 | 1351 | 1512 |
+| esde | 1131 | 88 | 248 | 616 | 1302 | 1467 |
+| ryujinx | 1193 | 110 | 163 | 633 | 1318 | 1466 |
+| rpcs3 | 1259 | 106 | 62 | 617 | 1277 | 1427 |
+| cemu | 1230 | 109 | 48 | 583 | 1249 | 1387 |
+| srm | 1112 | 96 | 162 | 602 | 1224 | 1370 |
+| xenia | 1132 | 92 | 134 | 576 | 1221 | 1358 |
+| shadps4 | 1065 | 89 | 122 | 568 | 1147 | 1276 |
+| vita3k | 1128 | 96 | 38 | 553 | 1132 | 1262 |
 | cloudsync | 561 | 23 | 244 | 338 | 741 | 828 |
 | ppsspp | 465 | 71 | 121 | 252 | 592 | 657 |
 | dolphin | 511 | 76 | 69 | 250 | 586 | 656 |
