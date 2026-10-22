@@ -2247,7 +2247,7 @@ date,name,total
 2026-10-22,armsx2-linux-arm,118
 2026-10-22,armsx2-mac,0
 2026-10-22,armsx2-windows,0
-2026-10-22,azahar-linux,1267
+2026-10-22,azahar-linux,1270
 2026-10-22,azahar-linux-arm,116
 2026-10-22,azahar-mac,0
 2026-10-22,azahar-windows,168
@@ -2255,7 +2255,7 @@ date,name,total
 2026-10-22,bigpemu-linux-arm,5
 2026-10-22,bigpemu-mac,0
 2026-10-22,bigpemu-windows,8
-2026-10-22,cemu-linux,1264
+2026-10-22,cemu-linux,1266
 2026-10-22,cemu-linux-arm,110
 2026-10-22,cemu-mac,0
 2026-10-22,cemu-windows,51
@@ -2284,10 +2284,10 @@ date,name,total
 2026-10-22,eden-linux-arm,7
 2026-10-22,eden-mac,0
 2026-10-22,eden-windows,0
-2026-10-22,esde-linux,1162
+2026-10-22,esde-linux,1164
 2026-10-22,esde-linux-arm,89
 2026-10-22,esde-mac,0
-2026-10-22,esde-windows,264
+2026-10-22,esde-windows,265
 2026-10-22,flycast-linux,98
 2026-10-22,flycast-linux-arm,14
 2026-10-22,flycast-mac,0
@@ -2351,7 +2351,7 @@ date,name,total
 2026-10-22,srm-linux,1144
 2026-10-22,srm-linux-arm,96
 2026-10-22,srm-mac,0
-2026-10-22,srm-windows,168
+2026-10-22,srm-windows,169
 2026-10-22,supermodel-linux,376
 2026-10-22,supermodel-linux-arm,72
 2026-10-22,supermodel-mac,0
