@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-22 10:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-22 11:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -47,7 +47,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 32 | 192 | 508 | 536 |
 | linux-arm | 6 | 36 | 81 | 84 |
-| windows | 11 | 76 | 137 | 152 |
+| windows | 11 | 76 | 137 | 153 |
 
 ```mermaid
 xychart-beta
@@ -119,13 +119,13 @@ xychart-beta
 | ryujinx | 1237 | 111 | 169 | 633 | 1421 | 1517 |
 | rpcs3 | 1301 | 106 | 67 | 604 | 1380 | 1474 |
 | cemu | 1278 | 110 | 52 | 570 | 1345 | 1440 |
-| srm | 1152 | 96 | 175 | 642 | 1346 | 1423 |
+| srm | 1152 | 96 | 176 | 642 | 1346 | 1424 |
 | xenia | 1170 | 92 | 141 | 572 | 1319 | 1403 |
 | shadps4 | 1103 | 90 | 127 | 548 | 1232 | 1320 |
 | vita3k | 1167 | 96 | 43 | 536 | 1218 | 1306 |
 | cloudsync | 572 | 24 | 245 | 296 | 766 | 841 |
 | ppsspp | 473 | 71 | 129 | 248 | 627 | 673 |
-| ra | 515 | 75 | 80 | 248 | 629 | 670 |
+| ra | 515 | 75 | 81 | 248 | 629 | 671 |
 | dolphin | 519 | 76 | 74 | 244 | 628 | 669 |
 | mgba | 510 | 42 | 41 | 246 | 559 | 593 |
 | melonds | 446 | 61 | 53 | 206 | 523 | 560 |
