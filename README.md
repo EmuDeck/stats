@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-23 16:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-23 16:42 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 212 | 543 | 591 |
-| Con CloudSync | 312 | 788 | 886 |
+| Con CloudSync | 312 | 788 | 887 |
 | % con CloudSync | | | 150% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -127,17 +127,17 @@ xychart-beta
 | esde | 1249 | 95 | 285 | 624 | 1484 | 1629 |
 | rpcs3 | 1392 | 115 | 75 | 603 | 1450 | 1582 |
 | cemu | 1377 | 118 | 59 | 579 | 1424 | 1554 |
-| srm | 1231 | 105 | 186 | 635 | 1421 | 1522 |
-| xenia | 1259 | 100 | 148 | 573 | 1384 | 1507 |
+| srm | 1231 | 105 | 187 | 635 | 1421 | 1523 |
+| xenia | 1259 | 100 | 149 | 573 | 1384 | 1508 |
 | shadps4 | 1178 | 99 | 132 | 540 | 1291 | 1409 |
 | vita3k | 1246 | 104 | 49 | 533 | 1278 | 1399 |
-| cloudsync | 621 | 25 | 273 | 320 | 815 | 919 |
+| cloudsync | 622 | 25 | 273 | 320 | 815 | 920 |
 | ra | 551 | 79 | 92 | 259 | 666 | 722 |
 | ppsspp | 509 | 75 | 136 | 254 | 660 | 720 |
 | dolphin | 556 | 81 | 81 | 243 | 658 | 718 |
 | mgba | 551 | 43 | 43 | 241 | 592 | 637 |
 | melonds | 481 | 65 | 59 | 206 | 547 | 605 |
-| xemu | 476 | 67 | 57 | 208 | 546 | 600 |
+| xemu | 476 | 67 | 58 | 208 | 546 | 601 |
 | primehack | 414 | 62 | 59 | 179 | 486 | 535 |
 | supermodel | 407 | 77 | 12 | 156 | 454 | 496 |
 | model2 | 403 | 80 | 7 | 156 | 447 | 490 |
