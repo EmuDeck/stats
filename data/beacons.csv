@@ -2395,7 +2395,7 @@ date,name,total
 2026-10-23,bigpemu-linux-arm,7
 2026-10-23,bigpemu-mac,0
 2026-10-23,bigpemu-windows,10
-2026-10-23,cemu-linux,1342
+2026-10-23,cemu-linux,1343
 2026-10-23,cemu-linux-arm,116
 2026-10-23,cemu-mac,0
 2026-10-23,cemu-windows,56
@@ -2476,10 +2476,10 @@ date,name,total
 2026-10-23,rpcs3-linux-arm,113
 2026-10-23,rpcs3-mac,0
 2026-10-23,rpcs3-windows,73
-2026-10-23,ryujinx-linux,1298
+2026-10-23,ryujinx-linux,1299
 2026-10-23,ryujinx-linux-arm,118
 2026-10-23,ryujinx-mac,0
-2026-10-23,ryujinx-windows,177
+2026-10-23,ryujinx-windows,178
 2026-10-23,scummvm-linux,385
 2026-10-23,scummvm-linux-arm,55
 2026-10-23,scummvm-mac,0
@@ -2491,7 +2491,7 @@ date,name,total
 2026-10-23,srm-linux,1206
 2026-10-23,srm-linux-arm,101
 2026-10-23,srm-mac,0
-2026-10-23,srm-windows,183
+2026-10-23,srm-windows,184
 2026-10-23,supermodel-linux,395
 2026-10-23,supermodel-linux-arm,76
 2026-10-23,supermodel-mac,0
