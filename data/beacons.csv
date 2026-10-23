@@ -2387,7 +2387,7 @@ date,name,total
 2026-10-23,armsx2-linux-arm,128
 2026-10-23,armsx2-mac,0
 2026-10-23,armsx2-windows,0
-2026-10-23,azahar-linux,1352
+2026-10-23,azahar-linux,1353
 2026-10-23,azahar-linux-arm,124
 2026-10-23,azahar-mac,0
 2026-10-23,azahar-windows,181
@@ -2395,7 +2395,7 @@ date,name,total
 2026-10-23,bigpemu-linux-arm,7
 2026-10-23,bigpemu-mac,0
 2026-10-23,bigpemu-windows,10
-2026-10-23,cemu-linux,1358
+2026-10-23,cemu-linux,1359
 2026-10-23,cemu-linux-arm,118
 2026-10-23,cemu-mac,0
 2026-10-23,cemu-windows,59
@@ -2405,7 +2405,7 @@ date,name,total
 2026-10-23,citron-windows,0
 2026-10-23,cloudsync-linux,617
 2026-10-23,cloudsync-linux-arm,25
-2026-10-23,cloudsync-windows,270
+2026-10-23,cloudsync-windows,271
 2026-10-23,dolphin-linux,545
 2026-10-23,dolphin-linux-arm,81
 2026-10-23,dolphin-mac,0
@@ -2416,7 +2416,7 @@ date,name,total
 2026-10-23,duckstation-windows,74
 2026-10-23,early-cloudsync-linux,598
 2026-10-23,early-cloudsync-linux-arm,24
-2026-10-23,early-cloudsync-windows,260
+2026-10-23,early-cloudsync-windows,261
 2026-10-23,early-linux,384
 2026-10-23,early-linux-arm,73
 2026-10-23,early-windows,127
@@ -2432,7 +2432,7 @@ date,name,total
 2026-10-23,flycast-linux-arm,14
 2026-10-23,flycast-mac,0
 2026-10-23,flycast-windows,15
-2026-10-23,mame-linux,59
+2026-10-23,mame-linux,60
 2026-10-23,mame-linux-arm,2
 2026-10-23,mame-mac,0
 2026-10-23,mame-windows,14
@@ -2448,7 +2448,7 @@ date,name,total
 2026-10-23,model2-linux-arm,80
 2026-10-23,model2-mac,0
 2026-10-23,model2-windows,7
-2026-10-23,pcsx2-linux,1524
+2026-10-23,pcsx2-linux,1525
 2026-10-23,pcsx2-linux-arm,20
 2026-10-23,pcsx2-mac,0
 2026-10-23,pcsx2-windows,184
@@ -2472,7 +2472,7 @@ date,name,total
 2026-10-23,rmg-linux-arm,26
 2026-10-23,rmg-mac,0
 2026-10-23,rmg-windows,0
-2026-10-23,rpcs3-linux,1372
+2026-10-23,rpcs3-linux,1373
 2026-10-23,rpcs3-linux-arm,115
 2026-10-23,rpcs3-mac,0
 2026-10-23,rpcs3-windows,75
@@ -2488,7 +2488,7 @@ date,name,total
 2026-10-23,shadps4-linux-arm,98
 2026-10-23,shadps4-mac,0
 2026-10-23,shadps4-windows,132
-2026-10-23,srm-linux,1220
+2026-10-23,srm-linux,1221
 2026-10-23,srm-linux-arm,104
 2026-10-23,srm-mac,0
 2026-10-23,srm-windows,186
