@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-23 17:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-23 18:17 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -120,17 +120,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1550 | 20 | 184 | 664 | 1612 | 1754 |
-| duckstation | 1493 | 117 | 74 | 643 | 1542 | 1684 |
-| azahar | 1375 | 125 | 181 | 629 | 1534 | 1681 |
-| ryujinx | 1333 | 124 | 183 | 617 | 1494 | 1640 |
+| pcsx2 | 1551 | 20 | 184 | 664 | 1612 | 1755 |
+| duckstation | 1494 | 117 | 74 | 643 | 1542 | 1685 |
+| azahar | 1377 | 125 | 181 | 629 | 1534 | 1683 |
+| ryujinx | 1335 | 124 | 183 | 617 | 1494 | 1642 |
 | esde | 1251 | 96 | 285 | 624 | 1484 | 1632 |
-| rpcs3 | 1397 | 115 | 75 | 603 | 1450 | 1587 |
-| cemu | 1382 | 118 | 59 | 579 | 1424 | 1559 |
-| srm | 1234 | 105 | 188 | 635 | 1421 | 1527 |
-| xenia | 1264 | 100 | 149 | 573 | 1384 | 1513 |
-| shadps4 | 1183 | 99 | 132 | 540 | 1291 | 1414 |
-| vita3k | 1249 | 104 | 49 | 533 | 1278 | 1402 |
+| rpcs3 | 1398 | 115 | 75 | 603 | 1450 | 1588 |
+| cemu | 1383 | 118 | 59 | 579 | 1424 | 1560 |
+| srm | 1235 | 105 | 188 | 635 | 1421 | 1528 |
+| xenia | 1265 | 100 | 149 | 573 | 1384 | 1514 |
+| shadps4 | 1184 | 99 | 132 | 540 | 1291 | 1415 |
+| vita3k | 1250 | 104 | 49 | 533 | 1278 | 1403 |
 | cloudsync | 623 | 25 | 273 | 320 | 815 | 921 |
 | ra | 554 | 79 | 92 | 259 | 666 | 725 |
 | ppsspp | 512 | 75 | 136 | 254 | 660 | 723 |
@@ -143,7 +143,7 @@ xychart-beta
 | model2 | 404 | 80 | 7 | 156 | 447 | 491 |
 | scummvm | 397 | 56 | 36 | 163 | 442 | 489 |
 | bigpemu | 389 | 7 | 10 | 147 | 365 | 406 |
-| armsx2 | 120 | 129 | 0 | 90 | 228 | 249 |
+| armsx2 | 120 | 130 | 0 | 90 | 228 | 250 |
 | flycast | 111 | 14 | 15 | 40 | 124 | 140 |
 | rmg | 105 | 26 | 0 | 41 | 123 | 131 |
 | eden | 72 | 7 | 0 | 40 | 71 | 79 |
