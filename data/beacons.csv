@@ -2390,12 +2390,12 @@ date,name,total
 2026-10-23,azahar-linux,1337
 2026-10-23,azahar-linux-arm,121
 2026-10-23,azahar-mac,0
-2026-10-23,azahar-windows,177
+2026-10-23,azahar-windows,179
 2026-10-23,bigpemu-linux,378
 2026-10-23,bigpemu-linux-arm,7
 2026-10-23,bigpemu-mac,0
 2026-10-23,bigpemu-windows,10
-2026-10-23,cemu-linux,1341
+2026-10-23,cemu-linux,1342
 2026-10-23,cemu-linux-arm,116
 2026-10-23,cemu-mac,0
 2026-10-23,cemu-windows,56
@@ -2476,7 +2476,7 @@ date,name,total
 2026-10-23,rpcs3-linux-arm,113
 2026-10-23,rpcs3-mac,0
 2026-10-23,rpcs3-windows,73
-2026-10-23,ryujinx-linux,1297
+2026-10-23,ryujinx-linux,1298
 2026-10-23,ryujinx-linux-arm,118
 2026-10-23,ryujinx-mac,0
 2026-10-23,ryujinx-windows,177
