@@ -2387,15 +2387,15 @@ date,name,total
 2026-10-23,armsx2-linux-arm,125
 2026-10-23,armsx2-mac,0
 2026-10-23,armsx2-windows,0
-2026-10-23,azahar-linux,1344
+2026-10-23,azahar-linux,1345
 2026-10-23,azahar-linux-arm,121
 2026-10-23,azahar-mac,0
 2026-10-23,azahar-windows,181
-2026-10-23,bigpemu-linux,381
+2026-10-23,bigpemu-linux,382
 2026-10-23,bigpemu-linux-arm,7
 2026-10-23,bigpemu-mac,0
 2026-10-23,bigpemu-windows,10
-2026-10-23,cemu-linux,1350
+2026-10-23,cemu-linux,1351
 2026-10-23,cemu-linux-arm,116
 2026-10-23,cemu-mac,0
 2026-10-23,cemu-windows,58
@@ -2410,7 +2410,7 @@ date,name,total
 2026-10-23,dolphin-linux-arm,80
 2026-10-23,dolphin-mac,0
 2026-10-23,dolphin-windows,81
-2026-10-23,duckstation-linux,1463
+2026-10-23,duckstation-linux,1464
 2026-10-23,duckstation-linux-arm,114
 2026-10-23,duckstation-mac,0
 2026-10-23,duckstation-windows,73
@@ -2424,7 +2424,7 @@ date,name,total
 2026-10-23,eden-linux-arm,7
 2026-10-23,eden-mac,0
 2026-10-23,eden-windows,0
-2026-10-23,esde-linux,1228
+2026-10-23,esde-linux,1229
 2026-10-23,esde-linux-arm,93
 2026-10-23,esde-mac,0
 2026-10-23,esde-windows,285
@@ -2440,7 +2440,7 @@ date,name,total
 2026-10-23,melonds-linux-arm,64
 2026-10-23,melonds-mac,0
 2026-10-23,melonds-windows,59
-2026-10-23,mgba-linux,541
+2026-10-23,mgba-linux,542
 2026-10-23,mgba-linux-arm,43
 2026-10-23,mgba-mac,0
 2026-10-23,mgba-windows,43
@@ -2448,7 +2448,7 @@ date,name,total
 2026-10-23,model2-linux-arm,79
 2026-10-23,model2-mac,0
 2026-10-23,model2-windows,7
-2026-10-23,pcsx2-linux,1516
+2026-10-23,pcsx2-linux,1517
 2026-10-23,pcsx2-linux-arm,20
 2026-10-23,pcsx2-mac,0
 2026-10-23,pcsx2-windows,184
@@ -2472,11 +2472,11 @@ date,name,total
 2026-10-23,rmg-linux-arm,26
 2026-10-23,rmg-mac,0
 2026-10-23,rmg-windows,0
-2026-10-23,rpcs3-linux,1365
+2026-10-23,rpcs3-linux,1366
 2026-10-23,rpcs3-linux-arm,113
 2026-10-23,rpcs3-mac,0
 2026-10-23,rpcs3-windows,75
-2026-10-23,ryujinx-linux,1307
+2026-10-23,ryujinx-linux,1308
 2026-10-23,ryujinx-linux-arm,118
 2026-10-23,ryujinx-mac,0
 2026-10-23,ryujinx-windows,182
@@ -2503,7 +2503,7 @@ date,name,total
 2026-10-23,system-mac,0
 2026-10-23,system-steamos,0
 2026-10-23,system-windows,157
-2026-10-23,vita3k-linux,1223
+2026-10-23,vita3k-linux,1224
 2026-10-23,vita3k-linux-arm,101
 2026-10-23,vita3k-mac,0
 2026-10-23,vita3k-windows,49
