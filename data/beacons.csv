@@ -2571,7 +2571,7 @@ date,name,total
 2026-10-24,flycast-linux,117
 2026-10-24,flycast-linux-arm,14
 2026-10-24,flycast-mac,0
-2026-10-24,flycast-windows,15
+2026-10-24,flycast-windows,16
 2026-10-24,mame-linux,64
 2026-10-24,mame-linux-arm,2
 2026-10-24,mame-mac,0
@@ -2616,10 +2616,10 @@ date,name,total
 2026-10-24,rpcs3-linux-arm,119
 2026-10-24,rpcs3-mac,0
 2026-10-24,rpcs3-windows,75
-2026-10-24,ryujinx-linux,1370
+2026-10-24,ryujinx-linux,1371
 2026-10-24,ryujinx-linux-arm,131
 2026-10-24,ryujinx-mac,0
-2026-10-24,ryujinx-windows,184
+2026-10-24,ryujinx-windows,185
 2026-10-24,scummvm-linux,410
 2026-10-24,scummvm-linux-arm,58
 2026-10-24,scummvm-mac,0

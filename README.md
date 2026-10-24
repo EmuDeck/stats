@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-24 04:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-24 04:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -123,7 +123,7 @@ xychart-beta
 | pcsx2 | 1598 | 20 | 184 | 690 | 1716 | 1802 |
 | duckstation | 1538 | 122 | 78 | 677 | 1654 | 1738 |
 | azahar | 1415 | 132 | 181 | 659 | 1642 | 1728 |
-| ryujinx | 1370 | 131 | 184 | 654 | 1609 | 1685 |
+| ryujinx | 1371 | 131 | 185 | 654 | 1609 | 1687 |
 | esde | 1288 | 102 | 288 | 643 | 1570 | 1678 |
 | rpcs3 | 1442 | 119 | 75 | 638 | 1556 | 1636 |
 | cemu | 1421 | 127 | 59 | 625 | 1532 | 1607 |
@@ -144,7 +144,7 @@ xychart-beta
 | scummvm | 410 | 58 | 36 | 181 | 480 | 504 |
 | bigpemu | 399 | 7 | 10 | 169 | 395 | 416 |
 | armsx2 | 121 | 135 | 0 | 99 | 245 | 256 |
-| flycast | 117 | 14 | 15 | 50 | 140 | 146 |
+| flycast | 117 | 14 | 16 | 50 | 140 | 147 |
 | rmg | 109 | 26 | 0 | 42 | 130 | 135 |
 | eden | 73 | 7 | 0 | 38 | 72 | 80 |
 | mame | 64 | 2 | 14 | 23 | 76 | 80 |
