@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-24 03:42 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-24 04:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 224 | 580 | 604 |
-| Con CloudSync | 327 | 831 | 897 |
+| Con CloudSync | 327 | 831 | 898 |
 | % con CloudSync | | | 149% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -120,18 +120,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1595 | 20 | 184 | 690 | 1716 | 1799 |
-| duckstation | 1536 | 122 | 78 | 677 | 1654 | 1736 |
-| azahar | 1412 | 132 | 181 | 659 | 1642 | 1725 |
-| ryujinx | 1368 | 131 | 184 | 654 | 1609 | 1683 |
-| esde | 1285 | 102 | 287 | 643 | 1570 | 1674 |
-| rpcs3 | 1439 | 119 | 75 | 638 | 1556 | 1633 |
-| cemu | 1419 | 127 | 59 | 625 | 1532 | 1605 |
-| srm | 1270 | 112 | 189 | 653 | 1515 | 1571 |
-| xenia | 1300 | 104 | 151 | 606 | 1486 | 1555 |
-| shadps4 | 1222 | 105 | 132 | 567 | 1387 | 1459 |
-| vita3k | 1284 | 110 | 49 | 560 | 1372 | 1443 |
-| cloudsync | 631 | 25 | 274 | 339 | 862 | 930 |
+| pcsx2 | 1598 | 20 | 184 | 690 | 1716 | 1802 |
+| duckstation | 1538 | 122 | 78 | 677 | 1654 | 1738 |
+| azahar | 1415 | 132 | 181 | 659 | 1642 | 1728 |
+| ryujinx | 1370 | 131 | 184 | 654 | 1609 | 1685 |
+| esde | 1288 | 102 | 288 | 643 | 1570 | 1678 |
+| rpcs3 | 1442 | 119 | 75 | 638 | 1556 | 1636 |
+| cemu | 1421 | 127 | 59 | 625 | 1532 | 1607 |
+| srm | 1271 | 112 | 189 | 653 | 1515 | 1572 |
+| xenia | 1303 | 104 | 152 | 606 | 1486 | 1559 |
+| shadps4 | 1224 | 105 | 132 | 567 | 1387 | 1461 |
+| vita3k | 1285 | 110 | 49 | 560 | 1372 | 1444 |
+| cloudsync | 632 | 25 | 274 | 339 | 862 | 931 |
 | ra | 574 | 82 | 92 | 275 | 717 | 748 |
 | ppsspp | 529 | 77 | 137 | 271 | 709 | 743 |
 | dolphin | 575 | 84 | 81 | 261 | 709 | 740 |
