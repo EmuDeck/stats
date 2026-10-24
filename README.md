@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-24 03:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-24 03:42 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,8 +102,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 224 | 580 | 604 |
-| Con CloudSync | 327 | 831 | 896 |
-| % con CloudSync | | | 148% |
+| Con CloudSync | 327 | 831 | 897 |
+| % con CloudSync | | | 149% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -120,18 +120,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1594 | 20 | 184 | 690 | 1716 | 1798 |
-| duckstation | 1535 | 122 | 78 | 677 | 1654 | 1735 |
+| pcsx2 | 1595 | 20 | 184 | 690 | 1716 | 1799 |
+| duckstation | 1536 | 122 | 78 | 677 | 1654 | 1736 |
 | azahar | 1412 | 132 | 181 | 659 | 1642 | 1725 |
-| ryujinx | 1367 | 131 | 183 | 654 | 1609 | 1681 |
-| esde | 1284 | 102 | 287 | 643 | 1570 | 1673 |
-| rpcs3 | 1438 | 119 | 75 | 638 | 1556 | 1632 |
+| ryujinx | 1368 | 131 | 184 | 654 | 1609 | 1683 |
+| esde | 1285 | 102 | 287 | 643 | 1570 | 1674 |
+| rpcs3 | 1439 | 119 | 75 | 638 | 1556 | 1633 |
 | cemu | 1419 | 127 | 59 | 625 | 1532 | 1605 |
-| srm | 1269 | 112 | 189 | 653 | 1515 | 1570 |
-| xenia | 1300 | 104 | 149 | 606 | 1486 | 1553 |
-| shadps4 | 1221 | 105 | 132 | 567 | 1387 | 1458 |
+| srm | 1270 | 112 | 189 | 653 | 1515 | 1571 |
+| xenia | 1300 | 104 | 151 | 606 | 1486 | 1555 |
+| shadps4 | 1222 | 105 | 132 | 567 | 1387 | 1459 |
 | vita3k | 1284 | 110 | 49 | 560 | 1372 | 1443 |
-| cloudsync | 630 | 25 | 274 | 339 | 862 | 929 |
+| cloudsync | 631 | 25 | 274 | 339 | 862 | 930 |
 | ra | 574 | 82 | 92 | 275 | 717 | 748 |
 | ppsspp | 529 | 77 | 137 | 271 | 709 | 743 |
 | dolphin | 575 | 84 | 81 | 261 | 709 | 740 |
