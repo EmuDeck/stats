@@ -2527,7 +2527,7 @@ date,name,total
 2026-10-24,armsx2-linux-arm,144
 2026-10-24,armsx2-mac,0
 2026-10-24,armsx2-windows,0
-2026-10-24,azahar-linux,1444
+2026-10-24,azahar-linux,1445
 2026-10-24,azahar-linux-arm,142
 2026-10-24,azahar-mac,0
 2026-10-24,azahar-windows,182
@@ -2545,7 +2545,7 @@ date,name,total
 2026-10-24,citron-windows,0
 2026-10-24,cloudsync-linux,639
 2026-10-24,cloudsync-linux-arm,25
-2026-10-24,cloudsync-windows,277
+2026-10-24,cloudsync-windows,278
 2026-10-24,dolphin-linux,583
 2026-10-24,dolphin-linux-arm,90
 2026-10-24,dolphin-mac,0
@@ -2556,7 +2556,7 @@ date,name,total
 2026-10-24,duckstation-windows,78
 2026-10-24,early-cloudsync-linux,615
 2026-10-24,early-cloudsync-linux-arm,24
-2026-10-24,early-cloudsync-windows,266
+2026-10-24,early-cloudsync-windows,267
 2026-10-24,early-linux,406
 2026-10-24,early-linux-arm,80
 2026-10-24,early-windows,128
