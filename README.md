@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-24 04:41 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-24 05:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 224 | 580 | 604 |
-| Con CloudSync | 327 | 831 | 898 |
+| Con CloudSync | 327 | 831 | 900 |
 | % con CloudSync | | | 149% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -123,7 +123,7 @@ xychart-beta
 | pcsx2 | 1598 | 20 | 184 | 690 | 1716 | 1802 |
 | duckstation | 1538 | 122 | 78 | 677 | 1654 | 1738 |
 | azahar | 1415 | 132 | 181 | 659 | 1642 | 1728 |
-| ryujinx | 1371 | 131 | 185 | 654 | 1609 | 1687 |
+| ryujinx | 1371 | 131 | 186 | 654 | 1609 | 1688 |
 | esde | 1288 | 102 | 288 | 643 | 1570 | 1678 |
 | rpcs3 | 1442 | 119 | 75 | 638 | 1556 | 1636 |
 | cemu | 1421 | 127 | 59 | 625 | 1532 | 1607 |
@@ -131,10 +131,10 @@ xychart-beta
 | xenia | 1303 | 104 | 152 | 606 | 1486 | 1559 |
 | shadps4 | 1224 | 105 | 132 | 567 | 1387 | 1461 |
 | vita3k | 1285 | 110 | 49 | 560 | 1372 | 1444 |
-| cloudsync | 632 | 25 | 274 | 339 | 862 | 931 |
+| cloudsync | 632 | 25 | 276 | 339 | 862 | 933 |
 | ra | 574 | 82 | 92 | 275 | 717 | 748 |
 | ppsspp | 529 | 77 | 137 | 271 | 709 | 743 |
-| dolphin | 575 | 84 | 81 | 261 | 709 | 740 |
+| dolphin | 575 | 84 | 82 | 261 | 709 | 741 |
 | mgba | 565 | 46 | 45 | 249 | 629 | 656 |
 | melonds | 496 | 67 | 59 | 222 | 593 | 622 |
 | xemu | 495 | 69 | 58 | 227 | 595 | 622 |
@@ -142,7 +142,7 @@ xychart-beta
 | supermodel | 422 | 80 | 13 | 175 | 494 | 515 |
 | model2 | 417 | 83 | 7 | 171 | 486 | 507 |
 | scummvm | 410 | 58 | 36 | 181 | 480 | 504 |
-| bigpemu | 399 | 7 | 10 | 169 | 395 | 416 |
+| bigpemu | 400 | 7 | 10 | 169 | 395 | 417 |
 | armsx2 | 121 | 135 | 0 | 99 | 245 | 256 |
 | flycast | 117 | 14 | 16 | 50 | 140 | 147 |
 | rmg | 109 | 26 | 0 | 42 | 130 | 135 |
