@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-24 21:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-24 22:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,8 +102,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 224 | 580 | 625 |
-| Con CloudSync | 327 | 831 | 921 |
-| % con CloudSync | | | 147% |
+| Con CloudSync | 327 | 831 | 924 |
+| % con CloudSync | | | 148% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -120,18 +120,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1679 | 22 | 193 | 690 | 1716 | 1894 |
-| duckstation | 1607 | 132 | 83 | 677 | 1654 | 1822 |
-| azahar | 1483 | 145 | 189 | 659 | 1642 | 1817 |
-| ryujinx | 1436 | 144 | 196 | 654 | 1609 | 1776 |
-| esde | 1360 | 110 | 303 | 643 | 1570 | 1773 |
-| rpcs3 | 1505 | 132 | 78 | 638 | 1556 | 1715 |
+| pcsx2 | 1681 | 22 | 193 | 690 | 1716 | 1896 |
+| duckstation | 1608 | 132 | 83 | 677 | 1654 | 1823 |
+| azahar | 1484 | 145 | 189 | 659 | 1642 | 1818 |
+| ryujinx | 1437 | 144 | 196 | 654 | 1609 | 1777 |
+| esde | 1361 | 110 | 303 | 643 | 1570 | 1774 |
+| rpcs3 | 1507 | 132 | 78 | 638 | 1556 | 1717 |
 | cemu | 1483 | 135 | 63 | 625 | 1532 | 1681 |
-| srm | 1329 | 124 | 214 | 653 | 1515 | 1667 |
+| srm | 1329 | 124 | 215 | 653 | 1515 | 1668 |
 | xenia | 1355 | 108 | 163 | 606 | 1486 | 1626 |
-| shadps4 | 1278 | 110 | 138 | 567 | 1387 | 1526 |
-| vita3k | 1340 | 119 | 52 | 560 | 1372 | 1511 |
-| cloudsync | 651 | 25 | 281 | 339 | 862 | 957 |
+| shadps4 | 1279 | 110 | 138 | 567 | 1387 | 1527 |
+| vita3k | 1341 | 119 | 52 | 560 | 1372 | 1512 |
+| cloudsync | 654 | 25 | 281 | 339 | 862 | 960 |
 | ppsspp | 546 | 83 | 145 | 271 | 709 | 774 |
 | ra | 592 | 87 | 95 | 275 | 717 | 774 |
 | dolphin | 592 | 90 | 85 | 261 | 709 | 767 |
