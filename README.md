@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-24 22:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-24 23:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 224 | 580 | 625 |
-| Con CloudSync | 327 | 831 | 924 |
+| Con CloudSync | 327 | 831 | 926 |
 | % con CloudSync | | | 148% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -120,22 +120,22 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1682 | 22 | 193 | 690 | 1716 | 1897 |
-| duckstation | 1609 | 132 | 83 | 677 | 1654 | 1824 |
-| azahar | 1484 | 145 | 189 | 659 | 1642 | 1818 |
-| ryujinx | 1438 | 144 | 196 | 654 | 1609 | 1778 |
+| pcsx2 | 1683 | 22 | 193 | 690 | 1716 | 1898 |
+| duckstation | 1610 | 132 | 83 | 677 | 1654 | 1825 |
+| azahar | 1485 | 145 | 189 | 659 | 1642 | 1819 |
+| ryujinx | 1439 | 144 | 196 | 654 | 1609 | 1779 |
 | esde | 1362 | 110 | 304 | 643 | 1570 | 1776 |
-| rpcs3 | 1508 | 132 | 78 | 638 | 1556 | 1718 |
-| cemu | 1485 | 135 | 63 | 625 | 1532 | 1683 |
-| srm | 1330 | 124 | 215 | 653 | 1515 | 1669 |
-| xenia | 1356 | 108 | 163 | 606 | 1486 | 1627 |
-| shadps4 | 1279 | 110 | 138 | 567 | 1387 | 1527 |
-| vita3k | 1342 | 119 | 52 | 560 | 1372 | 1513 |
-| cloudsync | 654 | 25 | 281 | 339 | 862 | 960 |
+| rpcs3 | 1509 | 132 | 79 | 638 | 1556 | 1720 |
+| cemu | 1486 | 135 | 63 | 625 | 1532 | 1684 |
+| srm | 1331 | 124 | 215 | 653 | 1515 | 1670 |
+| xenia | 1357 | 108 | 163 | 606 | 1486 | 1628 |
+| shadps4 | 1280 | 110 | 138 | 567 | 1387 | 1528 |
+| vita3k | 1343 | 119 | 52 | 560 | 1372 | 1514 |
+| cloudsync | 656 | 25 | 281 | 339 | 862 | 962 |
 | ppsspp | 546 | 83 | 145 | 271 | 709 | 774 |
 | ra | 592 | 87 | 95 | 275 | 717 | 774 |
 | dolphin | 592 | 90 | 85 | 261 | 709 | 767 |
-| mgba | 590 | 51 | 47 | 249 | 629 | 688 |
+| mgba | 591 | 51 | 47 | 249 | 629 | 689 |
 | xemu | 512 | 74 | 62 | 227 | 595 | 648 |
 | melonds | 511 | 70 | 62 | 222 | 593 | 643 |
 | primehack | 445 | 68 | 65 | 200 | 527 | 578 |
