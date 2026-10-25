@@ -2683,7 +2683,7 @@ date,name,total
 2026-10-25,citron-linux-arm,0
 2026-10-25,citron-mac,0
 2026-10-25,citron-windows,0
-2026-10-25,cloudsync-linux,676
+2026-10-25,cloudsync-linux,677
 2026-10-25,cloudsync-linux-arm,25
 2026-10-25,cloudsync-windows,287
 2026-10-25,dolphin-linux,616
@@ -2694,7 +2694,7 @@ date,name,total
 2026-10-25,duckstation-linux-arm,135
 2026-10-25,duckstation-mac,0
 2026-10-25,duckstation-windows,83
-2026-10-25,early-cloudsync-linux,652
+2026-10-25,early-cloudsync-linux,653
 2026-10-25,early-cloudsync-linux-arm,24
 2026-10-25,early-cloudsync-windows,276
 2026-10-25,early-linux,432
@@ -2791,7 +2791,7 @@ date,name,total
 2026-10-25,xemu-linux-arm,74
 2026-10-25,xemu-mac,0
 2026-10-25,xemu-windows,63
-2026-10-25,xenia-linux,1421
+2026-10-25,xenia-linux,1422
 2026-10-25,xenia-linux-arm,109
 2026-10-25,xenia-mac,0
 2026-10-25,xenia-windows,166
