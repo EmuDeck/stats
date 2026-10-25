@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-25 09:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-25 09:39 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -120,17 +120,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1719 | 22 | 195 | 684 | 1828 | 1936 |
-| duckstation | 1641 | 133 | 83 | 662 | 1755 | 1857 |
-| azahar | 1510 | 147 | 190 | 659 | 1747 | 1847 |
-| esde | 1387 | 111 | 312 | 657 | 1690 | 1810 |
-| ryujinx | 1465 | 144 | 200 | 651 | 1715 | 1809 |
-| rpcs3 | 1544 | 132 | 80 | 628 | 1656 | 1756 |
-| cemu | 1515 | 135 | 63 | 612 | 1624 | 1713 |
-| srm | 1363 | 124 | 219 | 665 | 1625 | 1706 |
-| xenia | 1389 | 108 | 166 | 600 | 1573 | 1663 |
-| shadps4 | 1311 | 111 | 142 | 548 | 1468 | 1564 |
-| vita3k | 1372 | 119 | 52 | 544 | 1454 | 1543 |
+| pcsx2 | 1720 | 22 | 195 | 684 | 1828 | 1937 |
+| duckstation | 1642 | 133 | 83 | 662 | 1755 | 1858 |
+| azahar | 1512 | 148 | 190 | 659 | 1747 | 1850 |
+| esde | 1389 | 111 | 312 | 657 | 1690 | 1812 |
+| ryujinx | 1467 | 144 | 200 | 651 | 1715 | 1811 |
+| rpcs3 | 1546 | 132 | 80 | 628 | 1656 | 1758 |
+| cemu | 1517 | 135 | 63 | 612 | 1624 | 1715 |
+| srm | 1365 | 124 | 219 | 665 | 1625 | 1708 |
+| xenia | 1391 | 108 | 166 | 600 | 1573 | 1665 |
+| shadps4 | 1313 | 111 | 142 | 548 | 1468 | 1566 |
+| vita3k | 1374 | 119 | 52 | 544 | 1454 | 1545 |
 | cloudsync | 670 | 25 | 286 | 319 | 896 | 981 |
 | ppsspp | 560 | 83 | 147 | 266 | 745 | 790 |
 | ra | 606 | 87 | 96 | 268 | 747 | 789 |
@@ -142,7 +142,7 @@ xychart-beta
 | supermodel | 444 | 81 | 15 | 170 | 512 | 540 |
 | scummvm | 432 | 59 | 40 | 173 | 500 | 531 |
 | model2 | 438 | 84 | 7 | 163 | 501 | 529 |
-| bigpemu | 426 | 10 | 11 | 170 | 422 | 447 |
+| bigpemu | 427 | 10 | 11 | 170 | 422 | 448 |
 | armsx2 | 131 | 149 | 0 | 109 | 267 | 280 |
 | flycast | 119 | 15 | 16 | 50 | 144 | 150 |
 | rmg | 115 | 26 | 0 | 41 | 134 | 141 |
