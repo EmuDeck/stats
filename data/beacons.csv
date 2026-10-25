@@ -2707,7 +2707,7 @@ date,name,total
 2026-10-25,esde-linux,1367
 2026-10-25,esde-linux-arm,110
 2026-10-25,esde-mac,0
-2026-10-25,esde-windows,308
+2026-10-25,esde-windows,310
 2026-10-25,flycast-linux,118
 2026-10-25,flycast-linux-arm,15
 2026-10-25,flycast-mac,0
@@ -2759,7 +2759,7 @@ date,name,total
 2026-10-25,ryujinx-linux,1446
 2026-10-25,ryujinx-linux-arm,144
 2026-10-25,ryujinx-mac,0
-2026-10-25,ryujinx-windows,197
+2026-10-25,ryujinx-windows,198
 2026-10-25,scummvm-linux,426
 2026-10-25,scummvm-linux-arm,59
 2026-10-25,scummvm-mac,0
@@ -2790,11 +2790,11 @@ date,name,total
 2026-10-25,xemu-linux,515
 2026-10-25,xemu-linux-arm,74
 2026-10-25,xemu-mac,0
-2026-10-25,xemu-windows,62
+2026-10-25,xemu-windows,63
 2026-10-25,xenia-linux,1364
 2026-10-25,xenia-linux-arm,108
 2026-10-25,xenia-mac,0
-2026-10-25,xenia-windows,164
+2026-10-25,xenia-windows,165
 2026-10-25,yuzu-linux,8
 2026-10-25,yuzu-linux-arm,0
 2026-10-25,yuzu-mac,0
