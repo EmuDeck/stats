@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-26 19:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-26 19:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,8 +102,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 210 | 637 | 684 |
-| Con CloudSync | 284 | 902 | 1020 |
-| % con CloudSync | | | 149% |
+| Con CloudSync | 284 | 902 | 1027 |
+| % con CloudSync | | | 150% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -122,22 +122,22 @@ xychart-beta
 |---|---|---|---|---|---|---|
 | pcsx2 | 1864 | 22 | 211 | 682 | 1944 | 2097 |
 | duckstation | 1781 | 140 | 88 | 671 | 1868 | 2009 |
-| azahar | 1627 | 155 | 208 | 662 | 1853 | 1990 |
-| esde | 1509 | 120 | 337 | 652 | 1790 | 1966 |
-| ryujinx | 1593 | 149 | 216 | 662 | 1828 | 1958 |
+| azahar | 1627 | 155 | 209 | 662 | 1853 | 1991 |
+| esde | 1509 | 120 | 340 | 652 | 1790 | 1969 |
+| ryujinx | 1593 | 149 | 217 | 662 | 1828 | 1959 |
 | rpcs3 | 1684 | 142 | 85 | 644 | 1773 | 1911 |
-| cemu | 1642 | 146 | 70 | 624 | 1728 | 1858 |
-| srm | 1479 | 133 | 235 | 668 | 1744 | 1847 |
+| cemu | 1642 | 146 | 71 | 624 | 1728 | 1859 |
+| srm | 1479 | 133 | 236 | 668 | 1744 | 1848 |
 | xenia | 1518 | 114 | 180 | 620 | 1685 | 1812 |
 | shadps4 | 1427 | 119 | 154 | 556 | 1568 | 1700 |
 | vita3k | 1487 | 126 | 56 | 549 | 1547 | 1669 |
-| cloudsync | 720 | 29 | 309 | 296 | 936 | 1058 |
+| cloudsync | 723 | 29 | 313 | 296 | 936 | 1065 |
 | ppsspp | 604 | 87 | 160 | 263 | 785 | 851 |
 | ra | 656 | 92 | 101 | 269 | 790 | 849 |
-| dolphin | 655 | 96 | 89 | 255 | 781 | 840 |
+| dolphin | 655 | 96 | 90 | 255 | 781 | 841 |
 | mgba | 659 | 51 | 49 | 253 | 715 | 759 |
 | xemu | 566 | 78 | 68 | 227 | 661 | 712 |
-| melonds | 555 | 74 | 66 | 211 | 649 | 695 |
+| melonds | 555 | 74 | 67 | 211 | 649 | 696 |
 | primehack | 489 | 71 | 70 | 199 | 586 | 630 |
 | supermodel | 476 | 86 | 16 | 171 | 538 | 578 |
 | scummvm | 462 | 63 | 44 | 173 | 527 | 569 |
