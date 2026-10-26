@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-26 09:51 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-26 10:16 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 210 | 637 | 674 |
-| Con CloudSync | 284 | 902 | 988 |
+| Con CloudSync | 284 | 902 | 990 |
 | % con CloudSync | | | 147% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -123,15 +123,15 @@ xychart-beta
 | pcsx2 | 1837 | 22 | 205 | 682 | 1944 | 2064 |
 | duckstation | 1755 | 140 | 86 | 671 | 1868 | 1981 |
 | azahar | 1608 | 155 | 201 | 662 | 1853 | 1964 |
+| esde | 1488 | 120 | 325 | 652 | 1790 | 1933 |
 | ryujinx | 1569 | 149 | 215 | 662 | 1828 | 1933 |
-| esde | 1487 | 120 | 325 | 652 | 1790 | 1932 |
 | rpcs3 | 1659 | 142 | 84 | 644 | 1773 | 1885 |
 | cemu | 1618 | 145 | 68 | 624 | 1728 | 1831 |
 | srm | 1457 | 132 | 231 | 668 | 1744 | 1820 |
 | xenia | 1495 | 114 | 173 | 620 | 1685 | 1782 |
-| shadps4 | 1405 | 119 | 148 | 556 | 1568 | 1672 |
+| shadps4 | 1406 | 119 | 148 | 556 | 1568 | 1673 |
 | vita3k | 1466 | 126 | 55 | 549 | 1547 | 1647 |
-| cloudsync | 701 | 28 | 297 | 296 | 936 | 1026 |
+| cloudsync | 703 | 28 | 297 | 296 | 936 | 1028 |
 | ra | 646 | 92 | 100 | 269 | 790 | 838 |
 | ppsspp | 595 | 87 | 154 | 263 | 785 | 836 |
 | dolphin | 646 | 95 | 88 | 255 | 781 | 829 |
