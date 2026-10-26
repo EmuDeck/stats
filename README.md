@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-26 05:44 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-26 06:32 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 210 | 637 | 674 |
-| Con CloudSync | 284 | 902 | 982 |
+| Con CloudSync | 284 | 902 | 984 |
 | % con CloudSync | | | 146% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -120,18 +120,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1825 | 22 | 205 | 682 | 1944 | 2052 |
+| pcsx2 | 1826 | 22 | 205 | 682 | 1944 | 2053 |
 | duckstation | 1745 | 140 | 86 | 671 | 1868 | 1971 |
 | azahar | 1599 | 155 | 201 | 662 | 1853 | 1955 |
 | ryujinx | 1558 | 149 | 214 | 662 | 1828 | 1921 |
-| esde | 1472 | 119 | 324 | 652 | 1790 | 1915 |
-| rpcs3 | 1646 | 142 | 84 | 644 | 1773 | 1872 |
-| cemu | 1607 | 145 | 68 | 624 | 1728 | 1820 |
-| srm | 1451 | 132 | 231 | 668 | 1744 | 1814 |
-| xenia | 1485 | 114 | 173 | 620 | 1685 | 1772 |
+| esde | 1474 | 119 | 325 | 652 | 1790 | 1918 |
+| rpcs3 | 1647 | 142 | 84 | 644 | 1773 | 1873 |
+| cemu | 1608 | 145 | 68 | 624 | 1728 | 1821 |
+| srm | 1452 | 132 | 231 | 668 | 1744 | 1815 |
+| xenia | 1486 | 114 | 173 | 620 | 1685 | 1773 |
 | shadps4 | 1396 | 119 | 148 | 556 | 1568 | 1663 |
-| vita3k | 1456 | 126 | 55 | 549 | 1547 | 1637 |
-| cloudsync | 696 | 28 | 296 | 296 | 936 | 1020 |
+| vita3k | 1457 | 126 | 55 | 549 | 1547 | 1638 |
+| cloudsync | 697 | 28 | 297 | 296 | 936 | 1022 |
 | ra | 643 | 92 | 100 | 269 | 790 | 835 |
 | ppsspp | 591 | 87 | 154 | 263 | 785 | 832 |
 | dolphin | 643 | 95 | 88 | 255 | 781 | 826 |
@@ -139,10 +139,10 @@ xychart-beta
 | xemu | 555 | 78 | 66 | 227 | 661 | 699 |
 | melonds | 547 | 74 | 65 | 211 | 649 | 686 |
 | primehack | 480 | 71 | 69 | 199 | 586 | 620 |
-| supermodel | 467 | 86 | 15 | 171 | 538 | 568 |
+| supermodel | 467 | 86 | 16 | 171 | 538 | 569 |
 | scummvm | 454 | 63 | 43 | 173 | 527 | 560 |
 | model2 | 459 | 89 | 7 | 165 | 526 | 555 |
-| bigpemu | 444 | 10 | 11 | 166 | 444 | 465 |
+| bigpemu | 445 | 10 | 11 | 166 | 444 | 466 |
 | armsx2 | 138 | 162 | 0 | 118 | 283 | 300 |
 | flycast | 122 | 16 | 18 | 47 | 149 | 156 |
 | rmg | 120 | 27 | 0 | 43 | 142 | 147 |
