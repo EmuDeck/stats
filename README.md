@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-27 07:26 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-27 07:47 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -120,22 +120,22 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1906 | 22 | 214 | 693 | 2048 | 2142 |
-| duckstation | 1824 | 144 | 90 | 671 | 1961 | 2058 |
+| pcsx2 | 1907 | 22 | 214 | 693 | 2048 | 2143 |
+| duckstation | 1825 | 144 | 90 | 671 | 1961 | 2059 |
 | azahar | 1661 | 159 | 213 | 660 | 1941 | 2033 |
-| esde | 1548 | 130 | 347 | 671 | 1904 | 2025 |
-| ryujinx | 1629 | 153 | 223 | 665 | 1919 | 2005 |
+| esde | 1549 | 130 | 347 | 671 | 1904 | 2026 |
+| ryujinx | 1630 | 153 | 223 | 665 | 1919 | 2006 |
 | rpcs3 | 1718 | 146 | 90 | 658 | 1869 | 1954 |
 | cemu | 1675 | 150 | 73 | 628 | 1815 | 1898 |
-| srm | 1515 | 134 | 238 | 668 | 1824 | 1887 |
+| srm | 1516 | 134 | 238 | 668 | 1824 | 1888 |
 | xenia | 1546 | 118 | 184 | 621 | 1774 | 1848 |
 | shadps4 | 1457 | 121 | 162 | 569 | 1655 | 1740 |
-| vita3k | 1518 | 130 | 59 | 554 | 1627 | 1707 |
+| vita3k | 1519 | 130 | 59 | 554 | 1627 | 1708 |
 | cloudsync | 738 | 31 | 327 | 315 | 1019 | 1096 |
 | ppsspp | 614 | 89 | 163 | 266 | 826 | 866 |
 | ra | 667 | 94 | 104 | 271 | 829 | 865 |
 | dolphin | 666 | 98 | 93 | 260 | 820 | 857 |
-| mgba | 676 | 51 | 49 | 252 | 746 | 776 |
+| mgba | 677 | 51 | 49 | 252 | 746 | 777 |
 | xemu | 574 | 80 | 70 | 230 | 693 | 724 |
 | melonds | 563 | 76 | 68 | 211 | 676 | 707 |
 | primehack | 496 | 73 | 71 | 198 | 611 | 640 |
@@ -146,7 +146,7 @@ xychart-beta
 | armsx2 | 146 | 170 | 0 | 118 | 301 | 316 |
 | flycast | 126 | 16 | 18 | 49 | 154 | 160 |
 | rmg | 124 | 27 | 0 | 41 | 145 | 151 |
-| eden | 82 | 9 | 0 | 19 | 83 | 91 |
+| eden | 82 | 9 | 1 | 19 | 83 | 92 |
 | mame | 69 | 2 | 15 | 20 | 81 | 86 |
 | pegasus | 16 | 0 | 12 | 8 | 25 | 28 |
 | yuzu | 8 | 0 | 2 | 4 | 10 | 10 |
