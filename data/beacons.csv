@@ -2947,7 +2947,7 @@ date,name,total
 2026-10-27,armsx2-linux-arm,171
 2026-10-27,armsx2-mac,0
 2026-10-27,armsx2-windows,0
-2026-10-27,azahar-linux,1666
+2026-10-27,azahar-linux,1667
 2026-10-27,azahar-linux-arm,160
 2026-10-27,azahar-mac,0
 2026-10-27,azahar-windows,217
@@ -2970,7 +2970,7 @@ date,name,total
 2026-10-27,dolphin-linux-arm,99
 2026-10-27,dolphin-mac,0
 2026-10-27,dolphin-windows,93
-2026-10-27,duckstation-linux,1834
+2026-10-27,duckstation-linux,1835
 2026-10-27,duckstation-linux-arm,145
 2026-10-27,duckstation-mac,0
 2026-10-27,duckstation-windows,90
@@ -3008,10 +3008,10 @@ date,name,total
 2026-10-27,model2-linux-arm,91
 2026-10-27,model2-mac,0
 2026-10-27,model2-windows,8
-2026-10-27,pcsx2-linux,1915
+2026-10-27,pcsx2-linux,1916
 2026-10-27,pcsx2-linux-arm,22
 2026-10-27,pcsx2-mac,0
-2026-10-27,pcsx2-windows,217
+2026-10-27,pcsx2-windows,218
 2026-10-27,pegasus-linux,17
 2026-10-27,pegasus-linux-arm,0
 2026-10-27,pegasus-mac,0
@@ -3039,7 +3039,7 @@ date,name,total
 2026-10-27,ryujinx-linux,1635
 2026-10-27,ryujinx-linux-arm,154
 2026-10-27,ryujinx-mac,0
-2026-10-27,ryujinx-windows,226
+2026-10-27,ryujinx-windows,227
 2026-10-27,scummvm-linux,470
 2026-10-27,scummvm-linux-arm,65
 2026-10-27,scummvm-mac,0
@@ -3071,7 +3071,7 @@ date,name,total
 2026-10-27,xemu-linux-arm,81
 2026-10-27,xemu-mac,0
 2026-10-27,xemu-windows,70
-2026-10-27,xenia-linux,1554
+2026-10-27,xenia-linux,1555
 2026-10-27,xenia-linux-arm,118
 2026-10-27,xenia-mac,0
 2026-10-27,xenia-windows,186
