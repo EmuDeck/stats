@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-27 01:29 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-27 01:56 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 204 | 664 | 688 |
-| Con CloudSync | 301 | 982 | 1051 |
+| Con CloudSync | 301 | 982 | 1052 |
 | % con CloudSync | | | 153% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -120,18 +120,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 1891 | 22 | 212 | 693 | 2048 | 2125 |
-| duckstation | 1809 | 141 | 89 | 671 | 1961 | 2039 |
-| azahar | 1651 | 156 | 211 | 660 | 1941 | 2018 |
-| esde | 1534 | 121 | 345 | 671 | 1904 | 2000 |
-| ryujinx | 1618 | 150 | 222 | 665 | 1919 | 1990 |
-| rpcs3 | 1707 | 143 | 90 | 658 | 1869 | 1940 |
-| cemu | 1662 | 147 | 72 | 628 | 1815 | 1881 |
+| pcsx2 | 1892 | 22 | 212 | 693 | 2048 | 2126 |
+| duckstation | 1810 | 141 | 89 | 671 | 1961 | 2040 |
+| azahar | 1652 | 156 | 211 | 660 | 1941 | 2019 |
+| esde | 1535 | 121 | 345 | 671 | 1904 | 2001 |
+| ryujinx | 1619 | 150 | 222 | 665 | 1919 | 1991 |
+| rpcs3 | 1708 | 143 | 90 | 658 | 1869 | 1941 |
+| cemu | 1663 | 147 | 72 | 628 | 1815 | 1882 |
 | srm | 1504 | 133 | 238 | 668 | 1824 | 1875 |
-| xenia | 1539 | 115 | 182 | 621 | 1774 | 1836 |
-| shadps4 | 1448 | 120 | 155 | 569 | 1655 | 1723 |
-| vita3k | 1507 | 127 | 58 | 554 | 1627 | 1692 |
-| cloudsync | 735 | 29 | 326 | 315 | 1019 | 1090 |
+| xenia | 1540 | 115 | 182 | 621 | 1774 | 1837 |
+| shadps4 | 1449 | 120 | 155 | 569 | 1655 | 1724 |
+| vita3k | 1508 | 127 | 58 | 554 | 1627 | 1693 |
+| cloudsync | 736 | 29 | 326 | 315 | 1019 | 1091 |
 | ppsspp | 609 | 88 | 161 | 266 | 826 | 858 |
 | ra | 663 | 93 | 102 | 271 | 829 | 858 |
 | dolphin | 662 | 97 | 92 | 260 | 820 | 851 |
