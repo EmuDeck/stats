@@ -3098,7 +3098,7 @@ date,name,total
 2026-10-28,cemu-linux,1723
 2026-10-28,cemu-linux-arm,163
 2026-10-28,cemu-mac,0
-2026-10-28,cemu-windows,79
+2026-10-28,cemu-windows,80
 2026-10-28,citron-linux,5
 2026-10-28,citron-linux-arm,0
 2026-10-28,citron-mac,0
@@ -3125,9 +3125,9 @@ date,name,total
 2026-10-28,eden-mac,0
 2026-10-28,eden-windows,3
 2026-10-28,esde-linux,1589
-2026-10-28,esde-linux-arm,139
+2026-10-28,esde-linux-arm,140
 2026-10-28,esde-mac,0
-2026-10-28,esde-windows,362
+2026-10-28,esde-windows,363
 2026-10-28,flycast-linux,130
 2026-10-28,flycast-linux-arm,16
 2026-10-28,flycast-mac,0
@@ -3148,7 +3148,7 @@ date,name,total
 2026-10-28,model2-linux-arm,97
 2026-10-28,model2-mac,0
 2026-10-28,model2-windows,8
-2026-10-28,pcsx2-linux,1963
+2026-10-28,pcsx2-linux,1964
 2026-10-28,pcsx2-linux-arm,22
 2026-10-28,pcsx2-mac,0
 2026-10-28,pcsx2-windows,229
@@ -3172,7 +3172,7 @@ date,name,total
 2026-10-28,rmg-linux-arm,27
 2026-10-28,rmg-mac,0
 2026-10-28,rmg-windows,0
-2026-10-28,rpcs3-linux,1768
+2026-10-28,rpcs3-linux,1769
 2026-10-28,rpcs3-linux-arm,160
 2026-10-28,rpcs3-mac,0
 2026-10-28,rpcs3-windows,96
@@ -3187,11 +3187,11 @@ date,name,total
 2026-10-28,shadps4-linux,1497
 2026-10-28,shadps4-linux-arm,133
 2026-10-28,shadps4-mac,0
-2026-10-28,shadps4-windows,175
+2026-10-28,shadps4-windows,176
 2026-10-28,srm-linux,1561
 2026-10-28,srm-linux-arm,142
 2026-10-28,srm-mac,0
-2026-10-28,srm-windows,250
+2026-10-28,srm-windows,251
 2026-10-28,supermodel-linux,497
 2026-10-28,supermodel-linux-arm,94
 2026-10-28,supermodel-mac,0
