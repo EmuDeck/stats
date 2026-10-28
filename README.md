@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-28 21:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-28 22:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 204 | 688 | 747 |
-| Con CloudSync | 291 | 1005 | 1118 |
+| Con CloudSync | 291 | 1005 | 1121 |
 | % con CloudSync | | | 150% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -120,18 +120,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2011 | 22 | 233 | 698 | 2124 | 2266 |
-| duckstation | 1921 | 167 | 99 | 680 | 2036 | 2187 |
-| azahar | 1756 | 184 | 235 | 665 | 2016 | 2175 |
-| esde | 1627 | 148 | 370 | 678 | 1980 | 2145 |
+| pcsx2 | 2012 | 22 | 233 | 698 | 2124 | 2267 |
+| duckstation | 1922 | 167 | 99 | 680 | 2036 | 2188 |
+| azahar | 1757 | 184 | 235 | 665 | 2016 | 2176 |
+| esde | 1628 | 148 | 370 | 678 | 1980 | 2146 |
 | ryujinx | 1714 | 175 | 238 | 669 | 1987 | 2127 |
-| rpcs3 | 1814 | 168 | 97 | 655 | 1932 | 2079 |
-| cemu | 1769 | 170 | 82 | 627 | 1876 | 2021 |
-| srm | 1598 | 147 | 255 | 662 | 1886 | 2000 |
-| xenia | 1634 | 134 | 200 | 617 | 1838 | 1968 |
+| rpcs3 | 1815 | 168 | 97 | 655 | 1932 | 2080 |
+| cemu | 1770 | 170 | 82 | 627 | 1876 | 2022 |
+| srm | 1600 | 147 | 255 | 662 | 1886 | 2002 |
+| xenia | 1635 | 134 | 200 | 617 | 1838 | 1969 |
 | shadps4 | 1530 | 139 | 180 | 568 | 1715 | 1849 |
 | vita3k | 1601 | 148 | 64 | 546 | 1678 | 1813 |
-| cloudsync | 769 | 39 | 349 | 301 | 1042 | 1157 |
+| cloudsync | 772 | 39 | 349 | 301 | 1042 | 1160 |
 | ppsspp | 652 | 104 | 179 | 272 | 864 | 935 |
 | dolphin | 709 | 119 | 101 | 266 | 852 | 929 |
 | ra | 705 | 111 | 111 | 273 | 861 | 927 |
