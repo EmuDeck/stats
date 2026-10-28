@@ -3103,10 +3103,10 @@ date,name,total
 2026-10-28,citron-linux-arm,0
 2026-10-28,citron-mac,0
 2026-10-28,citron-windows,0
-2026-10-28,cloudsync-linux,750
+2026-10-28,cloudsync-linux,751
 2026-10-28,cloudsync-linux-arm,33
-2026-10-28,cloudsync-windows,340
-2026-10-28,dolphin-linux,689
+2026-10-28,cloudsync-windows,342
+2026-10-28,dolphin-linux,691
 2026-10-28,dolphin-linux-arm,114
 2026-10-28,dolphin-mac,0
 2026-10-28,dolphin-windows,100
@@ -3114,9 +3114,9 @@ date,name,total
 2026-10-28,duckstation-linux-arm,160
 2026-10-28,duckstation-mac,0
 2026-10-28,duckstation-windows,98
-2026-10-28,early-cloudsync-linux,726
+2026-10-28,early-cloudsync-linux,727
 2026-10-28,early-cloudsync-linux-arm,32
-2026-10-28,early-cloudsync-windows,326
+2026-10-28,early-cloudsync-windows,328
 2026-10-28,early-linux,473
 2026-10-28,early-linux-arm,98
 2026-10-28,early-windows,158
