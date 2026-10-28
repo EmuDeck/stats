@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-28 16:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-28 16:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -127,14 +127,14 @@ xychart-beta
 | ryujinx | 1693 | 175 | 237 | 669 | 1987 | 2105 |
 | rpcs3 | 1787 | 168 | 97 | 655 | 1932 | 2052 |
 | cemu | 1743 | 170 | 81 | 627 | 1876 | 1994 |
-| srm | 1577 | 146 | 254 | 662 | 1886 | 1977 |
+| srm | 1577 | 146 | 255 | 662 | 1886 | 1978 |
 | xenia | 1613 | 134 | 200 | 617 | 1838 | 1947 |
 | shadps4 | 1513 | 139 | 180 | 568 | 1715 | 1832 |
 | vita3k | 1577 | 148 | 64 | 546 | 1678 | 1789 |
 | cloudsync | 762 | 39 | 349 | 301 | 1042 | 1150 |
 | ppsspp | 642 | 104 | 179 | 272 | 864 | 925 |
 | dolphin | 699 | 119 | 101 | 266 | 852 | 919 |
-| ra | 696 | 111 | 111 | 273 | 861 | 918 |
+| ra | 697 | 111 | 111 | 273 | 861 | 919 |
 | mgba | 699 | 53 | 54 | 249 | 770 | 806 |
 | xemu | 600 | 92 | 75 | 230 | 718 | 767 |
 | melonds | 586 | 88 | 73 | 204 | 695 | 747 |
