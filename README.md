@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-28 12:16 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-28 12:40 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,16 +121,16 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 1979 | 22 | 232 | 698 | 2124 | 2233 |
-| duckstation | 1896 | 160 | 98 | 680 | 2036 | 2154 |
-| azahar | 1730 | 177 | 233 | 665 | 2016 | 2140 |
+| duckstation | 1896 | 161 | 98 | 680 | 2036 | 2155 |
+| azahar | 1730 | 178 | 233 | 665 | 2016 | 2141 |
 | esde | 1600 | 140 | 367 | 678 | 1980 | 2107 |
-| ryujinx | 1689 | 168 | 235 | 669 | 1987 | 2092 |
-| rpcs3 | 1783 | 161 | 96 | 655 | 1932 | 2040 |
-| cemu | 1738 | 163 | 80 | 627 | 1876 | 1981 |
+| ryujinx | 1689 | 169 | 235 | 669 | 1987 | 2093 |
+| rpcs3 | 1783 | 162 | 96 | 655 | 1932 | 2041 |
+| cemu | 1738 | 164 | 80 | 627 | 1876 | 1982 |
 | srm | 1573 | 143 | 254 | 662 | 1886 | 1970 |
 | xenia | 1608 | 129 | 199 | 617 | 1838 | 1936 |
-| shadps4 | 1509 | 133 | 179 | 568 | 1715 | 1821 |
-| vita3k | 1573 | 142 | 63 | 546 | 1678 | 1778 |
+| shadps4 | 1509 | 134 | 179 | 568 | 1715 | 1822 |
+| vita3k | 1573 | 143 | 63 | 546 | 1678 | 1779 |
 | cloudsync | 755 | 33 | 347 | 301 | 1042 | 1135 |
 | ppsspp | 641 | 99 | 178 | 272 | 864 | 918 |
 | dolphin | 698 | 114 | 100 | 266 | 852 | 912 |
@@ -143,7 +143,7 @@ xychart-beta
 | scummvm | 488 | 70 | 49 | 169 | 567 | 607 |
 | model2 | 496 | 97 | 8 | 158 | 565 | 601 |
 | bigpemu | 478 | 10 | 12 | 157 | 477 | 500 |
-| armsx2 | 149 | 187 | 0 | 119 | 313 | 336 |
+| armsx2 | 149 | 188 | 0 | 119 | 313 | 337 |
 | flycast | 130 | 16 | 18 | 49 | 159 | 164 |
 | rmg | 128 | 27 | 0 | 44 | 151 | 155 |
 | eden | 82 | 9 | 3 | 16 | 84 | 94 |
