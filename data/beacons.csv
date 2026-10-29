@@ -3264,7 +3264,7 @@ date,name,total
 2026-10-29,eden-linux-arm,9
 2026-10-29,eden-mac,0
 2026-10-29,eden-windows,3
-2026-10-29,esde-linux,1643
+2026-10-29,esde-linux,1644
 2026-10-29,esde-linux-arm,150
 2026-10-29,esde-mac,0
 2026-10-29,esde-windows,375
@@ -3292,7 +3292,7 @@ date,name,total
 2026-10-29,pcsx2-linux-arm,22
 2026-10-29,pcsx2-mac,0
 2026-10-29,pcsx2-windows,239
-2026-10-29,pegasus-linux,18
+2026-10-29,pegasus-linux,19
 2026-10-29,pegasus-linux-arm,0
 2026-10-29,pegasus-mac,0
 2026-10-29,pegasus-windows,12
@@ -3319,7 +3319,7 @@ date,name,total
 2026-10-29,ryujinx-linux,1737
 2026-10-29,ryujinx-linux-arm,175
 2026-10-29,ryujinx-mac,0
-2026-10-29,ryujinx-windows,243
+2026-10-29,ryujinx-windows,244
 2026-10-29,scummvm-linux,500
 2026-10-29,scummvm-linux-arm,75
 2026-10-29,scummvm-mac,0
@@ -3331,7 +3331,7 @@ date,name,total
 2026-10-29,srm-linux,1621
 2026-10-29,srm-linux-arm,150
 2026-10-29,srm-mac,0
-2026-10-29,srm-windows,264
+2026-10-29,srm-windows,265
 2026-10-29,supermodel-linux,516
 2026-10-29,supermodel-linux-arm,100
 2026-10-29,supermodel-mac,0
