@@ -3227,7 +3227,7 @@ date,name,total
 2026-10-29,armsx2-linux-arm,196
 2026-10-29,armsx2-mac,0
 2026-10-29,armsx2-windows,0
-2026-10-29,azahar-linux,1802
+2026-10-29,azahar-linux,1803
 2026-10-29,azahar-linux-arm,186
 2026-10-29,azahar-mac,0
 2026-10-29,azahar-windows,249
@@ -3235,7 +3235,7 @@ date,name,total
 2026-10-29,bigpemu-linux-arm,10
 2026-10-29,bigpemu-mac,0
 2026-10-29,bigpemu-windows,14
-2026-10-29,cemu-linux,1813
+2026-10-29,cemu-linux,1814
 2026-10-29,cemu-linux-arm,171
 2026-10-29,cemu-mac,0
 2026-10-29,cemu-windows,87
@@ -3250,7 +3250,7 @@ date,name,total
 2026-10-29,dolphin-linux-arm,121
 2026-10-29,dolphin-mac,0
 2026-10-29,dolphin-windows,109
-2026-10-29,duckstation-linux,1970
+2026-10-29,duckstation-linux,1971
 2026-10-29,duckstation-linux-arm,168
 2026-10-29,duckstation-mac,0
 2026-10-29,duckstation-windows,103
@@ -3264,7 +3264,7 @@ date,name,total
 2026-10-29,eden-linux-arm,9
 2026-10-29,eden-mac,0
 2026-10-29,eden-windows,3
-2026-10-29,esde-linux,1665
+2026-10-29,esde-linux,1666
 2026-10-29,esde-linux-arm,154
 2026-10-29,esde-mac,0
 2026-10-29,esde-windows,387
@@ -3288,7 +3288,7 @@ date,name,total
 2026-10-29,model2-linux-arm,105
 2026-10-29,model2-mac,0
 2026-10-29,model2-windows,8
-2026-10-29,pcsx2-linux,2060
+2026-10-29,pcsx2-linux,2062
 2026-10-29,pcsx2-linux-arm,22
 2026-10-29,pcsx2-mac,0
 2026-10-29,pcsx2-windows,247
@@ -3312,7 +3312,7 @@ date,name,total
 2026-10-29,rmg-linux-arm,27
 2026-10-29,rmg-mac,0
 2026-10-29,rmg-windows,0
-2026-10-29,rpcs3-linux,1859
+2026-10-29,rpcs3-linux,1860
 2026-10-29,rpcs3-linux-arm,170
 2026-10-29,rpcs3-mac,0
 2026-10-29,rpcs3-windows,101
@@ -3328,7 +3328,7 @@ date,name,total
 2026-10-29,shadps4-linux-arm,144
 2026-10-29,shadps4-mac,0
 2026-10-29,shadps4-windows,193
-2026-10-29,srm-linux,1642
+2026-10-29,srm-linux,1643
 2026-10-29,srm-linux-arm,153
 2026-10-29,srm-mac,0
 2026-10-29,srm-windows,271
@@ -3351,7 +3351,7 @@ date,name,total
 2026-10-29,xemu-linux-arm,93
 2026-10-29,xemu-mac,0
 2026-10-29,xemu-windows,81
-2026-10-29,xenia-linux,1677
+2026-10-29,xenia-linux,1679
 2026-10-29,xenia-linux-arm,136
 2026-10-29,xenia-mac,0
 2026-10-29,xenia-windows,214
