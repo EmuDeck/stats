@@ -3246,11 +3246,11 @@ date,name,total
 2026-10-29,cloudsync-linux,792
 2026-10-29,cloudsync-linux-arm,40
 2026-10-29,cloudsync-windows,353
-2026-10-29,dolphin-linux,722
+2026-10-29,dolphin-linux,723
 2026-10-29,dolphin-linux-arm,120
 2026-10-29,dolphin-mac,0
 2026-10-29,dolphin-windows,109
-2026-10-29,duckstation-linux,1955
+2026-10-29,duckstation-linux,1956
 2026-10-29,duckstation-linux-arm,167
 2026-10-29,duckstation-mac,0
 2026-10-29,duckstation-windows,103
@@ -3296,7 +3296,7 @@ date,name,total
 2026-10-29,pegasus-linux-arm,0
 2026-10-29,pegasus-mac,0
 2026-10-29,pegasus-windows,12
-2026-10-29,ppsspp-linux,663
+2026-10-29,ppsspp-linux,664
 2026-10-29,ppsspp-linux-arm,104
 2026-10-29,ppsspp-mac,0
 2026-10-29,ppsspp-windows,189
