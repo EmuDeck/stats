@@ -3224,11 +3224,11 @@ date,name,total
 2026-10-29,ares-mac,0
 2026-10-29,ares-windows,0
 2026-10-29,armsx2-linux,151
-2026-10-29,armsx2-linux-arm,195
+2026-10-29,armsx2-linux-arm,196
 2026-10-29,armsx2-mac,0
 2026-10-29,armsx2-windows,0
 2026-10-29,azahar-linux,1798
-2026-10-29,azahar-linux-arm,185
+2026-10-29,azahar-linux-arm,186
 2026-10-29,azahar-mac,0
 2026-10-29,azahar-windows,247
 2026-10-29,bigpemu-linux,491
@@ -3251,7 +3251,7 @@ date,name,total
 2026-10-29,dolphin-mac,0
 2026-10-29,dolphin-windows,109
 2026-10-29,duckstation-linux,1966
-2026-10-29,duckstation-linux-arm,167
+2026-10-29,duckstation-linux-arm,168
 2026-10-29,duckstation-mac,0
 2026-10-29,duckstation-windows,103
 2026-10-29,early-cloudsync-linux,772
@@ -3265,7 +3265,7 @@ date,name,total
 2026-10-29,eden-mac,0
 2026-10-29,eden-windows,3
 2026-10-29,esde-linux,1662
-2026-10-29,esde-linux-arm,153
+2026-10-29,esde-linux-arm,154
 2026-10-29,esde-mac,0
 2026-10-29,esde-windows,387
 2026-10-29,flycast-linux,135
@@ -3325,11 +3325,11 @@ date,name,total
 2026-10-29,scummvm-mac,0
 2026-10-29,scummvm-windows,54
 2026-10-29,shadps4-linux,1570
-2026-10-29,shadps4-linux-arm,143
+2026-10-29,shadps4-linux-arm,144
 2026-10-29,shadps4-mac,0
 2026-10-29,shadps4-windows,193
 2026-10-29,srm-linux,1639
-2026-10-29,srm-linux-arm,152
+2026-10-29,srm-linux-arm,153
 2026-10-29,srm-mac,0
 2026-10-29,srm-windows,271
 2026-10-29,supermodel-linux,523
