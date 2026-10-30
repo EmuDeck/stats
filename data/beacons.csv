@@ -3370,7 +3370,7 @@ date,name,total
 2026-10-30,azahar-linux,1848
 2026-10-30,azahar-linux-arm,192
 2026-10-30,azahar-mac,0
-2026-10-30,azahar-windows,256
+2026-10-30,azahar-windows,257
 2026-10-30,bigpemu-linux,515
 2026-10-30,bigpemu-linux-arm,10
 2026-10-30,bigpemu-mac,0
@@ -3383,7 +3383,7 @@ date,name,total
 2026-10-30,citron-linux-arm,0
 2026-10-30,citron-mac,0
 2026-10-30,citron-windows,0
-2026-10-30,cloudsync-linux,807
+2026-10-30,cloudsync-linux,808
 2026-10-30,cloudsync-linux-arm,40
 2026-10-30,cloudsync-windows,363
 2026-10-30,dolphin-linux,745
@@ -3394,7 +3394,7 @@ date,name,total
 2026-10-30,duckstation-linux-arm,172
 2026-10-30,duckstation-mac,0
 2026-10-30,duckstation-windows,107
-2026-10-30,early-cloudsync-linux,783
+2026-10-30,early-cloudsync-linux,784
 2026-10-30,early-cloudsync-linux-arm,39
 2026-10-30,early-cloudsync-windows,347
 2026-10-30,early-linux,505
@@ -3475,7 +3475,7 @@ date,name,total
 2026-10-30,supermodel-linux,535
 2026-10-30,supermodel-linux-arm,104
 2026-10-30,supermodel-mac,0
-2026-10-30,supermodel-windows,21
+2026-10-30,supermodel-windows,22
 2026-10-30,system-bazzite,0
 2026-10-30,system-chimeraos,0
 2026-10-30,system-linux,767
