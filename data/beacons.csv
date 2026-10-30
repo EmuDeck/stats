@@ -3444,7 +3444,7 @@ date,name,total
 2026-10-30,primehack-linux-arm,91
 2026-10-30,primehack-mac,0
 2026-10-30,primehack-windows,82
-2026-10-30,ra-linux,739
+2026-10-30,ra-linux,740
 2026-10-30,ra-linux-arm,115
 2026-10-30,ra-mac,0
 2026-10-30,ra-windows,118
@@ -3491,7 +3491,7 @@ date,name,total
 2026-10-30,xemu-linux-arm,96
 2026-10-30,xemu-mac,0
 2026-10-30,xemu-windows,83
-2026-10-30,xenia-linux,1725
+2026-10-30,xenia-linux,1726
 2026-10-30,xenia-linux-arm,140
 2026-10-30,xenia-mac,0
 2026-10-30,xenia-windows,220
