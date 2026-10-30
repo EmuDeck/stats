@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-30 08:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-30 08:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 25 | 208 | 739 | 766 |
 | linux-arm | 3 | 40 | 123 | 128 |
-| windows | 14 | 59 | 207 | 218 |
+| windows | 14 | 59 | 207 | 219 |
 
 ```mermaid
 xychart-beta
@@ -127,7 +127,7 @@ xychart-beta
 | ryujinx | 1803 | 182 | 253 | 649 | 2143 | 2238 |
 | rpcs3 | 1905 | 174 | 102 | 640 | 2090 | 2181 |
 | cemu | 1853 | 177 | 88 | 608 | 2032 | 2118 |
-| srm | 1679 | 158 | 278 | 623 | 2044 | 2115 |
+| srm | 1679 | 158 | 279 | 623 | 2044 | 2116 |
 | xenia | 1723 | 140 | 218 | 615 | 1999 | 2081 |
 | shadps4 | 1612 | 150 | 196 | 581 | 1872 | 1958 |
 | vita3k | 1684 | 153 | 69 | 544 | 1822 | 1906 |
