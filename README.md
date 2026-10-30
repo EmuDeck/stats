@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-30 03:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-30 03:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -123,17 +123,17 @@ xychart-beta
 | pcsx2 | 2106 | 23 | 249 | 675 | 2287 | 2378 |
 | duckstation | 2013 | 171 | 103 | 654 | 2196 | 2287 |
 | azahar | 1843 | 191 | 251 | 658 | 2192 | 2285 |
-| esde | 1704 | 155 | 398 | 664 | 2148 | 2257 |
-| ryujinx | 1796 | 181 | 249 | 649 | 2143 | 2226 |
+| esde | 1704 | 155 | 399 | 664 | 2148 | 2258 |
+| ryujinx | 1797 | 181 | 249 | 649 | 2143 | 2227 |
 | rpcs3 | 1900 | 173 | 101 | 640 | 2090 | 2174 |
-| cemu | 1849 | 176 | 87 | 608 | 2032 | 2112 |
+| cemu | 1849 | 176 | 88 | 608 | 2032 | 2113 |
 | srm | 1674 | 158 | 275 | 623 | 2044 | 2107 |
 | xenia | 1719 | 139 | 216 | 615 | 1999 | 2074 |
 | shadps4 | 1608 | 149 | 194 | 581 | 1872 | 1951 |
 | vita3k | 1680 | 152 | 69 | 544 | 1822 | 1901 |
 | cloudsync | 804 | 40 | 360 | 318 | 1133 | 1204 |
 | ppsspp | 680 | 107 | 195 | 286 | 946 | 982 |
-| dolphin | 741 | 123 | 109 | 280 | 938 | 973 |
+| dolphin | 741 | 123 | 110 | 280 | 938 | 974 |
 | ra | 736 | 114 | 117 | 267 | 933 | 967 |
 | mgba | 747 | 54 | 58 | 233 | 825 | 859 |
 | xemu | 638 | 95 | 82 | 239 | 785 | 815 |
