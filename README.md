@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-30 21:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-30 21:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 25 | 208 | 739 | 773 |
+| linux | 25 | 208 | 739 | 774 |
 | linux-arm | 3 | 40 | 123 | 129 |
 | windows | 14 | 59 | 207 | 229 |
 
@@ -120,17 +120,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2144 | 23 | 261 | 675 | 2287 | 2428 |
-| azahar | 1879 | 194 | 267 | 658 | 2192 | 2340 |
-| esde | 1747 | 161 | 424 | 664 | 2148 | 2332 |
-| duckstation | 2048 | 174 | 107 | 654 | 2196 | 2329 |
-| ryujinx | 1831 | 184 | 256 | 649 | 2143 | 2271 |
-| rpcs3 | 1935 | 175 | 102 | 640 | 2090 | 2212 |
-| cemu | 1886 | 179 | 91 | 608 | 2032 | 2156 |
-| srm | 1703 | 158 | 285 | 623 | 2044 | 2146 |
-| xenia | 1755 | 141 | 226 | 615 | 1999 | 2122 |
-| shadps4 | 1639 | 152 | 204 | 581 | 1872 | 1995 |
-| vita3k | 1713 | 154 | 70 | 544 | 1822 | 1937 |
+| pcsx2 | 2147 | 23 | 261 | 675 | 2287 | 2431 |
+| azahar | 1880 | 194 | 267 | 658 | 2192 | 2341 |
+| esde | 1748 | 161 | 424 | 664 | 2148 | 2333 |
+| duckstation | 2050 | 174 | 107 | 654 | 2196 | 2331 |
+| ryujinx | 1833 | 184 | 256 | 649 | 2143 | 2273 |
+| rpcs3 | 1938 | 175 | 102 | 640 | 2090 | 2215 |
+| cemu | 1887 | 179 | 91 | 608 | 2032 | 2157 |
+| srm | 1706 | 158 | 285 | 623 | 2044 | 2149 |
+| xenia | 1756 | 141 | 226 | 615 | 1999 | 2123 |
+| shadps4 | 1640 | 152 | 204 | 581 | 1872 | 1996 |
+| vita3k | 1714 | 154 | 70 | 544 | 1822 | 1938 |
 | cloudsync | 811 | 40 | 377 | 318 | 1133 | 1228 |
 | ppsspp | 693 | 109 | 204 | 286 | 946 | 1006 |
 | dolphin | 754 | 125 | 112 | 280 | 938 | 991 |
