@@ -3503,7 +3503,7 @@ date,name,total
 2026-10-31,ares-linux-arm,1
 2026-10-31,ares-mac,0
 2026-10-31,ares-windows,0
-2026-10-31,armsx2-linux,165
+2026-10-31,armsx2-linux,166
 2026-10-31,armsx2-linux-arm,218
 2026-10-31,armsx2-mac,0
 2026-10-31,armsx2-windows,0
@@ -3523,7 +3523,7 @@ date,name,total
 2026-10-31,citron-linux-arm,0
 2026-10-31,citron-mac,0
 2026-10-31,citron-windows,0
-2026-10-31,cloudsync-linux,853
+2026-10-31,cloudsync-linux,854
 2026-10-31,cloudsync-linux-arm,40
 2026-10-31,cloudsync-windows,397
 2026-10-31,dolphin-linux,787
@@ -3534,7 +3534,7 @@ date,name,total
 2026-10-31,duckstation-linux-arm,185
 2026-10-31,duckstation-mac,0
 2026-10-31,duckstation-windows,112
-2026-10-31,early-cloudsync-linux,826
+2026-10-31,early-cloudsync-linux,827
 2026-10-31,early-cloudsync-linux-arm,39
 2026-10-31,early-cloudsync-windows,374
 2026-10-31,early-linux,530
@@ -3560,7 +3560,7 @@ date,name,total
 2026-10-31,melonds-linux-arm,94
 2026-10-31,melonds-mac,0
 2026-10-31,melonds-windows,83
-2026-10-31,mgba-linux,806
+2026-10-31,mgba-linux,807
 2026-10-31,mgba-linux-arm,57
 2026-10-31,mgba-mac,0
 2026-10-31,mgba-windows,61
@@ -3608,7 +3608,7 @@ date,name,total
 2026-10-31,shadps4-linux-arm,162
 2026-10-31,shadps4-mac,0
 2026-10-31,shadps4-windows,216
-2026-10-31,srm-linux,1788
+2026-10-31,srm-linux,1789
 2026-10-31,srm-linux-arm,165
 2026-10-31,srm-mac,0
 2026-10-31,srm-windows,298
