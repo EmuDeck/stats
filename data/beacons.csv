@@ -3507,7 +3507,7 @@ date,name,total
 2026-10-31,armsx2-linux-arm,204
 2026-10-31,armsx2-mac,0
 2026-10-31,armsx2-windows,0
-2026-10-31,azahar-linux,1890
+2026-10-31,azahar-linux,1891
 2026-10-31,azahar-linux-arm,194
 2026-10-31,azahar-mac,0
 2026-10-31,azahar-windows,267
@@ -3530,7 +3530,7 @@ date,name,total
 2026-10-31,dolphin-linux-arm,125
 2026-10-31,dolphin-mac,0
 2026-10-31,dolphin-windows,113
-2026-10-31,duckstation-linux,2063
+2026-10-31,duckstation-linux,2064
 2026-10-31,duckstation-linux-arm,174
 2026-10-31,duckstation-mac,0
 2026-10-31,duckstation-windows,107
@@ -3544,7 +3544,7 @@ date,name,total
 2026-10-31,eden-linux-arm,9
 2026-10-31,eden-mac,0
 2026-10-31,eden-windows,4
-2026-10-31,esde-linux,1760
+2026-10-31,esde-linux,1761
 2026-10-31,esde-linux-arm,161
 2026-10-31,esde-mac,0
 2026-10-31,esde-windows,425
@@ -3568,7 +3568,7 @@ date,name,total
 2026-10-31,model2-linux-arm,109
 2026-10-31,model2-mac,0
 2026-10-31,model2-windows,8
-2026-10-31,pcsx2-linux,2160
+2026-10-31,pcsx2-linux,2161
 2026-10-31,pcsx2-linux-arm,23
 2026-10-31,pcsx2-mac,0
 2026-10-31,pcsx2-windows,263
@@ -3592,11 +3592,11 @@ date,name,total
 2026-10-31,rmg-linux-arm,28
 2026-10-31,rmg-mac,0
 2026-10-31,rmg-windows,0
-2026-10-31,rpcs3-linux,1950
+2026-10-31,rpcs3-linux,1951
 2026-10-31,rpcs3-linux-arm,175
 2026-10-31,rpcs3-mac,0
 2026-10-31,rpcs3-windows,102
-2026-10-31,ryujinx-linux,1846
+2026-10-31,ryujinx-linux,1847
 2026-10-31,ryujinx-linux-arm,184
 2026-10-31,ryujinx-mac,0
 2026-10-31,ryujinx-windows,256
@@ -3608,7 +3608,7 @@ date,name,total
 2026-10-31,shadps4-linux-arm,152
 2026-10-31,shadps4-mac,0
 2026-10-31,shadps4-windows,204
-2026-10-31,srm-linux,1717
+2026-10-31,srm-linux,1718
 2026-10-31,srm-linux-arm,158
 2026-10-31,srm-mac,0
 2026-10-31,srm-windows,286
@@ -3623,7 +3623,7 @@ date,name,total
 2026-10-31,system-mac,0
 2026-10-31,system-steamos,0
 2026-10-31,system-windows,231
-2026-10-31,vita3k-linux,1724
+2026-10-31,vita3k-linux,1725
 2026-10-31,vita3k-linux-arm,154
 2026-10-31,vita3k-mac,0
 2026-10-31,vita3k-windows,70
