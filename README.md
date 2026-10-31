@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-31 16:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-31 17:07 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 195 | 775 | 817 |
-| Con CloudSync | 286 | 1117 | 1217 |
+| Con CloudSync | 286 | 1117 | 1219 |
 | % con CloudSync | | | 149% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -120,20 +120,20 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2227 | 23 | 269 | 655 | 2371 | 2519 |
-| esde | 1833 | 180 | 442 | 682 | 2252 | 2455 |
-| azahar | 1943 | 204 | 274 | 633 | 2275 | 2421 |
-| duckstation | 2122 | 183 | 109 | 616 | 2270 | 2414 |
-| ryujinx | 1900 | 193 | 260 | 609 | 2218 | 2353 |
-| rpcs3 | 2013 | 184 | 104 | 603 | 2159 | 2301 |
-| cemu | 1950 | 189 | 92 | 573 | 2105 | 2231 |
-| srm | 1770 | 163 | 294 | 597 | 2112 | 2227 |
-| xenia | 1820 | 149 | 232 | 587 | 2073 | 2201 |
+| pcsx2 | 2230 | 23 | 269 | 655 | 2371 | 2522 |
+| esde | 1835 | 180 | 442 | 682 | 2252 | 2457 |
+| azahar | 1946 | 204 | 274 | 633 | 2275 | 2424 |
+| duckstation | 2125 | 183 | 109 | 616 | 2270 | 2417 |
+| ryujinx | 1902 | 193 | 260 | 609 | 2218 | 2355 |
+| rpcs3 | 2015 | 184 | 104 | 603 | 2159 | 2303 |
+| cemu | 1952 | 189 | 92 | 573 | 2105 | 2233 |
+| srm | 1773 | 163 | 294 | 597 | 2112 | 2230 |
+| xenia | 1822 | 149 | 232 | 587 | 2073 | 2203 |
 | shadps4 | 1699 | 160 | 209 | 553 | 1940 | 2068 |
 | vita3k | 1777 | 163 | 71 | 512 | 1884 | 2011 |
-| cloudsync | 833 | 40 | 392 | 301 | 1163 | 1265 |
+| cloudsync | 835 | 40 | 392 | 301 | 1163 | 1267 |
 | ppsspp | 711 | 110 | 210 | 269 | 978 | 1031 |
-| dolphin | 773 | 128 | 115 | 255 | 964 | 1016 |
+| dolphin | 775 | 128 | 115 | 255 | 964 | 1018 |
 | ra | 771 | 118 | 121 | 240 | 957 | 1010 |
 | mgba | 803 | 57 | 61 | 236 | 865 | 921 |
 | xemu | 667 | 97 | 85 | 210 | 805 | 849 |
