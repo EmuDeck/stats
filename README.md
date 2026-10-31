@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-31 07:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-31 07:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,12 +121,12 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 2183 | 23 | 263 | 655 | 2371 | 2469 |
-| esde | 1788 | 173 | 428 | 682 | 2252 | 2389 |
+| esde | 1788 | 174 | 428 | 682 | 2252 | 2390 |
 | azahar | 1909 | 198 | 270 | 633 | 2275 | 2377 |
 | duckstation | 2084 | 178 | 107 | 616 | 2270 | 2369 |
 | ryujinx | 1862 | 188 | 257 | 609 | 2218 | 2307 |
 | rpcs3 | 1970 | 179 | 102 | 603 | 2159 | 2251 |
-| cemu | 1915 | 183 | 91 | 573 | 2105 | 2189 |
+| cemu | 1916 | 183 | 91 | 573 | 2105 | 2190 |
 | srm | 1737 | 160 | 289 | 597 | 2112 | 2186 |
 | xenia | 1781 | 144 | 226 | 587 | 2073 | 2151 |
 | shadps4 | 1664 | 154 | 204 | 553 | 1940 | 2022 |

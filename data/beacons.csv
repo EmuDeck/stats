@@ -3515,7 +3515,7 @@ date,name,total
 2026-10-31,bigpemu-linux-arm,11
 2026-10-31,bigpemu-mac,0
 2026-10-31,bigpemu-windows,16
-2026-10-31,cemu-linux,1915
+2026-10-31,cemu-linux,1916
 2026-10-31,cemu-linux-arm,183
 2026-10-31,cemu-mac,0
 2026-10-31,cemu-windows,91
@@ -3545,7 +3545,7 @@ date,name,total
 2026-10-31,eden-mac,0
 2026-10-31,eden-windows,4
 2026-10-31,esde-linux,1788
-2026-10-31,esde-linux-arm,173
+2026-10-31,esde-linux-arm,174
 2026-10-31,esde-mac,0
 2026-10-31,esde-windows,428
 2026-10-31,flycast-linux,143
