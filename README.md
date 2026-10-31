@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-10-31 17:07 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-10-31 17:34 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 17 | 183 | 756 | 800 |
+| linux | 17 | 183 | 756 | 801 |
 | linux-arm | 3 | 37 | 126 | 130 |
 | windows | 16 | 73 | 223 | 237 |
 
@@ -101,8 +101,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 195 | 775 | 817 |
-| Con CloudSync | 286 | 1117 | 1219 |
+| Instalaciones early | 195 | 775 | 818 |
+| Con CloudSync | 286 | 1117 | 1220 |
 | % con CloudSync | | | 149% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -131,14 +131,14 @@ xychart-beta
 | xenia | 1822 | 149 | 232 | 587 | 2073 | 2203 |
 | shadps4 | 1699 | 160 | 209 | 553 | 1940 | 2068 |
 | vita3k | 1777 | 163 | 71 | 512 | 1884 | 2011 |
-| cloudsync | 835 | 40 | 392 | 301 | 1163 | 1267 |
-| ppsspp | 711 | 110 | 210 | 269 | 978 | 1031 |
+| cloudsync | 836 | 40 | 392 | 301 | 1163 | 1268 |
+| ppsspp | 712 | 110 | 210 | 269 | 978 | 1032 |
 | dolphin | 775 | 128 | 115 | 255 | 964 | 1018 |
-| ra | 771 | 118 | 121 | 240 | 957 | 1010 |
+| ra | 772 | 118 | 121 | 240 | 957 | 1011 |
 | mgba | 803 | 57 | 61 | 236 | 865 | 921 |
-| xemu | 667 | 97 | 85 | 210 | 805 | 849 |
-| melonds | 652 | 93 | 81 | 186 | 779 | 826 |
-| primehack | 579 | 92 | 84 | 188 | 715 | 755 |
+| xemu | 668 | 97 | 85 | 210 | 805 | 850 |
+| melonds | 653 | 93 | 81 | 186 | 779 | 827 |
+| primehack | 580 | 92 | 84 | 188 | 715 | 756 |
 | supermodel | 556 | 106 | 22 | 155 | 649 | 684 |
 | scummvm | 540 | 79 | 56 | 156 | 636 | 675 |
 | model2 | 549 | 110 | 8 | 145 | 631 | 667 |

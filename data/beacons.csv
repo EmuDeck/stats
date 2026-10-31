@@ -3523,7 +3523,7 @@ date,name,total
 2026-10-31,citron-linux-arm,0
 2026-10-31,citron-mac,0
 2026-10-31,citron-windows,0
-2026-10-31,cloudsync-linux,835
+2026-10-31,cloudsync-linux,836
 2026-10-31,cloudsync-linux-arm,40
 2026-10-31,cloudsync-windows,392
 2026-10-31,dolphin-linux,775
@@ -3534,10 +3534,10 @@ date,name,total
 2026-10-31,duckstation-linux-arm,183
 2026-10-31,duckstation-mac,0
 2026-10-31,duckstation-windows,109
-2026-10-31,early-cloudsync-linux,811
+2026-10-31,early-cloudsync-linux,812
 2026-10-31,early-cloudsync-linux-arm,39
 2026-10-31,early-cloudsync-windows,369
-2026-10-31,early-linux,524
+2026-10-31,early-linux,525
 2026-10-31,early-linux-arm,108
 2026-10-31,early-windows,185
 2026-10-31,eden-linux,85
@@ -3556,7 +3556,7 @@ date,name,total
 2026-10-31,mame-linux-arm,3
 2026-10-31,mame-mac,0
 2026-10-31,mame-windows,19
-2026-10-31,melonds-linux,652
+2026-10-31,melonds-linux,653
 2026-10-31,melonds-linux-arm,93
 2026-10-31,melonds-mac,0
 2026-10-31,melonds-windows,81
@@ -3576,15 +3576,15 @@ date,name,total
 2026-10-31,pegasus-linux-arm,1
 2026-10-31,pegasus-mac,0
 2026-10-31,pegasus-windows,17
-2026-10-31,ppsspp-linux,711
+2026-10-31,ppsspp-linux,712
 2026-10-31,ppsspp-linux-arm,110
 2026-10-31,ppsspp-mac,0
 2026-10-31,ppsspp-windows,210
-2026-10-31,primehack-linux,579
+2026-10-31,primehack-linux,580
 2026-10-31,primehack-linux-arm,92
 2026-10-31,primehack-mac,0
 2026-10-31,primehack-windows,84
-2026-10-31,ra-linux,771
+2026-10-31,ra-linux,772
 2026-10-31,ra-linux-arm,118
 2026-10-31,ra-mac,0
 2026-10-31,ra-windows,121
@@ -3618,7 +3618,7 @@ date,name,total
 2026-10-31,supermodel-windows,22
 2026-10-31,system-bazzite,0
 2026-10-31,system-chimeraos,0
-2026-10-31,system-linux,800
+2026-10-31,system-linux,801
 2026-10-31,system-linux-arm,130
 2026-10-31,system-mac,0
 2026-10-31,system-steamos,0
@@ -3627,7 +3627,7 @@ date,name,total
 2026-10-31,vita3k-linux-arm,163
 2026-10-31,vita3k-mac,0
 2026-10-31,vita3k-windows,71
-2026-10-31,xemu-linux,667
+2026-10-31,xemu-linux,668
 2026-10-31,xemu-linux-arm,97
 2026-10-31,xemu-mac,0
 2026-10-31,xemu-windows,85
