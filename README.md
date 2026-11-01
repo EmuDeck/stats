@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-01 18:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-01 19:07 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -120,16 +120,16 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2311 | 23 | 289 | 656 | 2484 | 2623 |
-| esde | 1908 | 185 | 478 | 719 | 2409 | 2571 |
-| azahar | 2015 | 214 | 294 | 639 | 2386 | 2523 |
+| pcsx2 | 2311 | 23 | 290 | 656 | 2484 | 2624 |
+| esde | 1909 | 185 | 479 | 719 | 2409 | 2573 |
+| azahar | 2016 | 214 | 295 | 639 | 2386 | 2525 |
 | duckstation | 2203 | 193 | 115 | 619 | 2374 | 2511 |
-| ryujinx | 1969 | 202 | 273 | 604 | 2319 | 2444 |
-| rpcs3 | 2097 | 193 | 111 | 612 | 2268 | 2401 |
+| ryujinx | 1969 | 202 | 274 | 604 | 2319 | 2445 |
+| rpcs3 | 2097 | 193 | 112 | 612 | 2268 | 2402 |
 | cemu | 2022 | 198 | 102 | 572 | 2196 | 2322 |
 | srm | 1834 | 171 | 305 | 580 | 2205 | 2310 |
 | xenia | 1887 | 158 | 251 | 598 | 2171 | 2296 |
-| shadps4 | 1766 | 166 | 223 | 566 | 2034 | 2155 |
+| shadps4 | 1766 | 166 | 225 | 566 | 2034 | 2157 |
 | vita3k | 1840 | 172 | 77 | 519 | 1973 | 2089 |
 | cloudsync | 879 | 41 | 413 | 330 | 1226 | 1333 |
 | ppsspp | 740 | 114 | 227 | 274 | 1019 | 1081 |
@@ -142,13 +142,13 @@ xychart-beta
 | supermodel | 577 | 110 | 26 | 161 | 673 | 713 |
 | scummvm | 561 | 83 | 61 | 161 | 661 | 705 |
 | model2 | 570 | 114 | 9 | 153 | 654 | 693 |
-| bigpemu | 554 | 13 | 18 | 134 | 556 | 585 |
+| bigpemu | 555 | 13 | 19 | 134 | 556 | 587 |
 | armsx2 | 168 | 226 | 0 | 108 | 375 | 394 |
 | flycast | 149 | 19 | 22 | 36 | 180 | 190 |
 | rmg | 143 | 29 | 0 | 28 | 162 | 172 |
 | mame | 80 | 4 | 21 | 16 | 94 | 105 |
 | eden | 86 | 9 | 7 | 22 | 94 | 102 |
-| pegasus | 21 | 1 | 17 | 14 | 37 | 39 |
+| pegasus | 22 | 1 | 18 | 14 | 37 | 41 |
 | ares | 10 | 2 | 0 | 4 | 11 | 12 |
 | yuzu | 9 | 0 | 3 | 2 | 12 | 12 |
 | citron | 5 | 0 | 0 | 1 | 5 | 5 |
