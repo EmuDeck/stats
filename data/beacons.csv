@@ -3687,11 +3687,11 @@ date,name,total
 2026-11-01,esde-linux,1888
 2026-11-01,esde-linux-arm,184
 2026-11-01,esde-mac,0
-2026-11-01,esde-windows,474
+2026-11-01,esde-windows,475
 2026-11-01,flycast-linux,147
 2026-11-01,flycast-linux-arm,19
 2026-11-01,flycast-mac,0
-2026-11-01,flycast-windows,21
+2026-11-01,flycast-windows,22
 2026-11-01,mame-linux,77
 2026-11-01,mame-linux-arm,4
 2026-11-01,mame-mac,0
@@ -3703,7 +3703,7 @@ date,name,total
 2026-11-01,mgba-linux,815
 2026-11-01,mgba-linux-arm,59
 2026-11-01,mgba-mac,0
-2026-11-01,mgba-windows,62
+2026-11-01,mgba-windows,63
 2026-11-01,model2-linux,563
 2026-11-01,model2-linux-arm,114
 2026-11-01,model2-mac,0
@@ -3751,7 +3751,7 @@ date,name,total
 2026-11-01,srm-linux,1815
 2026-11-01,srm-linux-arm,171
 2026-11-01,srm-mac,0
-2026-11-01,srm-windows,303
+2026-11-01,srm-windows,304
 2026-11-01,supermodel-linux,570
 2026-11-01,supermodel-linux-arm,110
 2026-11-01,supermodel-mac,0
