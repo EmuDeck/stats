@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-01 00:53 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-01 01:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -102,8 +102,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 199 | 803 | 826 |
-| Con CloudSync | 315 | 1177 | 1243 |
-| % con CloudSync | | | 150% |
+| Con CloudSync | 315 | 1177 | 1244 |
+| % con CloudSync | | | 151% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -122,16 +122,16 @@ xychart-beta
 |---|---|---|---|---|---|---|
 | pcsx2 | 2258 | 23 | 278 | 656 | 2484 | 2559 |
 | esde | 1863 | 180 | 461 | 719 | 2409 | 2504 |
-| azahar | 1972 | 206 | 284 | 639 | 2386 | 2462 |
-| duckstation | 2151 | 185 | 112 | 619 | 2374 | 2448 |
-| ryujinx | 1926 | 195 | 266 | 604 | 2319 | 2387 |
-| rpcs3 | 2044 | 186 | 108 | 612 | 2268 | 2338 |
-| cemu | 1972 | 191 | 97 | 572 | 2196 | 2260 |
-| srm | 1790 | 165 | 298 | 580 | 2205 | 2253 |
-| xenia | 1840 | 151 | 241 | 598 | 2171 | 2232 |
+| azahar | 1972 | 208 | 284 | 639 | 2386 | 2464 |
+| duckstation | 2151 | 187 | 112 | 619 | 2374 | 2450 |
+| ryujinx | 1926 | 197 | 266 | 604 | 2319 | 2389 |
+| rpcs3 | 2044 | 188 | 108 | 612 | 2268 | 2340 |
+| cemu | 1972 | 193 | 97 | 572 | 2196 | 2262 |
+| srm | 1790 | 167 | 298 | 580 | 2205 | 2255 |
+| xenia | 1840 | 153 | 241 | 598 | 2171 | 2234 |
 | shadps4 | 1721 | 162 | 216 | 566 | 2034 | 2099 |
-| vita3k | 1798 | 165 | 74 | 519 | 1973 | 2037 |
-| cloudsync | 857 | 40 | 397 | 330 | 1226 | 1294 |
+| vita3k | 1798 | 167 | 74 | 519 | 1973 | 2039 |
+| cloudsync | 857 | 40 | 398 | 330 | 1226 | 1295 |
 | ppsspp | 722 | 111 | 218 | 274 | 1019 | 1051 |
 | dolphin | 788 | 129 | 119 | 267 | 1006 | 1036 |
 | ra | 782 | 119 | 124 | 249 | 996 | 1025 |
@@ -143,7 +143,7 @@ xychart-beta
 | scummvm | 547 | 80 | 58 | 161 | 661 | 685 |
 | model2 | 556 | 111 | 8 | 153 | 654 | 675 |
 | bigpemu | 547 | 11 | 16 | 134 | 556 | 574 |
-| armsx2 | 166 | 218 | 0 | 108 | 375 | 384 |
+| armsx2 | 166 | 220 | 0 | 108 | 375 | 386 |
 | flycast | 146 | 18 | 21 | 36 | 180 | 185 |
 | rmg | 138 | 28 | 0 | 28 | 162 | 166 |
 | eden | 86 | 9 | 7 | 22 | 94 | 102 |
