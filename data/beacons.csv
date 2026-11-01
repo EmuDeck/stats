@@ -3647,10 +3647,10 @@ date,name,total
 2026-11-01,armsx2-linux-arm,227
 2026-11-01,armsx2-mac,0
 2026-11-01,armsx2-windows,0
-2026-11-01,azahar-linux,2020
+2026-11-01,azahar-linux,2021
 2026-11-01,azahar-linux-arm,214
 2026-11-01,azahar-mac,0
-2026-11-01,azahar-windows,296
+2026-11-01,azahar-windows,297
 2026-11-01,bigpemu-linux,556
 2026-11-01,bigpemu-linux-arm,13
 2026-11-01,bigpemu-mac,0
@@ -3670,7 +3670,7 @@ date,name,total
 2026-11-01,dolphin-linux-arm,133
 2026-11-01,dolphin-mac,0
 2026-11-01,dolphin-windows,124
-2026-11-01,duckstation-linux,2208
+2026-11-01,duckstation-linux,2209
 2026-11-01,duckstation-linux-arm,194
 2026-11-01,duckstation-mac,0
 2026-11-01,duckstation-windows,116
@@ -3711,7 +3711,7 @@ date,name,total
 2026-11-01,pcsx2-linux,2315
 2026-11-01,pcsx2-linux-arm,23
 2026-11-01,pcsx2-mac,0
-2026-11-01,pcsx2-windows,292
+2026-11-01,pcsx2-windows,293
 2026-11-01,pegasus-linux,22
 2026-11-01,pegasus-linux-arm,1
 2026-11-01,pegasus-mac,0
