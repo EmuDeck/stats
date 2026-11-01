@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-01 06:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-01 06:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -120,8 +120,8 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2271 | 23 | 284 | 656 | 2484 | 2578 |
-| esde | 1879 | 184 | 468 | 719 | 2409 | 2531 |
+| pcsx2 | 2271 | 23 | 285 | 656 | 2484 | 2579 |
+| esde | 1880 | 184 | 469 | 719 | 2409 | 2533 |
 | azahar | 1984 | 213 | 291 | 639 | 2386 | 2488 |
 | duckstation | 2163 | 192 | 114 | 619 | 2374 | 2469 |
 | ryujinx | 1939 | 202 | 269 | 604 | 2319 | 2410 |
@@ -134,7 +134,7 @@ xychart-beta
 | cloudsync | 860 | 40 | 402 | 330 | 1226 | 1302 |
 | ppsspp | 729 | 114 | 224 | 274 | 1019 | 1067 |
 | dolphin | 795 | 132 | 121 | 267 | 1006 | 1048 |
-| ra | 789 | 122 | 126 | 249 | 996 | 1037 |
+| ra | 789 | 122 | 127 | 249 | 996 | 1038 |
 | mgba | 812 | 59 | 62 | 235 | 904 | 933 |
 | xemu | 680 | 101 | 92 | 214 | 838 | 873 |
 | melonds | 667 | 97 | 85 | 193 | 810 | 849 |

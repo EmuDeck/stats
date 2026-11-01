@@ -3684,10 +3684,10 @@ date,name,total
 2026-11-01,eden-linux-arm,9
 2026-11-01,eden-mac,0
 2026-11-01,eden-windows,7
-2026-11-01,esde-linux,1879
+2026-11-01,esde-linux,1880
 2026-11-01,esde-linux-arm,184
 2026-11-01,esde-mac,0
-2026-11-01,esde-windows,468
+2026-11-01,esde-windows,469
 2026-11-01,flycast-linux,147
 2026-11-01,flycast-linux-arm,19
 2026-11-01,flycast-mac,0
@@ -3711,7 +3711,7 @@ date,name,total
 2026-11-01,pcsx2-linux,2271
 2026-11-01,pcsx2-linux-arm,23
 2026-11-01,pcsx2-mac,0
-2026-11-01,pcsx2-windows,284
+2026-11-01,pcsx2-windows,285
 2026-11-01,pegasus-linux,21
 2026-11-01,pegasus-linux-arm,1
 2026-11-01,pegasus-mac,0
@@ -3727,7 +3727,7 @@ date,name,total
 2026-11-01,ra-linux,789
 2026-11-01,ra-linux-arm,122
 2026-11-01,ra-mac,0
-2026-11-01,ra-windows,126
+2026-11-01,ra-windows,127
 2026-11-01,rmg-linux,139
 2026-11-01,rmg-linux-arm,29
 2026-11-01,rmg-mac,0
