@@ -3655,7 +3655,7 @@ date,name,total
 2026-11-01,bigpemu-linux-arm,13
 2026-11-01,bigpemu-mac,0
 2026-11-01,bigpemu-windows,17
-2026-11-01,cemu-linux,1994
+2026-11-01,cemu-linux,1995
 2026-11-01,cemu-linux-arm,198
 2026-11-01,cemu-mac,0
 2026-11-01,cemu-windows,100
@@ -3663,7 +3663,7 @@ date,name,total
 2026-11-01,citron-linux-arm,0
 2026-11-01,citron-mac,0
 2026-11-01,citron-windows,0
-2026-11-01,cloudsync-linux,864
+2026-11-01,cloudsync-linux,866
 2026-11-01,cloudsync-linux-arm,40
 2026-11-01,cloudsync-windows,404
 2026-11-01,dolphin-linux,799
@@ -3674,7 +3674,7 @@ date,name,total
 2026-11-01,duckstation-linux-arm,192
 2026-11-01,duckstation-mac,0
 2026-11-01,duckstation-windows,115
-2026-11-01,early-cloudsync-linux,837
+2026-11-01,early-cloudsync-linux,839
 2026-11-01,early-cloudsync-linux-arm,39
 2026-11-01,early-cloudsync-windows,381
 2026-11-01,early-linux,535
