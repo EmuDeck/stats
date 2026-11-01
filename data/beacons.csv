@@ -3684,7 +3684,7 @@ date,name,total
 2026-11-01,eden-linux-arm,9
 2026-11-01,eden-mac,0
 2026-11-01,eden-windows,7
-2026-11-01,esde-linux,1862
+2026-11-01,esde-linux,1863
 2026-11-01,esde-linux-arm,180
 2026-11-01,esde-mac,0
 2026-11-01,esde-windows,461
@@ -3732,10 +3732,10 @@ date,name,total
 2026-11-01,rmg-linux-arm,28
 2026-11-01,rmg-mac,0
 2026-11-01,rmg-windows,0
-2026-11-01,rpcs3-linux,2043
+2026-11-01,rpcs3-linux,2044
 2026-11-01,rpcs3-linux-arm,186
 2026-11-01,rpcs3-mac,0
-2026-11-01,rpcs3-windows,107
+2026-11-01,rpcs3-windows,108
 2026-11-01,ryujinx-linux,1926
 2026-11-01,ryujinx-linux-arm,195
 2026-11-01,ryujinx-mac,0
