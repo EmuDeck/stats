@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-02 06:21 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-02 06:45 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 26 | 183 | 816 | 846 |
 | linux-arm | 6 | 34 | 134 | 138 |
-| windows | 11 | 86 | 248 | 262 |
+| windows | 11 | 86 | 248 | 263 |
 
 ```mermaid
 xychart-beta
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 185 | 822 | 859 |
+| Instalaciones early | 185 | 822 | 860 |
 | Con CloudSync | 323 | 1225 | 1313 |
 | % con CloudSync | | | 153% |
 
@@ -121,21 +121,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2347 | 24 | 301 | 628 | 2572 | 2672 |
-| esde | 1940 | 193 | 497 | 711 | 2501 | 2630 |
+| pcsx2 | 2348 | 24 | 301 | 628 | 2572 | 2673 |
+| esde | 1941 | 193 | 497 | 711 | 2501 | 2631 |
 | azahar | 2046 | 219 | 302 | 618 | 2471 | 2567 |
 | duckstation | 2241 | 200 | 117 | 594 | 2462 | 2558 |
 | ryujinx | 1992 | 208 | 281 | 573 | 2401 | 2481 |
-| rpcs3 | 2130 | 200 | 114 | 586 | 2359 | 2444 |
+| rpcs3 | 2131 | 200 | 114 | 586 | 2359 | 2445 |
 | cemu | 2054 | 204 | 105 | 552 | 2280 | 2363 |
-| srm | 1856 | 173 | 313 | 534 | 2278 | 2342 |
+| srm | 1857 | 173 | 314 | 534 | 2278 | 2344 |
 | xenia | 1918 | 164 | 257 | 580 | 2265 | 2339 |
-| shadps4 | 1794 | 172 | 231 | 546 | 2114 | 2197 |
+| shadps4 | 1795 | 172 | 231 | 546 | 2114 | 2198 |
 | vita3k | 1868 | 177 | 79 | 500 | 2047 | 2124 |
 | cloudsync | 898 | 41 | 425 | 338 | 1274 | 1364 |
 | ppsspp | 750 | 117 | 233 | 272 | 1057 | 1100 |
 | dolphin | 821 | 136 | 125 | 261 | 1042 | 1082 |
-| ra | 817 | 126 | 130 | 243 | 1033 | 1073 |
+| ra | 817 | 126 | 131 | 243 | 1033 | 1074 |
 | mgba | 843 | 62 | 64 | 222 | 937 | 969 |
 | xemu | 702 | 105 | 96 | 207 | 868 | 903 |
 | melonds | 685 | 100 | 88 | 189 | 838 | 873 |
