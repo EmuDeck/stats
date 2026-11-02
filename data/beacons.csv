@@ -3803,7 +3803,7 @@ date,name,total
 2026-11-02,citron-linux-arm,0
 2026-11-02,citron-mac,0
 2026-11-02,citron-windows,0
-2026-11-02,cloudsync-linux,911
+2026-11-02,cloudsync-linux,913
 2026-11-02,cloudsync-linux-arm,41
 2026-11-02,cloudsync-windows,435
 2026-11-02,dolphin-linux,832
@@ -3814,7 +3814,7 @@ date,name,total
 2026-11-02,duckstation-linux-arm,200
 2026-11-02,duckstation-mac,0
 2026-11-02,duckstation-windows,122
-2026-11-02,early-cloudsync-linux,884
+2026-11-02,early-cloudsync-linux,886
 2026-11-02,early-cloudsync-linux-arm,40
 2026-11-02,early-cloudsync-windows,412
 2026-11-02,early-linux,556
