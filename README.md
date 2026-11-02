@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-02 21:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-02 22:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -123,7 +123,7 @@ xychart-beta
 |---|---|---|---|---|---|---|
 | pcsx2 | 2392 | 24 | 312 | 628 | 2572 | 2728 |
 | esde | 1976 | 193 | 510 | 711 | 2501 | 2679 |
-| azahar | 2087 | 220 | 310 | 618 | 2471 | 2617 |
+| azahar | 2087 | 220 | 311 | 618 | 2471 | 2618 |
 | duckstation | 2280 | 200 | 122 | 594 | 2462 | 2602 |
 | ryujinx | 2028 | 209 | 288 | 573 | 2401 | 2525 |
 | rpcs3 | 2173 | 200 | 118 | 586 | 2359 | 2491 |
@@ -135,7 +135,7 @@ xychart-beta
 | cloudsync | 913 | 41 | 435 | 338 | 1274 | 1389 |
 | ppsspp | 759 | 117 | 241 | 272 | 1057 | 1117 |
 | dolphin | 832 | 137 | 129 | 261 | 1042 | 1098 |
-| ra | 828 | 126 | 136 | 243 | 1033 | 1090 |
+| ra | 828 | 126 | 137 | 243 | 1033 | 1091 |
 | mgba | 860 | 62 | 65 | 222 | 937 | 987 |
 | xemu | 711 | 105 | 99 | 207 | 868 | 915 |
 | melonds | 693 | 100 | 91 | 189 | 838 | 884 |

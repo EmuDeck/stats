@@ -3790,7 +3790,7 @@ date,name,total
 2026-11-02,azahar-linux,2087
 2026-11-02,azahar-linux-arm,220
 2026-11-02,azahar-mac,0
-2026-11-02,azahar-windows,310
+2026-11-02,azahar-windows,311
 2026-11-02,bigpemu-linux,573
 2026-11-02,bigpemu-linux-arm,16
 2026-11-02,bigpemu-mac,0
@@ -3867,7 +3867,7 @@ date,name,total
 2026-11-02,ra-linux,828
 2026-11-02,ra-linux-arm,126
 2026-11-02,ra-mac,0
-2026-11-02,ra-windows,136
+2026-11-02,ra-windows,137
 2026-11-02,rmg-linux,144
 2026-11-02,rmg-linux-arm,31
 2026-11-02,rmg-mac,0
