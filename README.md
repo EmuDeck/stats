@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-03 20:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-03 20:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 20 | 170 | 836 | 870 |
+| linux | 20 | 170 | 836 | 871 |
 | linux-arm | 1 | 34 | 135 | 139 |
 | windows | 16 | 90 | 264 | 275 |
 
@@ -102,8 +102,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 189 | 853 | 887 |
-| Con CloudSync | 294 | 1276 | 1376 |
+| Instalaciones early | 189 | 853 | 888 |
+| Con CloudSync | 294 | 1276 | 1377 |
 | % con CloudSync | | | 155% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -127,15 +127,15 @@ xychart-beta
 | duckstation | 2333 | 201 | 124 | 572 | 2533 | 2658 |
 | ryujinx | 2079 | 210 | 295 | 545 | 2464 | 2584 |
 | rpcs3 | 2222 | 201 | 120 | 559 | 2428 | 2543 |
+| srm | 1939 | 174 | 337 | 527 | 2351 | 2450 |
 | cemu | 2133 | 206 | 110 | 527 | 2342 | 2449 |
-| srm | 1938 | 174 | 337 | 527 | 2351 | 2449 |
 | xenia | 1991 | 165 | 271 | 548 | 2322 | 2427 |
 | shadps4 | 1863 | 173 | 241 | 521 | 2176 | 2277 |
 | vita3k | 1937 | 179 | 85 | 472 | 2099 | 2201 |
-| cloudsync | 943 | 43 | 444 | 306 | 1325 | 1430 |
+| cloudsync | 944 | 43 | 444 | 306 | 1325 | 1431 |
 | ppsspp | 768 | 118 | 246 | 261 | 1087 | 1132 |
-| ra | 843 | 127 | 142 | 234 | 1063 | 1112 |
-| dolphin | 842 | 138 | 131 | 249 | 1069 | 1111 |
+| ra | 847 | 127 | 142 | 234 | 1063 | 1116 |
+| dolphin | 843 | 138 | 131 | 249 | 1069 | 1112 |
 | mgba | 878 | 62 | 66 | 222 | 968 | 1006 |
 | xemu | 718 | 106 | 101 | 197 | 890 | 925 |
 | melonds | 703 | 101 | 93 | 182 | 858 | 897 |

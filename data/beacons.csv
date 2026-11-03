@@ -3943,10 +3943,10 @@ date,name,total
 2026-11-03,citron-linux-arm,0
 2026-11-03,citron-mac,0
 2026-11-03,citron-windows,0
-2026-11-03,cloudsync-linux,943
+2026-11-03,cloudsync-linux,944
 2026-11-03,cloudsync-linux-arm,43
 2026-11-03,cloudsync-windows,444
-2026-11-03,dolphin-linux,842
+2026-11-03,dolphin-linux,843
 2026-11-03,dolphin-linux-arm,138
 2026-11-03,dolphin-mac,0
 2026-11-03,dolphin-windows,131
@@ -3954,10 +3954,10 @@ date,name,total
 2026-11-03,duckstation-linux-arm,201
 2026-11-03,duckstation-mac,0
 2026-11-03,duckstation-windows,124
-2026-11-03,early-cloudsync-linux,914
+2026-11-03,early-cloudsync-linux,915
 2026-11-03,early-cloudsync-linux-arm,42
 2026-11-03,early-cloudsync-windows,420
-2026-11-03,early-linux,563
+2026-11-03,early-linux,564
 2026-11-03,early-linux-arm,115
 2026-11-03,early-windows,209
 2026-11-03,eden-linux,89
@@ -4004,7 +4004,7 @@ date,name,total
 2026-11-03,primehack-linux-arm,100
 2026-11-03,primehack-mac,0
 2026-11-03,primehack-windows,100
-2026-11-03,ra-linux,843
+2026-11-03,ra-linux,847
 2026-11-03,ra-linux-arm,127
 2026-11-03,ra-mac,0
 2026-11-03,ra-windows,142
@@ -4028,7 +4028,7 @@ date,name,total
 2026-11-03,shadps4-linux-arm,173
 2026-11-03,shadps4-mac,0
 2026-11-03,shadps4-windows,241
-2026-11-03,srm-linux,1938
+2026-11-03,srm-linux,1939
 2026-11-03,srm-linux-arm,174
 2026-11-03,srm-mac,0
 2026-11-03,srm-windows,337
@@ -4038,7 +4038,7 @@ date,name,total
 2026-11-03,supermodel-windows,29
 2026-11-03,system-bazzite,0
 2026-11-03,system-chimeraos,0
-2026-11-03,system-linux,870
+2026-11-03,system-linux,871
 2026-11-03,system-linux-arm,139
 2026-11-03,system-mac,0
 2026-11-03,system-steamos,0
