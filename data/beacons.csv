@@ -3938,7 +3938,7 @@ date,name,total
 2026-11-03,cemu-linux,2126
 2026-11-03,cemu-linux-arm,205
 2026-11-03,cemu-mac,0
-2026-11-03,cemu-windows,108
+2026-11-03,cemu-windows,109
 2026-11-03,citron-linux,5
 2026-11-03,citron-linux-arm,0
 2026-11-03,citron-mac,0
@@ -3946,11 +3946,11 @@ date,name,total
 2026-11-03,cloudsync-linux,937
 2026-11-03,cloudsync-linux-arm,43
 2026-11-03,cloudsync-windows,444
-2026-11-03,dolphin-linux,839
+2026-11-03,dolphin-linux,840
 2026-11-03,dolphin-linux-arm,137
 2026-11-03,dolphin-mac,0
 2026-11-03,dolphin-windows,130
-2026-11-03,duckstation-linux,2323
+2026-11-03,duckstation-linux,2325
 2026-11-03,duckstation-linux-arm,200
 2026-11-03,duckstation-mac,0
 2026-11-03,duckstation-windows,123
@@ -3991,12 +3991,12 @@ date,name,total
 2026-11-03,pcsx2-linux,2432
 2026-11-03,pcsx2-linux-arm,24
 2026-11-03,pcsx2-mac,0
-2026-11-03,pcsx2-windows,315
+2026-11-03,pcsx2-windows,317
 2026-11-03,pegasus-linux,25
 2026-11-03,pegasus-linux-arm,1
 2026-11-03,pegasus-mac,0
 2026-11-03,pegasus-windows,21
-2026-11-03,ppsspp-linux,765
+2026-11-03,ppsspp-linux,766
 2026-11-03,ppsspp-linux-arm,117
 2026-11-03,ppsspp-mac,0
 2026-11-03,ppsspp-windows,244
@@ -4004,7 +4004,7 @@ date,name,total
 2026-11-03,primehack-linux-arm,99
 2026-11-03,primehack-mac,0
 2026-11-03,primehack-windows,99
-2026-11-03,ra-linux,836
+2026-11-03,ra-linux,837
 2026-11-03,ra-linux-arm,126
 2026-11-03,ra-mac,0
 2026-11-03,ra-windows,139
@@ -4016,7 +4016,7 @@ date,name,total
 2026-11-03,rpcs3-linux-arm,200
 2026-11-03,rpcs3-mac,0
 2026-11-03,rpcs3-windows,118
-2026-11-03,ryujinx-linux,2069
+2026-11-03,ryujinx-linux,2070
 2026-11-03,ryujinx-linux-arm,209
 2026-11-03,ryujinx-mac,0
 2026-11-03,ryujinx-windows,291
