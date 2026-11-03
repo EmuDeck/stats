@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-03 03:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-03 04:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 189 | 853 | 877 |
-| Con CloudSync | 294 | 1276 | 1342 |
+| Con CloudSync | 294 | 1276 | 1344 |
 | % con CloudSync | | | 153% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2403 | 24 | 313 | 611 | 2659 | 2740 |
-| esde | 1987 | 193 | 519 | 693 | 2597 | 2699 |
-| azahar | 2099 | 220 | 312 | 607 | 2548 | 2631 |
-| duckstation | 2291 | 200 | 122 | 572 | 2533 | 2613 |
-| ryujinx | 2040 | 209 | 291 | 545 | 2464 | 2540 |
-| rpcs3 | 2183 | 200 | 118 | 559 | 2428 | 2501 |
-| cemu | 2100 | 205 | 108 | 527 | 2342 | 2413 |
-| srm | 1907 | 174 | 325 | 527 | 2351 | 2406 |
-| xenia | 1958 | 164 | 265 | 548 | 2322 | 2387 |
+| pcsx2 | 2404 | 24 | 313 | 611 | 2659 | 2741 |
+| esde | 1989 | 193 | 521 | 693 | 2597 | 2703 |
+| azahar | 2100 | 220 | 312 | 607 | 2548 | 2632 |
+| duckstation | 2292 | 200 | 122 | 572 | 2533 | 2614 |
+| ryujinx | 2041 | 209 | 291 | 545 | 2464 | 2541 |
+| rpcs3 | 2184 | 200 | 118 | 559 | 2428 | 2502 |
+| cemu | 2101 | 205 | 108 | 527 | 2342 | 2414 |
+| srm | 1908 | 174 | 325 | 527 | 2351 | 2407 |
+| xenia | 1959 | 164 | 265 | 548 | 2322 | 2388 |
 | shadps4 | 1835 | 173 | 238 | 521 | 2176 | 2246 |
-| vita3k | 1909 | 177 | 82 | 472 | 2099 | 2168 |
-| cloudsync | 918 | 41 | 436 | 306 | 1325 | 1395 |
+| vita3k | 1910 | 177 | 82 | 472 | 2099 | 2169 |
+| cloudsync | 919 | 41 | 437 | 306 | 1325 | 1397 |
 | ppsspp | 760 | 117 | 242 | 261 | 1087 | 1119 |
 | dolphin | 834 | 137 | 129 | 249 | 1069 | 1100 |
 | ra | 830 | 126 | 137 | 234 | 1063 | 1093 |
