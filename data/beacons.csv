@@ -3927,7 +3927,7 @@ date,name,total
 2026-11-03,armsx2-linux-arm,234
 2026-11-03,armsx2-mac,0
 2026-11-03,armsx2-windows,0
-2026-11-03,azahar-linux,2114
+2026-11-03,azahar-linux,2115
 2026-11-03,azahar-linux-arm,220
 2026-11-03,azahar-mac,0
 2026-11-03,azahar-windows,313
@@ -3935,7 +3935,7 @@ date,name,total
 2026-11-03,bigpemu-linux-arm,16
 2026-11-03,bigpemu-mac,0
 2026-11-03,bigpemu-windows,21
-2026-11-03,cemu-linux,2114
+2026-11-03,cemu-linux,2115
 2026-11-03,cemu-linux-arm,205
 2026-11-03,cemu-mac,0
 2026-11-03,cemu-windows,108
@@ -3964,11 +3964,11 @@ date,name,total
 2026-11-03,eden-linux-arm,9
 2026-11-03,eden-mac,0
 2026-11-03,eden-windows,7
-2026-11-03,esde-linux,1999
+2026-11-03,esde-linux,2000
 2026-11-03,esde-linux-arm,193
 2026-11-03,esde-mac,0
-2026-11-03,esde-windows,522
-2026-11-03,flycast-linux,153
+2026-11-03,esde-windows,524
+2026-11-03,flycast-linux,154
 2026-11-03,flycast-linux-arm,21
 2026-11-03,flycast-mac,0
 2026-11-03,flycast-windows,25
@@ -3980,7 +3980,7 @@ date,name,total
 2026-11-03,melonds-linux-arm,100
 2026-11-03,melonds-mac,0
 2026-11-03,melonds-windows,91
-2026-11-03,mgba-linux,871
+2026-11-03,mgba-linux,872
 2026-11-03,mgba-linux-arm,62
 2026-11-03,mgba-mac,0
 2026-11-03,mgba-windows,65
@@ -4004,11 +4004,11 @@ date,name,total
 2026-11-03,primehack-linux-arm,99
 2026-11-03,primehack-mac,0
 2026-11-03,primehack-windows,98
-2026-11-03,ra-linux,835
+2026-11-03,ra-linux,836
 2026-11-03,ra-linux-arm,126
 2026-11-03,ra-mac,0
 2026-11-03,ra-windows,137
-2026-11-03,rmg-linux,144
+2026-11-03,rmg-linux,145
 2026-11-03,rmg-linux-arm,31
 2026-11-03,rmg-mac,0
 2026-11-03,rmg-windows,0
@@ -4031,7 +4031,7 @@ date,name,total
 2026-11-03,srm-linux,1918
 2026-11-03,srm-linux-arm,174
 2026-11-03,srm-mac,0
-2026-11-03,srm-windows,327
+2026-11-03,srm-windows,330
 2026-11-03,supermodel-linux,601
 2026-11-03,supermodel-linux-arm,114
 2026-11-03,supermodel-mac,0
