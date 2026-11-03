@@ -3967,7 +3967,7 @@ date,name,total
 2026-11-03,esde-linux,2014
 2026-11-03,esde-linux-arm,193
 2026-11-03,esde-mac,0
-2026-11-03,esde-windows,524
+2026-11-03,esde-windows,525
 2026-11-03,flycast-linux,154
 2026-11-03,flycast-linux-arm,21
 2026-11-03,flycast-mac,0
@@ -4051,7 +4051,7 @@ date,name,total
 2026-11-03,xemu-linux-arm,105
 2026-11-03,xemu-mac,0
 2026-11-03,xemu-windows,101
-2026-11-03,xenia-linux,1985
+2026-11-03,xenia-linux,1986
 2026-11-03,xenia-linux-arm,164
 2026-11-03,xenia-mac,0
 2026-11-03,xenia-windows,271
