@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-03 02:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-03 02:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 20 | 170 | 836 | 857 |
+| linux | 20 | 170 | 836 | 858 |
 | linux-arm | 1 | 34 | 135 | 138 |
 | windows | 16 | 90 | 264 | 271 |
 
@@ -121,21 +121,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2398 | 24 | 313 | 611 | 2659 | 2735 |
-| esde | 1982 | 193 | 518 | 693 | 2597 | 2693 |
-| azahar | 2094 | 220 | 312 | 607 | 2548 | 2626 |
-| duckstation | 2286 | 200 | 122 | 572 | 2533 | 2608 |
-| ryujinx | 2034 | 209 | 291 | 545 | 2464 | 2534 |
+| pcsx2 | 2399 | 24 | 313 | 611 | 2659 | 2736 |
+| esde | 1983 | 193 | 518 | 693 | 2597 | 2694 |
+| azahar | 2095 | 220 | 312 | 607 | 2548 | 2627 |
+| duckstation | 2287 | 200 | 122 | 572 | 2533 | 2609 |
+| ryujinx | 2037 | 209 | 291 | 545 | 2464 | 2537 |
 | rpcs3 | 2179 | 200 | 118 | 559 | 2428 | 2497 |
-| cemu | 2095 | 205 | 108 | 527 | 2342 | 2408 |
+| cemu | 2096 | 205 | 108 | 527 | 2342 | 2409 |
 | srm | 1904 | 174 | 325 | 527 | 2351 | 2403 |
 | xenia | 1954 | 164 | 265 | 548 | 2322 | 2383 |
 | shadps4 | 1831 | 173 | 238 | 521 | 2176 | 2242 |
 | vita3k | 1905 | 177 | 82 | 472 | 2099 | 2164 |
 | cloudsync | 917 | 41 | 436 | 306 | 1325 | 1394 |
 | ppsspp | 759 | 117 | 242 | 261 | 1087 | 1118 |
-| dolphin | 832 | 137 | 129 | 249 | 1069 | 1098 |
-| ra | 828 | 126 | 137 | 234 | 1063 | 1091 |
+| dolphin | 833 | 137 | 129 | 249 | 1069 | 1099 |
+| ra | 829 | 126 | 137 | 234 | 1063 | 1092 |
 | mgba | 863 | 62 | 65 | 222 | 968 | 990 |
 | xemu | 711 | 105 | 99 | 197 | 890 | 915 |
 | melonds | 694 | 100 | 91 | 182 | 858 | 885 |
