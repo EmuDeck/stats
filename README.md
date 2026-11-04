@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-04 07:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-04 08:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 25 | 175 | 861 | 889 |
+| linux | 25 | 175 | 861 | 890 |
 | linux-arm | 1 | 29 | 136 | 146 |
 | windows | 10 | 88 | 274 | 287 |
 
@@ -121,21 +121,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2472 | 24 | 335 | 610 | 2734 | 2831 |
-| esde | 2048 | 205 | 547 | 693 | 2673 | 2800 |
+| pcsx2 | 2473 | 24 | 335 | 610 | 2734 | 2832 |
+| esde | 2049 | 205 | 548 | 693 | 2673 | 2802 |
 | azahar | 2165 | 232 | 328 | 601 | 2617 | 2725 |
 | duckstation | 2362 | 213 | 128 | 564 | 2600 | 2703 |
-| ryujinx | 2101 | 220 | 305 | 546 | 2533 | 2626 |
-| rpcs3 | 2249 | 211 | 125 | 561 | 2493 | 2585 |
-| srm | 1967 | 179 | 351 | 536 | 2422 | 2497 |
+| ryujinx | 2101 | 221 | 305 | 546 | 2533 | 2627 |
+| rpcs3 | 2250 | 211 | 125 | 561 | 2493 | 2586 |
+| srm | 1968 | 179 | 351 | 536 | 2422 | 2498 |
 | cemu | 2158 | 218 | 113 | 523 | 2399 | 2489 |
 | xenia | 2012 | 172 | 282 | 544 | 2382 | 2466 |
 | shadps4 | 1885 | 184 | 252 | 514 | 2229 | 2321 |
 | vita3k | 1960 | 189 | 88 | 472 | 2150 | 2237 |
 | cloudsync | 957 | 43 | 472 | 338 | 1380 | 1472 |
 | ppsspp | 781 | 125 | 258 | 250 | 1114 | 1164 |
-| ra | 863 | 134 | 148 | 240 | 1101 | 1145 |
-| dolphin | 856 | 145 | 136 | 243 | 1095 | 1137 |
+| ra | 864 | 134 | 148 | 240 | 1101 | 1146 |
+| dolphin | 857 | 145 | 136 | 243 | 1095 | 1138 |
 | mgba | 885 | 62 | 66 | 217 | 987 | 1013 |
 | xemu | 729 | 111 | 104 | 190 | 908 | 944 |
 | melonds | 714 | 108 | 94 | 181 | 876 | 916 |
