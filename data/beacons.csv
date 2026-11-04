@@ -4067,7 +4067,7 @@ date,name,total
 2026-11-04,armsx2-linux-arm,246
 2026-11-04,armsx2-mac,0
 2026-11-04,armsx2-windows,0
-2026-11-04,azahar-linux,2161
+2026-11-04,azahar-linux,2163
 2026-11-04,azahar-linux-arm,232
 2026-11-04,azahar-mac,0
 2026-11-04,azahar-windows,327
@@ -4085,7 +4085,7 @@ date,name,total
 2026-11-04,citron-windows,0
 2026-11-04,cloudsync-linux,956
 2026-11-04,cloudsync-linux-arm,43
-2026-11-04,cloudsync-windows,464
+2026-11-04,cloudsync-windows,466
 2026-11-04,dolphin-linux,855
 2026-11-04,dolphin-linux-arm,145
 2026-11-04,dolphin-mac,0
@@ -4096,7 +4096,7 @@ date,name,total
 2026-11-04,duckstation-windows,128
 2026-11-04,early-cloudsync-linux,926
 2026-11-04,early-cloudsync-linux-arm,42
-2026-11-04,early-cloudsync-windows,440
+2026-11-04,early-cloudsync-windows,442
 2026-11-04,early-linux,575
 2026-11-04,early-linux-arm,120
 2026-11-04,early-windows,217
@@ -4136,7 +4136,7 @@ date,name,total
 2026-11-04,pegasus-linux-arm,1
 2026-11-04,pegasus-mac,0
 2026-11-04,pegasus-windows,21
-2026-11-04,ppsspp-linux,779
+2026-11-04,ppsspp-linux,780
 2026-11-04,ppsspp-linux-arm,125
 2026-11-04,ppsspp-mac,0
 2026-11-04,ppsspp-windows,257
@@ -4144,7 +4144,7 @@ date,name,total
 2026-11-04,primehack-linux-arm,105
 2026-11-04,primehack-mac,0
 2026-11-04,primehack-windows,106
-2026-11-04,ra-linux,861
+2026-11-04,ra-linux,862
 2026-11-04,ra-linux-arm,134
 2026-11-04,ra-mac,0
 2026-11-04,ra-windows,148
