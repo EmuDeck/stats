@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-04 17:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-04 18:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -54,7 +54,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
 | linux | 25 | 175 | 861 | 900 |
-| linux-arm | 1 | 29 | 136 | 146 |
+| linux-arm | 1 | 29 | 136 | 148 |
 | windows | 10 | 88 | 274 | 288 |
 
 ```mermaid
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 190 | 878 | 921 |
+| Instalaciones early | 190 | 878 | 923 |
 | Con CloudSync | 322 | 1327 | 1432 |
 | % con CloudSync | | | 155% |
 
@@ -126,7 +126,7 @@ xychart-beta
 | azahar | 2194 | 233 | 329 | 601 | 2617 | 2756 |
 | duckstation | 2392 | 214 | 128 | 564 | 2600 | 2734 |
 | ryujinx | 2126 | 225 | 308 | 546 | 2533 | 2659 |
-| rpcs3 | 2277 | 211 | 126 | 561 | 2493 | 2614 |
+| rpcs3 | 2278 | 211 | 126 | 561 | 2493 | 2615 |
 | srm | 1993 | 180 | 354 | 536 | 2422 | 2527 |
 | cemu | 2186 | 218 | 113 | 523 | 2399 | 2517 |
 | xenia | 2038 | 172 | 283 | 544 | 2382 | 2493 |
@@ -136,14 +136,14 @@ xychart-beta
 | ppsspp | 792 | 125 | 259 | 250 | 1114 | 1176 |
 | ra | 874 | 134 | 149 | 240 | 1101 | 1157 |
 | dolphin | 867 | 145 | 137 | 243 | 1095 | 1149 |
-| mgba | 895 | 62 | 67 | 217 | 987 | 1024 |
+| mgba | 896 | 62 | 67 | 217 | 987 | 1025 |
 | xemu | 738 | 111 | 105 | 190 | 908 | 954 |
 | melonds | 724 | 108 | 95 | 181 | 876 | 927 |
 | primehack | 656 | 105 | 106 | 188 | 820 | 867 |
 | supermodel | 623 | 122 | 30 | 152 | 732 | 775 |
 | scummvm | 602 | 92 | 67 | 152 | 719 | 761 |
 | model2 | 614 | 126 | 10 | 143 | 708 | 750 |
-| bigpemu | 604 | 16 | 21 | 133 | 610 | 641 |
+| bigpemu | 605 | 16 | 21 | 133 | 610 | 642 |
 | armsx2 | 185 | 248 | 0 | 91 | 404 | 433 |
 | flycast | 157 | 21 | 26 | 38 | 197 | 204 |
 | rmg | 149 | 31 | 0 | 22 | 173 | 180 |

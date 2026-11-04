@@ -4071,7 +4071,7 @@ date,name,total
 2026-11-04,azahar-linux-arm,233
 2026-11-04,azahar-mac,0
 2026-11-04,azahar-windows,329
-2026-11-04,bigpemu-linux,604
+2026-11-04,bigpemu-linux,605
 2026-11-04,bigpemu-linux-arm,16
 2026-11-04,bigpemu-mac,0
 2026-11-04,bigpemu-windows,21
@@ -4098,7 +4098,7 @@ date,name,total
 2026-11-04,early-cloudsync-linux-arm,42
 2026-11-04,early-cloudsync-windows,456
 2026-11-04,early-linux,583
-2026-11-04,early-linux-arm,120
+2026-11-04,early-linux-arm,122
 2026-11-04,early-windows,218
 2026-11-04,eden-linux,90
 2026-11-04,eden-linux-arm,9
@@ -4120,7 +4120,7 @@ date,name,total
 2026-11-04,melonds-linux-arm,108
 2026-11-04,melonds-mac,0
 2026-11-04,melonds-windows,95
-2026-11-04,mgba-linux,895
+2026-11-04,mgba-linux,896
 2026-11-04,mgba-linux-arm,62
 2026-11-04,mgba-mac,0
 2026-11-04,mgba-windows,67
@@ -4152,7 +4152,7 @@ date,name,total
 2026-11-04,rmg-linux-arm,31
 2026-11-04,rmg-mac,0
 2026-11-04,rmg-windows,0
-2026-11-04,rpcs3-linux,2277
+2026-11-04,rpcs3-linux,2278
 2026-11-04,rpcs3-linux-arm,211
 2026-11-04,rpcs3-mac,0
 2026-11-04,rpcs3-windows,126
@@ -4179,7 +4179,7 @@ date,name,total
 2026-11-04,system-bazzite,0
 2026-11-04,system-chimeraos,0
 2026-11-04,system-linux,900
-2026-11-04,system-linux-arm,146
+2026-11-04,system-linux-arm,148
 2026-11-04,system-mac,0
 2026-11-04,system-steamos,0
 2026-11-04,system-windows,288
