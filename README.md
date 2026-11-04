@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-04 18:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-04 18:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -54,8 +54,8 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
 | linux | 25 | 175 | 861 | 900 |
-| linux-arm | 1 | 29 | 136 | 148 |
-| windows | 10 | 88 | 274 | 288 |
+| linux-arm | 1 | 29 | 136 | 149 |
+| windows | 10 | 88 | 274 | 290 |
 
 ```mermaid
 xychart-beta
@@ -121,20 +121,20 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2506 | 24 | 336 | 610 | 2734 | 2866 |
-| esde | 2070 | 206 | 555 | 693 | 2673 | 2831 |
+| pcsx2 | 2507 | 24 | 338 | 610 | 2734 | 2869 |
+| esde | 2071 | 206 | 558 | 693 | 2673 | 2835 |
 | azahar | 2194 | 233 | 329 | 601 | 2617 | 2756 |
-| duckstation | 2392 | 214 | 128 | 564 | 2600 | 2734 |
+| duckstation | 2392 | 214 | 129 | 564 | 2600 | 2735 |
 | ryujinx | 2126 | 225 | 308 | 546 | 2533 | 2659 |
-| rpcs3 | 2278 | 211 | 126 | 561 | 2493 | 2615 |
-| srm | 1993 | 180 | 354 | 536 | 2422 | 2527 |
-| cemu | 2186 | 218 | 113 | 523 | 2399 | 2517 |
+| rpcs3 | 2278 | 212 | 127 | 561 | 2493 | 2617 |
+| srm | 1994 | 181 | 354 | 536 | 2422 | 2529 |
+| cemu | 2187 | 218 | 113 | 523 | 2399 | 2518 |
 | xenia | 2038 | 172 | 283 | 544 | 2382 | 2493 |
-| shadps4 | 1908 | 185 | 252 | 514 | 2229 | 2345 |
+| shadps4 | 1908 | 185 | 253 | 514 | 2229 | 2346 |
 | vita3k | 1984 | 189 | 88 | 472 | 2150 | 2261 |
 | cloudsync | 964 | 43 | 479 | 338 | 1380 | 1486 |
 | ppsspp | 792 | 125 | 259 | 250 | 1114 | 1176 |
-| ra | 874 | 134 | 149 | 240 | 1101 | 1157 |
+| ra | 874 | 134 | 150 | 240 | 1101 | 1158 |
 | dolphin | 867 | 145 | 137 | 243 | 1095 | 1149 |
 | mgba | 896 | 62 | 67 | 217 | 987 | 1025 |
 | xemu | 738 | 111 | 105 | 190 | 908 | 954 |
@@ -152,4 +152,4 @@ xychart-beta
 | pegasus | 25 | 1 | 21 | 17 | 45 | 47 |
 | yuzu | 10 | 0 | 5 | 5 | 15 | 15 |
 | ares | 10 | 2 | 0 | 3 | 12 | 12 |
-| citron | 5 | 0 | 0 | 0 | 5 | 5 |
+| citron | 6 | 0 | 0 | 0 | 5 | 6 |
