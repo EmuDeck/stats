@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-04 03:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-04 04:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,8 +103,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 190 | 878 | 910 |
-| Con CloudSync | 322 | 1327 | 1398 |
-| % con CloudSync | | | 154% |
+| Con CloudSync | 322 | 1327 | 1406 |
+| % con CloudSync | | | 155% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2461 | 24 | 333 | 610 | 2734 | 2818 |
-| esde | 2038 | 202 | 541 | 693 | 2673 | 2781 |
-| azahar | 2154 | 230 | 326 | 601 | 2617 | 2710 |
-| duckstation | 2353 | 210 | 128 | 564 | 2600 | 2691 |
-| ryujinx | 2094 | 217 | 305 | 546 | 2533 | 2616 |
-| rpcs3 | 2239 | 208 | 125 | 561 | 2493 | 2572 |
-| srm | 1959 | 178 | 351 | 536 | 2422 | 2488 |
-| cemu | 2147 | 215 | 113 | 523 | 2399 | 2475 |
-| xenia | 2003 | 170 | 280 | 544 | 2382 | 2453 |
-| shadps4 | 1875 | 182 | 248 | 514 | 2229 | 2305 |
-| vita3k | 1950 | 188 | 88 | 472 | 2150 | 2226 |
-| cloudsync | 953 | 43 | 457 | 338 | 1380 | 1453 |
+| pcsx2 | 2463 | 24 | 333 | 610 | 2734 | 2820 |
+| esde | 2040 | 202 | 541 | 693 | 2673 | 2783 |
+| azahar | 2155 | 230 | 326 | 601 | 2617 | 2711 |
+| duckstation | 2355 | 210 | 128 | 564 | 2600 | 2693 |
+| ryujinx | 2096 | 217 | 305 | 546 | 2533 | 2618 |
+| rpcs3 | 2241 | 208 | 125 | 561 | 2493 | 2574 |
+| srm | 1960 | 178 | 351 | 536 | 2422 | 2489 |
+| cemu | 2149 | 215 | 113 | 523 | 2399 | 2477 |
+| xenia | 2005 | 170 | 280 | 544 | 2382 | 2455 |
+| shadps4 | 1877 | 182 | 249 | 514 | 2229 | 2308 |
+| vita3k | 1952 | 188 | 88 | 472 | 2150 | 2228 |
+| cloudsync | 954 | 43 | 464 | 338 | 1380 | 1461 |
 | ppsspp | 776 | 124 | 256 | 250 | 1114 | 1156 |
 | ra | 858 | 133 | 148 | 240 | 1101 | 1139 |
 | dolphin | 852 | 144 | 136 | 243 | 1095 | 1132 |
