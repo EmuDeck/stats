@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-04 15:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-04 16:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 190 | 878 | 921 |
-| Con CloudSync | 322 | 1327 | 1429 |
+| Con CloudSync | 322 | 1327 | 1431 |
 | % con CloudSync | | | 155% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2502 | 24 | 336 | 610 | 2734 | 2862 |
+| pcsx2 | 2503 | 24 | 336 | 610 | 2734 | 2863 |
 | esde | 2067 | 206 | 554 | 693 | 2673 | 2827 |
-| azahar | 2190 | 233 | 329 | 601 | 2617 | 2752 |
-| duckstation | 2388 | 214 | 128 | 564 | 2600 | 2730 |
-| ryujinx | 2122 | 221 | 306 | 546 | 2533 | 2649 |
+| azahar | 2191 | 233 | 329 | 601 | 2617 | 2753 |
+| duckstation | 2389 | 214 | 128 | 564 | 2600 | 2731 |
+| ryujinx | 2123 | 221 | 306 | 546 | 2533 | 2650 |
 | rpcs3 | 2275 | 211 | 125 | 561 | 2493 | 2611 |
-| srm | 1990 | 180 | 353 | 536 | 2422 | 2523 |
+| srm | 1991 | 180 | 353 | 536 | 2422 | 2524 |
 | cemu | 2182 | 218 | 113 | 523 | 2399 | 2513 |
-| xenia | 2034 | 172 | 282 | 544 | 2382 | 2488 |
-| shadps4 | 1904 | 185 | 252 | 514 | 2229 | 2341 |
-| vita3k | 1981 | 189 | 88 | 472 | 2150 | 2258 |
-| cloudsync | 963 | 43 | 478 | 338 | 1380 | 1484 |
+| xenia | 2035 | 172 | 282 | 544 | 2382 | 2489 |
+| shadps4 | 1905 | 185 | 252 | 514 | 2229 | 2342 |
+| vita3k | 1982 | 189 | 88 | 472 | 2150 | 2259 |
+| cloudsync | 964 | 43 | 478 | 338 | 1380 | 1485 |
 | ppsspp | 792 | 125 | 259 | 250 | 1114 | 1176 |
 | ra | 874 | 134 | 148 | 240 | 1101 | 1156 |
 | dolphin | 867 | 145 | 136 | 243 | 1095 | 1148 |
