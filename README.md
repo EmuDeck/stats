@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-05 09:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-05 10:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -122,16 +122,16 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 2565 | 26 | 351 | 630 | 2830 | 2942 |
-| esde | 2117 | 230 | 582 | 712 | 2771 | 2929 |
-| azahar | 2248 | 258 | 339 | 606 | 2716 | 2845 |
-| duckstation | 2445 | 240 | 139 | 573 | 2694 | 2824 |
-| ryujinx | 2179 | 250 | 324 | 565 | 2631 | 2753 |
-| rpcs3 | 2330 | 236 | 136 | 563 | 2582 | 2702 |
-| srm | 2034 | 202 | 372 | 550 | 2512 | 2608 |
-| cemu | 2237 | 242 | 122 | 523 | 2488 | 2601 |
-| xenia | 2081 | 194 | 294 | 541 | 2458 | 2569 |
-| shadps4 | 1958 | 187 | 264 | 521 | 2313 | 2409 |
-| vita3k | 2034 | 210 | 96 | 471 | 2227 | 2340 |
+| esde | 2117 | 231 | 582 | 712 | 2771 | 2930 |
+| azahar | 2248 | 259 | 339 | 606 | 2716 | 2846 |
+| duckstation | 2445 | 241 | 139 | 573 | 2694 | 2825 |
+| ryujinx | 2179 | 251 | 324 | 565 | 2631 | 2754 |
+| rpcs3 | 2330 | 237 | 136 | 563 | 2582 | 2703 |
+| srm | 2034 | 203 | 372 | 550 | 2512 | 2609 |
+| cemu | 2237 | 243 | 122 | 523 | 2488 | 2602 |
+| xenia | 2081 | 195 | 294 | 541 | 2458 | 2570 |
+| shadps4 | 1958 | 188 | 264 | 521 | 2313 | 2410 |
+| vita3k | 2034 | 211 | 96 | 471 | 2227 | 2341 |
 | cloudsync | 976 | 43 | 496 | 330 | 1432 | 1515 |
 | ppsspp | 807 | 145 | 270 | 253 | 1160 | 1222 |
 | ra | 890 | 155 | 159 | 241 | 1143 | 1204 |
@@ -144,7 +144,7 @@ xychart-beta
 | scummvm | 616 | 108 | 74 | 153 | 750 | 798 |
 | model2 | 630 | 143 | 12 | 147 | 739 | 785 |
 | bigpemu | 623 | 19 | 22 | 140 | 630 | 664 |
-| armsx2 | 192 | 277 | 0 | 92 | 427 | 469 |
+| armsx2 | 192 | 278 | 0 | 92 | 427 | 470 |
 | flycast | 162 | 21 | 27 | 37 | 199 | 210 |
 | rmg | 153 | 33 | 0 | 24 | 176 | 186 |
 | mame | 89 | 6 | 26 | 26 | 112 | 121 |
