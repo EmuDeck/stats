@@ -4207,7 +4207,7 @@ date,name,total
 2026-11-05,armsx2-linux-arm,278
 2026-11-05,armsx2-mac,0
 2026-11-05,armsx2-windows,0
-2026-11-05,azahar-linux,2252
+2026-11-05,azahar-linux,2253
 2026-11-05,azahar-linux-arm,259
 2026-11-05,azahar-mac,0
 2026-11-05,azahar-windows,339
@@ -4230,7 +4230,7 @@ date,name,total
 2026-11-05,dolphin-linux-arm,167
 2026-11-05,dolphin-mac,0
 2026-11-05,dolphin-windows,148
-2026-11-05,duckstation-linux,2451
+2026-11-05,duckstation-linux,2452
 2026-11-05,duckstation-linux-arm,241
 2026-11-05,duckstation-mac,0
 2026-11-05,duckstation-windows,140
@@ -4268,7 +4268,7 @@ date,name,total
 2026-11-05,model2-linux-arm,143
 2026-11-05,model2-mac,0
 2026-11-05,model2-windows,12
-2026-11-05,pcsx2-linux,2568
+2026-11-05,pcsx2-linux,2569
 2026-11-05,pcsx2-linux-arm,26
 2026-11-05,pcsx2-mac,0
 2026-11-05,pcsx2-windows,352
@@ -4296,7 +4296,7 @@ date,name,total
 2026-11-05,rpcs3-linux-arm,237
 2026-11-05,rpcs3-mac,0
 2026-11-05,rpcs3-windows,136
-2026-11-05,ryujinx-linux,2184
+2026-11-05,ryujinx-linux,2185
 2026-11-05,ryujinx-linux-arm,251
 2026-11-05,ryujinx-mac,0
 2026-11-05,ryujinx-windows,324
@@ -4308,7 +4308,7 @@ date,name,total
 2026-11-05,shadps4-linux-arm,188
 2026-11-05,shadps4-mac,0
 2026-11-05,shadps4-windows,264
-2026-11-05,srm-linux,2039
+2026-11-05,srm-linux,2040
 2026-11-05,srm-linux-arm,203
 2026-11-05,srm-mac,0
 2026-11-05,srm-windows,372
@@ -4323,7 +4323,7 @@ date,name,total
 2026-11-05,system-mac,0
 2026-11-05,system-steamos,0
 2026-11-05,system-windows,299
-2026-11-05,vita3k-linux,2037
+2026-11-05,vita3k-linux,2038
 2026-11-05,vita3k-linux-arm,211
 2026-11-05,vita3k-mac,0
 2026-11-05,vita3k-windows,96
