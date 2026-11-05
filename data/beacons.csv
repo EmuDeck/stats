@@ -4227,7 +4227,7 @@ date,name,total
 2026-11-05,cloudsync-linux-arm,43
 2026-11-05,cloudsync-windows,500
 2026-11-05,dolphin-linux,887
-2026-11-05,dolphin-linux-arm,168
+2026-11-05,dolphin-linux-arm,169
 2026-11-05,dolphin-mac,0
 2026-11-05,dolphin-windows,148
 2026-11-05,duckstation-linux,2463
@@ -4260,7 +4260,7 @@ date,name,total
 2026-11-05,melonds-linux-arm,127
 2026-11-05,melonds-mac,0
 2026-11-05,melonds-windows,102
-2026-11-05,mgba-linux,931
+2026-11-05,mgba-linux,933
 2026-11-05,mgba-linux-arm,64
 2026-11-05,mgba-mac,0
 2026-11-05,mgba-windows,69
@@ -4285,7 +4285,7 @@ date,name,total
 2026-11-05,primehack-mac,0
 2026-11-05,primehack-windows,115
 2026-11-05,ra-linux,895
-2026-11-05,ra-linux-arm,155
+2026-11-05,ra-linux-arm,156
 2026-11-05,ra-mac,0
 2026-11-05,ra-windows,161
 2026-11-05,rmg-linux,154
@@ -4296,10 +4296,10 @@ date,name,total
 2026-11-05,rpcs3-linux-arm,238
 2026-11-05,rpcs3-mac,0
 2026-11-05,rpcs3-windows,137
-2026-11-05,ryujinx-linux,2196
+2026-11-05,ryujinx-linux,2198
 2026-11-05,ryujinx-linux-arm,252
 2026-11-05,ryujinx-mac,0
-2026-11-05,ryujinx-windows,325
+2026-11-05,ryujinx-windows,326
 2026-11-05,scummvm-linux,618
 2026-11-05,scummvm-linux-arm,109
 2026-11-05,scummvm-mac,0
@@ -4308,10 +4308,10 @@ date,name,total
 2026-11-05,shadps4-linux-arm,188
 2026-11-05,shadps4-mac,0
 2026-11-05,shadps4-windows,265
-2026-11-05,srm-linux,2049
-2026-11-05,srm-linux-arm,205
+2026-11-05,srm-linux,2050
+2026-11-05,srm-linux-arm,206
 2026-11-05,srm-mac,0
-2026-11-05,srm-windows,373
+2026-11-05,srm-windows,374
 2026-11-05,supermodel-linux,642
 2026-11-05,supermodel-linux-arm,139
 2026-11-05,supermodel-mac,0
@@ -4319,11 +4319,11 @@ date,name,total
 2026-11-05,system-bazzite,0
 2026-11-05,system-chimeraos,0
 2026-11-05,system-linux,920
-2026-11-05,system-linux-arm,180
+2026-11-05,system-linux-arm,181
 2026-11-05,system-mac,0
 2026-11-05,system-steamos,0
 2026-11-05,system-windows,300
-2026-11-05,vita3k-linux,2044
+2026-11-05,vita3k-linux,2045
 2026-11-05,vita3k-linux-arm,212
 2026-11-05,vita3k-mac,0
 2026-11-05,vita3k-windows,96
