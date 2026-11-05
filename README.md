@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-05 18:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-05 18:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -122,27 +122,27 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | pcsx2 | 2581 | 26 | 353 | 630 | 2830 | 2960 |
-| esde | 2134 | 234 | 588 | 712 | 2771 | 2956 |
+| esde | 2134 | 234 | 589 | 712 | 2771 | 2957 |
 | azahar | 2267 | 263 | 339 | 606 | 2716 | 2869 |
 | duckstation | 2463 | 244 | 140 | 573 | 2694 | 2847 |
 | ryujinx | 2198 | 254 | 326 | 565 | 2631 | 2778 |
 | rpcs3 | 2346 | 239 | 137 | 563 | 2582 | 2722 |
 | srm | 2050 | 208 | 375 | 550 | 2512 | 2633 |
-| cemu | 2250 | 246 | 123 | 523 | 2488 | 2619 |
-| xenia | 2094 | 197 | 297 | 541 | 2458 | 2588 |
+| cemu | 2250 | 247 | 123 | 523 | 2488 | 2620 |
+| xenia | 2094 | 198 | 298 | 541 | 2458 | 2590 |
 | shadps4 | 1969 | 189 | 265 | 521 | 2313 | 2423 |
-| vita3k | 2045 | 213 | 97 | 471 | 2227 | 2355 |
+| vita3k | 2045 | 214 | 97 | 471 | 2227 | 2356 |
 | cloudsync | 985 | 43 | 500 | 330 | 1432 | 1528 |
 | ppsspp | 811 | 148 | 272 | 253 | 1160 | 1231 |
 | ra | 895 | 158 | 162 | 241 | 1143 | 1215 |
 | dolphin | 888 | 171 | 148 | 234 | 1135 | 1207 |
 | mgba | 933 | 64 | 69 | 220 | 1014 | 1066 |
-| xemu | 756 | 131 | 113 | 188 | 943 | 1000 |
-| melonds | 743 | 128 | 103 | 181 | 911 | 974 |
+| xemu | 756 | 132 | 113 | 188 | 943 | 1001 |
+| melonds | 743 | 129 | 103 | 181 | 911 | 975 |
 | primehack | 675 | 127 | 115 | 189 | 859 | 917 |
-| supermodel | 642 | 140 | 32 | 157 | 765 | 814 |
-| scummvm | 618 | 110 | 74 | 153 | 750 | 802 |
-| model2 | 634 | 145 | 12 | 147 | 739 | 791 |
+| supermodel | 642 | 141 | 32 | 157 | 765 | 815 |
+| scummvm | 618 | 111 | 74 | 153 | 750 | 803 |
+| model2 | 634 | 146 | 12 | 147 | 739 | 792 |
 | bigpemu | 626 | 20 | 22 | 140 | 630 | 668 |
 | armsx2 | 192 | 282 | 0 | 92 | 427 | 474 |
 | flycast | 162 | 22 | 27 | 37 | 199 | 211 |
