@@ -4230,7 +4230,7 @@ date,name,total
 2026-11-05,dolphin-linux-arm,171
 2026-11-05,dolphin-mac,0
 2026-11-05,dolphin-windows,148
-2026-11-05,duckstation-linux,2463
+2026-11-05,duckstation-linux,2464
 2026-11-05,duckstation-linux-arm,244
 2026-11-05,duckstation-mac,0
 2026-11-05,duckstation-windows,140
@@ -4244,8 +4244,8 @@ date,name,total
 2026-11-05,eden-linux-arm,9
 2026-11-05,eden-mac,0
 2026-11-05,eden-windows,7
-2026-11-05,esde-linux,2134
-2026-11-05,esde-linux-arm,234
+2026-11-05,esde-linux,2135
+2026-11-05,esde-linux-arm,235
 2026-11-05,esde-mac,0
 2026-11-05,esde-windows,589
 2026-11-05,flycast-linux,162
@@ -4268,7 +4268,7 @@ date,name,total
 2026-11-05,model2-linux-arm,146
 2026-11-05,model2-mac,0
 2026-11-05,model2-windows,12
-2026-11-05,pcsx2-linux,2581
+2026-11-05,pcsx2-linux,2582
 2026-11-05,pcsx2-linux-arm,26
 2026-11-05,pcsx2-mac,0
 2026-11-05,pcsx2-windows,353
@@ -4292,7 +4292,7 @@ date,name,total
 2026-11-05,rmg-linux-arm,34
 2026-11-05,rmg-mac,0
 2026-11-05,rmg-windows,0
-2026-11-05,rpcs3-linux,2346
+2026-11-05,rpcs3-linux,2347
 2026-11-05,rpcs3-linux-arm,239
 2026-11-05,rpcs3-mac,0
 2026-11-05,rpcs3-windows,137
@@ -4304,11 +4304,11 @@ date,name,total
 2026-11-05,scummvm-linux-arm,111
 2026-11-05,scummvm-mac,0
 2026-11-05,scummvm-windows,74
-2026-11-05,shadps4-linux,1969
+2026-11-05,shadps4-linux,1970
 2026-11-05,shadps4-linux-arm,189
 2026-11-05,shadps4-mac,0
 2026-11-05,shadps4-windows,265
-2026-11-05,srm-linux,2050
+2026-11-05,srm-linux,2051
 2026-11-05,srm-linux-arm,208
 2026-11-05,srm-mac,0
 2026-11-05,srm-windows,375
