@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-06 08:13 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-06 08:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -129,7 +129,7 @@ xychart-beta
 | rpcs3 | 2388 | 254 | 140 | 596 | 2686 | 2782 |
 | srm | 2086 | 225 | 392 | 578 | 2622 | 2703 |
 | cemu | 2284 | 259 | 126 | 550 | 2582 | 2669 |
-| xenia | 2126 | 206 | 308 | 557 | 2556 | 2640 |
+| xenia | 2126 | 207 | 308 | 557 | 2556 | 2641 |
 | shadps4 | 1994 | 191 | 272 | 503 | 2375 | 2457 |
 | vita3k | 2079 | 223 | 100 | 494 | 2316 | 2402 |
 | cloudsync | 994 | 45 | 506 | 338 | 1471 | 1545 |
@@ -140,9 +140,9 @@ xychart-beta
 | xemu | 764 | 142 | 116 | 203 | 988 | 1022 |
 | melonds | 751 | 140 | 104 | 204 | 961 | 995 |
 | primehack | 686 | 139 | 119 | 214 | 910 | 944 |
-| supermodel | 649 | 150 | 32 | 177 | 807 | 831 |
+| supermodel | 649 | 151 | 32 | 177 | 807 | 832 |
 | scummvm | 624 | 120 | 76 | 170 | 791 | 820 |
-| model2 | 640 | 157 | 12 | 170 | 785 | 809 |
+| model2 | 640 | 158 | 12 | 170 | 785 | 810 |
 | bigpemu | 641 | 21 | 22 | 153 | 658 | 684 |
 | armsx2 | 199 | 300 | 0 | 138 | 482 | 499 |
 | flycast | 164 | 22 | 28 | 41 | 208 | 214 |

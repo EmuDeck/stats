@@ -4405,7 +4405,7 @@ date,name,total
 2026-11-06,mgba-mac,0
 2026-11-06,mgba-windows,69
 2026-11-06,model2-linux,640
-2026-11-06,model2-linux-arm,157
+2026-11-06,model2-linux-arm,158
 2026-11-06,model2-mac,0
 2026-11-06,model2-windows,12
 2026-11-06,pcsx2-linux,2627
@@ -4453,7 +4453,7 @@ date,name,total
 2026-11-06,srm-mac,0
 2026-11-06,srm-windows,392
 2026-11-06,supermodel-linux,649
-2026-11-06,supermodel-linux-arm,150
+2026-11-06,supermodel-linux-arm,151
 2026-11-06,supermodel-mac,0
 2026-11-06,supermodel-windows,32
 2026-11-06,system-bazzite,0
@@ -4472,7 +4472,7 @@ date,name,total
 2026-11-06,xemu-mac,0
 2026-11-06,xemu-windows,116
 2026-11-06,xenia-linux,2126
-2026-11-06,xenia-linux-arm,206
+2026-11-06,xenia-linux-arm,207
 2026-11-06,xenia-mac,0
 2026-11-06,xenia-windows,308
 2026-11-06,yuzu-linux,12
