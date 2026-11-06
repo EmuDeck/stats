@@ -4384,10 +4384,10 @@ date,name,total
 2026-11-06,eden-linux-arm,9
 2026-11-06,eden-mac,0
 2026-11-06,eden-windows,7
-2026-11-06,esde-linux,2162
+2026-11-06,esde-linux,2163
 2026-11-06,esde-linux-arm,243
 2026-11-06,esde-mac,0
-2026-11-06,esde-windows,600
+2026-11-06,esde-windows,601
 2026-11-06,flycast-linux,164
 2026-11-06,flycast-linux-arm,22
 2026-11-06,flycast-mac,0
@@ -4451,7 +4451,7 @@ date,name,total
 2026-11-06,srm-linux,2075
 2026-11-06,srm-linux-arm,220
 2026-11-06,srm-mac,0
-2026-11-06,srm-windows,386
+2026-11-06,srm-windows,387
 2026-11-06,supermodel-linux,648
 2026-11-06,supermodel-linux-arm,150
 2026-11-06,supermodel-mac,0
