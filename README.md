@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-06 00:25 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-06 00:45 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 19 | 167 | 906 | 929 |
 | linux-arm | 46 | 70 | 193 | 197 |
-| windows | 11 | 91 | 298 | 306 |
+| windows | 11 | 91 | 298 | 307 |
 
 ```mermaid
 xychart-beta
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 178 | 933 | 957 |
+| Instalaciones early | 178 | 933 | 958 |
 | Con CloudSync | 324 | 1420 | 1487 |
 | % con CloudSync | | | 155% |
 
@@ -121,19 +121,19 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| pcsx2 | 2608 | 27 | 359 | 630 | 2917 | 2994 |
-| esde | 2156 | 241 | 596 | 751 | 2899 | 2993 |
-| azahar | 2290 | 276 | 343 | 638 | 2830 | 2909 |
+| esde | 2156 | 241 | 599 | 751 | 2899 | 2996 |
+| pcsx2 | 2608 | 27 | 360 | 630 | 2917 | 2995 |
+| azahar | 2290 | 276 | 344 | 638 | 2830 | 2910 |
 | duckstation | 2487 | 257 | 141 | 611 | 2807 | 2885 |
 | ryujinx | 2222 | 265 | 329 | 602 | 2745 | 2816 |
 | rpcs3 | 2369 | 250 | 138 | 596 | 2686 | 2757 |
 | srm | 2069 | 220 | 385 | 578 | 2622 | 2674 |
 | cemu | 2267 | 256 | 124 | 550 | 2582 | 2647 |
-| xenia | 2109 | 205 | 303 | 557 | 2556 | 2617 |
+| xenia | 2109 | 205 | 304 | 557 | 2556 | 2618 |
 | shadps4 | 1982 | 191 | 268 | 503 | 2375 | 2441 |
 | vita3k | 2063 | 221 | 98 | 494 | 2316 | 2382 |
 | cloudsync | 992 | 45 | 503 | 338 | 1471 | 1540 |
-| ppsspp | 820 | 158 | 277 | 273 | 1219 | 1255 |
+| ppsspp | 820 | 158 | 278 | 273 | 1219 | 1256 |
 | ra | 905 | 168 | 163 | 271 | 1204 | 1236 |
 | dolphin | 897 | 185 | 148 | 261 | 1199 | 1230 |
 | mgba | 941 | 66 | 69 | 230 | 1055 | 1076 |
@@ -149,7 +149,7 @@ xychart-beta
 | rmg | 155 | 34 | 0 | 30 | 185 | 189 |
 | mame | 92 | 7 | 27 | 35 | 121 | 126 |
 | eden | 91 | 9 | 7 | 13 | 99 | 107 |
-| pegasus | 27 | 1 | 21 | 14 | 47 | 49 |
+| pegasus | 28 | 1 | 21 | 14 | 47 | 50 |
 | yuzu | 12 | 0 | 5 | 7 | 17 | 17 |
 | ares | 10 | 2 | 0 | 2 | 12 | 12 |
 | citron | 6 | 0 | 0 | 1 | 6 | 6 |
