@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-06 03:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-06 03:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,17 +121,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2163 | 243 | 602 | 751 | 2899 | 3008 |
-| pcsx2 | 2614 | 27 | 362 | 630 | 2917 | 3003 |
-| azahar | 2296 | 278 | 346 | 638 | 2830 | 2920 |
-| duckstation | 2493 | 259 | 141 | 611 | 2807 | 2893 |
-| ryujinx | 2226 | 266 | 329 | 602 | 2745 | 2821 |
-| rpcs3 | 2375 | 251 | 138 | 596 | 2686 | 2764 |
-| srm | 2075 | 220 | 387 | 578 | 2622 | 2682 |
-| cemu | 2273 | 258 | 124 | 550 | 2582 | 2655 |
-| xenia | 2115 | 206 | 306 | 557 | 2556 | 2627 |
+| esde | 2165 | 243 | 602 | 751 | 2899 | 3010 |
+| pcsx2 | 2615 | 27 | 362 | 630 | 2917 | 3004 |
+| azahar | 2298 | 278 | 346 | 638 | 2830 | 2922 |
+| duckstation | 2494 | 259 | 141 | 611 | 2807 | 2894 |
+| ryujinx | 2227 | 266 | 329 | 602 | 2745 | 2822 |
+| rpcs3 | 2376 | 251 | 138 | 596 | 2686 | 2765 |
+| srm | 2076 | 220 | 388 | 578 | 2622 | 2684 |
+| cemu | 2275 | 258 | 124 | 550 | 2582 | 2657 |
+| xenia | 2116 | 206 | 306 | 557 | 2556 | 2628 |
 | shadps4 | 1986 | 191 | 270 | 503 | 2375 | 2447 |
-| vita3k | 2069 | 222 | 98 | 494 | 2316 | 2389 |
+| vita3k | 2070 | 222 | 98 | 494 | 2316 | 2390 |
 | cloudsync | 993 | 45 | 505 | 338 | 1471 | 1543 |
 | ppsspp | 820 | 159 | 280 | 273 | 1219 | 1259 |
 | ra | 905 | 169 | 163 | 271 | 1204 | 1237 |
@@ -143,7 +143,7 @@ xychart-beta
 | supermodel | 648 | 150 | 32 | 177 | 807 | 830 |
 | scummvm | 623 | 119 | 75 | 170 | 791 | 817 |
 | model2 | 639 | 157 | 12 | 170 | 785 | 808 |
-| bigpemu | 636 | 21 | 22 | 153 | 658 | 679 |
+| bigpemu | 637 | 21 | 22 | 153 | 658 | 680 |
 | armsx2 | 198 | 297 | 0 | 138 | 482 | 495 |
 | flycast | 164 | 22 | 27 | 41 | 208 | 213 |
 | rmg | 156 | 34 | 0 | 30 | 185 | 190 |
