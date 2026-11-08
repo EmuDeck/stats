@@ -4623,11 +4623,11 @@ date,name,total
 2026-11-08,ares-linux-arm,2
 2026-11-08,ares-mac,0
 2026-11-08,ares-windows,0
-2026-11-08,armsx2-linux,217
+2026-11-08,armsx2-linux,218
 2026-11-08,armsx2-linux-arm,359
 2026-11-08,armsx2-mac,0
 2026-11-08,armsx2-windows,0
-2026-11-08,azahar-linux,2463
+2026-11-08,azahar-linux,2464
 2026-11-08,azahar-linux-arm,337
 2026-11-08,azahar-mac,0
 2026-11-08,azahar-windows,365
@@ -4664,7 +4664,7 @@ date,name,total
 2026-11-08,eden-linux-arm,10
 2026-11-08,eden-mac,0
 2026-11-08,eden-windows,12
-2026-11-08,esde-linux,2315
+2026-11-08,esde-linux,2316
 2026-11-08,esde-linux-arm,285
 2026-11-08,esde-mac,0
 2026-11-08,esde-windows,637
@@ -4688,7 +4688,7 @@ date,name,total
 2026-11-08,model2-linux-arm,195
 2026-11-08,model2-mac,0
 2026-11-08,model2-windows,12
-2026-11-08,pcsx2-linux,2802
+2026-11-08,pcsx2-linux,2803
 2026-11-08,pcsx2-linux-arm,29
 2026-11-08,pcsx2-mac,0
 2026-11-08,pcsx2-windows,386
@@ -4696,15 +4696,15 @@ date,name,total
 2026-11-08,pegasus-linux-arm,1
 2026-11-08,pegasus-mac,0
 2026-11-08,pegasus-windows,23
-2026-11-08,ppsspp-linux,875
+2026-11-08,ppsspp-linux,876
 2026-11-08,ppsspp-linux-arm,205
 2026-11-08,ppsspp-mac,0
 2026-11-08,ppsspp-windows,300
-2026-11-08,primehack-linux,736
+2026-11-08,primehack-linux,737
 2026-11-08,primehack-linux-arm,182
 2026-11-08,primehack-mac,0
 2026-11-08,primehack-windows,128
-2026-11-08,ra-linux,969
+2026-11-08,ra-linux,970
 2026-11-08,ra-linux-arm,220
 2026-11-08,ra-mac,0
 2026-11-08,ra-windows,177
@@ -4716,7 +4716,7 @@ date,name,total
 2026-11-08,rpcs3-linux-arm,304
 2026-11-08,rpcs3-mac,0
 2026-11-08,rpcs3-windows,151
-2026-11-08,ryujinx-linux,2391
+2026-11-08,ryujinx-linux,2392
 2026-11-08,ryujinx-linux-arm,328
 2026-11-08,ryujinx-mac,0
 2026-11-08,ryujinx-windows,362
@@ -4738,7 +4738,7 @@ date,name,total
 2026-11-08,supermodel-windows,37
 2026-11-08,system-bazzite,0
 2026-11-08,system-chimeraos,0
-2026-11-08,system-linux,1011
+2026-11-08,system-linux,1012
 2026-11-08,system-linux-arm,260
 2026-11-08,system-mac,0
 2026-11-08,system-steamos,0
@@ -4751,7 +4751,7 @@ date,name,total
 2026-11-08,xemu-linux-arm,182
 2026-11-08,xemu-mac,0
 2026-11-08,xemu-windows,124
-2026-11-08,xenia-linux,2261
+2026-11-08,xenia-linux,2262
 2026-11-08,xenia-linux-arm,250
 2026-11-08,xenia-mac,0
 2026-11-08,xenia-windows,324
