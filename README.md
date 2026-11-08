@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-08 02:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-08 02:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,17 +121,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2298 | 272 | 634 | 681 | 2901 | 3204 |
+| esde | 2298 | 276 | 634 | 681 | 2901 | 3208 |
 | pcsx2 | 2782 | 29 | 383 | 619 | 2884 | 3194 |
-| azahar | 2449 | 328 | 364 | 659 | 2846 | 3141 |
-| duckstation | 2653 | 307 | 153 | 643 | 2820 | 3113 |
-| ryujinx | 2378 | 318 | 357 | 643 | 2769 | 3053 |
-| rpcs3 | 2536 | 295 | 150 | 625 | 2716 | 2981 |
-| srm | 2218 | 266 | 422 | 641 | 2668 | 2906 |
+| azahar | 2449 | 329 | 364 | 659 | 2846 | 3142 |
+| duckstation | 2653 | 308 | 153 | 643 | 2820 | 3114 |
+| ryujinx | 2378 | 319 | 357 | 643 | 2769 | 3054 |
+| rpcs3 | 2536 | 296 | 150 | 625 | 2716 | 2982 |
+| srm | 2218 | 267 | 422 | 641 | 2668 | 2907 |
 | cemu | 2421 | 303 | 133 | 579 | 2599 | 2857 |
-| xenia | 2249 | 242 | 323 | 565 | 2566 | 2814 |
+| xenia | 2249 | 243 | 323 | 565 | 2566 | 2815 |
 | shadps4 | 2112 | 201 | 288 | 483 | 2354 | 2601 |
-| vita3k | 2205 | 262 | 105 | 516 | 2337 | 2572 |
+| vita3k | 2205 | 263 | 105 | 516 | 2337 | 2573 |
 | cloudsync | 1048 | 46 | 556 | 340 | 1435 | 1650 |
 | ppsspp | 868 | 198 | 298 | 301 | 1236 | 1364 |
 | ra | 959 | 213 | 175 | 311 | 1212 | 1347 |
@@ -144,8 +144,8 @@ xychart-beta
 | scummvm | 662 | 152 | 79 | 200 | 807 | 893 |
 | model2 | 682 | 189 | 12 | 200 | 794 | 883 |
 | bigpemu | 685 | 25 | 26 | 154 | 672 | 736 |
-| armsx2 | 217 | 350 | 0 | 171 | 517 | 567 |
-| flycast | 180 | 25 | 29 | 47 | 205 | 234 |
+| armsx2 | 217 | 351 | 0 | 171 | 517 | 568 |
+| flycast | 181 | 25 | 29 | 47 | 205 | 235 |
 | rmg | 166 | 38 | 0 | 35 | 175 | 204 |
 | mame | 98 | 9 | 31 | 38 | 115 | 138 |
 | eden | 98 | 10 | 12 | 17 | 111 | 120 |
