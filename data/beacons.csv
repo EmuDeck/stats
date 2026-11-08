@@ -4627,7 +4627,7 @@ date,name,total
 2026-11-08,armsx2-linux-arm,355
 2026-11-08,armsx2-mac,0
 2026-11-08,armsx2-windows,0
-2026-11-08,azahar-linux,2462
+2026-11-08,azahar-linux,2463
 2026-11-08,azahar-linux-arm,333
 2026-11-08,azahar-mac,0
 2026-11-08,azahar-windows,364
@@ -4650,7 +4650,7 @@ date,name,total
 2026-11-08,dolphin-linux-arm,235
 2026-11-08,dolphin-mac,0
 2026-11-08,dolphin-windows,159
-2026-11-08,duckstation-linux,2669
+2026-11-08,duckstation-linux,2670
 2026-11-08,duckstation-linux-arm,313
 2026-11-08,duckstation-mac,0
 2026-11-08,duckstation-windows,153
@@ -4667,7 +4667,7 @@ date,name,total
 2026-11-08,esde-linux,2312
 2026-11-08,esde-linux-arm,283
 2026-11-08,esde-mac,0
-2026-11-08,esde-windows,634
+2026-11-08,esde-windows,637
 2026-11-08,flycast-linux,182
 2026-11-08,flycast-linux-arm,26
 2026-11-08,flycast-mac,0
@@ -4688,10 +4688,10 @@ date,name,total
 2026-11-08,model2-linux-arm,191
 2026-11-08,model2-mac,0
 2026-11-08,model2-windows,12
-2026-11-08,pcsx2-linux,2798
+2026-11-08,pcsx2-linux,2799
 2026-11-08,pcsx2-linux-arm,29
 2026-11-08,pcsx2-mac,0
-2026-11-08,pcsx2-windows,383
+2026-11-08,pcsx2-windows,384
 2026-11-08,pegasus-linux,30
 2026-11-08,pegasus-linux-arm,1
 2026-11-08,pegasus-mac,0
@@ -4719,7 +4719,7 @@ date,name,total
 2026-11-08,ryujinx-linux,2390
 2026-11-08,ryujinx-linux-arm,323
 2026-11-08,ryujinx-mac,0
-2026-11-08,ryujinx-windows,359
+2026-11-08,ryujinx-windows,360
 2026-11-08,scummvm-linux,666
 2026-11-08,scummvm-linux-arm,154
 2026-11-08,scummvm-mac,0
@@ -4728,10 +4728,10 @@ date,name,total
 2026-11-08,shadps4-linux-arm,203
 2026-11-08,shadps4-mac,0
 2026-11-08,shadps4-windows,288
-2026-11-08,srm-linux,2232
+2026-11-08,srm-linux,2233
 2026-11-08,srm-linux-arm,268
 2026-11-08,srm-mac,0
-2026-11-08,srm-windows,422
+2026-11-08,srm-windows,424
 2026-11-08,supermodel-linux,697
 2026-11-08,supermodel-linux-arm,184
 2026-11-08,supermodel-mac,0
