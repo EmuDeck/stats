@@ -4635,7 +4635,7 @@ date,name,total
 2026-11-08,bigpemu-linux-arm,29
 2026-11-08,bigpemu-mac,0
 2026-11-08,bigpemu-windows,26
-2026-11-08,cemu-linux,2492
+2026-11-08,cemu-linux,2493
 2026-11-08,cemu-linux-arm,323
 2026-11-08,cemu-mac,0
 2026-11-08,cemu-windows,137
@@ -4719,7 +4719,7 @@ date,name,total
 2026-11-08,ryujinx-linux,2442
 2026-11-08,ryujinx-linux-arm,343
 2026-11-08,ryujinx-mac,0
-2026-11-08,ryujinx-windows,365
+2026-11-08,ryujinx-windows,366
 2026-11-08,scummvm-linux,682
 2026-11-08,scummvm-linux-arm,166
 2026-11-08,scummvm-mac,0
