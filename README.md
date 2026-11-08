@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-08 06:14 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-08 06:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -54,7 +54,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
 | linux | 42 | 185 | 899 | 1009 |
-| linux-arm | 25 | 112 | 228 | 254 |
+| linux-arm | 25 | 112 | 228 | 255 |
 | windows | 9 | 81 | 302 | 327 |
 
 ```mermaid
@@ -121,12 +121,12 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2309 | 281 | 634 | 681 | 2901 | 3224 |
+| esde | 2309 | 282 | 634 | 681 | 2901 | 3225 |
 | pcsx2 | 2794 | 29 | 383 | 619 | 2884 | 3206 |
-| azahar | 2459 | 331 | 364 | 659 | 2846 | 3154 |
+| azahar | 2459 | 332 | 364 | 659 | 2846 | 3155 |
 | duckstation | 2665 | 311 | 153 | 643 | 2820 | 3129 |
 | ryujinx | 2388 | 321 | 359 | 643 | 2769 | 3068 |
-| rpcs3 | 2546 | 298 | 150 | 625 | 2716 | 2994 |
+| rpcs3 | 2546 | 299 | 150 | 625 | 2716 | 2995 |
 | srm | 2228 | 268 | 422 | 641 | 2668 | 2918 |
 | cemu | 2432 | 305 | 133 | 579 | 2599 | 2870 |
 | xenia | 2259 | 245 | 323 | 565 | 2566 | 2827 |
@@ -139,12 +139,12 @@ xychart-beta
 | mgba | 1018 | 74 | 76 | 229 | 1055 | 1168 |
 | xemu | 813 | 177 | 123 | 231 | 1000 | 1113 |
 | melonds | 797 | 175 | 109 | 230 | 967 | 1081 |
-| primehack | 736 | 176 | 127 | 252 | 931 | 1039 |
+| primehack | 736 | 177 | 127 | 252 | 931 | 1040 |
 | supermodel | 697 | 183 | 37 | 207 | 823 | 917 |
 | scummvm | 666 | 153 | 79 | 200 | 807 | 898 |
 | model2 | 686 | 190 | 12 | 200 | 794 | 888 |
 | bigpemu | 686 | 27 | 26 | 154 | 672 | 739 |
-| armsx2 | 217 | 353 | 0 | 171 | 517 | 570 |
+| armsx2 | 217 | 354 | 0 | 171 | 517 | 571 |
 | flycast | 182 | 26 | 29 | 47 | 205 | 237 |
 | rmg | 166 | 40 | 0 | 35 | 175 | 206 |
 | mame | 99 | 10 | 31 | 38 | 115 | 140 |
