@@ -4805,7 +4805,7 @@ date,name,total
 2026-11-09,eden-mac,0
 2026-11-09,eden-windows,13
 2026-11-09,esde-linux,2382
-2026-11-09,esde-linux-arm,310
+2026-11-09,esde-linux-arm,311
 2026-11-09,esde-mac,0
 2026-11-09,esde-windows,660
 2026-11-09,flycast-linux,187
@@ -4859,7 +4859,7 @@ date,name,total
 2026-11-09,ryujinx-linux,2461
 2026-11-09,ryujinx-linux-arm,347
 2026-11-09,ryujinx-mac,0
-2026-11-09,ryujinx-windows,371
+2026-11-09,ryujinx-windows,372
 2026-11-09,scummvm-linux,684
 2026-11-09,scummvm-linux-arm,169
 2026-11-09,scummvm-mac,0
@@ -4871,7 +4871,7 @@ date,name,total
 2026-11-09,srm-linux,2318
 2026-11-09,srm-linux-arm,287
 2026-11-09,srm-mac,0
-2026-11-09,srm-windows,442
+2026-11-09,srm-windows,443
 2026-11-09,supermodel-linux,716
 2026-11-09,supermodel-linux-arm,199
 2026-11-09,supermodel-mac,0
@@ -4883,7 +4883,7 @@ date,name,total
 2026-11-09,system-mac,0
 2026-11-09,system-steamos,0
 2026-11-09,system-windows,338
-2026-11-09,vita3k-linux,2284
+2026-11-09,vita3k-linux,2285
 2026-11-09,vita3k-linux-arm,287
 2026-11-09,vita3k-mac,0
 2026-11-09,vita3k-windows,108
@@ -4891,7 +4891,7 @@ date,name,total
 2026-11-09,xemu-linux-arm,195
 2026-11-09,xemu-mac,0
 2026-11-09,xemu-windows,126
-2026-11-09,xenia-linux,2332
+2026-11-09,xenia-linux,2333
 2026-11-09,xenia-linux-arm,265
 2026-11-09,xenia-mac,0
 2026-11-09,xenia-windows,329
