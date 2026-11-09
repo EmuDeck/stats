@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-09 00:26 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-09 00:49 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 186 | 901 | 1032 |
-| Con CloudSync | 362 | 1405 | 1651 |
+| Con CloudSync | 362 | 1405 | 1652 |
 | % con CloudSync | | | 160% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,23 +121,23 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2367 | 307 | 656 | 734 | 2947 | 3330 |
-| pcsx2 | 2871 | 30 | 395 | 648 | 2904 | 3296 |
-| azahar | 2528 | 354 | 369 | 702 | 2872 | 3251 |
-| duckstation | 2739 | 332 | 156 | 691 | 2859 | 3227 |
-| ryujinx | 2443 | 344 | 367 | 684 | 2786 | 3154 |
-| rpcs3 | 2613 | 320 | 154 | 659 | 2749 | 3087 |
-| srm | 2300 | 284 | 438 | 691 | 2707 | 3022 |
-| cemu | 2494 | 324 | 137 | 611 | 2615 | 2955 |
+| esde | 2368 | 307 | 657 | 734 | 2947 | 3332 |
+| pcsx2 | 2872 | 30 | 395 | 648 | 2904 | 3297 |
+| azahar | 2529 | 354 | 369 | 702 | 2872 | 3252 |
+| duckstation | 2740 | 332 | 156 | 691 | 2859 | 3228 |
+| ryujinx | 2445 | 344 | 367 | 684 | 2786 | 3156 |
+| rpcs3 | 2614 | 320 | 154 | 659 | 2749 | 3088 |
+| srm | 2301 | 284 | 438 | 691 | 2707 | 3023 |
+| cemu | 2495 | 324 | 137 | 611 | 2615 | 2956 |
 | xenia | 2318 | 262 | 328 | 581 | 2587 | 2908 |
-| shadps4 | 2168 | 206 | 295 | 491 | 2365 | 2669 |
+| shadps4 | 2169 | 206 | 295 | 491 | 2365 | 2670 |
 | vita3k | 2270 | 284 | 107 | 550 | 2364 | 2661 |
-| cloudsync | 1077 | 47 | 583 | 367 | 1449 | 1707 |
+| cloudsync | 1078 | 47 | 583 | 367 | 1449 | 1708 |
 | ppsspp | 902 | 215 | 305 | 333 | 1255 | 1422 |
-| ra | 994 | 230 | 182 | 343 | 1229 | 1406 |
+| ra | 996 | 230 | 182 | 343 | 1229 | 1408 |
 | dolphin | 982 | 250 | 165 | 326 | 1227 | 1397 |
 | mgba | 1048 | 78 | 79 | 247 | 1075 | 1205 |
-| xemu | 836 | 192 | 125 | 260 | 1019 | 1153 |
+| xemu | 836 | 192 | 126 | 260 | 1019 | 1154 |
 | melonds | 822 | 190 | 111 | 257 | 982 | 1123 |
 | primehack | 756 | 193 | 128 | 279 | 940 | 1077 |
 | supermodel | 714 | 196 | 37 | 229 | 830 | 947 |
