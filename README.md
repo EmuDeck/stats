@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-09 08:15 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-09 08:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -126,7 +126,7 @@ xychart-beta
 | azahar | 2558 | 363 | 371 | 702 | 2872 | 3292 |
 | duckstation | 2772 | 340 | 158 | 691 | 2859 | 3270 |
 | ryujinx | 2473 | 349 | 374 | 684 | 2786 | 3196 |
-| rpcs3 | 2641 | 329 | 158 | 659 | 2749 | 3128 |
+| rpcs3 | 2642 | 329 | 158 | 659 | 2749 | 3129 |
 | srm | 2331 | 292 | 446 | 691 | 2707 | 3069 |
 | cemu | 2523 | 331 | 139 | 611 | 2615 | 2993 |
 | xenia | 2344 | 269 | 329 | 581 | 2587 | 2942 |
