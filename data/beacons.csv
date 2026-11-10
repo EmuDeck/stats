@@ -4945,7 +4945,7 @@ date,name,total
 2026-11-10,eden-mac,0
 2026-11-10,eden-windows,19
 2026-11-10,esde-linux,2459
-2026-11-10,esde-linux-arm,330
+2026-11-10,esde-linux-arm,331
 2026-11-10,esde-mac,0
 2026-11-10,esde-windows,693
 2026-11-10,flycast-linux,189
@@ -4963,8 +4963,8 @@ date,name,total
 2026-11-10,mgba-linux,1089
 2026-11-10,mgba-linux-arm,80
 2026-11-10,mgba-mac,0
-2026-11-10,mgba-windows,80
-2026-11-10,model2-linux,730
+2026-11-10,mgba-windows,81
+2026-11-10,model2-linux,731
 2026-11-10,model2-linux-arm,223
 2026-11-10,model2-mac,0
 2026-11-10,model2-windows,12

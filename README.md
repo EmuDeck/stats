@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-10 10:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-10 10:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,7 +121,7 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2459 | 330 | 693 | 738 | 2920 | 3482 |
+| esde | 2459 | 331 | 693 | 738 | 2920 | 3483 |
 | pcsx2 | 2976 | 31 | 415 | 656 | 2874 | 3422 |
 | azahar | 2620 | 381 | 389 | 726 | 2852 | 3390 |
 | duckstation | 2839 | 357 | 159 | 721 | 2838 | 3355 |
@@ -136,13 +136,13 @@ xychart-beta
 | ppsspp | 940 | 235 | 323 | 354 | 1254 | 1498 |
 | ra | 1036 | 250 | 185 | 365 | 1232 | 1471 |
 | dolphin | 1025 | 269 | 168 | 346 | 1226 | 1462 |
-| mgba | 1089 | 80 | 80 | 249 | 1053 | 1249 |
+| mgba | 1089 | 80 | 81 | 249 | 1053 | 1250 |
 | xemu | 871 | 210 | 131 | 282 | 1019 | 1212 |
 | melonds | 854 | 208 | 114 | 276 | 984 | 1176 |
 | primehack | 790 | 212 | 133 | 296 | 943 | 1135 |
 | supermodel | 740 | 212 | 38 | 240 | 827 | 990 |
 | scummvm | 709 | 183 | 82 | 234 | 808 | 974 |
-| model2 | 730 | 223 | 12 | 238 | 800 | 965 |
+| model2 | 731 | 223 | 12 | 238 | 800 | 966 |
 | bigpemu | 722 | 31 | 30 | 165 | 657 | 783 |
 | armsx2 | 227 | 403 | 0 | 211 | 545 | 630 |
 | flycast | 189 | 30 | 31 | 47 | 199 | 250 |
