@@ -4910,7 +4910,7 @@ date,name,total
 2026-11-10,azahar-linux,2618
 2026-11-10,azahar-linux-arm,380
 2026-11-10,azahar-mac,0
-2026-11-10,azahar-windows,388
+2026-11-10,azahar-windows,389
 2026-11-10,bigpemu-linux,722
 2026-11-10,bigpemu-linux-arm,31
 2026-11-10,bigpemu-mac,0
@@ -4939,7 +4939,7 @@ date,name,total
 2026-11-10,early-cloudsync-windows,575
 2026-11-10,early-linux,661
 2026-11-10,early-linux-arm,157
-2026-11-10,early-windows,260
+2026-11-10,early-windows,261
 2026-11-10,eden-linux,99
 2026-11-10,eden-linux-arm,11
 2026-11-10,eden-mac,0
@@ -4971,7 +4971,7 @@ date,name,total
 2026-11-10,pcsx2-linux,2974
 2026-11-10,pcsx2-linux-arm,31
 2026-11-10,pcsx2-mac,0
-2026-11-10,pcsx2-windows,414
+2026-11-10,pcsx2-windows,415
 2026-11-10,pegasus-linux,33
 2026-11-10,pegasus-linux-arm,2
 2026-11-10,pegasus-mac,0
@@ -4979,7 +4979,7 @@ date,name,total
 2026-11-10,ppsspp-linux,939
 2026-11-10,ppsspp-linux-arm,234
 2026-11-10,ppsspp-mac,0
-2026-11-10,ppsspp-windows,322
+2026-11-10,ppsspp-windows,323
 2026-11-10,primehack-linux,789
 2026-11-10,primehack-linux-arm,211
 2026-11-10,primehack-mac,0
@@ -5007,11 +5007,11 @@ date,name,total
 2026-11-10,shadps4-linux,2240
 2026-11-10,shadps4-linux-arm,212
 2026-11-10,shadps4-mac,0
-2026-11-10,shadps4-windows,312
+2026-11-10,shadps4-windows,313
 2026-11-10,srm-linux,2388
 2026-11-10,srm-linux-arm,306
 2026-11-10,srm-mac,0
-2026-11-10,srm-windows,468
+2026-11-10,srm-windows,469
 2026-11-10,supermodel-linux,739
 2026-11-10,supermodel-linux-arm,211
 2026-11-10,supermodel-mac,0
@@ -5022,7 +5022,7 @@ date,name,total
 2026-11-10,system-linux-arm,306
 2026-11-10,system-mac,0
 2026-11-10,system-steamos,0
-2026-11-10,system-windows,356
+2026-11-10,system-windows,357
 2026-11-10,vita3k-linux,2341
 2026-11-10,vita3k-linux-arm,307
 2026-11-10,vita3k-mac,0
@@ -5034,7 +5034,7 @@ date,name,total
 2026-11-10,xenia-linux,2399
 2026-11-10,xenia-linux-arm,283
 2026-11-10,xenia-mac,0
-2026-11-10,xenia-windows,343
+2026-11-10,xenia-windows,344
 2026-11-10,yuzu-linux,13
 2026-11-10,yuzu-linux-arm,0
 2026-11-10,yuzu-mac,0
