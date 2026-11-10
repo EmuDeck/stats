@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-10 04:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-10 04:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 38 | 221 | 902 | 1081 |
 | linux-arm | 21 | 160 | 266 | 305 |
-| windows | 6 | 72 | 302 | 352 |
+| windows | 6 | 72 | 302 | 354 |
 
 ```mermaid
 xychart-beta
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 186 | 887 | 1071 |
+| Instalaciones early | 186 | 887 | 1072 |
 | Con CloudSync | 363 | 1408 | 1713 |
 | % con CloudSync | | | 160% |
 
@@ -121,19 +121,19 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2447 | 326 | 687 | 738 | 2920 | 3460 |
-| pcsx2 | 2965 | 31 | 411 | 656 | 2874 | 3407 |
-| azahar | 2610 | 380 | 384 | 726 | 2852 | 3374 |
+| esde | 2448 | 327 | 687 | 738 | 2920 | 3462 |
+| pcsx2 | 2965 | 31 | 413 | 656 | 2874 | 3409 |
+| azahar | 2610 | 380 | 386 | 726 | 2852 | 3376 |
 | duckstation | 2830 | 356 | 159 | 721 | 2838 | 3345 |
-| ryujinx | 2524 | 366 | 383 | 721 | 2773 | 3273 |
+| ryujinx | 2524 | 366 | 384 | 721 | 2773 | 3274 |
 | rpcs3 | 2689 | 346 | 162 | 684 | 2727 | 3197 |
-| srm | 2384 | 306 | 463 | 732 | 2718 | 3153 |
+| srm | 2384 | 306 | 467 | 732 | 2718 | 3157 |
 | cemu | 2574 | 347 | 141 | 636 | 2592 | 3062 |
-| xenia | 2391 | 283 | 340 | 612 | 2572 | 3014 |
-| shadps4 | 2233 | 212 | 308 | 498 | 2333 | 2753 |
+| xenia | 2391 | 283 | 342 | 612 | 2572 | 3016 |
+| shadps4 | 2233 | 212 | 310 | 498 | 2333 | 2755 |
 | vita3k | 2334 | 307 | 111 | 575 | 2342 | 2752 |
 | cloudsync | 1122 | 48 | 599 | 368 | 1449 | 1769 |
-| ppsspp | 936 | 234 | 319 | 354 | 1254 | 1489 |
+| ppsspp | 936 | 234 | 321 | 354 | 1254 | 1491 |
 | ra | 1032 | 249 | 185 | 365 | 1232 | 1466 |
 | dolphin | 1018 | 268 | 168 | 346 | 1226 | 1454 |
 | mgba | 1086 | 80 | 80 | 249 | 1053 | 1246 |
