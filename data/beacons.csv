@@ -5054,7 +5054,7 @@ date,name,total
 2026-11-11,bigpemu-linux,735
 2026-11-11,bigpemu-linux-arm,31
 2026-11-11,bigpemu-mac,0
-2026-11-11,bigpemu-windows,31
+2026-11-11,bigpemu-windows,32
 2026-11-11,cemu-linux,2637
 2026-11-11,cemu-linux-arm,382
 2026-11-11,cemu-mac,0
@@ -5084,7 +5084,7 @@ date,name,total
 2026-11-11,eden-linux-arm,11
 2026-11-11,eden-mac,0
 2026-11-11,eden-windows,19
-2026-11-11,esde-linux,2530
+2026-11-11,esde-linux,2532
 2026-11-11,esde-linux-arm,357
 2026-11-11,esde-mac,0
 2026-11-11,esde-windows,703
