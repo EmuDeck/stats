@@ -5084,10 +5084,10 @@ date,name,total
 2026-11-11,eden-linux-arm,11
 2026-11-11,eden-mac,0
 2026-11-11,eden-windows,19
-2026-11-11,esde-linux,2537
+2026-11-11,esde-linux,2539
 2026-11-11,esde-linux-arm,359
 2026-11-11,esde-mac,0
-2026-11-11,esde-windows,704
+2026-11-11,esde-windows,705
 2026-11-11,flycast-linux,195
 2026-11-11,flycast-linux-arm,34
 2026-11-11,flycast-mac,0
@@ -5136,7 +5136,7 @@ date,name,total
 2026-11-11,rpcs3-linux-arm,388
 2026-11-11,rpcs3-mac,0
 2026-11-11,rpcs3-windows,164
-2026-11-11,ryujinx-linux,2606
+2026-11-11,ryujinx-linux,2608
 2026-11-11,ryujinx-linux-arm,421
 2026-11-11,ryujinx-mac,0
 2026-11-11,ryujinx-windows,398
@@ -5148,7 +5148,7 @@ date,name,total
 2026-11-11,shadps4-linux-arm,217
 2026-11-11,shadps4-mac,0
 2026-11-11,shadps4-windows,319
-2026-11-11,srm-linux,2462
+2026-11-11,srm-linux,2463
 2026-11-11,srm-linux-arm,344
 2026-11-11,srm-mac,0
 2026-11-11,srm-windows,481
@@ -5158,7 +5158,7 @@ date,name,total
 2026-11-11,supermodel-windows,38
 2026-11-11,system-bazzite,0
 2026-11-11,system-chimeraos,0
-2026-11-11,system-linux,1121
+2026-11-11,system-linux,1122
 2026-11-11,system-linux-arm,349
 2026-11-11,system-mac,0
 2026-11-11,system-steamos,0
