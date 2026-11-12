@@ -5190,11 +5190,11 @@ date,name,total
 2026-11-12,azahar-linux,2785
 2026-11-12,azahar-linux-arm,463
 2026-11-12,azahar-mac,0
-2026-11-12,azahar-windows,412
+2026-11-12,azahar-windows,413
 2026-11-12,bigpemu-linux,768
 2026-11-12,bigpemu-linux-arm,33
 2026-11-12,bigpemu-mac,0
-2026-11-12,bigpemu-windows,33
+2026-11-12,bigpemu-windows,34
 2026-11-12,cemu-linux,2745
 2026-11-12,cemu-linux-arm,423
 2026-11-12,cemu-mac,0
@@ -5227,7 +5227,7 @@ date,name,total
 2026-11-12,esde-linux,2632
 2026-11-12,esde-linux-arm,394
 2026-11-12,esde-mac,0
-2026-11-12,esde-windows,729
+2026-11-12,esde-windows,730
 2026-11-12,flycast-linux,202
 2026-11-12,flycast-linux-arm,36
 2026-11-12,flycast-mac,0
@@ -5248,7 +5248,7 @@ date,name,total
 2026-11-12,model2-linux-arm,273
 2026-11-12,model2-mac,0
 2026-11-12,model2-windows,13
-2026-11-12,pcsx2-linux,3177
+2026-11-12,pcsx2-linux,3178
 2026-11-12,pcsx2-linux-arm,34
 2026-11-12,pcsx2-mac,0
 2026-11-12,pcsx2-windows,433
@@ -5272,7 +5272,7 @@ date,name,total
 2026-11-12,rmg-linux-arm,55
 2026-11-12,rmg-mac,0
 2026-11-12,rmg-windows,0
-2026-11-12,rpcs3-linux,2881
+2026-11-12,rpcs3-linux,2882
 2026-11-12,rpcs3-linux-arm,430
 2026-11-12,rpcs3-mac,0
 2026-11-12,rpcs3-windows,165
@@ -5288,7 +5288,7 @@ date,name,total
 2026-11-12,shadps4-linux-arm,224
 2026-11-12,shadps4-mac,0
 2026-11-12,shadps4-windows,324
-2026-11-12,srm-linux,2565
+2026-11-12,srm-linux,2568
 2026-11-12,srm-linux-arm,375
 2026-11-12,srm-mac,0
 2026-11-12,srm-windows,494
@@ -5298,7 +5298,7 @@ date,name,total
 2026-11-12,supermodel-windows,38
 2026-11-12,system-bazzite,0
 2026-11-12,system-chimeraos,0
-2026-11-12,system-linux,1175
+2026-11-12,system-linux,1177
 2026-11-12,system-linux-arm,388
 2026-11-12,system-mac,0
 2026-11-12,system-steamos,0

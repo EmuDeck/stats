@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-12 18:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-12 18:34 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 38 | 236 | 871 | 1175 |
+| linux | 38 | 236 | 871 | 1177 |
 | linux-arm | 34 | 211 | 322 | 388 |
 | windows | 5 | 70 | 307 | 374 |
 
@@ -121,13 +121,13 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2632 | 394 | 729 | 792 | 2971 | 3755 |
-| azahar | 2785 | 463 | 412 | 770 | 2863 | 3660 |
-| pcsx2 | 3177 | 34 | 433 | 656 | 2829 | 3644 |
+| esde | 2632 | 394 | 730 | 792 | 2971 | 3756 |
+| azahar | 2785 | 463 | 413 | 770 | 2863 | 3661 |
+| pcsx2 | 3178 | 34 | 433 | 656 | 2829 | 3645 |
 | duckstation | 3026 | 434 | 162 | 761 | 2833 | 3622 |
 | ryujinx | 2718 | 458 | 410 | 789 | 2820 | 3586 |
-| rpcs3 | 2881 | 430 | 165 | 731 | 2741 | 3476 |
-| srm | 2565 | 375 | 494 | 786 | 2764 | 3434 |
+| rpcs3 | 2882 | 430 | 165 | 731 | 2741 | 3477 |
+| srm | 2568 | 375 | 494 | 786 | 2764 | 3437 |
 | cemu | 2745 | 423 | 145 | 679 | 2585 | 3313 |
 | xenia | 2555 | 350 | 361 | 661 | 2562 | 3266 |
 | vita3k | 2491 | 379 | 115 | 615 | 2336 | 2985 |
@@ -143,7 +143,7 @@ xychart-beta
 | supermodel | 796 | 257 | 38 | 273 | 831 | 1091 |
 | scummvm | 761 | 231 | 84 | 269 | 817 | 1076 |
 | model2 | 783 | 273 | 13 | 278 | 812 | 1069 |
-| bigpemu | 768 | 33 | 33 | 166 | 660 | 834 |
+| bigpemu | 768 | 33 | 34 | 166 | 660 | 835 |
 | armsx2 | 241 | 489 | 0 | 255 | 594 | 730 |
 | flycast | 202 | 36 | 34 | 64 | 203 | 272 |
 | rmg | 202 | 55 | 0 | 68 | 192 | 257 |
