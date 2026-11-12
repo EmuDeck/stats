@@ -5203,7 +5203,7 @@ date,name,total
 2026-11-12,citron-linux-arm,0
 2026-11-12,citron-mac,0
 2026-11-12,citron-windows,2
-2026-11-12,cloudsync-linux,1221
+2026-11-12,cloudsync-linux,1222
 2026-11-12,cloudsync-linux-arm,50
 2026-11-12,cloudsync-windows,626
 2026-11-12,dolphin-linux,1106
@@ -5214,7 +5214,7 @@ date,name,total
 2026-11-12,duckstation-linux-arm,434
 2026-11-12,duckstation-mac,0
 2026-11-12,duckstation-windows,162
-2026-11-12,early-cloudsync-linux,1190
+2026-11-12,early-cloudsync-linux,1191
 2026-11-12,early-cloudsync-linux-arm,45
 2026-11-12,early-cloudsync-windows,600
 2026-11-12,early-linux,686
@@ -5224,7 +5224,7 @@ date,name,total
 2026-11-12,eden-linux-arm,11
 2026-11-12,eden-mac,0
 2026-11-12,eden-windows,20
-2026-11-12,esde-linux,2631
+2026-11-12,esde-linux,2632
 2026-11-12,esde-linux-arm,394
 2026-11-12,esde-mac,0
 2026-11-12,esde-windows,729
@@ -5240,7 +5240,7 @@ date,name,total
 2026-11-12,melonds-linux-arm,263
 2026-11-12,melonds-mac,0
 2026-11-12,melonds-windows,117
-2026-11-12,mgba-linux,1164
+2026-11-12,mgba-linux,1165
 2026-11-12,mgba-linux-arm,100
 2026-11-12,mgba-mac,0
 2026-11-12,mgba-windows,85
@@ -5248,7 +5248,7 @@ date,name,total
 2026-11-12,model2-linux-arm,273
 2026-11-12,model2-mac,0
 2026-11-12,model2-windows,13
-2026-11-12,pcsx2-linux,3176
+2026-11-12,pcsx2-linux,3177
 2026-11-12,pcsx2-linux-arm,34
 2026-11-12,pcsx2-mac,0
 2026-11-12,pcsx2-windows,433
@@ -5272,11 +5272,11 @@ date,name,total
 2026-11-12,rmg-linux-arm,55
 2026-11-12,rmg-mac,0
 2026-11-12,rmg-windows,0
-2026-11-12,rpcs3-linux,2880
+2026-11-12,rpcs3-linux,2881
 2026-11-12,rpcs3-linux-arm,430
 2026-11-12,rpcs3-mac,0
 2026-11-12,rpcs3-windows,165
-2026-11-12,ryujinx-linux,2715
+2026-11-12,ryujinx-linux,2716
 2026-11-12,ryujinx-linux-arm,458
 2026-11-12,ryujinx-mac,0
 2026-11-12,ryujinx-windows,410
@@ -5284,7 +5284,7 @@ date,name,total
 2026-11-12,scummvm-linux-arm,231
 2026-11-12,scummvm-mac,0
 2026-11-12,scummvm-windows,84
-2026-11-12,shadps4-linux,2390
+2026-11-12,shadps4-linux,2391
 2026-11-12,shadps4-linux-arm,224
 2026-11-12,shadps4-mac,0
 2026-11-12,shadps4-windows,324
@@ -5303,7 +5303,7 @@ date,name,total
 2026-11-12,system-mac,0
 2026-11-12,system-steamos,0
 2026-11-12,system-windows,374
-2026-11-12,vita3k-linux,2490
+2026-11-12,vita3k-linux,2491
 2026-11-12,vita3k-linux-arm,379
 2026-11-12,vita3k-mac,0
 2026-11-12,vita3k-windows,115
