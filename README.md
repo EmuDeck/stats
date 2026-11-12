@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-12 10:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-12 10:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 184 | 844 | 1125 |
-| Con CloudSync | 346 | 1389 | 1827 |
+| Con CloudSync | 346 | 1389 | 1828 |
 | % con CloudSync | | | 162% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2609 | 383 | 720 | 792 | 2971 | 3712 |
-| azahar | 2769 | 455 | 404 | 770 | 2863 | 3628 |
-| pcsx2 | 3152 | 34 | 430 | 656 | 2829 | 3616 |
-| duckstation | 3003 | 425 | 162 | 761 | 2833 | 3590 |
-| ryujinx | 2695 | 449 | 408 | 789 | 2820 | 3552 |
-| rpcs3 | 2858 | 421 | 165 | 731 | 2741 | 3444 |
-| srm | 2546 | 369 | 492 | 786 | 2764 | 3407 |
-| cemu | 2725 | 414 | 145 | 679 | 2585 | 3284 |
+| esde | 2610 | 384 | 720 | 792 | 2971 | 3714 |
+| azahar | 2770 | 455 | 404 | 770 | 2863 | 3629 |
+| pcsx2 | 3153 | 34 | 430 | 656 | 2829 | 3617 |
+| duckstation | 3005 | 425 | 162 | 761 | 2833 | 3592 |
+| ryujinx | 2696 | 449 | 408 | 789 | 2820 | 3553 |
+| rpcs3 | 2859 | 421 | 165 | 731 | 2741 | 3445 |
+| srm | 2547 | 370 | 492 | 786 | 2764 | 3409 |
+| cemu | 2726 | 414 | 145 | 679 | 2585 | 3285 |
 | xenia | 2539 | 343 | 359 | 661 | 2562 | 3241 |
 | vita3k | 2475 | 371 | 115 | 615 | 2336 | 2961 |
 | shadps4 | 2373 | 224 | 322 | 500 | 2302 | 2919 |
-| cloudsync | 1215 | 50 | 624 | 353 | 1431 | 1889 |
+| cloudsync | 1216 | 50 | 624 | 353 | 1431 | 1890 |
 | ppsspp | 1009 | 288 | 339 | 405 | 1265 | 1636 |
 | ra | 1105 | 310 | 189 | 397 | 1238 | 1604 |
 | dolphin | 1098 | 329 | 172 | 398 | 1239 | 1599 |
