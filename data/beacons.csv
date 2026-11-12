@@ -5190,7 +5190,7 @@ date,name,total
 2026-11-12,azahar-linux,2770
 2026-11-12,azahar-linux-arm,455
 2026-11-12,azahar-mac,0
-2026-11-12,azahar-windows,404
+2026-11-12,azahar-windows,405
 2026-11-12,bigpemu-linux,761
 2026-11-12,bigpemu-linux-arm,33
 2026-11-12,bigpemu-mac,0
@@ -5203,7 +5203,7 @@ date,name,total
 2026-11-12,citron-linux-arm,0
 2026-11-12,citron-mac,0
 2026-11-12,citron-windows,2
-2026-11-12,cloudsync-linux,1216
+2026-11-12,cloudsync-linux,1218
 2026-11-12,cloudsync-linux-arm,50
 2026-11-12,cloudsync-windows,624
 2026-11-12,dolphin-linux,1098
@@ -5214,7 +5214,7 @@ date,name,total
 2026-11-12,duckstation-linux-arm,425
 2026-11-12,duckstation-mac,0
 2026-11-12,duckstation-windows,162
-2026-11-12,early-cloudsync-linux,1185
+2026-11-12,early-cloudsync-linux,1187
 2026-11-12,early-cloudsync-linux-arm,45
 2026-11-12,early-cloudsync-windows,598
 2026-11-12,early-linux,683
@@ -5227,7 +5227,7 @@ date,name,total
 2026-11-12,esde-linux,2610
 2026-11-12,esde-linux-arm,384
 2026-11-12,esde-mac,0
-2026-11-12,esde-windows,720
+2026-11-12,esde-windows,721
 2026-11-12,flycast-linux,200
 2026-11-12,flycast-linux-arm,36
 2026-11-12,flycast-mac,0
@@ -5259,7 +5259,7 @@ date,name,total
 2026-11-12,ppsspp-linux,1009
 2026-11-12,ppsspp-linux-arm,288
 2026-11-12,ppsspp-mac,0
-2026-11-12,ppsspp-windows,339
+2026-11-12,ppsspp-windows,340
 2026-11-12,primehack-linux,841
 2026-11-12,primehack-linux-arm,265
 2026-11-12,primehack-mac,0
