@@ -5288,7 +5288,7 @@ date,name,total
 2026-11-12,shadps4-linux-arm,225
 2026-11-12,shadps4-mac,0
 2026-11-12,shadps4-windows,325
-2026-11-12,srm-linux,2594
+2026-11-12,srm-linux,2596
 2026-11-12,srm-linux-arm,380
 2026-11-12,srm-mac,0
 2026-11-12,srm-windows,495
@@ -5298,7 +5298,7 @@ date,name,total
 2026-11-12,supermodel-windows,39
 2026-11-12,system-bazzite,0
 2026-11-12,system-chimeraos,0
-2026-11-12,system-linux,1189
+2026-11-12,system-linux,1190
 2026-11-12,system-linux-arm,392
 2026-11-12,system-mac,0
 2026-11-12,system-steamos,0
@@ -5307,7 +5307,7 @@ date,name,total
 2026-11-12,vita3k-linux-arm,384
 2026-11-12,vita3k-mac,0
 2026-11-12,vita3k-windows,115
-2026-11-12,xemu-linux,945
+2026-11-12,xemu-linux,947
 2026-11-12,xemu-linux-arm,264
 2026-11-12,xemu-mac,0
 2026-11-12,xemu-windows,135

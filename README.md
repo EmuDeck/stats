@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-12 23:07 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-12 23:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 38 | 236 | 871 | 1189 |
+| linux | 38 | 236 | 871 | 1190 |
 | linux-arm | 34 | 211 | 322 | 392 |
 | windows | 5 | 70 | 307 | 374 |
 
@@ -127,7 +127,7 @@ xychart-beta
 | duckstation | 3050 | 440 | 163 | 761 | 2833 | 3653 |
 | ryujinx | 2744 | 466 | 413 | 789 | 2820 | 3623 |
 | rpcs3 | 2903 | 436 | 167 | 731 | 2741 | 3506 |
-| srm | 2594 | 380 | 495 | 786 | 2764 | 3469 |
+| srm | 2596 | 380 | 495 | 786 | 2764 | 3471 |
 | cemu | 2768 | 428 | 145 | 679 | 2585 | 3341 |
 | xenia | 2576 | 356 | 362 | 661 | 2562 | 3294 |
 | vita3k | 2512 | 384 | 115 | 615 | 2336 | 3011 |
@@ -137,7 +137,7 @@ xychart-beta
 | ra | 1125 | 318 | 189 | 397 | 1238 | 1632 |
 | dolphin | 1119 | 337 | 173 | 398 | 1239 | 1629 |
 | mgba | 1177 | 100 | 85 | 273 | 1054 | 1362 |
-| xemu | 945 | 264 | 135 | 321 | 1016 | 1344 |
+| xemu | 947 | 264 | 135 | 321 | 1016 | 1346 |
 | melonds | 928 | 265 | 119 | 320 | 991 | 1312 |
 | primehack | 856 | 273 | 136 | 327 | 964 | 1265 |
 | supermodel | 803 | 260 | 39 | 273 | 831 | 1102 |
