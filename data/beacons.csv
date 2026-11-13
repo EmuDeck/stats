@@ -5367,7 +5367,7 @@ date,name,total
 2026-11-13,esde-linux,2678
 2026-11-13,esde-linux-arm,410
 2026-11-13,esde-mac,0
-2026-11-13,esde-windows,745
+2026-11-13,esde-windows,746
 2026-11-13,flycast-linux,205
 2026-11-13,flycast-linux-arm,36
 2026-11-13,flycast-mac,0
@@ -5407,7 +5407,7 @@ date,name,total
 2026-11-13,ra-linux,1136
 2026-11-13,ra-linux-arm,324
 2026-11-13,ra-mac,0
-2026-11-13,ra-windows,190
+2026-11-13,ra-windows,191
 2026-11-13,rmg-linux,204
 2026-11-13,rmg-linux-arm,55
 2026-11-13,rmg-mac,0
@@ -5429,7 +5429,7 @@ date,name,total
 2026-11-13,shadps4-mac,0
 2026-11-13,shadps4-windows,326
 2026-11-13,srm-linux,2622
-2026-11-13,srm-linux-arm,385
+2026-11-13,srm-linux-arm,388
 2026-11-13,srm-mac,0
 2026-11-13,srm-windows,498
 2026-11-13,supermodel-linux,810
