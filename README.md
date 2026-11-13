@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-13 03:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-13 04:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,8 +53,8 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 46 | 263 | 890 | 1197 |
-| linux-arm | 31 | 196 | 346 | 396 |
+| linux | 46 | 263 | 890 | 1199 |
+| linux-arm | 31 | 196 | 346 | 398 |
 | windows | 10 | 69 | 308 | 375 |
 
 ```mermaid
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 177 | 830 | 1139 |
-| Con CloudSync | 354 | 1389 | 1847 |
+| Con CloudSync | 354 | 1389 | 1848 |
 | % con CloudSync | | | 162% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,35 +121,35 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2674 | 408 | 745 | 801 | 3014 | 3827 |
-| azahar | 2830 | 478 | 415 | 790 | 2903 | 3723 |
-| pcsx2 | 3227 | 35 | 437 | 682 | 2846 | 3699 |
-| duckstation | 3075 | 446 | 163 | 774 | 2866 | 3684 |
-| ryujinx | 2764 | 472 | 413 | 812 | 2872 | 3649 |
-| rpcs3 | 2926 | 442 | 167 | 754 | 2780 | 3535 |
-| srm | 2618 | 383 | 498 | 802 | 2802 | 3499 |
-| cemu | 2791 | 434 | 145 | 697 | 2613 | 3370 |
-| xenia | 2600 | 361 | 363 | 680 | 2591 | 3324 |
-| vita3k | 2532 | 390 | 115 | 633 | 2370 | 3037 |
-| shadps4 | 2427 | 225 | 326 | 520 | 2316 | 2978 |
-| cloudsync | 1230 | 50 | 629 | 363 | 1431 | 1909 |
-| ppsspp | 1035 | 301 | 344 | 417 | 1296 | 1680 |
-| ra | 1134 | 322 | 190 | 400 | 1268 | 1646 |
-| dolphin | 1128 | 343 | 173 | 401 | 1264 | 1644 |
-| mgba | 1184 | 100 | 85 | 286 | 1063 | 1369 |
-| xemu | 956 | 268 | 135 | 333 | 1046 | 1359 |
-| melonds | 935 | 269 | 119 | 324 | 1011 | 1323 |
-| primehack | 863 | 277 | 137 | 331 | 995 | 1277 |
-| supermodel | 809 | 264 | 40 | 275 | 850 | 1113 |
-| scummvm | 773 | 237 | 84 | 270 | 836 | 1094 |
-| model2 | 795 | 280 | 13 | 273 | 824 | 1088 |
-| bigpemu | 781 | 33 | 34 | 166 | 658 | 848 |
-| armsx2 | 250 | 501 | 0 | 249 | 624 | 751 |
-| flycast | 204 | 36 | 34 | 60 | 195 | 274 |
+| esde | 2678 | 410 | 745 | 801 | 3014 | 3833 |
+| azahar | 2834 | 482 | 415 | 790 | 2903 | 3731 |
+| pcsx2 | 3231 | 35 | 437 | 682 | 2846 | 3703 |
+| duckstation | 3079 | 449 | 163 | 774 | 2866 | 3691 |
+| ryujinx | 2767 | 475 | 413 | 812 | 2872 | 3655 |
+| rpcs3 | 2929 | 445 | 167 | 754 | 2780 | 3541 |
+| srm | 2622 | 385 | 498 | 802 | 2802 | 3505 |
+| cemu | 2796 | 437 | 145 | 697 | 2613 | 3378 |
+| xenia | 2605 | 363 | 363 | 680 | 2591 | 3331 |
+| vita3k | 2536 | 393 | 115 | 633 | 2370 | 3044 |
+| shadps4 | 2431 | 226 | 326 | 520 | 2316 | 2983 |
+| cloudsync | 1231 | 50 | 629 | 363 | 1431 | 1910 |
+| ppsspp | 1037 | 303 | 344 | 417 | 1296 | 1684 |
+| ra | 1136 | 324 | 190 | 400 | 1268 | 1650 |
+| dolphin | 1130 | 345 | 173 | 401 | 1264 | 1648 |
+| mgba | 1186 | 101 | 85 | 286 | 1063 | 1372 |
+| xemu | 958 | 270 | 135 | 333 | 1046 | 1363 |
+| melonds | 937 | 271 | 119 | 324 | 1011 | 1327 |
+| primehack | 864 | 279 | 137 | 331 | 995 | 1280 |
+| supermodel | 810 | 266 | 40 | 275 | 850 | 1116 |
+| scummvm | 775 | 239 | 84 | 270 | 836 | 1098 |
+| model2 | 796 | 282 | 13 | 273 | 824 | 1091 |
+| bigpemu | 782 | 33 | 34 | 166 | 658 | 849 |
+| armsx2 | 250 | 504 | 0 | 249 | 624 | 754 |
+| flycast | 205 | 36 | 35 | 60 | 195 | 276 |
 | rmg | 204 | 55 | 0 | 69 | 189 | 259 |
-| mame | 117 | 13 | 43 | 48 | 121 | 173 |
+| mame | 118 | 13 | 43 | 48 | 121 | 174 |
 | eden | 122 | 11 | 20 | 46 | 124 | 153 |
-| pegasus | 37 | 3 | 27 | 16 | 57 | 67 |
+| pegasus | 38 | 3 | 27 | 16 | 57 | 68 |
 | yuzu | 15 | 0 | 8 | 6 | 19 | 23 |
 | ares | 17 | 2 | 0 | 6 | 14 | 19 |
 | citron | 6 | 0 | 2 | 2 | 7 | 8 |
