@@ -5483,9 +5483,9 @@ date,name,total
 2026-11-14,citron-linux-arm,0
 2026-11-14,citron-mac,0
 2026-11-14,citron-windows,2
-2026-11-14,cloudsync-linux,1275
+2026-11-14,cloudsync-linux,1276
 2026-11-14,cloudsync-linux-arm,52
-2026-11-14,cloudsync-windows,654
+2026-11-14,cloudsync-windows,656
 2026-11-14,dolphin-linux,1182
 2026-11-14,dolphin-linux-arm,409
 2026-11-14,dolphin-mac,0
@@ -5494,9 +5494,9 @@ date,name,total
 2026-11-14,duckstation-linux-arm,516
 2026-11-14,duckstation-mac,0
 2026-11-14,duckstation-windows,169
-2026-11-14,early-cloudsync-linux,1242
+2026-11-14,early-cloudsync-linux,1243
 2026-11-14,early-cloudsync-linux-arm,47
-2026-11-14,early-cloudsync-windows,627
+2026-11-14,early-cloudsync-windows,629
 2026-11-14,early-linux,708
 2026-11-14,early-linux-arm,181
 2026-11-14,early-windows,285
@@ -5505,7 +5505,7 @@ date,name,total
 2026-11-14,eden-mac,0
 2026-11-14,eden-windows,20
 2026-11-14,esde-linux,2813
-2026-11-14,esde-linux-arm,479
+2026-11-14,esde-linux-arm,480
 2026-11-14,esde-mac,0
 2026-11-14,esde-windows,803
 2026-11-14,flycast-linux,212
@@ -5559,7 +5559,7 @@ date,name,total
 2026-11-14,ryujinx-linux,2910
 2026-11-14,ryujinx-linux-arm,553
 2026-11-14,ryujinx-mac,0
-2026-11-14,ryujinx-windows,425
+2026-11-14,ryujinx-windows,426
 2026-11-14,scummvm-linux,815
 2026-11-14,scummvm-linux-arm,271
 2026-11-14,scummvm-mac,0
