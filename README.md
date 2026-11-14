@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-14 01:37 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-14 02:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 39 | 275 | 892 | 1231 |
+| linux | 39 | 275 | 892 | 1232 |
 | linux-arm | 34 | 208 | 378 | 431 |
 | windows | 11 | 69 | 317 | 385 |
 
@@ -125,26 +125,26 @@ xychart-beta
 | azahar | 2909 | 525 | 423 | 854 | 2945 | 3857 |
 | duckstation | 3159 | 480 | 165 | 826 | 2898 | 3804 |
 | pcsx2 | 3317 | 35 | 447 | 721 | 2847 | 3799 |
-| ryujinx | 2840 | 514 | 421 | 868 | 2913 | 3775 |
+| ryujinx | 2841 | 514 | 421 | 868 | 2913 | 3776 |
 | rpcs3 | 3008 | 492 | 173 | 817 | 2820 | 3673 |
-| srm | 2701 | 422 | 508 | 848 | 2872 | 3631 |
+| srm | 2703 | 422 | 509 | 848 | 2872 | 3634 |
 | cemu | 2866 | 473 | 149 | 755 | 2643 | 3488 |
-| xenia | 2661 | 397 | 371 | 732 | 2618 | 3429 |
+| xenia | 2662 | 397 | 371 | 732 | 2618 | 3430 |
 | vita3k | 2602 | 429 | 117 | 690 | 2397 | 3148 |
-| shadps4 | 2495 | 227 | 336 | 560 | 2306 | 3058 |
+| shadps4 | 2496 | 227 | 336 | 560 | 2306 | 3059 |
 | cloudsync | 1258 | 50 | 647 | 362 | 1418 | 1955 |
 | ppsspp | 1062 | 330 | 353 | 450 | 1331 | 1745 |
 | ra | 1163 | 347 | 195 | 421 | 1292 | 1705 |
-| dolphin | 1155 | 373 | 175 | 431 | 1286 | 1703 |
+| dolphin | 1156 | 373 | 175 | 431 | 1286 | 1704 |
 | mgba | 1209 | 116 | 88 | 298 | 1078 | 1413 |
 | xemu | 983 | 288 | 136 | 357 | 1065 | 1407 |
-| melonds | 957 | 290 | 120 | 346 | 1020 | 1367 |
+| melonds | 958 | 290 | 120 | 346 | 1020 | 1368 |
 | primehack | 888 | 304 | 139 | 352 | 1018 | 1331 |
 | supermodel | 832 | 282 | 41 | 293 | 855 | 1155 |
 | scummvm | 795 | 254 | 86 | 290 | 849 | 1135 |
 | model2 | 816 | 297 | 13 | 288 | 830 | 1126 |
 | bigpemu | 801 | 35 | 35 | 169 | 655 | 871 |
-| armsx2 | 258 | 549 | 0 | 286 | 667 | 807 |
+| armsx2 | 259 | 549 | 0 | 286 | 667 | 808 |
 | flycast | 207 | 37 | 37 | 62 | 197 | 281 |
 | rmg | 206 | 58 | 0 | 70 | 188 | 264 |
 | mame | 118 | 13 | 45 | 45 | 122 | 176 |
