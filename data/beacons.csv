@@ -5472,7 +5472,7 @@ date,name,total
 2026-11-14,azahar-mac,0
 2026-11-14,azahar-windows,426
 2026-11-14,bigpemu-linux,808
-2026-11-14,bigpemu-linux-arm,35
+2026-11-14,bigpemu-linux-arm,36
 2026-11-14,bigpemu-mac,0
 2026-11-14,bigpemu-windows,35
 2026-11-14,cemu-linux,2894
@@ -5504,12 +5504,12 @@ date,name,total
 2026-11-14,eden-linux-arm,11
 2026-11-14,eden-mac,0
 2026-11-14,eden-windows,20
-2026-11-14,esde-linux,2776
+2026-11-14,esde-linux,2779
 2026-11-14,esde-linux-arm,471
 2026-11-14,esde-mac,0
 2026-11-14,esde-windows,790
 2026-11-14,flycast-linux,210
-2026-11-14,flycast-linux-arm,37
+2026-11-14,flycast-linux-arm,38
 2026-11-14,flycast-mac,0
 2026-11-14,flycast-windows,37
 2026-11-14,mame-linux,119
@@ -5517,7 +5517,7 @@ date,name,total
 2026-11-14,mame-mac,0
 2026-11-14,mame-windows,46
 2026-11-14,melonds-linux,966
-2026-11-14,melonds-linux-arm,304
+2026-11-14,melonds-linux-arm,305
 2026-11-14,melonds-mac,0
 2026-11-14,melonds-windows,122
 2026-11-14,mgba-linux,1219
@@ -5525,7 +5525,7 @@ date,name,total
 2026-11-14,mgba-mac,0
 2026-11-14,mgba-windows,90
 2026-11-14,model2-linux,824
-2026-11-14,model2-linux-arm,308
+2026-11-14,model2-linux-arm,309
 2026-11-14,model2-mac,0
 2026-11-14,model2-windows,13
 2026-11-14,pcsx2-linux,3349
@@ -5537,7 +5537,7 @@ date,name,total
 2026-11-14,pegasus-mac,0
 2026-11-14,pegasus-windows,27
 2026-11-14,ppsspp-linux,1074
-2026-11-14,ppsspp-linux-arm,357
+2026-11-14,ppsspp-linux-arm,358
 2026-11-14,ppsspp-mac,0
 2026-11-14,ppsspp-windows,356
 2026-11-14,primehack-linux,898
@@ -5547,7 +5547,7 @@ date,name,total
 2026-11-14,ra-linux,1178
 2026-11-14,ra-linux-arm,371
 2026-11-14,ra-mac,0
-2026-11-14,ra-windows,197
+2026-11-14,ra-windows,198
 2026-11-14,rmg-linux,208
 2026-11-14,rmg-linux-arm,60
 2026-11-14,rmg-mac,0
@@ -5568,12 +5568,12 @@ date,name,total
 2026-11-14,shadps4-linux-arm,228
 2026-11-14,shadps4-mac,0
 2026-11-14,shadps4-windows,338
-2026-11-14,srm-linux,2736
+2026-11-14,srm-linux,2743
 2026-11-14,srm-linux-arm,455
 2026-11-14,srm-mac,0
 2026-11-14,srm-windows,517
 2026-11-14,supermodel-linux,840
-2026-11-14,supermodel-linux-arm,294
+2026-11-14,supermodel-linux-arm,295
 2026-11-14,supermodel-mac,0
 2026-11-14,supermodel-windows,41
 2026-11-14,system-bazzite,0
@@ -5591,8 +5591,8 @@ date,name,total
 2026-11-14,xemu-linux-arm,302
 2026-11-14,xemu-mac,0
 2026-11-14,xemu-windows,137
-2026-11-14,xenia-linux,2695
-2026-11-14,xenia-linux-arm,415
+2026-11-14,xenia-linux,2696
+2026-11-14,xenia-linux-arm,416
 2026-11-14,xenia-mac,0
 2026-11-14,xenia-windows,372
 2026-11-14,yuzu-linux,16
