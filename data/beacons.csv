@@ -5610,7 +5610,7 @@ date,name,total
 2026-11-15,azahar-linux,3067
 2026-11-15,azahar-linux-arm,598
 2026-11-15,azahar-mac,0
-2026-11-15,azahar-windows,439
+2026-11-15,azahar-windows,440
 2026-11-15,bigpemu-linux,840
 2026-11-15,bigpemu-linux-arm,39
 2026-11-15,bigpemu-mac,0
@@ -5639,7 +5639,7 @@ date,name,total
 2026-11-15,early-cloudsync-windows,643
 2026-11-15,early-linux,723
 2026-11-15,early-linux-arm,182
-2026-11-15,early-windows,292
+2026-11-15,early-windows,293
 2026-11-15,eden-linux,133
 2026-11-15,eden-linux-arm,11
 2026-11-15,eden-mac,0
@@ -5671,7 +5671,7 @@ date,name,total
 2026-11-15,pcsx2-linux,3494
 2026-11-15,pcsx2-linux-arm,38
 2026-11-15,pcsx2-mac,0
-2026-11-15,pcsx2-windows,470
+2026-11-15,pcsx2-windows,471
 2026-11-15,pegasus-linux,39
 2026-11-15,pegasus-linux-arm,3
 2026-11-15,pegasus-mac,0
@@ -5679,7 +5679,7 @@ date,name,total
 2026-11-15,ppsspp-linux,1123
 2026-11-15,ppsspp-linux-arm,386
 2026-11-15,ppsspp-mac,0
-2026-11-15,ppsspp-windows,365
+2026-11-15,ppsspp-windows,366
 2026-11-15,primehack-linux,949
 2026-11-15,primehack-linux-arm,349
 2026-11-15,primehack-mac,0
@@ -5699,7 +5699,7 @@ date,name,total
 2026-11-15,ryujinx-linux,3011
 2026-11-15,ryujinx-linux-arm,590
 2026-11-15,ryujinx-mac,0
-2026-11-15,ryujinx-windows,440
+2026-11-15,ryujinx-windows,441
 2026-11-15,scummvm-linux,846
 2026-11-15,scummvm-linux-arm,290
 2026-11-15,scummvm-mac,0
@@ -5707,11 +5707,11 @@ date,name,total
 2026-11-15,shadps4-linux,2643
 2026-11-15,shadps4-linux-arm,232
 2026-11-15,shadps4-mac,0
-2026-11-15,shadps4-windows,342
+2026-11-15,shadps4-windows,343
 2026-11-15,srm-linux,2866
-2026-11-15,srm-linux-arm,484
+2026-11-15,srm-linux-arm,485
 2026-11-15,srm-mac,0
-2026-11-15,srm-windows,543
+2026-11-15,srm-windows,544
 2026-11-15,supermodel-linux,885
 2026-11-15,supermodel-linux-arm,318
 2026-11-15,supermodel-mac,0
@@ -5722,7 +5722,7 @@ date,name,total
 2026-11-15,system-linux-arm,499
 2026-11-15,system-mac,0
 2026-11-15,system-steamos,0
-2026-11-15,system-windows,398
+2026-11-15,system-windows,399
 2026-11-15,vita3k-linux,2741
 2026-11-15,vita3k-linux-arm,480
 2026-11-15,vita3k-mac,0
@@ -5734,7 +5734,7 @@ date,name,total
 2026-11-15,xenia-linux,2823
 2026-11-15,xenia-linux-arm,444
 2026-11-15,xenia-mac,0
-2026-11-15,xenia-windows,381
+2026-11-15,xenia-windows,382
 2026-11-15,yuzu-linux,16
 2026-11-15,yuzu-linux-arm,0
 2026-11-15,yuzu-mac,0
