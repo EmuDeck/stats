@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-16 14:22 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-16 14:46 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 170 | 822 | 1213 |
-| Con CloudSync | 327 | 1410 | 2020 |
+| Con CloudSync | 327 | 1410 | 2021 |
 | % con CloudSync | | | 167% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,9 +121,9 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2963 | 522 | 830 | 915 | 3223 | 4315 |
+| esde | 2963 | 522 | 831 | 915 | 3223 | 4316 |
 | azahar | 3134 | 616 | 449 | 876 | 3066 | 4199 |
-| ryujinx | 3081 | 605 | 453 | 913 | 3043 | 4139 |
+| ryujinx | 3081 | 605 | 454 | 913 | 3043 | 4140 |
 | duckstation | 3391 | 561 | 177 | 832 | 3008 | 4129 |
 | pcsx2 | 3563 | 39 | 478 | 724 | 2918 | 4080 |
 | rpcs3 | 3238 | 574 | 180 | 848 | 2948 | 3992 |
@@ -132,7 +132,7 @@ xychart-beta
 | xenia | 2879 | 454 | 388 | 759 | 2725 | 3721 |
 | vita3k | 2804 | 493 | 122 | 695 | 2480 | 3419 |
 | shadps4 | 2696 | 233 | 348 | 563 | 2348 | 3277 |
-| cloudsync | 1342 | 58 | 695 | 339 | 1457 | 2095 |
+| cloudsync | 1342 | 58 | 696 | 339 | 1457 | 2096 |
 | ppsspp | 1141 | 394 | 373 | 458 | 1410 | 1908 |
 | dolphin | 1247 | 440 | 189 | 450 | 1370 | 1876 |
 | ra | 1258 | 407 | 207 | 440 | 1374 | 1872 |
@@ -146,7 +146,7 @@ xychart-beta
 | bigpemu | 853 | 39 | 39 | 163 | 676 | 931 |
 | armsx2 | 280 | 637 | 0 | 304 | 744 | 917 |
 | flycast | 224 | 42 | 38 | 55 | 202 | 304 |
-| rmg | 219 | 65 | 0 | 61 | 186 | 284 |
+| rmg | 220 | 65 | 0 | 61 | 186 | 285 |
 | mame | 126 | 16 | 49 | 40 | 128 | 191 |
 | eden | 134 | 11 | 20 | 42 | 122 | 165 |
 | pegasus | 41 | 3 | 28 | 16 | 56 | 72 |
