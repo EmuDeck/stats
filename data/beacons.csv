@@ -5763,7 +5763,7 @@ date,name,total
 2026-11-16,citron-linux-arm,2
 2026-11-16,citron-mac,0
 2026-11-16,citron-windows,2
-2026-11-16,cloudsync-linux,1337
+2026-11-16,cloudsync-linux,1338
 2026-11-16,cloudsync-linux-arm,58
 2026-11-16,cloudsync-windows,693
 2026-11-16,dolphin-linux,1245
@@ -5778,13 +5778,13 @@ date,name,total
 2026-11-16,early-cloudsync-linux-arm,49
 2026-11-16,early-cloudsync-windows,664
 2026-11-16,early-linux,731
-2026-11-16,early-linux-arm,182
+2026-11-16,early-linux-arm,183
 2026-11-16,early-windows,298
 2026-11-16,eden-linux,133
 2026-11-16,eden-linux-arm,11
 2026-11-16,eden-mac,0
 2026-11-16,eden-windows,20
-2026-11-16,esde-linux,2953
+2026-11-16,esde-linux,2954
 2026-11-16,esde-linux-arm,521
 2026-11-16,esde-mac,0
 2026-11-16,esde-windows,830
@@ -5839,7 +5839,7 @@ date,name,total
 2026-11-16,ryujinx-linux,3076
 2026-11-16,ryujinx-linux-arm,605
 2026-11-16,ryujinx-mac,0
-2026-11-16,ryujinx-windows,452
+2026-11-16,ryujinx-windows,453
 2026-11-16,scummvm-linux,861
 2026-11-16,scummvm-linux-arm,297
 2026-11-16,scummvm-mac,0
@@ -5859,7 +5859,7 @@ date,name,total
 2026-11-16,system-bazzite,0
 2026-11-16,system-chimeraos,0
 2026-11-16,system-linux,1329
-2026-11-16,system-linux-arm,507
+2026-11-16,system-linux-arm,508
 2026-11-16,system-mac,0
 2026-11-16,system-steamos,0
 2026-11-16,system-windows,405
