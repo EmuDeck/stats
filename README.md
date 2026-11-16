@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-16 05:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-16 05:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,8 +103,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 170 | 822 | 1206 |
-| Con CloudSync | 327 | 1410 | 1995 |
-| % con CloudSync | | | 165% |
+| Con CloudSync | 327 | 1410 | 1996 |
+| % con CloudSync | | | 166% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
 
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2936 | 509 | 825 | 915 | 3223 | 4270 |
-| azahar | 3111 | 605 | 444 | 876 | 3066 | 4160 |
-| ryujinx | 3058 | 597 | 448 | 913 | 3043 | 4103 |
-| duckstation | 3370 | 550 | 176 | 832 | 3008 | 4096 |
-| pcsx2 | 3539 | 38 | 474 | 724 | 2918 | 4051 |
-| rpcs3 | 3221 | 569 | 179 | 848 | 2948 | 3969 |
-| srm | 2909 | 489 | 550 | 897 | 3004 | 3948 |
-| cemu | 3067 | 543 | 157 | 777 | 2761 | 3767 |
-| xenia | 2861 | 450 | 384 | 759 | 2725 | 3695 |
-| vita3k | 2783 | 486 | 121 | 695 | 2480 | 3390 |
-| shadps4 | 2683 | 233 | 345 | 563 | 2348 | 3261 |
-| cloudsync | 1327 | 56 | 680 | 339 | 1457 | 2063 |
+| esde | 2937 | 509 | 825 | 915 | 3223 | 4271 |
+| azahar | 3112 | 605 | 444 | 876 | 3066 | 4161 |
+| ryujinx | 3060 | 597 | 448 | 913 | 3043 | 4105 |
+| duckstation | 3371 | 550 | 176 | 832 | 3008 | 4097 |
+| pcsx2 | 3540 | 38 | 474 | 724 | 2918 | 4052 |
+| rpcs3 | 3222 | 569 | 179 | 848 | 2948 | 3970 |
+| srm | 2910 | 489 | 550 | 897 | 3004 | 3949 |
+| cemu | 3068 | 543 | 157 | 777 | 2761 | 3768 |
+| xenia | 2864 | 450 | 384 | 759 | 2725 | 3698 |
+| vita3k | 2786 | 486 | 121 | 695 | 2480 | 3393 |
+| shadps4 | 2684 | 233 | 345 | 563 | 2348 | 3262 |
+| cloudsync | 1328 | 56 | 680 | 339 | 1457 | 2064 |
 | ppsspp | 1133 | 390 | 368 | 458 | 1410 | 1891 |
 | dolphin | 1239 | 435 | 187 | 450 | 1370 | 1861 |
 | ra | 1249 | 403 | 207 | 440 | 1374 | 1859 |
