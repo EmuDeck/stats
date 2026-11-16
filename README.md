@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-16 09:43 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-16 10:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,9 +53,9 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 51 | 274 | 927 | 1326 |
+| linux | 51 | 274 | 927 | 1327 |
 | linux-arm | 26 | 224 | 440 | 507 |
-| windows | 9 | 63 | 321 | 403 |
+| windows | 9 | 63 | 321 | 404 |
 
 ```mermaid
 xychart-beta
@@ -102,8 +102,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 170 | 822 | 1209 |
-| Con CloudSync | 327 | 1410 | 2007 |
+| Instalaciones early | 170 | 822 | 1210 |
+| Con CloudSync | 327 | 1410 | 2008 |
 | % con CloudSync | | | 166% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,33 +121,33 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 2943 | 521 | 826 | 915 | 3223 | 4290 |
-| azahar | 3120 | 614 | 446 | 876 | 3066 | 4180 |
-| ryujinx | 3069 | 604 | 451 | 913 | 3043 | 4124 |
-| duckstation | 3379 | 559 | 176 | 832 | 3008 | 4114 |
-| pcsx2 | 3549 | 39 | 475 | 724 | 2918 | 4063 |
-| rpcs3 | 3229 | 572 | 179 | 848 | 2948 | 3980 |
-| srm | 2920 | 500 | 552 | 897 | 3004 | 3972 |
-| cemu | 3077 | 547 | 158 | 777 | 2761 | 3782 |
-| xenia | 2870 | 453 | 385 | 759 | 2725 | 3708 |
-| vita3k | 2793 | 492 | 121 | 695 | 2480 | 3406 |
-| shadps4 | 2689 | 233 | 346 | 563 | 2348 | 3268 |
-| cloudsync | 1336 | 58 | 686 | 339 | 1457 | 2080 |
-| ppsspp | 1136 | 394 | 370 | 458 | 1410 | 1900 |
-| dolphin | 1242 | 440 | 188 | 450 | 1370 | 1870 |
-| ra | 1252 | 407 | 207 | 440 | 1374 | 1866 |
-| xemu | 1055 | 338 | 142 | 364 | 1124 | 1535 |
-| mgba | 1293 | 129 | 91 | 285 | 1089 | 1513 |
-| melonds | 1030 | 340 | 128 | 355 | 1079 | 1498 |
-| primehack | 958 | 357 | 142 | 367 | 1093 | 1457 |
-| supermodel | 898 | 327 | 44 | 302 | 910 | 1269 |
-| scummvm | 860 | 297 | 91 | 302 | 908 | 1248 |
-| model2 | 881 | 343 | 13 | 297 | 881 | 1237 |
-| bigpemu | 849 | 39 | 38 | 163 | 676 | 926 |
-| armsx2 | 278 | 635 | 0 | 304 | 744 | 913 |
-| flycast | 222 | 42 | 37 | 55 | 202 | 301 |
-| rmg | 217 | 65 | 0 | 61 | 186 | 282 |
-| mame | 125 | 16 | 48 | 40 | 128 | 189 |
+| esde | 2946 | 521 | 826 | 915 | 3223 | 4293 |
+| azahar | 3123 | 614 | 447 | 876 | 3066 | 4184 |
+| ryujinx | 3072 | 604 | 451 | 913 | 3043 | 4127 |
+| duckstation | 3382 | 559 | 176 | 832 | 3008 | 4117 |
+| pcsx2 | 3552 | 39 | 476 | 724 | 2918 | 4067 |
+| rpcs3 | 3232 | 572 | 179 | 848 | 2948 | 3983 |
+| srm | 2922 | 500 | 553 | 897 | 3004 | 3975 |
+| cemu | 3079 | 547 | 158 | 777 | 2761 | 3784 |
+| xenia | 2872 | 453 | 386 | 759 | 2725 | 3711 |
+| vita3k | 2796 | 492 | 121 | 695 | 2480 | 3409 |
+| shadps4 | 2692 | 233 | 346 | 563 | 2348 | 3271 |
+| cloudsync | 1336 | 58 | 687 | 339 | 1457 | 2081 |
+| ppsspp | 1137 | 394 | 371 | 458 | 1410 | 1902 |
+| dolphin | 1243 | 440 | 188 | 450 | 1370 | 1871 |
+| ra | 1253 | 407 | 207 | 440 | 1374 | 1867 |
+| xemu | 1056 | 338 | 142 | 364 | 1124 | 1536 |
+| mgba | 1296 | 129 | 91 | 285 | 1089 | 1516 |
+| melonds | 1031 | 340 | 128 | 355 | 1079 | 1499 |
+| primehack | 959 | 357 | 142 | 367 | 1093 | 1458 |
+| supermodel | 899 | 327 | 44 | 302 | 910 | 1270 |
+| scummvm | 861 | 297 | 91 | 302 | 908 | 1249 |
+| model2 | 882 | 343 | 13 | 297 | 881 | 1238 |
+| bigpemu | 851 | 39 | 38 | 163 | 676 | 928 |
+| armsx2 | 279 | 635 | 0 | 304 | 744 | 914 |
+| flycast | 223 | 42 | 37 | 55 | 202 | 302 |
+| rmg | 218 | 65 | 0 | 61 | 186 | 283 |
+| mame | 126 | 16 | 48 | 40 | 128 | 190 |
 | eden | 133 | 11 | 20 | 42 | 122 | 164 |
 | pegasus | 41 | 3 | 28 | 16 | 56 | 72 |
 | yuzu | 16 | 0 | 8 | 7 | 18 | 24 |
