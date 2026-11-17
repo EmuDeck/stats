@@ -5895,7 +5895,7 @@ date,name,total
 2026-11-17,bigpemu-linux-arm,43
 2026-11-17,bigpemu-mac,0
 2026-11-17,bigpemu-windows,40
-2026-11-17,cemu-linux,3140
+2026-11-17,cemu-linux,3141
 2026-11-17,cemu-linux-arm,569
 2026-11-17,cemu-mac,0
 2026-11-17,cemu-windows,164
@@ -5972,7 +5972,7 @@ date,name,total
 2026-11-17,rmg-linux-arm,70
 2026-11-17,rmg-mac,0
 2026-11-17,rmg-windows,0
-2026-11-17,rpcs3-linux,3291
+2026-11-17,rpcs3-linux,3292
 2026-11-17,rpcs3-linux-arm,595
 2026-11-17,rpcs3-mac,0
 2026-11-17,rpcs3-windows,183
@@ -5988,7 +5988,7 @@ date,name,total
 2026-11-17,shadps4-linux-arm,235
 2026-11-17,shadps4-mac,0
 2026-11-17,shadps4-windows,352
-2026-11-17,srm-linux,2984
+2026-11-17,srm-linux,2985
 2026-11-17,srm-linux-arm,517
 2026-11-17,srm-mac,0
 2026-11-17,srm-windows,571
