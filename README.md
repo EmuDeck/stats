@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-17 18:11 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-17 18:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,12 +121,12 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3042 | 561 | 865 | 951 | 3253 | 4468 |
+| esde | 3043 | 562 | 865 | 951 | 3253 | 4470 |
 | azahar | 3213 | 652 | 461 | 912 | 3098 | 4326 |
 | duckstation | 3474 | 595 | 183 | 862 | 3023 | 4252 |
 | ryujinx | 3153 | 636 | 463 | 941 | 3062 | 4252 |
 | pcsx2 | 3650 | 39 | 489 | 740 | 2911 | 4178 |
-| srm | 3022 | 525 | 577 | 916 | 3039 | 4124 |
+| srm | 3023 | 525 | 577 | 916 | 3039 | 4125 |
 | rpcs3 | 3313 | 607 | 183 | 867 | 2951 | 4103 |
 | cemu | 3162 | 578 | 165 | 812 | 2778 | 3905 |
 | xenia | 2947 | 481 | 399 | 783 | 2744 | 3827 |
@@ -134,7 +134,7 @@ xychart-beta
 | shadps4 | 2749 | 238 | 353 | 567 | 2321 | 3340 |
 | cloudsync | 1384 | 60 | 717 | 365 | 1481 | 2161 |
 | ppsspp | 1159 | 421 | 383 | 466 | 1428 | 1963 |
-| dolphin | 1273 | 468 | 196 | 467 | 1397 | 1937 |
+| dolphin | 1273 | 469 | 196 | 467 | 1397 | 1938 |
 | ra | 1280 | 435 | 215 | 446 | 1395 | 1930 |
 | xemu | 1077 | 361 | 146 | 369 | 1142 | 1584 |
 | mgba | 1338 | 139 | 95 | 302 | 1100 | 1572 |
