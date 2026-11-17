@@ -5884,11 +5884,11 @@ date,name,total
 2026-11-17,ares-mac,0
 2026-11-17,ares-windows,0
 2026-11-17,armsx2-linux,283
-2026-11-17,armsx2-linux-arm,652
+2026-11-17,armsx2-linux-arm,653
 2026-11-17,armsx2-mac,0
 2026-11-17,armsx2-windows,0
 2026-11-17,azahar-linux,3174
-2026-11-17,azahar-linux-arm,631
+2026-11-17,azahar-linux-arm,632
 2026-11-17,azahar-mac,0
 2026-11-17,azahar-windows,458
 2026-11-17,bigpemu-linux,861
@@ -5911,7 +5911,7 @@ date,name,total
 2026-11-17,dolphin-mac,0
 2026-11-17,dolphin-windows,194
 2026-11-17,duckstation-linux,3432
-2026-11-17,duckstation-linux-arm,576
+2026-11-17,duckstation-linux-arm,577
 2026-11-17,duckstation-mac,0
 2026-11-17,duckstation-windows,182
 2026-11-17,early-cloudsync-linux,1321
@@ -5925,7 +5925,7 @@ date,name,total
 2026-11-17,eden-mac,0
 2026-11-17,eden-windows,20
 2026-11-17,esde-linux,2999
-2026-11-17,esde-linux-arm,535
+2026-11-17,esde-linux-arm,536
 2026-11-17,esde-mac,0
 2026-11-17,esde-windows,846
 2026-11-17,flycast-linux,229
@@ -5948,7 +5948,7 @@ date,name,total
 2026-11-17,model2-linux-arm,354
 2026-11-17,model2-mac,0
 2026-11-17,model2-windows,14
-2026-11-17,pcsx2-linux,3605
+2026-11-17,pcsx2-linux,3607
 2026-11-17,pcsx2-linux-arm,39
 2026-11-17,pcsx2-mac,0
 2026-11-17,pcsx2-windows,485
@@ -5977,7 +5977,7 @@ date,name,total
 2026-11-17,rpcs3-mac,0
 2026-11-17,rpcs3-windows,183
 2026-11-17,ryujinx-linux,3119
-2026-11-17,ryujinx-linux-arm,618
+2026-11-17,ryujinx-linux-arm,619
 2026-11-17,ryujinx-mac,0
 2026-11-17,ryujinx-windows,457
 2026-11-17,scummvm-linux,869
@@ -5988,8 +5988,8 @@ date,name,total
 2026-11-17,shadps4-linux-arm,234
 2026-11-17,shadps4-mac,0
 2026-11-17,shadps4-windows,352
-2026-11-17,srm-linux,2967
-2026-11-17,srm-linux-arm,515
+2026-11-17,srm-linux,2968
+2026-11-17,srm-linux-arm,516
 2026-11-17,srm-mac,0
 2026-11-17,srm-windows,569
 2026-11-17,supermodel-linux,907
@@ -6004,7 +6004,7 @@ date,name,total
 2026-11-17,system-steamos,0
 2026-11-17,system-windows,411
 2026-11-17,vita3k-linux,2832
-2026-11-17,vita3k-linux-arm,506
+2026-11-17,vita3k-linux-arm,507
 2026-11-17,vita3k-mac,0
 2026-11-17,vita3k-windows,123
 2026-11-17,xemu-linux,1071
