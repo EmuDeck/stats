@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-17 21:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-17 21:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 32 | 268 | 926 | 1362 |
 | linux-arm | 20 | 223 | 457 | 541 |
-| windows | 11 | 68 | 321 | 416 |
+| windows | 11 | 68 | 321 | 417 |
 
 ```mermaid
 xychart-beta
@@ -102,8 +102,8 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 159 | 810 | 1237 |
-| Con CloudSync | 342 | 1423 | 2082 |
+| Instalaciones early | 159 | 810 | 1238 |
+| Con CloudSync | 342 | 1423 | 2083 |
 | % con CloudSync | | | 168% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3052 | 563 | 870 | 951 | 3253 | 4485 |
+| esde | 3053 | 563 | 870 | 951 | 3253 | 4486 |
 | azahar | 3221 | 654 | 463 | 912 | 3098 | 4338 |
 | duckstation | 3482 | 597 | 183 | 862 | 3023 | 4262 |
 | ryujinx | 3160 | 638 | 463 | 941 | 3062 | 4261 |
-| pcsx2 | 3658 | 39 | 491 | 740 | 2911 | 4188 |
-| srm | 3031 | 527 | 579 | 916 | 3039 | 4137 |
+| pcsx2 | 3658 | 39 | 492 | 740 | 2911 | 4189 |
+| srm | 3031 | 527 | 580 | 916 | 3039 | 4138 |
 | rpcs3 | 3322 | 610 | 183 | 867 | 2951 | 4115 |
 | cemu | 3169 | 581 | 165 | 812 | 2778 | 3915 |
 | xenia | 2955 | 483 | 401 | 783 | 2744 | 3839 |
 | vita3k | 2871 | 521 | 123 | 723 | 2487 | 3515 |
 | shadps4 | 2754 | 238 | 355 | 567 | 2321 | 3347 |
-| cloudsync | 1384 | 60 | 717 | 365 | 1481 | 2161 |
+| cloudsync | 1384 | 60 | 718 | 365 | 1481 | 2162 |
 | ppsspp | 1161 | 423 | 385 | 466 | 1428 | 1969 |
 | dolphin | 1275 | 471 | 196 | 467 | 1397 | 1942 |
 | ra | 1282 | 437 | 215 | 446 | 1395 | 1934 |
