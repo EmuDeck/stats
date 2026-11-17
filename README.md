@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-17 10:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-17 10:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,12 +121,12 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3027 | 546 | 851 | 951 | 3253 | 4424 |
+| esde | 3027 | 546 | 852 | 951 | 3253 | 4425 |
 | azahar | 3198 | 640 | 458 | 912 | 3098 | 4296 |
 | ryujinx | 3141 | 624 | 461 | 941 | 3062 | 4226 |
 | duckstation | 3459 | 583 | 182 | 862 | 3023 | 4224 |
 | pcsx2 | 3634 | 39 | 485 | 740 | 2911 | 4158 |
-| srm | 2996 | 518 | 571 | 916 | 3039 | 4085 |
+| srm | 2998 | 518 | 572 | 916 | 3039 | 4088 |
 | rpcs3 | 3301 | 595 | 183 | 867 | 2951 | 4079 |
 | cemu | 3148 | 569 | 165 | 812 | 2778 | 3882 |
 | xenia | 2931 | 471 | 397 | 783 | 2744 | 3799 |
@@ -149,7 +149,7 @@ xychart-beta
 | rmg | 230 | 70 | 0 | 72 | 197 | 300 |
 | mame | 127 | 17 | 50 | 40 | 132 | 194 |
 | eden | 138 | 11 | 20 | 40 | 109 | 169 |
-| pegasus | 43 | 3 | 29 | 17 | 56 | 75 |
+| pegasus | 44 | 3 | 29 | 17 | 56 | 76 |
 | yuzu | 17 | 0 | 8 | 5 | 18 | 25 |
 | ares | 19 | 3 | 0 | 7 | 18 | 22 |
 | citron | 6 | 2 | 2 | 3 | 7 | 10 |
