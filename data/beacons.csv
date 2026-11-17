@@ -5924,7 +5924,7 @@ date,name,total
 2026-11-17,eden-linux-arm,11
 2026-11-17,eden-mac,0
 2026-11-17,eden-windows,21
-2026-11-17,esde-linux,3041
+2026-11-17,esde-linux,3042
 2026-11-17,esde-linux-arm,561
 2026-11-17,esde-mac,0
 2026-11-17,esde-windows,865
@@ -5988,7 +5988,7 @@ date,name,total
 2026-11-17,shadps4-linux-arm,238
 2026-11-17,shadps4-mac,0
 2026-11-17,shadps4-windows,353
-2026-11-17,srm-linux,3020
+2026-11-17,srm-linux,3022
 2026-11-17,srm-linux-arm,525
 2026-11-17,srm-mac,0
 2026-11-17,srm-windows,577
@@ -6011,7 +6011,7 @@ date,name,total
 2026-11-17,xemu-linux-arm,361
 2026-11-17,xemu-mac,0
 2026-11-17,xemu-windows,146
-2026-11-17,xenia-linux,2945
+2026-11-17,xenia-linux,2947
 2026-11-17,xenia-linux-arm,481
 2026-11-17,xenia-mac,0
 2026-11-17,xenia-windows,399
