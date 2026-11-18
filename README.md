@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-18 16:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-18 17:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,17 +121,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3087 | 583 | 879 | 941 | 3262 | 4549 |
-| azahar | 3257 | 672 | 465 | 891 | 3077 | 4394 |
-| ryujinx | 3197 | 661 | 468 | 905 | 3034 | 4326 |
-| duckstation | 3523 | 615 | 183 | 849 | 2998 | 4321 |
-| pcsx2 | 3702 | 40 | 496 | 721 | 2859 | 4238 |
+| esde | 3089 | 583 | 879 | 941 | 3262 | 4551 |
+| azahar | 3260 | 672 | 465 | 891 | 3077 | 4397 |
+| ryujinx | 3199 | 661 | 468 | 905 | 3034 | 4328 |
+| duckstation | 3525 | 615 | 183 | 849 | 2998 | 4323 |
+| pcsx2 | 3705 | 40 | 496 | 721 | 2859 | 4241 |
 | srm | 3063 | 548 | 581 | 914 | 3020 | 4192 |
-| rpcs3 | 3357 | 630 | 183 | 844 | 2925 | 4170 |
-| cemu | 3205 | 600 | 165 | 793 | 2754 | 3970 |
-| xenia | 2988 | 498 | 403 | 756 | 2722 | 3889 |
-| vita3k | 2901 | 537 | 123 | 701 | 2459 | 3561 |
-| shadps4 | 2784 | 240 | 358 | 540 | 2275 | 3382 |
+| rpcs3 | 3360 | 630 | 183 | 844 | 2925 | 4173 |
+| cemu | 3207 | 600 | 165 | 793 | 2754 | 3972 |
+| xenia | 2990 | 498 | 403 | 756 | 2722 | 3891 |
+| vita3k | 2902 | 537 | 123 | 701 | 2459 | 3562 |
+| shadps4 | 2785 | 240 | 358 | 540 | 2275 | 3383 |
 | cloudsync | 1393 | 60 | 730 | 370 | 1458 | 2183 |
 | ppsspp | 1172 | 431 | 387 | 438 | 1418 | 1990 |
 | dolphin | 1291 | 481 | 197 | 450 | 1390 | 1969 |
@@ -144,7 +144,7 @@ xychart-beta
 | scummvm | 882 | 324 | 93 | 292 | 911 | 1299 |
 | model2 | 903 | 370 | 14 | 290 | 896 | 1287 |
 | armsx2 | 291 | 695 | 0 | 311 | 791 | 986 |
-| bigpemu | 883 | 47 | 40 | 170 | 667 | 970 |
+| bigpemu | 885 | 47 | 40 | 170 | 667 | 972 |
 | flycast | 235 | 49 | 39 | 60 | 213 | 323 |
 | rmg | 233 | 74 | 0 | 69 | 200 | 307 |
 | mame | 128 | 18 | 51 | 36 | 134 | 197 |
