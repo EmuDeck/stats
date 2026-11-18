@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-18 17:36 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-18 18:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -122,13 +122,13 @@ xychart-beta
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
 | esde | 3090 | 586 | 879 | 941 | 3262 | 4555 |
-| azahar | 3262 | 675 | 465 | 891 | 3077 | 4402 |
-| ryujinx | 3202 | 664 | 468 | 905 | 3034 | 4334 |
-| duckstation | 3527 | 618 | 183 | 849 | 2998 | 4328 |
-| pcsx2 | 3707 | 40 | 496 | 721 | 2859 | 4243 |
-| srm | 3066 | 551 | 581 | 914 | 3020 | 4198 |
+| azahar | 3263 | 675 | 465 | 891 | 3077 | 4403 |
+| ryujinx | 3203 | 664 | 468 | 905 | 3034 | 4335 |
+| duckstation | 3528 | 618 | 183 | 849 | 2998 | 4329 |
+| pcsx2 | 3708 | 40 | 496 | 721 | 2859 | 4244 |
+| srm | 3067 | 551 | 582 | 914 | 3020 | 4200 |
 | rpcs3 | 3362 | 634 | 183 | 844 | 2925 | 4179 |
-| cemu | 3209 | 603 | 165 | 793 | 2754 | 3977 |
+| cemu | 3210 | 603 | 165 | 793 | 2754 | 3978 |
 | xenia | 2993 | 502 | 403 | 756 | 2722 | 3898 |
 | vita3k | 2905 | 540 | 123 | 701 | 2459 | 3568 |
 | shadps4 | 2787 | 240 | 358 | 540 | 2275 | 3385 |
@@ -137,12 +137,12 @@ xychart-beta
 | dolphin | 1292 | 482 | 197 | 450 | 1390 | 1971 |
 | ra | 1297 | 448 | 217 | 429 | 1386 | 1962 |
 | xemu | 1088 | 371 | 146 | 349 | 1131 | 1605 |
-| mgba | 1360 | 146 | 95 | 306 | 1095 | 1601 |
+| mgba | 1361 | 146 | 95 | 306 | 1095 | 1602 |
 | melonds | 1065 | 374 | 133 | 350 | 1089 | 1572 |
 | primehack | 990 | 386 | 145 | 349 | 1095 | 1521 |
-| supermodel | 922 | 353 | 45 | 294 | 921 | 1320 |
+| supermodel | 922 | 354 | 45 | 294 | 921 | 1321 |
 | scummvm | 883 | 325 | 93 | 292 | 911 | 1301 |
-| model2 | 904 | 370 | 14 | 290 | 896 | 1288 |
+| model2 | 904 | 371 | 14 | 290 | 896 | 1289 |
 | armsx2 | 291 | 698 | 0 | 311 | 791 | 989 |
 | bigpemu | 886 | 47 | 40 | 170 | 667 | 973 |
 | flycast | 235 | 49 | 39 | 60 | 213 | 323 |
