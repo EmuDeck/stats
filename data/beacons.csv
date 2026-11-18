@@ -6024,11 +6024,11 @@ date,name,total
 2026-11-18,ares-mac,0
 2026-11-18,ares-windows,0
 2026-11-18,armsx2-linux,290
-2026-11-18,armsx2-linux-arm,692
+2026-11-18,armsx2-linux-arm,693
 2026-11-18,armsx2-mac,0
 2026-11-18,armsx2-windows,0
 2026-11-18,azahar-linux,3249
-2026-11-18,azahar-linux-arm,669
+2026-11-18,azahar-linux-arm,670
 2026-11-18,azahar-mac,0
 2026-11-18,azahar-windows,465
 2026-11-18,bigpemu-linux,880
@@ -6045,7 +6045,7 @@ date,name,total
 2026-11-18,citron-windows,2
 2026-11-18,cloudsync-linux,1391
 2026-11-18,cloudsync-linux-arm,60
-2026-11-18,cloudsync-windows,723
+2026-11-18,cloudsync-windows,728
 2026-11-18,dolphin-linux,1288
 2026-11-18,dolphin-linux-arm,478
 2026-11-18,dolphin-mac,0
@@ -6056,7 +6056,7 @@ date,name,total
 2026-11-18,duckstation-windows,183
 2026-11-18,early-cloudsync-linux,1354
 2026-11-18,early-cloudsync-linux-arm,51
-2026-11-18,early-cloudsync-windows,690
+2026-11-18,early-cloudsync-windows,695
 2026-11-18,early-linux,745
 2026-11-18,early-linux-arm,190
 2026-11-18,early-windows,311
@@ -6064,10 +6064,10 @@ date,name,total
 2026-11-18,eden-linux-arm,11
 2026-11-18,eden-mac,0
 2026-11-18,eden-windows,21
-2026-11-18,esde-linux,3079
-2026-11-18,esde-linux-arm,578
+2026-11-18,esde-linux,3080
+2026-11-18,esde-linux-arm,579
 2026-11-18,esde-mac,0
-2026-11-18,esde-windows,878
+2026-11-18,esde-windows,879
 2026-11-18,flycast-linux,235
 2026-11-18,flycast-linux-arm,49
 2026-11-18,flycast-mac,0
@@ -6101,7 +6101,7 @@ date,name,total
 2026-11-18,ppsspp-mac,0
 2026-11-18,ppsspp-windows,387
 2026-11-18,primehack-linux,988
-2026-11-18,primehack-linux-arm,383
+2026-11-18,primehack-linux-arm,384
 2026-11-18,primehack-mac,0
 2026-11-18,primehack-windows,145
 2026-11-18,ra-linux,1294
@@ -6113,7 +6113,7 @@ date,name,total
 2026-11-18,rmg-mac,0
 2026-11-18,rmg-windows,0
 2026-11-18,rpcs3-linux,3348
-2026-11-18,rpcs3-linux-arm,627
+2026-11-18,rpcs3-linux-arm,628
 2026-11-18,rpcs3-mac,0
 2026-11-18,rpcs3-windows,183
 2026-11-18,ryujinx-linux,3187
@@ -6139,7 +6139,7 @@ date,name,total
 2026-11-18,system-bazzite,0
 2026-11-18,system-chimeraos,0
 2026-11-18,system-linux,1376
-2026-11-18,system-linux-arm,550
+2026-11-18,system-linux-arm,551
 2026-11-18,system-mac,0
 2026-11-18,system-steamos,0
 2026-11-18,system-windows,419
