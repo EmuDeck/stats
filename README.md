@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-18 15:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-18 15:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,10 +121,10 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3082 | 582 | 879 | 941 | 3262 | 4543 |
-| azahar | 3251 | 671 | 465 | 891 | 3077 | 4387 |
-| ryujinx | 3189 | 656 | 468 | 905 | 3034 | 4313 |
-| duckstation | 3514 | 614 | 183 | 849 | 2998 | 4311 |
+| esde | 3083 | 582 | 879 | 941 | 3262 | 4544 |
+| azahar | 3252 | 671 | 465 | 891 | 3077 | 4388 |
+| ryujinx | 3189 | 659 | 468 | 905 | 3034 | 4316 |
+| duckstation | 3515 | 614 | 183 | 849 | 2998 | 4312 |
 | pcsx2 | 3693 | 40 | 496 | 721 | 2859 | 4229 |
 | srm | 3056 | 546 | 581 | 914 | 3020 | 4183 |
 | rpcs3 | 3350 | 629 | 183 | 844 | 2925 | 4162 |
@@ -146,7 +146,7 @@ xychart-beta
 | armsx2 | 290 | 694 | 0 | 311 | 791 | 984 |
 | bigpemu | 882 | 47 | 40 | 170 | 667 | 969 |
 | flycast | 235 | 49 | 39 | 60 | 213 | 323 |
-| rmg | 233 | 73 | 0 | 69 | 200 | 306 |
+| rmg | 233 | 74 | 0 | 69 | 200 | 307 |
 | mame | 128 | 18 | 51 | 36 | 134 | 197 |
 | eden | 139 | 11 | 21 | 39 | 105 | 171 |
 | pegasus | 45 | 3 | 29 | 15 | 57 | 77 |
