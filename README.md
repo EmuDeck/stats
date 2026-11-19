@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-19 07:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-19 07:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -124,7 +124,7 @@ xychart-beta
 | esde | 3133 | 595 | 888 | 922 | 3252 | 4616 |
 | azahar | 3306 | 690 | 472 | 866 | 3071 | 4468 |
 | ryujinx | 3252 | 679 | 475 | 881 | 3047 | 4406 |
-| duckstation | 3567 | 632 | 186 | 823 | 2988 | 4385 |
+| duckstation | 3567 | 634 | 186 | 823 | 2988 | 4387 |
 | pcsx2 | 3754 | 40 | 504 | 701 | 2832 | 4298 |
 | srm | 3102 | 563 | 591 | 877 | 3019 | 4256 |
 | rpcs3 | 3405 | 651 | 186 | 824 | 2926 | 4242 |
@@ -135,17 +135,17 @@ xychart-beta
 | cloudsync | 1407 | 60 | 752 | 343 | 1424 | 2219 |
 | ppsspp | 1184 | 445 | 393 | 409 | 1414 | 2022 |
 | dolphin | 1308 | 496 | 201 | 422 | 1395 | 2005 |
-| ra | 1309 | 459 | 220 | 405 | 1387 | 1988 |
+| ra | 1309 | 459 | 221 | 405 | 1387 | 1989 |
 | xemu | 1097 | 382 | 148 | 324 | 1125 | 1627 |
 | mgba | 1379 | 149 | 96 | 302 | 1095 | 1624 |
 | melonds | 1076 | 384 | 135 | 321 | 1087 | 1595 |
-| primehack | 1001 | 398 | 147 | 322 | 1095 | 1546 |
+| primehack | 1001 | 399 | 147 | 322 | 1095 | 1547 |
 | supermodel | 930 | 364 | 46 | 270 | 920 | 1340 |
 | scummvm | 891 | 335 | 95 | 266 | 910 | 1321 |
 | model2 | 912 | 382 | 14 | 260 | 892 | 1308 |
 | armsx2 | 293 | 714 | 0 | 309 | 808 | 1007 |
 | bigpemu | 891 | 47 | 42 | 163 | 653 | 980 |
-| flycast | 237 | 53 | 40 | 59 | 217 | 330 |
+| flycast | 237 | 54 | 40 | 59 | 217 | 331 |
 | rmg | 235 | 78 | 0 | 64 | 204 | 313 |
 | mame | 128 | 18 | 54 | 33 | 132 | 200 |
 | eden | 141 | 11 | 21 | 20 | 99 | 173 |
