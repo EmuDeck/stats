@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-20 08:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-20 09:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 28 | 220 | 913 | 1423 |
+| linux | 28 | 220 | 913 | 1424 |
 | linux-arm | 22 | 194 | 508 | 596 |
 | windows | 12 | 59 | 300 | 433 |
 
@@ -121,23 +121,23 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3190 | 622 | 895 | 882 | 3280 | 4707 |
-| azahar | 3365 | 723 | 478 | 835 | 3104 | 4566 |
-| ryujinx | 3313 | 712 | 484 | 837 | 3076 | 4509 |
-| duckstation | 3624 | 665 | 191 | 789 | 3014 | 4480 |
-| pcsx2 | 3820 | 40 | 510 | 668 | 2841 | 4370 |
-| srm | 3163 | 584 | 605 | 846 | 3046 | 4352 |
-| rpcs3 | 3465 | 682 | 188 | 789 | 2952 | 4335 |
-| cemu | 3304 | 641 | 172 | 743 | 2773 | 4117 |
-| xenia | 3073 | 538 | 414 | 702 | 2717 | 4025 |
-| vita3k | 2994 | 580 | 127 | 657 | 2474 | 3701 |
-| shadps4 | 2876 | 244 | 368 | 507 | 2255 | 3488 |
+| esde | 3192 | 622 | 895 | 882 | 3280 | 4709 |
+| azahar | 3366 | 723 | 478 | 835 | 3104 | 4567 |
+| ryujinx | 3316 | 712 | 484 | 837 | 3076 | 4512 |
+| duckstation | 3626 | 665 | 191 | 789 | 3014 | 4482 |
+| pcsx2 | 3822 | 40 | 510 | 668 | 2841 | 4372 |
+| srm | 3166 | 584 | 605 | 846 | 3046 | 4355 |
+| rpcs3 | 3467 | 682 | 188 | 789 | 2952 | 4337 |
+| cemu | 3306 | 641 | 172 | 743 | 2773 | 4119 |
+| xenia | 3074 | 538 | 414 | 702 | 2717 | 4026 |
+| vita3k | 2995 | 580 | 127 | 657 | 2474 | 3702 |
+| shadps4 | 2877 | 244 | 368 | 507 | 2255 | 3489 |
 | cloudsync | 1432 | 62 | 762 | 348 | 1441 | 2256 |
 | ppsspp | 1206 | 469 | 397 | 385 | 1429 | 2072 |
 | dolphin | 1330 | 521 | 204 | 406 | 1420 | 2055 |
 | ra | 1334 | 484 | 225 | 390 | 1406 | 2043 |
 | xemu | 1116 | 401 | 150 | 306 | 1139 | 1667 |
-| mgba | 1404 | 151 | 98 | 283 | 1103 | 1653 |
+| mgba | 1405 | 151 | 98 | 283 | 1103 | 1654 |
 | melonds | 1097 | 405 | 137 | 310 | 1104 | 1639 |
 | primehack | 1023 | 423 | 149 | 312 | 1116 | 1595 |
 | supermodel | 948 | 383 | 49 | 261 | 933 | 1380 |
