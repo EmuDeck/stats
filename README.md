@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-20 08:12 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-20 08:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 28 | 220 | 913 | 1422 |
+| linux | 28 | 220 | 913 | 1423 |
 | linux-arm | 22 | 194 | 508 | 596 |
 | windows | 12 | 59 | 300 | 433 |
 
@@ -126,23 +126,23 @@ xychart-beta
 | ryujinx | 3313 | 712 | 484 | 837 | 3076 | 4509 |
 | duckstation | 3624 | 665 | 191 | 789 | 3014 | 4480 |
 | pcsx2 | 3820 | 40 | 510 | 668 | 2841 | 4370 |
-| srm | 3162 | 584 | 605 | 846 | 3046 | 4351 |
+| srm | 3163 | 584 | 605 | 846 | 3046 | 4352 |
 | rpcs3 | 3465 | 682 | 188 | 789 | 2952 | 4335 |
-| cemu | 3304 | 640 | 172 | 743 | 2773 | 4116 |
-| xenia | 3073 | 537 | 414 | 702 | 2717 | 4024 |
-| vita3k | 2994 | 579 | 127 | 657 | 2474 | 3700 |
+| cemu | 3304 | 641 | 172 | 743 | 2773 | 4117 |
+| xenia | 3073 | 538 | 414 | 702 | 2717 | 4025 |
+| vita3k | 2994 | 580 | 127 | 657 | 2474 | 3701 |
 | shadps4 | 2876 | 244 | 368 | 507 | 2255 | 3488 |
 | cloudsync | 1432 | 62 | 762 | 348 | 1441 | 2256 |
 | ppsspp | 1206 | 469 | 397 | 385 | 1429 | 2072 |
 | dolphin | 1330 | 521 | 204 | 406 | 1420 | 2055 |
 | ra | 1334 | 484 | 225 | 390 | 1406 | 2043 |
-| xemu | 1116 | 400 | 150 | 306 | 1139 | 1666 |
+| xemu | 1116 | 401 | 150 | 306 | 1139 | 1667 |
 | mgba | 1404 | 151 | 98 | 283 | 1103 | 1653 |
-| melonds | 1097 | 404 | 137 | 310 | 1104 | 1638 |
+| melonds | 1097 | 405 | 137 | 310 | 1104 | 1639 |
 | primehack | 1023 | 423 | 149 | 312 | 1116 | 1595 |
-| supermodel | 948 | 382 | 49 | 261 | 933 | 1379 |
-| scummvm | 908 | 353 | 97 | 259 | 922 | 1358 |
-| model2 | 930 | 400 | 14 | 250 | 901 | 1344 |
+| supermodel | 948 | 383 | 49 | 261 | 933 | 1380 |
+| scummvm | 908 | 354 | 97 | 259 | 922 | 1359 |
+| model2 | 930 | 401 | 14 | 250 | 901 | 1345 |
 | armsx2 | 298 | 747 | 0 | 290 | 827 | 1045 |
 | bigpemu | 905 | 48 | 44 | 150 | 654 | 997 |
 | flycast | 241 | 56 | 40 | 62 | 220 | 337 |
