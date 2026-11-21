@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-21 10:34 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-21 11:07 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 32 | 213 | 913 | 1453 |
 | linux-arm | 24 | 184 | 526 | 620 |
-| windows | 7 | 55 | 296 | 444 |
+| windows | 7 | 55 | 296 | 445 |
 
 ```mermaid
 xychart-beta
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 133 | 751 | 1304 |
+| Instalaciones early | 133 | 751 | 1305 |
 | Con CloudSync | 314 | 1402 | 2217 |
 | % con CloudSync | | | 170% |
 
@@ -121,14 +121,14 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3253 | 643 | 918 | 818 | 3275 | 4814 |
-| azahar | 3439 | 753 | 489 | 784 | 3096 | 4681 |
-| ryujinx | 3377 | 745 | 500 | 802 | 3082 | 4622 |
-| duckstation | 3695 | 690 | 193 | 739 | 2999 | 4578 |
-| pcsx2 | 3893 | 40 | 521 | 625 | 2814 | 4454 |
+| esde | 3254 | 643 | 920 | 818 | 3275 | 4817 |
+| azahar | 3440 | 753 | 489 | 784 | 3096 | 4682 |
+| ryujinx | 3378 | 745 | 500 | 802 | 3082 | 4623 |
+| duckstation | 3697 | 690 | 193 | 739 | 2999 | 4580 |
+| pcsx2 | 3894 | 40 | 522 | 625 | 2814 | 4456 |
 | srm | 3229 | 601 | 620 | 783 | 3013 | 4450 |
-| rpcs3 | 3538 | 708 | 191 | 734 | 2950 | 4437 |
-| cemu | 3369 | 667 | 175 | 692 | 2765 | 4211 |
+| rpcs3 | 3539 | 708 | 191 | 734 | 2950 | 4438 |
+| cemu | 3370 | 667 | 175 | 692 | 2765 | 4212 |
 | xenia | 3140 | 566 | 425 | 666 | 2712 | 4131 |
 | vita3k | 3055 | 602 | 129 | 609 | 2470 | 3786 |
 | shadps4 | 2925 | 248 | 378 | 469 | 2227 | 3551 |
@@ -137,7 +137,7 @@ xychart-beta
 | dolphin | 1359 | 543 | 206 | 388 | 1430 | 2108 |
 | ra | 1362 | 506 | 228 | 377 | 1421 | 2096 |
 | xemu | 1140 | 419 | 152 | 290 | 1146 | 1711 |
-| mgba | 1429 | 157 | 101 | 257 | 1089 | 1687 |
+| mgba | 1430 | 157 | 101 | 257 | 1089 | 1688 |
 | melonds | 1119 | 426 | 139 | 302 | 1116 | 1684 |
 | primehack | 1043 | 442 | 156 | 297 | 1135 | 1641 |
 | supermodel | 972 | 401 | 50 | 258 | 953 | 1423 |
