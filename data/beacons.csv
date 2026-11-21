@@ -6447,7 +6447,7 @@ date,name,total
 2026-11-21,armsx2-linux-arm,763
 2026-11-21,armsx2-mac,0
 2026-11-21,armsx2-windows,0
-2026-11-21,azahar-linux,3408
+2026-11-21,azahar-linux,3409
 2026-11-21,azahar-linux-arm,742
 2026-11-21,azahar-mac,0
 2026-11-21,azahar-windows,485
@@ -6470,7 +6470,7 @@ date,name,total
 2026-11-21,dolphin-linux-arm,534
 2026-11-21,dolphin-mac,0
 2026-11-21,dolphin-windows,206
-2026-11-21,duckstation-linux,3666
+2026-11-21,duckstation-linux,3667
 2026-11-21,duckstation-linux-arm,680
 2026-11-21,duckstation-mac,0
 2026-11-21,duckstation-windows,193
@@ -6484,7 +6484,7 @@ date,name,total
 2026-11-21,eden-linux-arm,11
 2026-11-21,eden-mac,0
 2026-11-21,eden-windows,21
-2026-11-21,esde-linux,3229
+2026-11-21,esde-linux,3230
 2026-11-21,esde-linux-arm,635
 2026-11-21,esde-mac,0
 2026-11-21,esde-windows,905
@@ -6508,7 +6508,7 @@ date,name,total
 2026-11-21,model2-linux-arm,415
 2026-11-21,model2-mac,0
 2026-11-21,model2-windows,14
-2026-11-21,pcsx2-linux,3865
+2026-11-21,pcsx2-linux,3866
 2026-11-21,pcsx2-linux-arm,40
 2026-11-21,pcsx2-mac,0
 2026-11-21,pcsx2-windows,517
