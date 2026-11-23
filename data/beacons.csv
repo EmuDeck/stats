@@ -6727,7 +6727,7 @@ date,name,total
 2026-11-23,armsx2-linux-arm,831
 2026-11-23,armsx2-mac,0
 2026-11-23,armsx2-windows,0
-2026-11-23,azahar-linux,3614
+2026-11-23,azahar-linux,3615
 2026-11-23,azahar-linux-arm,810
 2026-11-23,azahar-mac,0
 2026-11-23,azahar-windows,512
@@ -6743,18 +6743,18 @@ date,name,total
 2026-11-23,citron-linux-arm,2
 2026-11-23,citron-mac,0
 2026-11-23,citron-windows,2
-2026-11-23,cloudsync-linux,1528
+2026-11-23,cloudsync-linux,1529
 2026-11-23,cloudsync-linux-arm,76
 2026-11-23,cloudsync-windows,823
-2026-11-23,dolphin-linux,1427
+2026-11-23,dolphin-linux,1428
 2026-11-23,dolphin-linux-arm,589
 2026-11-23,dolphin-mac,0
 2026-11-23,dolphin-windows,217
-2026-11-23,duckstation-linux,3892
+2026-11-23,duckstation-linux,3893
 2026-11-23,duckstation-linux-arm,743
 2026-11-23,duckstation-mac,0
 2026-11-23,duckstation-windows,206
-2026-11-23,early-cloudsync-linux,1485
+2026-11-23,early-cloudsync-linux,1486
 2026-11-23,early-cloudsync-linux-arm,64
 2026-11-23,early-cloudsync-windows,785
 2026-11-23,early-linux,800
@@ -6764,7 +6764,7 @@ date,name,total
 2026-11-23,eden-linux-arm,11
 2026-11-23,eden-mac,0
 2026-11-23,eden-windows,22
-2026-11-23,esde-linux,3420
+2026-11-23,esde-linux,3422
 2026-11-23,esde-linux-arm,694
 2026-11-23,esde-mac,0
 2026-11-23,esde-windows,974
@@ -6788,7 +6788,7 @@ date,name,total
 2026-11-23,model2-linux-arm,458
 2026-11-23,model2-mac,0
 2026-11-23,model2-windows,14
-2026-11-23,pcsx2-linux,4092
+2026-11-23,pcsx2-linux,4093
 2026-11-23,pcsx2-linux-arm,41
 2026-11-23,pcsx2-mac,0
 2026-11-23,pcsx2-windows,550
@@ -6828,7 +6828,7 @@ date,name,total
 2026-11-23,shadps4-linux-arm,255
 2026-11-23,shadps4-mac,0
 2026-11-23,shadps4-windows,393
-2026-11-23,srm-linux,3412
+2026-11-23,srm-linux,3413
 2026-11-23,srm-linux-arm,641
 2026-11-23,srm-mac,0
 2026-11-23,srm-windows,651
@@ -6838,7 +6838,7 @@ date,name,total
 2026-11-23,supermodel-windows,51
 2026-11-23,system-bazzite,0
 2026-11-23,system-chimeraos,0
-2026-11-23,system-linux,1526
+2026-11-23,system-linux,1527
 2026-11-23,system-linux-arm,670
 2026-11-23,system-mac,0
 2026-11-23,system-steamos,0
