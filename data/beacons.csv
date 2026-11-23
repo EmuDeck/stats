@@ -6735,7 +6735,7 @@ date,name,total
 2026-11-23,bigpemu-linux-arm,53
 2026-11-23,bigpemu-mac,0
 2026-11-23,bigpemu-windows,49
-2026-11-23,cemu-linux,3504
+2026-11-23,cemu-linux,3505
 2026-11-23,cemu-linux-arm,709
 2026-11-23,cemu-mac,0
 2026-11-23,cemu-windows,187
@@ -6750,7 +6750,7 @@ date,name,total
 2026-11-23,dolphin-linux-arm,584
 2026-11-23,dolphin-mac,0
 2026-11-23,dolphin-windows,216
-2026-11-23,duckstation-linux,3854
+2026-11-23,duckstation-linux,3855
 2026-11-23,duckstation-linux-arm,737
 2026-11-23,duckstation-mac,0
 2026-11-23,duckstation-windows,205
@@ -6764,7 +6764,7 @@ date,name,total
 2026-11-23,eden-linux-arm,11
 2026-11-23,eden-mac,0
 2026-11-23,eden-windows,22
-2026-11-23,esde-linux,3383
+2026-11-23,esde-linux,3384
 2026-11-23,esde-linux-arm,691
 2026-11-23,esde-mac,0
 2026-11-23,esde-windows,970
@@ -6784,7 +6784,7 @@ date,name,total
 2026-11-23,mgba-linux-arm,162
 2026-11-23,mgba-mac,0
 2026-11-23,mgba-windows,106
-2026-11-23,model2-linux,996
+2026-11-23,model2-linux,997
 2026-11-23,model2-linux-arm,453
 2026-11-23,model2-mac,0
 2026-11-23,model2-windows,14
@@ -6824,7 +6824,7 @@ date,name,total
 2026-11-23,scummvm-linux-arm,402
 2026-11-23,scummvm-mac,0
 2026-11-23,scummvm-windows,106
-2026-11-23,shadps4-linux,3051
+2026-11-23,shadps4-linux,3052
 2026-11-23,shadps4-linux-arm,255
 2026-11-23,shadps4-mac,0
 2026-11-23,shadps4-windows,389
