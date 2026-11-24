@@ -6864,11 +6864,11 @@ date,name,total
 2026-11-24,ares-mac,0
 2026-11-24,ares-windows,0
 2026-11-24,armsx2-linux,332
-2026-11-24,armsx2-linux-arm,862
+2026-11-24,armsx2-linux-arm,864
 2026-11-24,armsx2-mac,0
 2026-11-24,armsx2-windows,0
 2026-11-24,azahar-linux,3691
-2026-11-24,azahar-linux-arm,839
+2026-11-24,azahar-linux-arm,841
 2026-11-24,azahar-mac,0
 2026-11-24,azahar-windows,532
 2026-11-24,bigpemu-linux,995
@@ -6883,7 +6883,7 @@ date,name,total
 2026-11-24,citron-linux-arm,2
 2026-11-24,citron-mac,0
 2026-11-24,citron-windows,3
-2026-11-24,cloudsync-linux,1551
+2026-11-24,cloudsync-linux,1552
 2026-11-24,cloudsync-linux-arm,78
 2026-11-24,cloudsync-windows,837
 2026-11-24,dolphin-linux,1456
@@ -6891,7 +6891,7 @@ date,name,total
 2026-11-24,dolphin-mac,0
 2026-11-24,dolphin-windows,219
 2026-11-24,duckstation-linux,3981
-2026-11-24,duckstation-linux-arm,771
+2026-11-24,duckstation-linux-arm,773
 2026-11-24,duckstation-mac,0
 2026-11-24,duckstation-windows,210
 2026-11-24,early-cloudsync-linux,1508
@@ -6905,7 +6905,7 @@ date,name,total
 2026-11-24,eden-mac,0
 2026-11-24,eden-windows,22
 2026-11-24,esde-linux,3499
-2026-11-24,esde-linux-arm,714
+2026-11-24,esde-linux-arm,716
 2026-11-24,esde-mac,0
 2026-11-24,esde-windows,1007
 2026-11-24,flycast-linux,261
@@ -6941,7 +6941,7 @@ date,name,total
 2026-11-24,ppsspp-mac,0
 2026-11-24,ppsspp-windows,449
 2026-11-24,primehack-linux,1122
-2026-11-24,primehack-linux-arm,503
+2026-11-24,primehack-linux-arm,505
 2026-11-24,primehack-mac,0
 2026-11-24,primehack-windows,165
 2026-11-24,ra-linux,1460
@@ -6953,7 +6953,7 @@ date,name,total
 2026-11-24,rmg-mac,0
 2026-11-24,rmg-windows,0
 2026-11-24,rpcs3-linux,3818
-2026-11-24,rpcs3-linux-arm,788
+2026-11-24,rpcs3-linux-arm,790
 2026-11-24,rpcs3-mac,0
 2026-11-24,rpcs3-windows,207
 2026-11-24,ryujinx-linux,3643
@@ -6979,7 +6979,7 @@ date,name,total
 2026-11-24,system-bazzite,0
 2026-11-24,system-chimeraos,0
 2026-11-24,system-linux,1560
-2026-11-24,system-linux-arm,703
+2026-11-24,system-linux-arm,705
 2026-11-24,system-mac,0
 2026-11-24,system-steamos,0
 2026-11-24,system-windows,485
