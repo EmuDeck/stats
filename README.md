@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-24 16:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-24 16:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -132,7 +132,7 @@ xychart-beta
 | xenia | 3387 | 634 | 459 | 645 | 2789 | 4480 |
 | vita3k | 3293 | 674 | 138 | 595 | 2538 | 4105 |
 | shadps4 | 3155 | 257 | 407 | 466 | 2239 | 3819 |
-| cloudsync | 1552 | 78 | 837 | 312 | 1474 | 2467 |
+| cloudsync | 1552 | 79 | 837 | 312 | 1474 | 2468 |
 | ppsspp | 1328 | 558 | 449 | 364 | 1526 | 2335 |
 | dolphin | 1456 | 620 | 219 | 360 | 1503 | 2295 |
 | ra | 1460 | 584 | 249 | 361 | 1488 | 2293 |
