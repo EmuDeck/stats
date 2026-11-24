@@ -6870,7 +6870,7 @@ date,name,total
 2026-11-24,azahar-linux,3685
 2026-11-24,azahar-linux-arm,839
 2026-11-24,azahar-mac,0
-2026-11-24,azahar-windows,530
+2026-11-24,azahar-windows,531
 2026-11-24,bigpemu-linux,993
 2026-11-24,bigpemu-linux-arm,56
 2026-11-24,bigpemu-mac,0
@@ -6899,7 +6899,7 @@ date,name,total
 2026-11-24,early-cloudsync-windows,793
 2026-11-24,early-linux,806
 2026-11-24,early-linux-arm,219
-2026-11-24,early-windows,358
+2026-11-24,early-windows,360
 2026-11-24,eden-linux,165
 2026-11-24,eden-linux-arm,11
 2026-11-24,eden-mac,0
@@ -6907,7 +6907,7 @@ date,name,total
 2026-11-24,esde-linux,3493
 2026-11-24,esde-linux-arm,714
 2026-11-24,esde-mac,0
-2026-11-24,esde-windows,1005
+2026-11-24,esde-windows,1007
 2026-11-24,flycast-linux,261
 2026-11-24,flycast-linux-arm,66
 2026-11-24,flycast-mac,0
@@ -6931,7 +6931,7 @@ date,name,total
 2026-11-24,pcsx2-linux,4180
 2026-11-24,pcsx2-linux-arm,41
 2026-11-24,pcsx2-mac,0
-2026-11-24,pcsx2-windows,566
+2026-11-24,pcsx2-windows,567
 2026-11-24,pegasus-linux,54
 2026-11-24,pegasus-linux-arm,3
 2026-11-24,pegasus-mac,0
@@ -6939,7 +6939,7 @@ date,name,total
 2026-11-24,ppsspp-linux,1327
 2026-11-24,ppsspp-linux-arm,557
 2026-11-24,ppsspp-mac,0
-2026-11-24,ppsspp-windows,448
+2026-11-24,ppsspp-windows,449
 2026-11-24,primehack-linux,1120
 2026-11-24,primehack-linux-arm,503
 2026-11-24,primehack-mac,0
@@ -6952,11 +6952,11 @@ date,name,total
 2026-11-24,rmg-linux-arm,101
 2026-11-24,rmg-mac,0
 2026-11-24,rmg-windows,0
-2026-11-24,rpcs3-linux,3812
+2026-11-24,rpcs3-linux,3814
 2026-11-24,rpcs3-linux-arm,788
 2026-11-24,rpcs3-mac,0
 2026-11-24,rpcs3-windows,207
-2026-11-24,ryujinx-linux,3637
+2026-11-24,ryujinx-linux,3638
 2026-11-24,ryujinx-linux-arm,838
 2026-11-24,ryujinx-mac,0
 2026-11-24,ryujinx-windows,516
@@ -6967,7 +6967,7 @@ date,name,total
 2026-11-24,shadps4-linux,3148
 2026-11-24,shadps4-linux-arm,257
 2026-11-24,shadps4-mac,0
-2026-11-24,shadps4-windows,406
+2026-11-24,shadps4-windows,407
 2026-11-24,srm-linux,3483
 2026-11-24,srm-linux-arm,665
 2026-11-24,srm-mac,0
@@ -6982,7 +6982,7 @@ date,name,total
 2026-11-24,system-linux-arm,703
 2026-11-24,system-mac,0
 2026-11-24,system-steamos,0
-2026-11-24,system-windows,483
+2026-11-24,system-windows,485
 2026-11-24,vita3k-linux,3287
 2026-11-24,vita3k-linux-arm,673
 2026-11-24,vita3k-mac,0
@@ -6994,7 +6994,7 @@ date,name,total
 2026-11-24,xenia-linux,3380
 2026-11-24,xenia-linux-arm,633
 2026-11-24,xenia-mac,0
-2026-11-24,xenia-windows,458
+2026-11-24,xenia-windows,459
 2026-11-24,yuzu-linux,18
 2026-11-24,yuzu-linux-arm,0
 2026-11-24,yuzu-mac,0
