@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-24 13:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-24 14:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 150 | 744 | 1385 |
-| Con CloudSync | 298 | 1417 | 2370 |
+| Con CloudSync | 298 | 1417 | 2373 |
 | % con CloudSync | | | 171% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -132,7 +132,7 @@ xychart-beta
 | xenia | 3384 | 633 | 459 | 645 | 2789 | 4476 |
 | vita3k | 3291 | 673 | 138 | 595 | 2538 | 4102 |
 | shadps4 | 3153 | 257 | 407 | 466 | 2239 | 3817 |
-| cloudsync | 1550 | 78 | 835 | 312 | 1474 | 2463 |
+| cloudsync | 1551 | 78 | 837 | 312 | 1474 | 2466 |
 | ppsspp | 1328 | 557 | 449 | 364 | 1526 | 2334 |
 | dolphin | 1456 | 619 | 219 | 360 | 1503 | 2294 |
 | ra | 1460 | 583 | 249 | 361 | 1488 | 2292 |
@@ -152,4 +152,4 @@ xychart-beta
 | pegasus | 54 | 3 | 31 | 13 | 62 | 88 |
 | yuzu | 18 | 0 | 8 | 2 | 16 | 26 |
 | ares | 22 | 3 | 0 | 3 | 18 | 25 |
-| citron | 6 | 2 | 2 | 0 | 6 | 10 |
+| citron | 6 | 2 | 3 | 0 | 6 | 11 |
