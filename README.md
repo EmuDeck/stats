@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-25 19:34 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-25 20:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 151 | 730 | 1411 |
-| Con CloudSync | 305 | 1424 | 2424 |
+| Con CloudSync | 305 | 1424 | 2425 |
 | % con CloudSync | | | 172% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,21 +121,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3578 | 740 | 1018 | 769 | 3379 | 5336 |
+| esde | 3578 | 740 | 1019 | 769 | 3379 | 5337 |
 | azahar | 3765 | 874 | 542 | 761 | 3176 | 5181 |
-| ryujinx | 3714 | 878 | 527 | 772 | 3144 | 5119 |
+| ryujinx | 3715 | 878 | 527 | 772 | 3144 | 5120 |
 | duckstation | 4061 | 802 | 211 | 733 | 3060 | 5074 |
 | rpcs3 | 3895 | 825 | 209 | 736 | 3017 | 4929 |
-| srm | 3558 | 698 | 666 | 706 | 3058 | 4922 |
+| srm | 3558 | 698 | 667 | 706 | 3058 | 4923 |
 | pcsx2 | 4272 | 42 | 576 | 626 | 2803 | 4890 |
 | cemu | 3685 | 774 | 193 | 670 | 2800 | 4652 |
 | xenia | 3451 | 665 | 467 | 672 | 2774 | 4583 |
 | vita3k | 3354 | 702 | 139 | 619 | 2529 | 4195 |
 | shadps4 | 3214 | 260 | 412 | 493 | 2212 | 3886 |
-| cloudsync | 1591 | 82 | 846 | 321 | 1483 | 2519 |
+| cloudsync | 1592 | 82 | 846 | 321 | 1483 | 2520 |
 | ppsspp | 1349 | 582 | 457 | 377 | 1532 | 2388 |
 | dolphin | 1475 | 647 | 220 | 362 | 1497 | 2342 |
-| ra | 1483 | 607 | 250 | 373 | 1490 | 2340 |
+| ra | 1483 | 607 | 251 | 373 | 1490 | 2341 |
 | xemu | 1245 | 503 | 164 | 294 | 1198 | 1912 |
 | melonds | 1213 | 510 | 153 | 292 | 1170 | 1876 |
 | mgba | 1583 | 179 | 109 | 265 | 1107 | 1871 |
