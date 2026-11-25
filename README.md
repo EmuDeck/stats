@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-25 10:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-25 11:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 151 | 730 | 1401 |
-| Con CloudSync | 305 | 1424 | 2408 |
+| Con CloudSync | 305 | 1424 | 2411 |
 | % con CloudSync | | | 172% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3555 | 736 | 1014 | 769 | 3379 | 5305 |
+| esde | 3556 | 736 | 1014 | 769 | 3379 | 5306 |
 | azahar | 3739 | 868 | 539 | 761 | 3176 | 5146 |
-| ryujinx | 3691 | 870 | 523 | 772 | 3144 | 5084 |
+| ryujinx | 3692 | 872 | 523 | 772 | 3144 | 5087 |
 | duckstation | 4036 | 795 | 210 | 733 | 3060 | 5041 |
 | rpcs3 | 3870 | 819 | 209 | 736 | 3017 | 4898 |
-| srm | 3532 | 693 | 664 | 706 | 3058 | 4889 |
+| srm | 3536 | 693 | 664 | 706 | 3058 | 4893 |
 | pcsx2 | 4243 | 42 | 572 | 626 | 2803 | 4857 |
 | cemu | 3665 | 768 | 192 | 670 | 2800 | 4625 |
 | xenia | 3434 | 660 | 464 | 672 | 2774 | 4558 |
 | vita3k | 3335 | 696 | 139 | 619 | 2529 | 4170 |
 | shadps4 | 3197 | 260 | 411 | 493 | 2212 | 3868 |
-| cloudsync | 1579 | 81 | 843 | 321 | 1483 | 2503 |
+| cloudsync | 1582 | 81 | 843 | 321 | 1483 | 2506 |
 | ppsspp | 1342 | 577 | 454 | 377 | 1532 | 2373 |
 | dolphin | 1468 | 641 | 220 | 362 | 1497 | 2329 |
 | ra | 1476 | 601 | 249 | 373 | 1490 | 2326 |
