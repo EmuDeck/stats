@@ -7010,7 +7010,7 @@ date,name,total
 2026-11-25,azahar-linux,3729
 2026-11-25,azahar-linux-arm,859
 2026-11-25,azahar-mac,0
-2026-11-25,azahar-windows,537
+2026-11-25,azahar-windows,538
 2026-11-25,bigpemu-linux,1009
 2026-11-25,bigpemu-linux-arm,57
 2026-11-25,bigpemu-mac,0
@@ -7023,9 +7023,9 @@ date,name,total
 2026-11-25,citron-linux-arm,2
 2026-11-25,citron-mac,0
 2026-11-25,citron-windows,3
-2026-11-25,cloudsync-linux,1575
+2026-11-25,cloudsync-linux,1577
 2026-11-25,cloudsync-linux-arm,81
-2026-11-25,cloudsync-windows,841
+2026-11-25,cloudsync-windows,842
 2026-11-25,dolphin-linux,1466
 2026-11-25,dolphin-linux-arm,634
 2026-11-25,dolphin-mac,0
@@ -7034,9 +7034,9 @@ date,name,total
 2026-11-25,duckstation-linux-arm,787
 2026-11-25,duckstation-mac,0
 2026-11-25,duckstation-windows,210
-2026-11-25,early-cloudsync-linux,1531
+2026-11-25,early-cloudsync-linux,1533
 2026-11-25,early-cloudsync-linux-arm,68
-2026-11-25,early-cloudsync-windows,803
+2026-11-25,early-cloudsync-windows,804
 2026-11-25,early-linux,813
 2026-11-25,early-linux-arm,221
 2026-11-25,early-windows,363
@@ -7059,13 +7059,13 @@ date,name,total
 2026-11-25,melonds-linux,1203
 2026-11-25,melonds-linux-arm,498
 2026-11-25,melonds-mac,0
-2026-11-25,melonds-windows,151
+2026-11-25,melonds-windows,152
 2026-11-25,mgba-linux,1567
 2026-11-25,mgba-linux-arm,178
 2026-11-25,mgba-mac,0
 2026-11-25,mgba-windows,108
 2026-11-25,model2-linux,1033
-2026-11-25,model2-linux-arm,489
+2026-11-25,model2-linux-arm,490
 2026-11-25,model2-mac,0
 2026-11-25,model2-windows,14
 2026-11-25,pcsx2-linux,4224
@@ -7079,7 +7079,7 @@ date,name,total
 2026-11-25,ppsspp-linux,1338
 2026-11-25,ppsspp-linux-arm,571
 2026-11-25,ppsspp-mac,0
-2026-11-25,ppsspp-windows,452
+2026-11-25,ppsspp-windows,453
 2026-11-25,primehack-linux,1132
 2026-11-25,primehack-linux-arm,513
 2026-11-25,primehack-mac,0
@@ -7097,7 +7097,7 @@ date,name,total
 2026-11-25,rpcs3-mac,0
 2026-11-25,rpcs3-windows,209
 2026-11-25,ryujinx-linux,3680
-2026-11-25,ryujinx-linux-arm,860
+2026-11-25,ryujinx-linux-arm,861
 2026-11-25,ryujinx-mac,0
 2026-11-25,ryujinx-windows,520
 2026-11-25,scummvm-linux,1011
@@ -7132,7 +7132,7 @@ date,name,total
 2026-11-25,xemu-mac,0
 2026-11-25,xemu-windows,164
 2026-11-25,xenia-linux,3422
-2026-11-25,xenia-linux-arm,652
+2026-11-25,xenia-linux-arm,653
 2026-11-25,xenia-mac,0
 2026-11-25,xenia-windows,462
 2026-11-25,yuzu-linux,18
