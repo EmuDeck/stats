@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-25 16:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-25 17:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 151 | 730 | 1407 |
-| Con CloudSync | 305 | 1424 | 2414 |
+| Con CloudSync | 305 | 1424 | 2417 |
 | % con CloudSync | | | 172% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -121,18 +121,18 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3566 | 737 | 1015 | 769 | 3379 | 5318 |
-| azahar | 3749 | 871 | 541 | 761 | 3176 | 5161 |
-| ryujinx | 3700 | 875 | 525 | 772 | 3144 | 5100 |
-| duckstation | 4046 | 798 | 211 | 733 | 3060 | 5055 |
-| rpcs3 | 3882 | 822 | 209 | 736 | 3017 | 4913 |
-| srm | 3546 | 697 | 666 | 706 | 3058 | 4909 |
-| pcsx2 | 4255 | 42 | 574 | 626 | 2803 | 4871 |
-| cemu | 3673 | 771 | 193 | 670 | 2800 | 4637 |
-| xenia | 3442 | 662 | 466 | 672 | 2774 | 4570 |
-| vita3k | 3343 | 699 | 139 | 619 | 2529 | 4181 |
+| esde | 3566 | 737 | 1016 | 769 | 3379 | 5319 |
+| azahar | 3750 | 872 | 541 | 761 | 3176 | 5163 |
+| ryujinx | 3701 | 876 | 526 | 772 | 3144 | 5103 |
+| duckstation | 4047 | 799 | 211 | 733 | 3060 | 5057 |
+| rpcs3 | 3883 | 823 | 209 | 736 | 3017 | 4915 |
+| srm | 3547 | 698 | 666 | 706 | 3058 | 4911 |
+| pcsx2 | 4256 | 42 | 574 | 626 | 2803 | 4872 |
+| cemu | 3674 | 772 | 193 | 670 | 2800 | 4639 |
+| xenia | 3442 | 663 | 466 | 672 | 2774 | 4571 |
+| vita3k | 3344 | 700 | 139 | 619 | 2529 | 4183 |
 | shadps4 | 3205 | 260 | 412 | 493 | 2212 | 3877 |
-| cloudsync | 1582 | 81 | 846 | 321 | 1483 | 2509 |
+| cloudsync | 1584 | 82 | 846 | 321 | 1483 | 2512 |
 | ppsspp | 1345 | 580 | 456 | 377 | 1532 | 2381 |
 | dolphin | 1471 | 644 | 220 | 362 | 1497 | 2335 |
 | ra | 1479 | 604 | 250 | 373 | 1490 | 2333 |
@@ -143,7 +143,7 @@ xychart-beta
 | supermodel | 1056 | 476 | 51 | 258 | 1008 | 1583 |
 | scummvm | 1016 | 444 | 107 | 262 | 1000 | 1567 |
 | model2 | 1038 | 497 | 14 | 253 | 984 | 1549 |
-| armsx2 | 336 | 891 | 0 | 242 | 915 | 1227 |
+| armsx2 | 336 | 892 | 0 | 242 | 915 | 1228 |
 | bigpemu | 1012 | 58 | 50 | 149 | 650 | 1120 |
 | flycast | 262 | 66 | 44 | 52 | 218 | 372 |
 | rmg | 264 | 104 | 0 | 61 | 218 | 368 |
