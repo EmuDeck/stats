@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-26 05:10 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-26 05:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -123,9 +123,9 @@ xychart-beta
 |---|---|---|---|---|---|---|
 | esde | 3603 | 761 | 1023 | 789 | 3370 | 5387 |
 | azahar | 3794 | 892 | 544 | 783 | 3194 | 5230 |
-| ryujinx | 3745 | 897 | 530 | 783 | 3165 | 5172 |
-| duckstation | 4093 | 820 | 211 | 752 | 3069 | 5124 |
-| rpcs3 | 3926 | 847 | 210 | 758 | 3026 | 4983 |
+| ryujinx | 3745 | 899 | 530 | 783 | 3165 | 5174 |
+| duckstation | 4093 | 823 | 211 | 752 | 3069 | 5127 |
+| rpcs3 | 3927 | 847 | 210 | 758 | 3026 | 4984 |
 | srm | 3589 | 705 | 670 | 722 | 3073 | 4964 |
 | pcsx2 | 4305 | 42 | 577 | 648 | 2787 | 4924 |
 | cemu | 3712 | 794 | 194 | 684 | 2802 | 4700 |
@@ -142,8 +142,8 @@ xychart-beta
 | primehack | 1141 | 537 | 167 | 305 | 1202 | 1845 |
 | supermodel | 1061 | 492 | 52 | 269 | 1014 | 1605 |
 | scummvm | 1021 | 460 | 107 | 272 | 1006 | 1588 |
-| model2 | 1043 | 513 | 14 | 265 | 993 | 1570 |
-| armsx2 | 339 | 915 | 0 | 246 | 936 | 1254 |
+| model2 | 1043 | 514 | 14 | 265 | 993 | 1571 |
+| armsx2 | 339 | 918 | 0 | 246 | 936 | 1257 |
 | bigpemu | 1020 | 58 | 50 | 148 | 645 | 1128 |
 | flycast | 263 | 66 | 44 | 45 | 213 | 373 |
 | rmg | 265 | 104 | 0 | 56 | 219 | 369 |
