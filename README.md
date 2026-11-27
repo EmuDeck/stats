@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-27 16:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-27 16:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -121,17 +121,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3685 | 783 | 1036 | 782 | 3384 | 5504 |
-| azahar | 3881 | 926 | 559 | 783 | 3222 | 5366 |
-| ryujinx | 3832 | 927 | 536 | 782 | 3189 | 5295 |
-| duckstation | 4181 | 851 | 213 | 753 | 3087 | 5245 |
-| rpcs3 | 4019 | 875 | 212 | 760 | 3057 | 5106 |
+| esde | 3686 | 783 | 1036 | 782 | 3384 | 5505 |
+| azahar | 3882 | 926 | 559 | 783 | 3222 | 5367 |
+| ryujinx | 3833 | 927 | 537 | 782 | 3189 | 5297 |
+| duckstation | 4183 | 851 | 213 | 753 | 3087 | 5247 |
+| rpcs3 | 4020 | 875 | 212 | 760 | 3057 | 5107 |
 | srm | 3672 | 728 | 680 | 714 | 3098 | 5080 |
-| pcsx2 | 4392 | 42 | 590 | 638 | 2781 | 5024 |
-| cemu | 3788 | 818 | 196 | 677 | 2823 | 4802 |
-| xenia | 3540 | 704 | 481 | 691 | 2791 | 4725 |
-| vita3k | 3455 | 749 | 142 | 635 | 2563 | 4346 |
-| shadps4 | 3313 | 262 | 421 | 493 | 2180 | 3996 |
+| pcsx2 | 4393 | 42 | 590 | 638 | 2781 | 5025 |
+| cemu | 3789 | 818 | 196 | 677 | 2823 | 4803 |
+| xenia | 3541 | 704 | 481 | 691 | 2791 | 4726 |
+| vita3k | 3456 | 749 | 142 | 635 | 2563 | 4347 |
+| shadps4 | 3314 | 262 | 421 | 493 | 2180 | 3997 |
 | cloudsync | 1628 | 87 | 865 | 318 | 1458 | 2580 |
 | ppsspp | 1378 | 624 | 469 | 403 | 1560 | 2471 |
 | dolphin | 1505 | 690 | 226 | 369 | 1523 | 2421 |
@@ -148,7 +148,7 @@ xychart-beta
 | flycast | 269 | 72 | 44 | 43 | 214 | 385 |
 | rmg | 270 | 108 | 0 | 60 | 222 | 378 |
 | mame | 146 | 26 | 69 | 37 | 150 | 241 |
-| eden | 171 | 11 | 22 | 31 | 112 | 204 |
+| eden | 172 | 11 | 22 | 31 | 112 | 205 |
 | pegasus | 59 | 3 | 31 | 11 | 61 | 93 |
 | yuzu | 18 | 0 | 8 | 0 | 16 | 26 |
 | ares | 22 | 3 | 0 | 2 | 16 | 25 |
