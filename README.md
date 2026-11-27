@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-27 22:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-27 22:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -103,7 +103,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
 | Instalaciones early | 157 | 718 | 1436 |
-| Con CloudSync | 306 | 1402 | 2488 |
+| Con CloudSync | 306 | 1402 | 2490 |
 | % con CloudSync | | | 173% |
 
 Línea de arriba: instalaciones early. Línea de abajo: de ellas, con CloudSync.
@@ -123,16 +123,16 @@ xychart-beta
 |---|---|---|---|---|---|---|
 | esde | 3703 | 790 | 1038 | 782 | 3384 | 5531 |
 | azahar | 3905 | 932 | 562 | 783 | 3222 | 5399 |
-| ryujinx | 3853 | 933 | 538 | 782 | 3189 | 5324 |
+| ryujinx | 3855 | 933 | 538 | 782 | 3189 | 5326 |
 | duckstation | 4208 | 857 | 214 | 753 | 3087 | 5279 |
-| rpcs3 | 4045 | 881 | 213 | 760 | 3057 | 5139 |
-| srm | 3695 | 729 | 682 | 714 | 3098 | 5106 |
-| pcsx2 | 4419 | 42 | 591 | 638 | 2781 | 5052 |
+| rpcs3 | 4046 | 881 | 213 | 760 | 3057 | 5140 |
+| srm | 3697 | 729 | 682 | 714 | 3098 | 5108 |
+| pcsx2 | 4420 | 42 | 591 | 638 | 2781 | 5053 |
 | cemu | 3813 | 824 | 197 | 677 | 2823 | 4834 |
-| xenia | 3562 | 710 | 482 | 691 | 2791 | 4754 |
-| vita3k | 3476 | 754 | 144 | 635 | 2563 | 4374 |
-| shadps4 | 3332 | 262 | 422 | 493 | 2180 | 4016 |
-| cloudsync | 1630 | 87 | 866 | 318 | 1458 | 2583 |
+| xenia | 3564 | 710 | 482 | 691 | 2791 | 4756 |
+| vita3k | 3478 | 754 | 144 | 635 | 2563 | 4376 |
+| shadps4 | 3334 | 262 | 422 | 493 | 2180 | 4018 |
+| cloudsync | 1632 | 87 | 866 | 318 | 1458 | 2585 |
 | ppsspp | 1386 | 630 | 470 | 403 | 1560 | 2486 |
 | dolphin | 1513 | 696 | 227 | 369 | 1523 | 2436 |
 | ra | 1522 | 653 | 257 | 374 | 1507 | 2432 |
@@ -143,7 +143,7 @@ xychart-beta
 | supermodel | 1084 | 512 | 52 | 267 | 1030 | 1648 |
 | scummvm | 1044 | 481 | 109 | 273 | 1026 | 1634 |
 | model2 | 1066 | 533 | 14 | 266 | 1009 | 1613 |
-| armsx2 | 344 | 956 | 0 | 250 | 958 | 1300 |
+| armsx2 | 345 | 956 | 0 | 250 | 958 | 1301 |
 | bigpemu | 1045 | 58 | 50 | 144 | 641 | 1153 |
 | flycast | 269 | 72 | 44 | 43 | 214 | 385 |
 | rmg | 270 | 109 | 0 | 60 | 222 | 379 |
