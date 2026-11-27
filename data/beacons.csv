@@ -7320,7 +7320,7 @@ date,name,total
 2026-11-27,early-linux,832
 2026-11-27,early-linux-arm,225
 2026-11-27,early-windows,376
-2026-11-27,eden-linux,172
+2026-11-27,eden-linux,173
 2026-11-27,eden-linux-arm,11
 2026-11-27,eden-mac,0
 2026-11-27,eden-windows,22
@@ -7332,7 +7332,7 @@ date,name,total
 2026-11-27,flycast-linux-arm,72
 2026-11-27,flycast-mac,0
 2026-11-27,flycast-windows,44
-2026-11-27,mame-linux,146
+2026-11-27,mame-linux,147
 2026-11-27,mame-linux-arm,26
 2026-11-27,mame-mac,0
 2026-11-27,mame-windows,69
