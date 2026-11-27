@@ -7305,7 +7305,7 @@ date,name,total
 2026-11-27,citron-windows,3
 2026-11-27,cloudsync-linux,1628
 2026-11-27,cloudsync-linux-arm,87
-2026-11-27,cloudsync-windows,865
+2026-11-27,cloudsync-windows,866
 2026-11-27,dolphin-linux,1509
 2026-11-27,dolphin-linux-arm,690
 2026-11-27,dolphin-mac,0
@@ -7316,7 +7316,7 @@ date,name,total
 2026-11-27,duckstation-windows,214
 2026-11-27,early-cloudsync-linux,1584
 2026-11-27,early-cloudsync-linux-arm,74
-2026-11-27,early-cloudsync-windows,827
+2026-11-27,early-cloudsync-windows,828
 2026-11-27,early-linux,834
 2026-11-27,early-linux-arm,225
 2026-11-27,early-windows,376
@@ -7324,7 +7324,7 @@ date,name,total
 2026-11-27,eden-linux-arm,11
 2026-11-27,eden-mac,0
 2026-11-27,eden-windows,22
-2026-11-27,esde-linux,3691
+2026-11-27,esde-linux,3692
 2026-11-27,esde-linux-arm,783
 2026-11-27,esde-mac,0
 2026-11-27,esde-windows,1037
@@ -7364,7 +7364,7 @@ date,name,total
 2026-11-27,primehack-linux-arm,557
 2026-11-27,primehack-mac,0
 2026-11-27,primehack-windows,171
-2026-11-27,ra-linux,1514
+2026-11-27,ra-linux,1517
 2026-11-27,ra-linux-arm,646
 2026-11-27,ra-mac,0
 2026-11-27,ra-windows,257
