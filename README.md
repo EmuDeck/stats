@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-27 17:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-27 17:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -53,7 +53,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
-| linux | 21 | 204 | 907 | 1624 |
+| linux | 21 | 204 | 907 | 1625 |
 | linux-arm | 31 | 188 | 664 | 780 |
 | windows | 11 | 71 | 311 | 507 |
 
@@ -121,17 +121,17 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3686 | 783 | 1036 | 782 | 3384 | 5505 |
-| azahar | 3882 | 926 | 559 | 783 | 3222 | 5367 |
-| ryujinx | 3833 | 927 | 537 | 782 | 3189 | 5297 |
-| duckstation | 4183 | 851 | 213 | 753 | 3087 | 5247 |
-| rpcs3 | 4020 | 875 | 212 | 760 | 3057 | 5107 |
-| srm | 3672 | 728 | 680 | 714 | 3098 | 5080 |
-| pcsx2 | 4393 | 42 | 590 | 638 | 2781 | 5025 |
-| cemu | 3789 | 818 | 196 | 677 | 2823 | 4803 |
-| xenia | 3541 | 704 | 481 | 691 | 2791 | 4726 |
-| vita3k | 3456 | 749 | 142 | 635 | 2563 | 4347 |
-| shadps4 | 3314 | 262 | 421 | 493 | 2180 | 3997 |
+| esde | 3688 | 783 | 1036 | 782 | 3384 | 5507 |
+| azahar | 3884 | 926 | 560 | 783 | 3222 | 5370 |
+| ryujinx | 3836 | 927 | 537 | 782 | 3189 | 5300 |
+| duckstation | 4185 | 851 | 213 | 753 | 3087 | 5249 |
+| rpcs3 | 4022 | 875 | 212 | 760 | 3057 | 5109 |
+| srm | 3675 | 728 | 681 | 714 | 3098 | 5084 |
+| pcsx2 | 4395 | 42 | 590 | 638 | 2781 | 5027 |
+| cemu | 3792 | 818 | 196 | 677 | 2823 | 4806 |
+| xenia | 3543 | 704 | 481 | 691 | 2791 | 4728 |
+| vita3k | 3458 | 749 | 143 | 635 | 2563 | 4350 |
+| shadps4 | 3316 | 262 | 421 | 493 | 2180 | 3999 |
 | cloudsync | 1628 | 87 | 865 | 318 | 1458 | 2580 |
 | ppsspp | 1378 | 624 | 469 | 403 | 1560 | 2471 |
 | dolphin | 1505 | 690 | 226 | 369 | 1523 | 2421 |
