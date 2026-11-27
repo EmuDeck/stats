@@ -7333,7 +7333,7 @@ date,name,total
 2026-11-27,flycast-mac,0
 2026-11-27,flycast-windows,44
 2026-11-27,mame-linux,146
-2026-11-27,mame-linux-arm,25
+2026-11-27,mame-linux-arm,26
 2026-11-27,mame-mac,0
 2026-11-27,mame-windows,69
 2026-11-27,melonds-linux,1239
@@ -7357,7 +7357,7 @@ date,name,total
 2026-11-27,pegasus-mac,0
 2026-11-27,pegasus-windows,31
 2026-11-27,ppsspp-linux,1378
-2026-11-27,ppsspp-linux-arm,623
+2026-11-27,ppsspp-linux-arm,624
 2026-11-27,ppsspp-mac,0
 2026-11-27,ppsspp-windows,469
 2026-11-27,primehack-linux,1163
@@ -7388,7 +7388,7 @@ date,name,total
 2026-11-27,shadps4-linux-arm,262
 2026-11-27,shadps4-mac,0
 2026-11-27,shadps4-windows,421
-2026-11-27,srm-linux,3664
+2026-11-27,srm-linux,3665
 2026-11-27,srm-linux-arm,728
 2026-11-27,srm-mac,0
 2026-11-27,srm-windows,680
