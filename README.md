@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-27 09:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-27 10:09 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -145,9 +145,9 @@ xychart-beta
 | model2 | 1058 | 528 | 14 | 266 | 1009 | 1600 |
 | armsx2 | 342 | 948 | 0 | 250 | 958 | 1290 |
 | bigpemu | 1033 | 58 | 50 | 144 | 641 | 1141 |
-| flycast | 268 | 70 | 44 | 43 | 214 | 382 |
+| flycast | 268 | 71 | 44 | 43 | 214 | 383 |
 | rmg | 270 | 108 | 0 | 60 | 222 | 378 |
-| mame | 146 | 24 | 69 | 37 | 150 | 239 |
+| mame | 146 | 25 | 69 | 37 | 150 | 240 |
 | eden | 171 | 11 | 22 | 31 | 112 | 204 |
 | pegasus | 59 | 3 | 31 | 11 | 61 | 93 |
 | yuzu | 18 | 0 | 8 | 0 | 16 | 26 |
