@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-27 20:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-27 21:08 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -54,7 +54,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 | Sistema | Ayer | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|
 | linux | 21 | 204 | 907 | 1632 |
-| linux-arm | 31 | 188 | 664 | 782 |
+| linux-arm | 31 | 188 | 664 | 783 |
 | windows | 11 | 71 | 311 | 508 |
 
 ```mermaid
@@ -121,21 +121,21 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3698 | 785 | 1037 | 782 | 3384 | 5520 |
-| azahar | 3898 | 928 | 561 | 783 | 3222 | 5387 |
-| ryujinx | 3849 | 929 | 538 | 782 | 3189 | 5316 |
-| duckstation | 4201 | 853 | 214 | 753 | 3087 | 5268 |
-| rpcs3 | 4039 | 877 | 213 | 760 | 3057 | 5129 |
-| srm | 3690 | 728 | 682 | 714 | 3098 | 5100 |
-| pcsx2 | 4412 | 42 | 591 | 638 | 2781 | 5045 |
-| cemu | 3806 | 820 | 197 | 677 | 2823 | 4823 |
-| xenia | 3558 | 706 | 482 | 691 | 2791 | 4746 |
-| vita3k | 3471 | 751 | 144 | 635 | 2563 | 4366 |
-| shadps4 | 3328 | 262 | 422 | 493 | 2180 | 4012 |
+| esde | 3699 | 786 | 1038 | 782 | 3384 | 5523 |
+| azahar | 3900 | 928 | 561 | 783 | 3222 | 5389 |
+| ryujinx | 3850 | 929 | 538 | 782 | 3189 | 5317 |
+| duckstation | 4203 | 853 | 214 | 753 | 3087 | 5270 |
+| rpcs3 | 4041 | 877 | 213 | 760 | 3057 | 5131 |
+| srm | 3692 | 728 | 682 | 714 | 3098 | 5102 |
+| pcsx2 | 4414 | 42 | 591 | 638 | 2781 | 5047 |
+| cemu | 3808 | 820 | 197 | 677 | 2823 | 4825 |
+| xenia | 3560 | 706 | 482 | 691 | 2791 | 4748 |
+| vita3k | 3473 | 751 | 144 | 635 | 2563 | 4368 |
+| shadps4 | 3330 | 262 | 422 | 493 | 2180 | 4014 |
 | cloudsync | 1630 | 87 | 866 | 318 | 1458 | 2583 |
 | ppsspp | 1384 | 626 | 470 | 403 | 1560 | 2480 |
 | dolphin | 1511 | 692 | 227 | 369 | 1523 | 2430 |
-| ra | 1520 | 648 | 257 | 374 | 1507 | 2425 |
+| ra | 1520 | 649 | 257 | 374 | 1507 | 2426 |
 | xemu | 1277 | 540 | 167 | 314 | 1223 | 1984 |
 | melonds | 1245 | 547 | 154 | 306 | 1206 | 1946 |
 | mgba | 1636 | 190 | 111 | 267 | 1121 | 1937 |
