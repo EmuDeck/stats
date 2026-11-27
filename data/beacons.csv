@@ -7283,7 +7283,7 @@ date,name,total
 2026-11-27,ares-linux-arm,3
 2026-11-27,ares-mac,0
 2026-11-27,ares-windows,0
-2026-11-27,armsx2-linux,342
+2026-11-27,armsx2-linux,343
 2026-11-27,armsx2-linux-arm,948
 2026-11-27,armsx2-mac,0
 2026-11-27,armsx2-windows,0
@@ -7310,7 +7310,7 @@ date,name,total
 2026-11-27,dolphin-linux-arm,688
 2026-11-27,dolphin-mac,0
 2026-11-27,dolphin-windows,225
-2026-11-27,duckstation-linux,4165
+2026-11-27,duckstation-linux,4166
 2026-11-27,duckstation-linux-arm,848
 2026-11-27,duckstation-mac,0
 2026-11-27,duckstation-windows,213
@@ -7324,7 +7324,7 @@ date,name,total
 2026-11-27,eden-linux-arm,11
 2026-11-27,eden-mac,0
 2026-11-27,eden-windows,22
-2026-11-27,esde-linux,3668
+2026-11-27,esde-linux,3669
 2026-11-27,esde-linux-arm,781
 2026-11-27,esde-mac,0
 2026-11-27,esde-windows,1036
@@ -7348,7 +7348,7 @@ date,name,total
 2026-11-27,model2-linux-arm,528
 2026-11-27,model2-mac,0
 2026-11-27,model2-windows,14
-2026-11-27,pcsx2-linux,4376
+2026-11-27,pcsx2-linux,4377
 2026-11-27,pcsx2-linux-arm,42
 2026-11-27,pcsx2-mac,0
 2026-11-27,pcsx2-windows,590
@@ -7398,7 +7398,7 @@ date,name,total
 2026-11-27,supermodel-windows,52
 2026-11-27,system-bazzite,0
 2026-11-27,system-chimeraos,0
-2026-11-27,system-linux,1621
+2026-11-27,system-linux,1622
 2026-11-27,system-linux-arm,778
 2026-11-27,system-mac,0
 2026-11-27,system-steamos,0
