@@ -1,6 +1,6 @@
 # Estadísticas de EmuDeck
 
-Actualizado: 2026-11-28 10:35 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
+Actualizado: 2026-11-28 11:07 UTC. Las gráficas no incluyen el día de hoy porque aún está incompleto.
 
 ## Arranques de la app (comprobaciones de actualización)
 
@@ -55,7 +55,7 @@ Cada `setup` descarga `system-<sistema>.txt` y cada instalación de un emulador 
 |---|---|---|---|---|
 | linux | 26 | 198 | 905 | 1659 |
 | linux-arm | 15 | 179 | 666 | 801 |
-| windows | 5 | 69 | 309 | 516 |
+| windows | 5 | 69 | 309 | 517 |
 
 ```mermaid
 xychart-beta
@@ -102,7 +102,7 @@ Instalaciones de EmuDeck con el backend en una rama early, y cuántas de ellas i
 
 | | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|
-| Instalaciones early | 148 | 692 | 1453 |
+| Instalaciones early | 148 | 692 | 1454 |
 | Con CloudSync | 287 | 1363 | 2520 |
 | % con CloudSync | | | 173% |
 
@@ -121,19 +121,19 @@ xychart-beta
 
 | Emulador | Linux (total) | Linux ARM (total) | Windows (total) | Últimos 7 días | Últimos 30 días | Total |
 |---|---|---|---|---|---|---|
-| esde | 3744 | 802 | 1049 | 770 | 3384 | 5595 |
-| azahar | 3952 | 949 | 570 | 776 | 3222 | 5471 |
+| esde | 3744 | 802 | 1050 | 770 | 3384 | 5596 |
+| azahar | 3952 | 949 | 571 | 776 | 3222 | 5472 |
 | ryujinx | 3901 | 947 | 543 | 764 | 3201 | 5391 |
 | duckstation | 4259 | 872 | 215 | 752 | 3093 | 5346 |
 | rpcs3 | 4096 | 894 | 214 | 750 | 3061 | 5204 |
 | srm | 3742 | 739 | 687 | 709 | 3106 | 5168 |
-| pcsx2 | 4474 | 43 | 599 | 641 | 2786 | 5116 |
+| pcsx2 | 4474 | 43 | 600 | 641 | 2786 | 5117 |
 | cemu | 3861 | 838 | 199 | 669 | 2814 | 4898 |
-| xenia | 3604 | 722 | 490 | 672 | 2786 | 4816 |
+| xenia | 3604 | 722 | 491 | 672 | 2786 | 4817 |
 | vita3k | 3519 | 767 | 145 | 632 | 2564 | 4431 |
 | shadps4 | 3382 | 264 | 428 | 503 | 2170 | 4074 |
 | cloudsync | 1658 | 87 | 871 | 297 | 1419 | 2616 |
-| ppsspp | 1406 | 638 | 478 | 385 | 1552 | 2522 |
+| ppsspp | 1406 | 638 | 479 | 385 | 1552 | 2523 |
 | dolphin | 1533 | 707 | 227 | 354 | 1511 | 2467 |
 | ra | 1543 | 662 | 258 | 359 | 1507 | 2463 |
 | xemu | 1297 | 551 | 168 | 299 | 1213 | 2016 |
